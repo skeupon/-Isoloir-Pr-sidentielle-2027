@@ -47,3 +47,13 @@ python scripts/maj.py actus           # seulement les actus
 python scripts/build.py               # site/index.html
 python scripts/build.py --autonome    # un seul fichier HTML, photos intégrées
 ```
+
+## Sondages
+
+Les candidats sont classés selon data/sondages.json (moyenne des intentions de vote, avec source et date). Ce fichier se met à jour à la main : il n existe pas de flux libre et fiable pour les sondages.
+
+## Vidéos et fiches de présentation
+
+- Vidéos : renseigne les chaînes YouTube officielles dans `data/videos.json` (identifiant `UC…` ou adresse de la chaîne). À défaut, le robot utilise la chaîne indiquée sur Wikidata. Au plus 3 vidéos par candidat, de moins de 60 jours.
+- Fiches de présentation : âge, lieu de naissance, profession, études, parti et mandats, tirés automatiquement de Wikidata dans `data/bios.json`.
+- Portrait manuel : dépose une photo libre de droits dans `data/photos/<identifiant>-manuel.jpg` et indique son auteur et sa licence dans `data/portraits.json`.

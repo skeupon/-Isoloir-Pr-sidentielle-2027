@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" data-theme="light">
 <head>
 <meta charset="utf-8">
+<meta name="color-scheme" content="light">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Isoloir · Présidentielle 2027</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
 <style>:root{
-  --bg:#F4F1FF; --surface:#FFFFFF; --ink:#1A1442; --muted:#58547A; --violet:#6C4CFF; --coral:#FF6B6B; --mint:#1FC79C; --sky:#3BA8FF;
+  --bg:#FFFFFF; --surface:#FFFFFF; --ink:#1A1442; --muted:#58547A; --violet:#6C4CFF; --coral:#FF6B6B; --mint:#1FC79C; --sky:#3BA8FF;
   --accent:#FFC93C; --on-accent:#1B1740; --lilac:#B9AEFF; --line:#DDDFEA;
   --soft:#F5F5FB; --glass:rgba(185,174,255,.22);
   --tile-l:88%; --tile-s:95%; --tile-fg-l:22%; --tile-fg-s:70%;
@@ -387,16 +388,102 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
 .tl span{font-size:.82rem;color:var(--muted);font-weight:700}
 .bsrc{font-size:.78rem;color:var(--muted);margin-top:10px}
 @media (max-width:760px){.bio{grid-template-columns:1fr}}
+
+/* ===== Version claire et blanche ===== */
+:root{--soft:#F6F6FA;--line:#E9E9F1;--tile-l:93%;--glass:rgba(108,76,255,.10)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--soft:#191733;--line:#322E58;--tile-l:27%}}
+:root[data-theme="dark"]{--soft:#191733;--line:#322E58;--tile-l:27%}
+header.top{background:color-mix(in srgb,var(--bg) 92%,transparent)}
+.hero-wrap{background:linear-gradient(135deg,#F8F6FF,#FFF6FA 55%,#FFFBEF)}
+.blob{opacity:.28}
+.colc,.item,.res,.ncard,.vcard,.poster,.bcard,.qcard,.row,.rules li,.journal li,.status,.date{box-shadow:0 1px 2px rgba(20,20,60,.04),0 10px 28px -18px rgba(20,20,60,.18)}
+.tile{box-shadow:0 1px 2px rgba(20,20,60,.04)}
+.faceoff{background:linear-gradient(120deg,#F3F0FF,#FFF1EE)}
+.side{background:var(--soft)}
+.opt{background:#FFFFFF}
+.chip,.fchip,.filters select{background:#FFFFFF}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .hero-wrap{background:linear-gradient(135deg,hsl(258 55% 18%),hsl(320 45% 16%) 55%,hsl(240 50% 14%))}:root:not([data-theme="light"]) .blob{opacity:.55}:root:not([data-theme="light"]) .faceoff{background:linear-gradient(120deg,hsl(258 45% 22%),hsl(12 45% 22%))}:root:not([data-theme="light"]) .opt,:root:not([data-theme="light"]) .chip,:root:not([data-theme="light"]) .fchip,:root:not([data-theme="light"]) .filters select{background:var(--surface)}}
+:root[data-theme="dark"] .hero-wrap{background:linear-gradient(135deg,hsl(258 55% 18%),hsl(320 45% 16%) 55%,hsl(240 50% 14%))}
+:root[data-theme="dark"] .blob{opacity:.55}
+:root[data-theme="dark"] .faceoff{background:linear-gradient(120deg,hsl(258 45% 22%),hsl(12 45% 22%))}
+:root[data-theme="dark"] .opt,:root[data-theme="dark"] .chip,:root[data-theme="dark"] .fchip,:root[data-theme="dark"] .filters select{background:var(--surface)}
+
+/* Une : TV + actus */
+.une{display:grid;grid-template-columns:1.45fr 1fr;gap:22px;align-items:start}
+.newslist{display:flex;flex-direction:column;gap:10px}
+.nl{display:flex;gap:12px;align-items:flex-start;text-decoration:none;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 14px;box-shadow:0 1px 2px rgba(20,20,60,.04),0 10px 28px -18px rgba(20,20,60,.18);transition:transform .15s}
+.nl:hover{transform:translateX(4px)}
+.nl b{display:block;font:700 .98rem/1.3 var(--display)}
+.nl small{color:var(--muted);font-weight:700;font-size:.78rem}
+/* Isoloir TV */
+.tvset{background:#15122E;border-radius:26px;padding:14px 14px 12px;box-shadow:0 30px 60px -30px rgba(30,15,90,.55);color:#fff}
+.screen{position:relative;aspect-ratio:16/9;border-radius:16px;overflow:hidden;background:#000}
+.screen iframe,.screen img{position:absolute;inset:0;width:100%;height:100%;border:0;object-fit:cover}
+.screen .veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.15),rgba(0,0,0,.55));display:flex;flex-direction:column;justify-content:flex-end;padding:16px;gap:6px;cursor:pointer;border:0;color:#fff;text-align:left;width:100%}
+.screen .veil::after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,rgba(255,255,255,.035) 0 1px,transparent 1px 3px);pointer-events:none}
+.screen .big{position:absolute;left:50%;top:45%;transform:translate(-50%,-50%);width:76px;height:76px;border-radius:50%;background:var(--accent);display:grid;place-items:center;box-shadow:0 10px 30px rgba(0,0,0,.4);transition:transform .2s}
+.screen .big svg{width:30px;height:30px;fill:#1A1442;margin-left:4px}
+.screen .veil:hover .big{transform:translate(-50%,-50%) scale(1.08)}
+.screen .vt{font:800 1.15rem/1.2 var(--display);position:relative}
+.screen .vw{display:flex;align-items:center;gap:8px;font-weight:700;font-size:.85rem;position:relative}
+.tvbar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 4px 0;font-size:.82rem;font-weight:700;color:rgba(255,255,255,.75)}
+.onair{display:inline-flex;align-items:center;gap:8px;color:#fff}
+.onair i{width:9px;height:9px;border-radius:50%;background:#FF4D4D;box-shadow:0 0 0 0 rgba(255,77,77,.6);animation:pulse 1.6s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(255,77,77,.6)}70%{box-shadow:0 0 0 9px rgba(255,77,77,0)}100%{box-shadow:0 0 0 0 rgba(255,77,77,0)}}
+.knobs{display:flex;gap:6px}.knobs span{width:10px;height:10px;border-radius:50%;background:rgba(255,255,255,.25)}
+.mire{position:absolute;inset:0;display:grid;grid-template-rows:1fr auto}
+.mire .bars{background:linear-gradient(90deg,#C0C0C0 0 14.28%,#C0C000 0 28.57%,#00C0C0 0 42.85%,#00C000 0 57.14%,#C000C0 0 71.42%,#C00000 0 85.71%,#0000C0 0)}
+.mire .msg{background:#111;color:#fff;padding:12px 14px;font-weight:700;font-size:.9rem}
+.guide{margin-top:14px;display:flex;gap:10px;overflow-x:auto;scrollbar-width:none;padding-bottom:4px}
+.guide::-webkit-scrollbar{display:none}
+.gi{flex:none;width:168px;display:flex;flex-direction:column;gap:6px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:6px;cursor:pointer;text-align:left}
+.gi .gt{position:relative;aspect-ratio:16/9;border-radius:8px;overflow:hidden;background:#222}
+.gi .gt img{width:100%;height:100%;object-fit:cover}
+.gi .gn{position:absolute;left:6px;top:6px;background:rgba(0,0,0,.65);color:#fff;font-size:.68rem;font-weight:700;padding:2px 6px;border-radius:6px}
+.gi b{font:700 .8rem/1.2 var(--display);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.gi small{display:flex;align-items:center;gap:6px;font-size:.72rem;font-weight:700;color:var(--muted)}
+.gi[aria-current="true"]{border-color:var(--violet);box-shadow:0 0 0 2px var(--violet)}
+.tv-full .guide{flex-wrap:wrap;overflow:visible}
+@media (max-width:900px){.une{grid-template-columns:1fr}}
+/* Splash */
+.splash{position:fixed;inset:0;z-index:100;display:grid;place-items:center;padding:24px;background:radial-gradient(circle at 20% 15%,#FFE58A 0,transparent 32%),radial-gradient(circle at 85% 80%,#FF9DB5 0,transparent 35%),linear-gradient(135deg,#6C4CFF,#9B5CFF 45%,#FF6B9A);color:#fff;transition:opacity .45s,visibility .45s}
+.splash.off{opacity:0;visibility:hidden}
+.sp-in{text-align:center;display:flex;flex-direction:column;align-items:center;gap:10px;max-width:560px}
+.sp-title{font:800 clamp(3.5rem,14vw,7.5rem)/.9 var(--display);letter-spacing:-.05em;margin:6px 0 0;animation:spin .9s cubic-bezier(.2,.9,.3,1.3) .2s both}
+@keyframes spin{from{opacity:0;transform:translateY(30px) scale(.8) rotate(-4deg)}to{opacity:1;transform:none}}
+.sp-sub{font-weight:700;font-size:1.15rem;margin:0;opacity:.95}
+.sp-count{display:flex;flex-direction:column;align-items:center;margin:10px 0 6px}
+.sp-count b{font:800 clamp(2.4rem,9vw,4rem)/1 var(--display);background:#fff;color:#6C4CFF;padding:6px 18px;border-radius:18px;transform:rotate(-3deg);box-shadow:0 12px 30px -12px rgba(0,0,0,.4)}
+.sp-count span{margin-top:10px;font-weight:700}
+.sp-go{min-height:56px;padding:0 34px;font-size:1.1rem;box-shadow:0 14px 30px -12px rgba(0,0,0,.45)}
+.sp-note{font-size:.85rem;opacity:.85;margin:8px 0 0}
+.sp-urne{position:relative;width:110px;height:100px}
+.sp-box{position:absolute;left:0;right:0;bottom:0;height:70px;border:3px solid #fff;border-radius:8px;background:rgba(255,255,255,.18)}
+.sp-box::before{content:"";position:absolute;left:-8px;right:-8px;top:-14px;height:14px;background:#fff;border-radius:4px 4px 0 0}
+.sp-box::after{content:"";position:absolute;left:50%;top:-10px;width:46px;height:5px;margin-left:-23px;background:#7A55FF;border-radius:3px}
+.sp-env{position:absolute;left:50%;top:-30px;width:46px;height:30px;margin-left:-23px;background:var(--accent);border:2px solid #1A1442;border-radius:3px;animation:spdrop 1.4s cubic-bezier(.5,0,.75,0) .6s infinite}
+@keyframes spdrop{0%{transform:translateY(0) rotate(-10deg);opacity:1}55%{transform:translateY(34px) rotate(0)}80%,100%{transform:translateY(60px);opacity:0}}
+@media (prefers-reduced-motion:reduce){.sp-title,.sp-env{animation:none}.onair i{animation:none}.splash{transition:none}.nl{transition:none}.nl:hover{transform:none}}
 </style>
 </head>
 <body>
+<div class="splash" id="splash" role="dialog" aria-modal="true" aria-labelledby="splash-t">
+  <div class="sp-in">
+    <div class="sp-urne" aria-hidden="true"><span class="sp-env"></span><span class="sp-box"></span></div>
+    <h1 id="splash-t" class="sp-title">Isoloir</h1>
+    <p class="sp-sub">Présidentielle 2027 · compare avant de voter</p>
+    <p class="sp-count"><b data-jours></b><span>avant le premier tour, le 18 avril 2027</span></p>
+    <button type="button" class="btn primary sp-go" data-enter>Entrer</button>
+    <p class="sp-note">34 candidatures · programmes sourcés · vidéos et actus mises à jour toutes les 12 heures</p>
+  </div>
+</div>
 <header class="top">
   <div class="wrap">
     <a class="logo" href="#accueil" aria-label="Isoloir, accueil"><i aria-hidden="true"></i>Isoloir</a>
     <nav class="main" aria-label="Navigation">
       <a href="#accueil" data-nav="accueil"><span data-icon="home"></span>Accueil</a>
       <a href="#programmes" data-nav="programmes"><span data-icon="layers"></span>Programmes</a>
-      <a href="#test" data-nav="test"><span data-icon="check"></span>Test</a>
+      <a href="#tv" data-nav="tv"><span data-icon="tv"></span>TV</a>
       <a href="#duel" data-nav="duel"><span data-icon="versus"></span>Duel</a>
       <a href="#actu" data-nav="actu"><span data-icon="news"></span>Actus</a>
       <a href="#methode" data-nav="methode"><span data-icon="info"></span>Méthode</a>
@@ -415,7 +502,7 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
         <h1 id="h-accueil">Avant de glisser ton bulletin, <em>compare.</em></h1>
         <p class="lead">Les propositions des candidats à la présidentielle, thème par thème, avec la source de chacune. Explore, fais le test, compare-les deux par deux.</p>
         <div class="btns">
-          <a class="btn primary" href="#test"><span data-icon="check"></span>Faire le test</a>
+          <a class="btn primary" href="#tv"><span data-icon="tv"></span>Allumer Isoloir TV</a>
           <a class="btn" href="#programmes"><span data-icon="layers"></span>Explorer les programmes</a>
         </div>
       </div>
@@ -427,6 +514,15 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
    </div>
    <div class="stories" data-stories aria-label="Accès rapide aux candidats"></div>
   </div>
+
+  <section class="block" aria-labelledby="h-une" style="padding-top:18px">
+    <div class="wrap">
+      <div class="une">
+        <div class="une-tv"><div class="sec-head"><h2 id="h-tvhome">Isoloir TV</h2><a class="more" href="#tv">Plein écran <span data-icon="arrow"></span></a></div><div data-tv="home"></div></div>
+        <div class="une-news"><div class="sec-head"><h2 id="h-une">À la une</h2><a class="more" href="#actu">Toutes les actus <span data-icon="arrow"></span></a></div><div data-une></div></div>
+      </div>
+    </div>
+  </section>
 
   <section class="block" aria-labelledby="h-themes">
     <div class="wrap">
@@ -448,20 +544,14 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
     <div class="wrap">
       <div class="sec-head"><h2 id="h-modes">Trois façons de s’y retrouver</h2></div>
       <div class="modes">
-        <a class="mode tint" style="--h:45" href="#test"><span class="bub"><span data-icon="check"></span></span><strong>Le test</strong><span data-nbq>Des questions sur lesquelles tous les candidats ont pris position. À la fin, de qui tu es le plus proche, et pourquoi.</span><span class="go">Faire le test <span data-icon="arrow"></span></span></a>
+        <a class="mode tint" style="--h:45" href="#tv"><span class="bub"><span data-icon="tv"></span></span><strong>Isoloir TV</strong><span>Les dernières vidéos des candidats, qui s’enchaînent toutes seules.</span><span class="go">Allumer <span data-icon="arrow"></span></span></a>
         <a class="mode tint" style="--h:265" href="#programmes"><span class="bub"><span data-icon="layers"></span></span><strong>Programmes</strong><span>Un thème, tous les candidats côte à côte, chaque proposition avec sa source.</span><span class="go">Explorer <span data-icon="arrow"></span></span></a>
         <a class="mode tint" style="--h:12" href="#duel"><span class="bub"><span data-icon="versus"></span></span><strong>Le duel</strong><span>Deux candidats face à face, thème par thème.</span><span class="go">Comparer <span data-icon="arrow"></span></span></a>
       </div>
     </div>
   </section>
 
-  <section class="block" aria-labelledby="h-actu-teaser">
-    <div class="wrap">
-      <div data-vhome></div>
-      <div class="sec-head"><h2 id="h-actu-teaser">Les dernières actus</h2><a class="more" href="#actu">Toutes les actus <span data-icon="arrow"></span></a></div>
-      <div data-poll-teaser></div>
-    </div>
-  </section>
+
 </section>
 
 <section class="view" id="v-candidat" aria-labelledby="h-candidat"><div class="wrap" data-fiche></div></section>
@@ -475,10 +565,11 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
   </div>
 </section>
 
-<section class="view" id="v-test" aria-labelledby="h-test">
+<section class="view" id="v-tv" aria-labelledby="h-tv">
   <div class="wrap">
-    <div class="page-head"><h1 id="h-test">Le test</h1><p>Choisis la réponse la plus proche de ton avis. Le test ne contient que les sujets sur lesquels <b>tous</b> les candidats comparés ont pris position : chacun est donc noté sur les mêmes questions. Il s’enrichira au fil des programmes.</p></div>
-    <div class="quiz" data-quiz></div>
+    <div class="page-head"><h1 id="h-tv">Isoloir TV</h1><p>Les dernières vidéos des chaînes officielles des candidats, à tour de rôle : une vidéo de chacun, puis la suivante, dans un ordre tiré au sort.</p></div>
+    <div data-tv="full"></div>
+    <div style="height:48px"></div>
   </div>
 </section>
 
@@ -519,9 +610,9 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
     <ul class="rules" data-rules style="margin-bottom:28px">
       <li><span class="bub tint" style="--h:150"><span data-icon="check"></span></span><div><b>Les sources, par ordre de priorité</b>D’abord le site officiel de campagne ou de programme du candidat. Ensuite, ses déclarations rapportées par un média identifié. En dernier recours seulement, quand rien n’a été trouvé à la source sur un thème, le comparateur Déchiffrer 2027, qui cite lui-même la source d’origine.</div></li>
       <li><span class="bub tint" style="--h:12"><span data-icon="shield"></span></span><div><b>Ce qui est écarté</b>Les propos d’un proche ou d’un document de parti, qui n’engagent pas le candidat, et les sites qui résument les programmes sans lien vers l’original. Quand rien n’est relevé sur un thème, la fiche le dit.</div></li>
-      <li><span class="bub tint" style="--h:45"><span data-icon="check"></span></span><div><b>Comment le test calcule</b>Réponse identique à celle du candidat : 100 %. Réponse voisine sur une échelle : un score partiel. Les sujets cochés comme importants comptent double. Une question n’entre dans le test que si tous les candidats comparés y ont une position : tout le monde est noté sur les mêmes questions.</div></li>
+      <li><span class="bub tint" style="--h:45"><span data-icon="tv"></span></span><div><b>Isoloir TV</b>Uniquement les chaînes YouTube officielles des candidats, au plus trois vidéos récentes chacun, diffusées à tour de rôle dans un ordre tiré au sort.</div></li>
       <li><span class="bub tint" style="--h:265"><span data-icon="chart"></span></span><div><b>L’ordre d’affichage</b>Selon la moyenne des intentions de vote au premier tour, avec la source et la date. Les candidats non testés viennent ensuite, par ordre alphabétique. Aucune couleur de parti.</div></li>
-      <li><span class="bub tint" style="--h:190"><span data-icon="user"></span></span><div><b>Les portraits</b>Photos sous licence libre (Wikimedia Commons ou Licence Ouverte), avec leur auteur. Pas de logos de partis : ce sont des marques protégées.</div></li>
+      <li><span class="bub tint" style="--h:190"><span data-icon="user"></span></span><div><b>Portraits et fiches de présentation</b>Photos sous licence libre (Wikimedia Commons ou Licence Ouverte), avec leur auteur. Âge, parcours et mandats viennent de Wikidata, uniquement si la fiche trouvée est bien celle du candidat : même nom, activité politique, et vérification manuelle pour les cas douteux. Les homonymes sont écartés. Pas de logos de partis.</div></li>
       <li><span class="bub tint" style="--h:330"><span data-icon="lock"></span></span><div><b>Rien ne quitte ton appareil</b>Tes réponses au test sont calculées dans ton navigateur. Rien n’est envoyé, rien n’est enregistré.</div></li>
     </ul>
     <p class="intro" style="margin-bottom:48px">Limites : Marine Le Pen, Édouard Philippe et Raphaël Glucksmann n’ont pas encore publié de programme, et Jean-Luc Mélenchon publie une nouvelle édition le 6 novembre. Le nombre de propositions relevées varie donc d’un candidat à l’autre ; chaque fiche l’indique.</p>
@@ -541,6 +632,7 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
 var D=/*DONNEES*/null;
 var ST=D.programmes.statuts||{};var ALL=D.candidats.candidats, P=D.programmes.positions, THEMES=D.programmes.themes, Q=D.test.questions, A=D.actus, J=D.journal.entrees, SO=D.sondages||{valeurs:{}};
 var IC={
+ tv:'<rect x="3" y="6" width="18" height="13" rx="3"/><path d="M8 2l4 4 4-4"/>',
  home:'<path d="M3 11l9-8 9 8"/><path d="M5 9.5V21h14V9.5"/><path d="M10 21v-6h4v6"/>',
  house:'<path d="M3 11l9-8 9 8"/><path d="M5 9.5V21h14V9.5"/><path d="M10 21v-6h4v6"/>',
  layers:'<path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/>',
@@ -614,9 +706,9 @@ function renderPosters(){var l=ORDER.filter(function(c){return filt==="tous"||(f
 $$("[data-f]").forEach(function(b){b.addEventListener("click",function(){filt=b.getAttribute("data-f");$$("[data-f]").forEach(function(x){x.setAttribute("aria-pressed",x===b)});renderPosters()})});
 $("[data-stories]").innerHTML=ORDER.map(function(c){var v=pct(c);return '<a class="story" href="#'+c.id+'"><span class="ring">'+av(c)+'</span><span>'+esc(c.nom)+'</span>'+(v!==null?'<span class="pc">'+fpct(v)+'</span>':'')+'</a>'}).join("");
 $("[data-critere]").innerHTML=esc(D.candidats.critere)+" Sondages : "+esc(SO.source||"")+", "+esc(SO.date||"")+(SO.url?' (<a href="'+esc(SO.url)+'" target="_blank" rel="noopener">voir</a>)':"")+". Quelques points d’écart restent dans la marge d’erreur ; les candidats non testés sont classés par ordre alphabétique.";
-$("[data-nbq]").textContent=Q.length+" questions à choix multiple. À la fin, de qui tu es le plus proche, et pourquoi.";
+
 function pollHTML(){var s=A.sondages;return '<div class="pollcard">'+ic("chart")+'<div><b>Sondages · '+esc(s.d)+'</b><br><span>'+esc(s.x)+'</span><br><span class="src">'+esc(s.s)+' · <a href="'+esc(s.u)+'" target="_blank" rel="noopener">lire l’article</a></span></div></div>'}
-$("[data-poll-teaser]").innerHTML=pollHTML();$("[data-poll-full]").innerHTML=pollHTML();
+$("[data-poll-full]").innerHTML=pollHTML();
 $("[data-maj]").textContent="Dernière mise à jour des actus : "+fdt(A.maj)+".";
 $("[data-majfoot]").textContent="Dernière mise à jour : "+fdt(A.maj)+".";
 
@@ -644,12 +736,57 @@ function allVideos(only){var l=[];ORDER.forEach(function(c){if(only&&c.id!==only
 function renderVideos(){var l=allVideos(fsel.value);
   $("[data-videos]").innerHTML=l.length?l.map(function(x){return vcard(x.c,x.v)}).join(""):'<p class="empty">'+(Object.keys(V).length?"Pas de vidéo récente pour ce candidat.":"Les vidéos apparaîtront dès que les chaînes officielles des candidats seront renseignées.")+'</p>';
   reveal($("[data-videos]"),".vcard")}
-(function(){var l=allVideos("");if(!l.length)return;
-  $("[data-vhome]").innerHTML='<div class="sec-head"><h2>Les dernières vidéos</h2><a class="more" href="#actu">Toutes les vidéos '+ic("arrow")+'</a></div><div class="vrow">'+l.slice(0,10).map(function(x){return vcard(x.c,x.v)}).join("")+'</div>'})();
+
 document.addEventListener("click",function(e){var b=e.target.closest("[data-vid]");if(!b||b.getAttribute("data-on"))return;b.setAttribute("data-on","1");
   var id=encodeURIComponent(b.getAttribute("data-vid"));
   b.querySelector(".thumb").innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+id+'?autoplay=1&rel=0" title="Vidéo YouTube" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>'});
 fsel.addEventListener("change",renderVideos);renderVideos();
+
+/* À la une */
+function renderUne(){
+  var l=[];Object.keys(A.flux||{}).forEach(function(id){var c=cand(id);if(!c)return;(A.flux[id]||[]).forEach(function(n){l.push({c:c,t:n.titre,s:n.source,d:n.date,u:n.lien,dt:fdate(n.date)})})});
+  l.sort(function(a,b){return a.d<b.d?1:-1});
+  if(!l.length)l=A.selection.map(function(n){return {c:cand(n.c),t:n.x,s:n.s,u:n.u,dt:esc(n.d)}}).filter(function(x){return x.c});
+  var seen={},out=[];l.forEach(function(x){if(!seen[x.u]&&out.length<6){seen[x.u]=1;out.push(x)}});
+  $("[data-une]").innerHTML='<div class="newslist">'+out.map(function(x){return '<a class="nl" href="'+esc(x.u)+'" target="_blank" rel="noopener">'+av(x.c)+'<span><b>'+esc(x.t)+'</b><small>'+esc(full(x.c))+' · '+esc(x.s)+' · '+x.dt+'</small></span></a>'}).join("")+'</div>'+pollHTML();
+  reveal($("[data-une]"),".nl");
+}
+/* Isoloir TV */
+function shuf(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
+var TV={list:[],cur:0,on:null};
+(function(){var who=shuf(ORDER.filter(function(c){return (V[c.id]||[]).length}));var r=0,more=true;
+  while(more){more=false;who.forEach(function(c){var v=V[c.id][r];if(v){TV.list.push({c:c,v:v});more=true}});r++}})();
+function screenVeil(i){var x=TV.list[i];return '<button type="button" class="veil" data-tvplay="'+i+'" aria-label="Lancer Isoloir TV : '+esc(x.v.titre)+'"><img src="https://i.ytimg.com/vi/'+encodeURIComponent(x.v.id)+'/hqdefault.jpg" alt=""><span class="big"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4l13 8-13 8z"/></svg></span><span class="vw">'+av(x.c,"s")+esc(full(x.c))+'</span><span class="vt">'+esc(x.v.titre)+'</span></button>'}
+function renderTV(){
+  var n=TV.list.length, nc={};TV.list.forEach(function(x){nc[x.c.id]=1});
+  $$("[data-tv]").forEach(function(box){
+    var full_=box.getAttribute("data-tv")==="full";box.classList.toggle("tv-full",full_);
+    var scr=n?screenVeil(TV.cur):'<div class="mire" aria-label="Mire"><div class="bars"></div><div class="msg">Isoloir TV démarre dès que les chaînes officielles des candidats sont renseignées.</div></div>';
+    var guide=n?'<div class="guide" role="list">'+TV.list.slice(0,full_?60:8).map(function(x,i){return '<button type="button" class="gi" role="listitem" data-tvplay="'+i+'" aria-current="'+(i===TV.cur)+'"><span class="gt"><img src="https://i.ytimg.com/vi/'+encodeURIComponent(x.v.id)+'/mqdefault.jpg" alt="" loading="lazy"><span class="gn">'+(i+1)+'</span></span><b>'+esc(x.v.titre)+'</b><small>'+av(x.c,"s")+esc(x.c.nom)+'</small></button>'}).join("")+'</div>':'';
+    box.innerHTML='<div class="tvset"><div class="screen" data-screen>'+scr+'</div><div class="tvbar"><span class="onair"><i></i>En direct des campagnes</span><span>'+n+' vidéos · '+Object.keys(nc).length+' candidats</span><span class="knobs"><span></span><span></span></span></div></div>'+guide;
+  });
+}
+function tvPlay(i,box){
+  TV.cur=i;
+  $$("[data-tv]").forEach(function(b){var sc=$("[data-screen]",b);if(b!==box&&sc&&TV.list.length)sc.innerHTML=screenVeil(i);$$(".gi",b).forEach(function(g){g.setAttribute("aria-current",+g.getAttribute("data-tvplay")===i)})});
+  var ids=TV.list.slice(i).concat(TV.list.slice(0,i)).map(function(x){return encodeURIComponent(x.v.id)});
+  $("[data-screen]",box).innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+ids[0]+'?autoplay=1&rel=0&playlist='+ids.slice(1).join(",")+'" title="Isoloir TV" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
+}
+document.addEventListener("click",function(e){var b=e.target.closest("[data-tvplay]");if(!b)return;var box=b.closest("[data-tv]");tvPlay(+b.getAttribute("data-tvplay"),box);var sc=$("[data-screen]",box);if(sc&&b.classList.contains("gi"))sc.scrollIntoView({block:"nearest",behavior:RM?"auto":"smooth"})});
+/* Écran d’accueil */
+(function(){var sp=$("#splash");if(!sp)return;
+  var d=Math.ceil((new Date("2027-04-18T08:00:00+02:00")-new Date())/864e5);
+  $("[data-jours]").textContent=d>1?d+" jours":(d===1?"1 jour":"C’est le jour J");
+  var seen=false;try{seen=sessionStorage.getItem("isoloir-splash")==="1"}catch(e){}
+  var h=(location.hash||"").slice(1);
+  function close(){sp.classList.add("off");try{sessionStorage.setItem("isoloir-splash","1")}catch(e){}document.removeEventListener("keydown",key);setTimeout(function(){sp.hidden=true},500)}
+  function key(e){if(e.key==="Escape"||e.key==="Enter")close()}
+  if(seen||(h&&h!=="accueil")){sp.hidden=true;return}
+  document.addEventListener("keydown",key);
+  $("[data-enter]").addEventListener("click",close);
+  setTimeout(function(){var b=$("[data-enter]");if(b)b.focus()},50);
+})();
+
 
 $("[data-journal]").innerHTML=J.slice().reverse().slice(0,30).map(function(e){var c=e.candidat&&cand(e.candidat);
   return '<li><time>'+fdt(e.date)+'</time>'+(e.type==="programme"?'<span class="pill tiers" style="align-self:flex-start">Programme modifié, à vérifier</span>':'')+'<span>'+(c?'<a href="#'+c.id+'">'+esc(full(c))+'</a> : ':'')+esc(e.texte)+'</span>'+(e.resume?'<span class="auto-note">Résumé automatique, à valider : '+esc(e.resume)+'</span>':'')+(e.url?'<span class="src"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">voir la page</a></span>':'')+'</li>'}).join("");
@@ -716,57 +853,6 @@ $("#v-programmes").addEventListener("click",function(e){
   b=$('[data-th="'+curTheme+'"]');if(b)b.scrollIntoView({block:"nearest",inline:"center"});
 });
 
-/* Test */
-var T;
-function startTest(){T={i:0,ans:{},imp:{}};renderQ()}
-function qTheme(q){return themeByLabel(q.theme)||theme("institutions")}
-function renderQ(){
-  var box=$("[data-quiz]");
-  if(T.i>=Q.length){renderResults();return}
-  var q=Q[T.i],cur=T.ans[q.id],pc=Math.round(T.i/Q.length*100),t=qTheme(q);
-  box.innerHTML='<div class="progress"><span>Question '+(T.i+1)+' sur '+Q.length+'</span><div class="bar"><i style="width:'+pc+'%"></i></div></div>'+
-   '<div class="qcard"><span class="qtheme tint"'+tstyle(t)+'>'+ic(t.ic)+esc(q.theme)+'</span><h2 tabindex="-1" data-qtitle>'+esc(q.q)+'</h2>'+
-   '<ul class="opts">'+q.opts.map(function(o,k){return '<li><button type="button" class="opt" data-opt="'+k+'" aria-pressed="'+(cur===k)+'">'+esc(o.l)+'</button></li>'}).join("")+'</ul>'+
-   '<label class="imp"><input type="checkbox" data-imp'+(T.imp[q.id]?" checked":"")+'> Ce sujet compte beaucoup pour moi</label></div>'+
-   '<div class="qfoot"><button type="button" class="btn small" data-prev'+(T.i===0?" disabled":"")+'>← Précédente</button><button type="button" class="btn small" data-end>Voir mon résultat</button><button type="button" class="btn small" data-skip>'+(cur!==undefined?"Suivante →":"Passer →")+'</button></div>'+
-   '<p class="privacy">Calculé sur ton appareil : rien n’est envoyé ni enregistré.</p>';
-}
-function scoreFor(q,a,c){if(a===c)return 1;var pa=q.opts[a].p,pc=q.opts[c].p;if(pa===null||pc===null)return 0;var max=0;q.opts.forEach(function(o){if(o.p!==null&&o.p>max)max=o.p});return max?1-Math.abs(pa-pc)/max:0}
-function renderResults(){
-  var rows=DET.map(function(c){var sum=0,w=0,n=0,items=[];
-    Q.forEach(function(q){var a=T.ans[q.id],p=q.pos[c.id];if(a===undefined)return;if(!p){items.push({q:q,a:a,p:null});return}
-      var wt=T.imp[q.id]?2:1,s=scoreFor(q,a,p.o);sum+=s*wt;w+=wt;n++;items.push({q:q,a:a,p:p,s:s})});
-    return {c:c,pct:w?Math.round(sum/w*100):null,n:n,items:items}});
-  var answered=Object.keys(T.ans).length,box=$("[data-quiz]");
-  rows.sort(function(x,y){return (y.pct===null?-1:y.pct)-(x.pct===null?-1:x.pct)});
-  if(!answered){box.innerHTML='<div class="results"><h2>Aucune réponse</h2><p>Réponds à au moins quelques questions pour voir tes affinités.</p><button type="button" class="btn primary" data-restart>Recommencer</button></div>';return}
-  box.innerHTML='<div class="results" style="display:flex;flex-direction:column;gap:12px"><h2>Tes affinités</h2>'+podium(rows)+'<p>À quel point tes réponses rejoignent les positions connues de chaque candidat. Ce n’est pas une consigne de vote : ouvre le détail pour voir sur quoi vous êtes d’accord ou pas.</p>'+
-   (answered<8?'<p class="warn">Tu as répondu à '+answered+' question'+(answered>1?"s":"")+' sur '+Q.length+'. Plus tu réponds, plus le résultat est fiable.</p>':'')+
-   rows.map(function(r){return '<div class="res">'+av(r.c,"l")+'<span class="name">'+esc(full(r.c))+'</span><span class="big">'+(r.pct===null?"–":r.pct+" %")+'</span><div class="bar"><i style="width:'+(r.pct||0)+'%"></i></div>'+
-     '<small>'+(r.n?'Calculé sur '+r.n+' de tes réponses'+(r.n<5?' : peu de positions connues, résultat fragile':''):'Aucune position connue sur tes réponses')+' · <a href="#'+r.c.id+'">voir sa fiche</a></small>'+
-     '<details><summary>Voir le détail</summary><ul class="recap">'+r.items.map(function(it){var you=it.q.opts[it.a].l;
-       if(!it.p)return '<li><b>'+esc(it.q.q)+'</b><span class="you">Toi : '+esc(you)+'</span><span>Pas de position connue sur ce sujet.</span></li>';
-       var tag=it.s===1?"Même réponse":(it.s>0?"Réponse proche":"Désaccord");
-       return '<li><b>'+esc(it.q.q)+'</b><span class="you">Toi : '+esc(you)+' · '+tag+'</span><span>'+esc(it.p.x)+'</span>'+srcLine(it.p)+'</li>'}).join("")+'</ul></details></div>'}).join("")+
-   '<div class="btns"><button type="button" class="btn primary" data-duel-top>'+ic("versus")+'Comparer mes deux premiers</button><button type="button" class="btn" data-restart>Recommencer</button></div><p class="privacy">Calculé sur ton appareil. Rien n’est envoyé ni enregistré.</p></div>';
-  T.top=[rows[0].c.id,rows[1].c.id];countUp(box);reveal(box,".res");
-}
-function podium(rows){var r=rows.filter(function(x){return x.pct!==null}).slice(0,3);if(r.length<3)return "";
-  var ord=[r[1],r[0],r[2]],cls=["p2","p1","p3"];
-  return '<div class="podium">'+ord.map(function(x,i){return '<a class="pod '+cls[i]+'" href="#'+x.c.id+'" style="text-decoration:none">'+av(x.c)+'<b>'+esc(full(x.c))+'</b><span class="step"><span data-count="'+x.pct+'">'+x.pct+'</span>&nbsp;%</span></a>'}).join("")+'</div>'}
-function countUp(root){if(RM)return;$$("[data-count]",root).forEach(function(el){var to=+el.getAttribute("data-count"),t0=null;function f(t){if(!t0)t0=t;var k=Math.min(1,(t-t0)/900);el.textContent=Math.round(to*(1-Math.pow(1-k,3)));if(k<1)requestAnimationFrame(f)}requestAnimationFrame(f)})}
-function focusQ(){var h=$("[data-qtitle]");if(h)h.focus({preventScroll:true})}
-$("#v-test").addEventListener("click",function(e){
-  var o=e.target.closest("[data-opt]");
-  if(o){T.ans[Q[T.i].id]=+o.getAttribute("data-opt");$$("[data-opt]").forEach(function(b){b.setAttribute("aria-pressed",b===o)});setTimeout(function(){T.i++;renderQ();focusQ()},220);return}
-  if(e.target.closest("[data-skip]")){T.i++;renderQ();focusQ();return}
-  if(e.target.closest("[data-end]")){T.i=Q.length;renderQ();return}
-  if(e.target.closest("[data-prev]")){if(T.i>0){T.i--;renderQ();focusQ()}return}
-  if(e.target.closest("[data-restart]")){startTest();focusQ();return}
-  if(e.target.closest("[data-duel-top]")){duel.pick=T.top.slice();renderDuel();location.hash="#duel"}
-});
-$("#v-test").addEventListener("change",function(e){if(e.target.matches("[data-imp]"))T.imp[Q[T.i].id]=e.target.checked});
-
 /* Duel */
 var duel={pick:[DET[0].id,DET[1].id],only:false};
 function renderDuel(){
@@ -790,8 +876,8 @@ $("#v-duel").addEventListener("click",function(e){var c=e.target.closest("[data-
 $("[data-onlydiff]").addEventListener("change",function(e){duel.only=e.target.checked;renderDuel()});
 
 /* Navigation */
-var VIEWS=["accueil","programmes","test","duel","actu","methode"];
-var TITLES={accueil:"Isoloir · Présidentielle 2027",programmes:"Les programmes · Isoloir",test:"Le test · Isoloir",duel:"Le duel · Isoloir",actu:"Les actus · Isoloir",methode:"Méthode · Isoloir"};
+var VIEWS=["accueil","programmes","tv","duel","actu","methode"];
+var TITLES={accueil:"Isoloir · Présidentielle 2027",programmes:"Les programmes · Isoloir",tv:"Isoloir TV",duel:"Le duel · Isoloir",actu:"Les actus · Isoloir",methode:"Méthode · Isoloir"};
 function show(v,nav){$$(".view").forEach(function(s){s.classList.toggle("on",s.id==="v-"+v)});$$("[data-nav]").forEach(function(a){if(a.getAttribute("data-nav")===(nav||v))a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")})}
 function route(){if(document.startViewTransition&&!RM){document.startViewTransition(route0)}else route0()}
 function route0(){var h=(location.hash||"").slice(1);
@@ -800,7 +886,7 @@ function route0(){var h=(location.hash||"").slice(1);
   else{var v=VIEWS.indexOf(h)>-1?h:"accueil";show(v);document.title=TITLES[v]}
   window.scrollTo(0,0)}
 window.addEventListener("hashchange",route);
-renderPosters();renderThemes();startTest();renderDuel();route0();
+renderPosters();renderThemes();renderDuel();renderUne();renderTV();route0();
 })();
 </script>
 </body>

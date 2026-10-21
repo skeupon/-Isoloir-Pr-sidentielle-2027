@@ -117,45 +117,69 @@ def maj_actus(candidats, actus):
 
 
 # 2. Portraits ---------------------------------------------------------------
+def _claims(qid):
+    return json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
+                    ids=qid, props="claims|labels", languages="fr")["entities"].get(qid, {})
+
+
 def est_humain(qid):
-    ent = json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
-                   ids=qid, props="claims")["entities"].get(qid, {})
-    p31 = ent.get("claims", {}).get("P31", [])
+    p31 = _claims(qid).get("claims", {}).get("P31", [])
     return any(x.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id") == "Q5" for x in p31)
 
 
+def est_la_bonne_personne(qid, c):
+    """Contrôle strict : une personne, portant exactement ce nom, et ayant une activité politique
+    (profession « personnalité politique », un mandat ou un parti). Écarte les homonymes :
+    footballeurs, parents, artistes…"""
+    e = _claims(qid)
+    cl = e.get("claims", {})
+    ids = lambda p: {x.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id") for x in cl.get(p, [])}
+    if "Q5" not in ids("P31"):
+        return False
+    nom = ("%s %s" % (c["prenom"], c["nom"])).lower().replace("-", " ")
+    label = (e.get("labels", {}).get("fr", {}).get("value") or "").lower().replace("-", " ")
+    if label != nom:
+        return False
+    return "Q82955" in ids("P106") or bool(cl.get("P39")) or bool(cl.get("P102"))
+
+
 def trouver_qid(c):
-    """Cherche la fiche Wikidata de la personne (et pas, par exemple, celle de « Gouvernement X »)."""
+    """Cherche la fiche Wikidata du candidat, avec un contrôle strict pour éviter les homonymes."""
     res = json_url("https://www.wikidata.org/w/api.php", action="wbsearchentities", format="json",
-                   language="fr", uselang="fr", type="item", limit=7,
+                   language="fr", uselang="fr", type="item", limit=10,
                    search="%s %s" % (c["prenom"], c["nom"]))
     for r in res.get("search", []):
-        desc = (r.get("description") or "").lower()
-        if "gouvernement" in desc or "élection" in desc:
-            continue
-        if est_humain(r["id"]):
+        if est_la_bonne_personne(r["id"], c):
             return r["id"]
     return None
 
 
 PORTRAITS = {}
+CONFIRMES = {}
 
 
 def maj_portrait(c, journal):
     force = PORTRAITS.get(c["id"])
     if force:
         c["commons_force"] = force
-    if c.get("wikidata") and not c.get("commons_force") and not est_humain(c["wikidata"]):
-        journal_ajout(journal, "Fiche Wikidata %s écartée (ce n’est pas une personne)." % c["wikidata"], type="portrait", candidat=c["id"])
+    confirme = CONFIRMES.get(c["id"])
+    if confirme:
+        if c.get("wikidata") != confirme:
+            c["wikidata"] = confirme
+            c["photo"] = None if not c.get("commons_force") else c.get("photo")
+    elif c.get("wikidata") and not est_la_bonne_personne(c["wikidata"], c):
+        journal_ajout(journal, "Fiche Wikidata %s écartée : ce n’est pas la bonne personne (homonyme)." % c["wikidata"], type="portrait", candidat=c["id"])
         c["wikidata"] = ""
-        c["photo"] = None
-    if not c.get("wikidata") and not c.get("commons_force"):
+        if not c.get("commons_force"):
+            c["photo"] = None
+    if not c.get("wikidata"):
         qid = trouver_qid(c)
-        if not qid:
+        if qid:
+            c["wikidata"] = qid
+            journal_ajout(journal, "Fiche Wikidata %s associée automatiquement, à vérifier." % qid, type="portrait", candidat=c["id"])
+        elif not c.get("commons_force"):
             print("  portrait %s : aucune fiche Wikidata trouvée" % c["id"])
             return
-        c["wikidata"] = qid
-        journal_ajout(journal, "Fiche Wikidata %s associée automatiquement, à vérifier." % qid, type="portrait", candidat=c["id"])
     if c.get("commons_force"):
         fichier = c["commons_force"]  # fichier Commons choisi à la main dans candidats.json
     else:
@@ -321,15 +345,33 @@ def _annee(qual, prop):
         return None
 
 
-def libelles(ids):
+def _forme(claims, prop):
+    for x in claims.get(prop, []):
+        v = x.get("mainsnak", {}).get("datavalue", {}).get("value", {})
+        if isinstance(v, dict) and v.get("language") == "fr" and v.get("text"):
+            return v["text"]
+    return None
+
+
+def libelles(ids, genre=None):
+    """Libellés français. Avec genre ("f" ou "m"), utilise la forme genrée du métier ou de la
+    fonction (« femme politique », « députée »…) au lieu de la forme épicène (« auteur ou autrice »)."""
     ids = [i for i in dict.fromkeys(ids) if i]
     out = {}
     for k in range(0, len(ids), 50):
         r = json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
-                     ids="|".join(ids[k:k + 50]), props="labels", languages="fr|en")
+                     ids="|".join(ids[k:k + 50]), props="labels|claims" if genre else "labels", languages="fr|en")
         for q, e in r.get("entities", {}).items():
             lab = e.get("labels", {})
-            out[q] = (lab.get("fr") or lab.get("en") or {}).get("value", q)
+            txt = (lab.get("fr") or lab.get("en") or {}).get("value", q)
+            if genre:
+                forme = _forme(e.get("claims", {}), "P2521" if genre == "f" else "P3321")
+                if forme:
+                    txt = forme
+                elif " ou " in txt:
+                    morceaux = txt.split(" ou ")
+                    txt = morceaux[1] if genre == "f" and len(morceaux) > 1 else morceaux[0]
+            out[q] = txt
     return out
 
 
@@ -338,6 +380,9 @@ def maj_bios(candidats):
     for c in candidats:
         q = c.get("wikidata")
         if not q:
+            continue
+        if q != CONFIRMES.get(c["id"]) and not est_la_bonne_personne(q, c):
+            print("  fiche %s : %s n'est pas la bonne personne, ignorée" % (c["id"], q))
             continue
         try:
             ent = json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
@@ -368,7 +413,10 @@ def maj_bios(candidats):
         postes = sorted(groupes.values(), key=lambda p: (p["fin"] is None, p["fin"] or 0, p["debut"] or 0), reverse=True)[:7]
         site = next((v for v, _, _ in _vals(cl, "P856") if isinstance(v, str)), None)
         youtube = next((v for v, _, _ in _vals(cl, "P2397") if isinstance(v, str)), None)
-        lab = libelles([lieu] + metiers + etudes + partis + [p["q"] for p in postes])
+        sexe = next((v["id"] for v, _, _ in _vals(cl, "P21") if v), None)
+        genre = "f" if sexe == "Q6581072" else ("m" if sexe == "Q6581097" else None)
+        lab = libelles([lieu] + etudes + partis)
+        lab.update(libelles(metiers + [p["q"] for p in postes], genre))
         bios[c["id"]] = {
             "wikidata": q,
             "naissance": naissance[1:11] if naissance else None,
@@ -392,11 +440,15 @@ def main():
         print("Actus…"); maj_actus(candidats, actus)
     if "portraits" in etapes:
         print("Portraits…")
-        global PORTRAITS
+        global PORTRAITS, CONFIRMES
         try:
             PORTRAITS = lire("portraits.json").get("fichiers", {})
         except FileNotFoundError:
             PORTRAITS = {}
+        try:
+            CONFIRMES = {k: v for k, v in lire("wikidata.json").get("confirmes", {}).items() if v}
+        except FileNotFoundError:
+            CONFIRMES = {}
         for c in candidats:
             try:
                 maj_portrait(c, journal)
@@ -404,7 +456,13 @@ def main():
                 print("  portrait %s : échec (%s)" % (c["id"], e))
             time.sleep(1)
     if "bios" in etapes:
-        print("Fiches de présentation…"); maj_bios(candidats)
+        print("Fiches de présentation…")
+        if not CONFIRMES:
+            try:
+                CONFIRMES.update({k: v for k, v in lire("wikidata.json").get("confirmes", {}).items() if v})
+            except FileNotFoundError:
+                pass
+        maj_bios(candidats)
     if "videos" in etapes:
         print("Vidéos…")
         try:

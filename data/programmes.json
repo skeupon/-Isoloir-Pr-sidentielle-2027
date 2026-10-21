@@ -811,33 +811,6 @@
    "orig": "déclaration"
   },
   {
-   "c": "le-pen",
-   "th": "ecolo",
-   "x": "Mettre fin aux subventions à l’éolien et au solaire.",
-   "u": "https://dechiffrer2027.fr/mesure/le-pen/renouvelables",
-   "t": "tiers",
-   "s": "Déchiffrer 2027",
-   "orig": "déclaration"
-  },
-  {
-   "c": "le-pen",
-   "th": "ecolo",
-   "x": "Remplacer MaPrimeRénov’ par un prêt à taux zéro.",
-   "u": "https://dechiffrer2027.fr/mesure/le-pen/renovations",
-   "t": "tiers",
-   "s": "Déchiffrer 2027",
-   "orig": "déclaration"
-  },
-  {
-   "c": "le-pen",
-   "th": "ecolo",
-   "x": "Trains gratuits pour les 18-25 ans aux heures creuses (proposition de 2022).",
-   "u": "https://dechiffrer2027.fr/mesure/le-pen/transports-quotidien",
-   "t": "tiers",
-   "s": "Déchiffrer 2027",
-   "orig": "déclaration"
-  },
-  {
    "c": "philippe",
    "th": "ecolo",
    "x": "14 nouveaux réacteurs EPR, soit 8 de plus que prévu.",
@@ -955,24 +928,6 @@
    "orig": "déclaration"
   },
   {
-   "c": "melenchon",
-   "th": "logement",
-   "x": "Encadrer les loyers partout, à la baisse dans les grandes villes.",
-   "u": "https://dechiffrer2027.fr/mesure/melenchon/encadrement-loyers",
-   "t": "tiers",
-   "s": "Déchiffrer 2027",
-   "orig": "programme, p. 31"
-  },
-  {
-   "c": "melenchon",
-   "th": "logement",
-   "x": "Construire 200 000 logements publics par an pendant cinq ans.",
-   "u": "https://dechiffrer2027.fr/mesure/melenchon/logement-social",
-   "t": "tiers",
-   "s": "Déchiffrer 2027",
-   "orig": "programme, p. 31"
-  },
-  {
    "c": "philippe",
    "th": "securite",
    "x": "Des peines planchers pour les infractions les plus graves.",
@@ -1025,15 +980,6 @@
    "t": "tiers",
    "s": "Déchiffrer 2027",
    "orig": "programme"
-  },
-  {
-   "c": "le-pen",
-   "th": "immigration",
-   "x": "Une taxe de 1 000 € par an sur chaque salarié extra-européen embauché.",
-   "u": "https://dechiffrer2027.fr/mesure/le-pen/immigration-travail",
-   "t": "tiers",
-   "s": "Déchiffrer 2027",
-   "orig": "déclaration"
   },
   {
    "c": "melenchon",
@@ -1178,6 +1124,118 @@
    "t": "tiers",
    "s": "Déchiffrer 2027",
    "orig": "déclaration"
+  },
+  {
+   "c": "glucksmann",
+   "th": "ecolo",
+   "x": "Mettre un million de voitures électriques en location sociale (leasing) pour les ménages modestes.",
+   "u": "https://www.france24.com/fr/info-en-continu/20261002-en-seine-maritime-glucksmann-d%C3%A9fend-les-voitures-%C3%A9lectriques-et-la-transition-%C3%A9cologique",
+   "t": "media",
+   "s": "AFP, repris par France 24"
+  },
+  {
+   "c": "glucksmann",
+   "th": "ecolo",
+   "x": "Ouvrir le quinquennat par « 100 jours de la révolution écologique », avec la rénovation des bâtiments au cœur.",
+   "u": "https://www.france24.com/fr/info-en-continu/20260825-pr%C3%A9sidentielle-glucksmann-en-qu%C3%AAte-des-verts-et-de-la-primaire",
+   "t": "media",
+   "s": "AFP, repris par France 24"
+  },
+  {
+   "c": "glucksmann",
+   "th": "ecolo",
+   "x": "Développer de nouveaux réacteurs nucléaires, tout en accélérant les renouvelables.",
+   "u": "https://www.france24.com/fr/info-en-continu/20260825-pr%C3%A9sidentielle-glucksmann-en-qu%C3%AAte-des-verts-et-de-la-primaire",
+   "t": "media",
+   "s": "AFP, repris par France 24"
+  },
+  {
+   "c": "glucksmann",
+   "th": "ecolo",
+   "x": "Rénovation des bâtiments et sortie progressive du gaz et du pétrole.",
+   "u": "https://www.batirama.com/article/107519-il-grimpe-a-80-metres-et-promet-de-changer-la-france-en-100-jours.html",
+   "t": "media",
+   "s": "Batirama"
+  },
+  {
+   "c": "glucksmann",
+   "th": "services",
+   "x": "Un service civique obligatoire de dix mois pour tous les jeunes, le volet militaire restant volontaire.",
+   "u": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+   "t": "media",
+   "s": "LCP"
+  },
+  {
+   "c": "glucksmann",
+   "th": "services",
+   "x": "Appliquer un principe de mixité sociale à l’enseignement privé.",
+   "u": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+   "t": "media",
+   "s": "LCP"
+  },
+  {
+   "c": "glucksmann",
+   "th": "eco",
+   "x": "Rééquilibrer la taxation entre le travail, le capital, la retraite et l’héritage.",
+   "u": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+   "t": "media",
+   "s": "LCP"
+  },
+  {
+   "c": "le-pen",
+   "th": "immigration",
+   "x": "Soumettre l’immigration à un référendum, présenté comme sa mesure phare.",
+   "u": "https://news.google.com/read/CBMi7AFBVV95cUxNMnQ0aXkyMDRCcjRGN3BGYU9fbkhyRUwzREVmdF9Cc0FqQ21VbDhRR1FmS3JxeW9DbG5xWUhZNlFTdWt2dkJFeXhlWm9nTkVSb3pTYzNWMDdBcTZNdHNWemQtUW1LZWtIVS02bHhySFU4SUNUd0N3bXplb1pwZEg4YUFIclFnSHhoaGV5bUNPckRsYkZVaWdfYU5RTVBOTmk4TVZ5bmlUUDdJN2lMRVdxODR5QlhONEV3dGZoZDhWbGpiS18tSzFULXdFU2hlU08wa3d3NnluNVI4Q2RaVC1aSDA2SVc5OU5DNS1JYw?hl=en-US&gl=US&ceid=US%3Aen",
+   "t": "media",
+   "s": "L’Express"
+  },
+  {
+   "c": "le-pen",
+   "th": "ecolo",
+   "x": "Miser sur une relance massive du nucléaire (une vingtaine de réacteurs promis en 2022).",
+   "u": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
+   "t": "media",
+   "s": "Reporterre"
+  },
+  {
+   "c": "melenchon",
+   "th": "logement",
+   "x": "Étendre l’encadrement des loyers à tout le territoire et créer une garantie universelle contre les impayés.",
+   "u": "https://www.investissement-locatif.com/le-volet-logement-de-lfi-jean-luc-melenchon.html",
+   "t": "media",
+   "s": "Investissement-locatif.com"
+  },
+  {
+   "c": "melenchon",
+   "th": "logement",
+   "x": "Porter à 30 % le quota de logements sociaux imposé aux communes, avec des sanctions alourdies.",
+   "u": "https://edito.seloger.com/node/23842",
+   "t": "media",
+   "s": "SeLoger"
+  },
+  {
+   "c": "melenchon",
+   "th": "logement",
+   "x": "12 milliards d’euros d’investissements publics supplémentaires par an pour le logement.",
+   "u": "https://edito.seloger.com/node/23842",
+   "t": "media",
+   "s": "SeLoger"
+  },
+  {
+   "c": "melenchon",
+   "th": "logement",
+   "x": "Rénovation énergétique prise en charge à 100 % pour les ménages les plus modestes, puis aides dégressives.",
+   "u": "https://edito.seloger.com/node/23842",
+   "t": "media",
+   "s": "SeLoger"
+  },
+  {
+   "c": "melenchon",
+   "th": "logement",
+   "x": "Rendre les locations saisonnières moins attractives pour remettre des logements sur le marché.",
+   "u": "https://edito.seloger.com/node/23842",
+   "t": "media",
+   "s": "SeLoger"
   }
  ],
  "statuts": {
