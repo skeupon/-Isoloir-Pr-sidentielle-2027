@@ -274,11 +274,25 @@
    "texte": "Nouveau portrait (CC0).",
    "type": "portrait",
    "candidat": "eric-zemmour"
+  },
+  {
+   "date": "2026-10-21T19:42+00:00",
+   "texte": "Nouveau portrait (CC BY-SA 4.0).",
+   "type": "portrait",
+   "candidat": "david-lisnard"
+  },
+  {
+   "date": "2026-10-21T19:42+00:00",
+   "texte": "Changement détecté sur une page de programme suivie.",
+   "type": "programme",
+   "candidat": "retailleau",
+   "url": "https://www.avecretailleau.fr/projet/theme/l-ia",
+   "resume": null
   }
  ],
  "empreintes": {
   "https://www.avecretailleau.fr/projet/theme/retraites": "22b9deeba65ce118cbe14c28a82ba47ce44db6e27f475ae8cd5511c2d2ff35fc",
   "https://www.avecretailleau.fr/projet/theme/electricite": "1e9f65f3f38d65b73c21de8774018be81a85acbceb5cb3f7fe585b04dc508803",
-  "https://www.avecretailleau.fr/projet/theme/l-ia": "28207b1f9dc4659ee0b9912adaf186c82e160b297e5e4860944511976f5f0736"
+  "https://www.avecretailleau.fr/projet/theme/l-ia": "97e5d49acfc9e081c538b1409ee729530900bc7ceaf552f077a9166215efa8bd"
  }
 }

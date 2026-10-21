@@ -275,4 +275,67 @@ Faire revenir les talents français et attirer les experts de l’IA
 Supprimer la taxe qui pénalise l'actionnariat salarié
 10.05
 Lever les freins réglementaires à l’innovation en IA
-<a class="row flex items-center gap-[clamp(12px,1.6vw,2
+10.06
+Financer la croissance des entreprises d’IA
+10.07
+Construire nos data centers souverains
+10.08
+Équiper les entreprises françaises en intelligence artificielle
+10.09
+Ouvrir un statut d'indépendant aux cadres les plus qualifiés
+10.10
+Simplifier les démarches et réduire les tâches administratives grâce à l’IA
+10.11
+Créer Marianne, l'assistant administratif de chaque Français
+10.12
+Acheter européen pour les besoins numériques essentiels de l’État
+10.13
+Multiplier par cinq les moyens de l’IA de défense
+10.14
+Protéger les services publics et les entreprises contre les cyberattaques
+10.15
+Répondre à la guerre informationnelle
+Voir le projet complet
+Les questions fréquentes
+Thème n°
+L'IA
+2027
+Le livret
+Nos propositions
+L’IA n'est pas une technologie de plus : c'est une infrastructure de civilisation, et elle décidera du rang des nations.
+Ni fascination naïve, ni peur stérile : il existe une troisième voie, française, et nous l'appelons mettre l'IA au service des Français. La France a tout pour décider, ses ingénieurs, son électricité, ses entreprises, son histoire. Il lui manque la volonté. Nous l'aurons.
+Téléchargez le livret
+La FAQ
+question
+L'IA
+Copier la FAQ
+Pourquoi récupérer nos données si elles sont déjà captées par des étrangers ?
+Parce que la donnée est la matière première de l'IA, et celui qui la contrôle contrôle l'avenir technologique. Aujourd'hui, les plateformes extra-européennes tirent seules la valeur de nos données. Je veux créer des espaces de données sectoriels souverains, EuroDatas, pour que nos champions entraînent leurs modèles sur des données européennes de qualité. Une IA entraînée sur des corpus français connaîtra notre droit, notre histoire, nos territoires. C'est la condition pour que l'IA parle notre langue et serve nos intérêts.
+Mesure citée
+Verser 240 euros par mois par enfant mineur
+Comment former des millions de Français à l'IA sans exploser le budget ?
+Je redéploie les économies de la réforme de la formation professionnelle pour financer cette montée en compétences. Nous formerons plusieurs millions d'actifs avec un socle minimum de vingt heures, en trois étages : plans de développement en entreprise, compte personnel de formation rénové, et abondement ciblé pour ceux sans employeur. Nous doublerons aussi le nombre d'ingénieurs spécialisés. Le coût nouveau reste limité à environ 1,5 milliard d'euros, car nous réaffectons les économies existantes.
+Mesure citée
+Doubler le Revenu familial pour le troisième enfant
+Comment rapatrier nos talents sans coûter cher à l'État ?
+Les meilleurs Français de la tech dispersés à l'étranger ne paient aujourd'hui aucun impôt en France : il n'y a donc aucune recette à perdre. Je leur propose une exonération totale d'impôt sur le revenu pendant cinq ans, des missions d'envergure, du capital amorçage et des chaires académiques. Je supprime aussi la contribution patronale sur l'actionnariat salarié, ce qui s'autofinance par la valeur retenue dans nos entreprises. C'est un investissement sans dépense nette.
+Mesure citée
+Logement social : priorité aux actifs et à leurs familles
+Faut-il vraiment assouplir les règles sur l'IA et les données ?
+La France ne peut pas s'imposer plus que l'Europe n'exige, sinon elle se condamne à l'immobilisme. Je recentre la CNIL sur ses missions essentielles (protection des mineurs, des familles, des publics vulnérables, abus des grandes plateformes) et j'instaure un régime expérimental de trois ans de dérogation au RGPD et à l'AI Act pour les projets stratégiques. Le bon principe est clair : protéger lucidement, expérimenter vite, corriger ensuite. Une autorité forte est nécessaire ; une autorité qui paralyse ne l'est pas.
+Mesure citée
+Baisser le coût du crédit immobilier des familles
+Peut-on vraiment créer des champions européens face aux géants américains ?
+Oui, si nous leur donnons la masse critique. Aujourd'hui manque le financement des tickets intermédiaires, de 5 à 50 millions d'euros, qui permet à une ETI de changer d'échelle. Je demande au niveau européen des exceptions au droit de la concurrence pour les rapprochements dans le cloud, les logiciels critiques et les data centers. Je dédie aussi un compartiment de la BPI à l'IA. Surtout, je porte la capacité souveraine de calcul à environ 1 gigawatt d'ici 2030, financée majoritairement par des capitaux privés et européens.
+Mesure citée
+Prolonger le congé jusqu'aux six mois de l'enfant
+L'IA va-t-elle détruire des emplois publics et privés ?
+Non, elle va les transformer. Dans le secteur public, je gagne l'équivalent de 250 000 emplois à l'horizon 2032 : 125 000 agents redéployés du back-office vers le contact, le soin, l'enquête et le contrôle, et 125 000 départs à la retraite non remplacés, sans aucun licenciement. Dans les entreprises, l'IA automatise les tâches répétitives et libère du temps pour la valeur ajoutée. Mieux vaut un salarié français assisté par une IA qu'une chaîne entière délocalisée faute de compétitivité. Ces gains de productivité sont la condition du maintien et de la relocalisation de l'emploi.
+Mesure citée
+Ouvrir plus de places de crèche
+Toute la FAQ du projet
+Avec votre accord, nous mesurons l'audience du site avec Google Analytics, qui dépose des cookies. Sans accord, le site n'appelle pas Google.
+Aucune publicité, aucun profilage. Votre choix est gardé six mois et se change à tout moment depuis « Cookies », en pied de page.
+En savoir plus
+Refuser
+Accepter

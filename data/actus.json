@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-21T09:14+00:00",
+ "maj": "2026-10-21T19:42+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,39 +93,65 @@
   }
  ],
  "flux": {
+  "glucksmann": [
+   {
+    "titre": "Matthieu Pigasse s’en prend à son tour à Raphaël Glucksmann : «C’est “Bismillah, c’est les ténèbres”»",
+    "source": "Libération",
+    "date": "2026-10-21T10:21:48+00:00",
+    "lien": "https://www.liberation.fr/politique/matthieu-pigasse-sen-prend-a-son-tour-a-raphael-glucksmann-cest-bismillah-cest-les-tenebres-20261021_HLGJ6JCIAFGXNNAK7FPGJQI4QU/"
+   }
+  ],
   "le-pen": [
    {
-    "titre": "\"Le gouvernement a perdu la maîtrise de tout\", dénonce Marine Le Pen qui plaide pour faire payer les casseurs, \"à vie s'il le faut\" après les violences du 17 octobre",
+    "titre": "Donald Trump apporte un soutien à Marine Le Pen",
     "source": "franceinfo",
-    "date": "2026-10-21T10:10:45+02:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/nous-sommes-confrontes-a-un-etat-qui-s-effondre-estime-marine-le-pen_8246899.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-21T18:19:12+02:00",
+    "lien": "https://www.franceinfo.fr/monde/usa/donald-trump-apporte-un-soutien-a-marine-le-pen_8247688.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+    "titre": "Marine Le Pen a-t-elle déjà gagné la présidentielle ?",
     "source": "franceinfo",
-    "date": "2026-10-21T09:41:16+02:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/retrouver-l-ordre-le-droit-et-le-pouvoir-d-achat-dans-des-petites-communes-de-dordogne-les-violences-du-17-octobre-enracinent-l-envie-de-voter-marine-le-pen_8246170.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-21T14:06:25+02:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-a-t-elle-deja-gagne-la-presidentielle_8247295.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "\"Je ne suis pas pour la dissolution de LFI\", affirme Marine Le Pen, candidate RN à la présidentielle, qui préfère \"le combattre dans les urnes\"",
+    "titre": "Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner \"leurs candidatures de témoignages\" à la présidentielle pour se rassembler autour de Marine Le Pen",
     "source": "franceinfo",
-    "date": "2026-10-21T09:26:16+02:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/je-ne-suis-pas-pour-la-dissolution-de-lfi-affirme-marine-le-pen-candidate-rn-a-la-presidentielle-qui-prefere-le-combattre-dans-les-urnes_8246923.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-21T11:36:44+02:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-ciotti-appelle-bruno-retailleau-et-david-lisnard-a-abandonner-leurs-candidatures-de-temoignages-pour-se-rassembler-autour-de-marine-le-pen_8247031.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Violences du 17 octobre, présidentielle, propos antisémites attribués à Jordan Bardella... Le \"8h30 franceinfo\" de Marine Le Pen",
-    "source": "franceinfo",
-    "date": "2026-10-21T08:54:31+02:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/violences-du-17-octobre-presidentielle-propos-antisemites-attribues-a-jordan-bardella-le-8h30-franceinfo-de-marine-le-pen_8226034.html#xtor=RSS-3-%5Bgeneral%5D"
+    "titre": "Mobilisation du 17 octobre : la contre-attaque indécente de la macronie ouvre un boulevard à Marine Le Pen",
+    "source": "Libération",
+    "date": "2026-10-20T18:31:58+00:00",
+    "lien": "https://www.liberation.fr/idees-et-debats/editorial/mobilisation-du-17-octobre-la-contre-attaque-indecente-de-la-macronie-ouvre-un-boulevard-a-marine-le-pen-20261020_JJWYJWV46VFL3H4CYWXOYFBNV4/"
    },
    {
-    "titre": "Édito. À six mois de l'élection présidentielle, la popularité de Marine Le Pen semble inaltérable",
-    "source": "franceinfo",
-    "date": "2026-10-21T08:05:17+02:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-six-mois-de-l-election-presidentielle-la-popularite-de-marine-le-pen-semble-inalterable_8226091.html#xtor=RSS-3-%5Bgeneral%5D"
+    "titre": "Chers casseurs, vous êtes les meilleurs agents électoraux de Marine Le Pen",
+    "source": "Libération",
+    "date": "2026-10-19T16:39:50+00:00",
+    "lien": "https://www.liberation.fr/idees-et-debats/opinions/chers-casseurs-vous-etes-les-meilleurs-agents-electoraux-de-marine-le-pen-20261019_R3GNOIT6HRBHPCZ3SVGGQGYZ2Q/"
    }
   ],
   "david-lisnard": [
+   {
+    "titre": "Des maires de gauche reprochent à David Lisnard ses propos sur le massacre du 17 octobre 1961",
+    "source": "Le Monde",
+    "date": "2026-10-21T19:00:31+02:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/21/des-maires-de-gauche-reprochent-a-david-lisnard-ses-propos-sur-le-massacre-du-17-octobre-1961_6798298_823448.html"
+   },
+   {
+    "titre": "Robert Ménard au Figaro : « Bruno Retailleau et David Lisnard ne finiront pas à deux face aux Français »",
+    "source": "Le Figaro",
+    "date": "2026-10-21T17:39:10+02:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/robert-menard-au-figaro-bruno-retailleau-et-david-lisnard-ne-finiront-pas-a-deux-face-aux-francais-20261021"
+   },
+   {
+    "titre": "Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner \"leurs candidatures de témoignages\" à la présidentielle pour se rassembler autour de Marine Le Pen",
+    "source": "franceinfo",
+    "date": "2026-10-21T11:36:44+02:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-ciotti-appelle-bruno-retailleau-et-david-lisnard-a-abandonner-leurs-candidatures-de-temoignages-pour-se-rassembler-autour-de-marine-le-pen_8247031.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
    {
     "titre": "David Lisnard fantasme sur «des camps d’entraînement» dans le Limousin pour les «terroristes» de gauche",
     "source": "Libération",
@@ -137,12 +163,6 @@
     "source": "Libération",
     "date": "2026-10-20T07:39:51+00:00",
     "lien": "https://www.liberation.fr/politique/non-mais-je-men-fous-madame-jetais-pas-ne-interroge-sur-le-17-octobre-1961-david-lisnard-senerve-20261020_JZNDU5EO4JAADIKLCY2RDR2H54/"
-   },
-   {
-    "titre": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
-    "source": "Le Figaro",
-    "date": "2026-10-16T09:05:32+02:00",
-    "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015"
    }
   ],
   "melenchon": [
@@ -165,20 +185,24 @@
     "lien": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016"
    }
   ],
-  "philippe": [
-   {
-    "titre": "Édouard Philippe souhaite \"donner plus de pouvoir\" à la police municipale",
-    "source": "franceinfo",
-    "date": "2026-10-21T08:41:33+02:00",
-    "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-souhaite-donner-plus-de-pouvoir-a-la-police-municipale_8246890.html#xtor=RSS-3-%5Bgeneral%5D"
-   }
-  ],
   "retailleau": [
    {
-    "titre": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
+    "titre": "Robert Ménard au Figaro : « Bruno Retailleau et David Lisnard ne finiront pas à deux face aux Français »",
     "source": "Le Figaro",
-    "date": "2026-10-16T09:05:32+02:00",
-    "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015"
+    "date": "2026-10-21T17:39:10+02:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/robert-menard-au-figaro-bruno-retailleau-et-david-lisnard-ne-finiront-pas-a-deux-face-aux-francais-20261021"
+   },
+   {
+    "titre": "Cinq questions sur la possibilité d'interdire un parti politique, comme le proposent Gérard Larcher et Bruno Retailleau pour LFI",
+    "source": "franceinfo",
+    "date": "2026-10-21T15:07:44+02:00",
+    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/est-il-possible-d-interdire-un-parti-politique-comme-le-proposent-gerard-larcher-et-bruno-retailleau-pour-la-france-insoumise_8245717.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner \"leurs candidatures de témoignages\" à la présidentielle pour se rassembler autour de Marine Le Pen",
+    "source": "franceinfo",
+    "date": "2026-10-21T11:36:44+02:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-ciotti-appelle-bruno-retailleau-et-david-lisnard-a-abandonner-leurs-candidatures-de-temoignages-pour-se-rassembler-autour-de-marine-le-pen_8247031.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ]
  }
