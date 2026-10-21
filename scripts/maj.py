@@ -136,8 +136,12 @@ def est_la_bonne_personne(qid, c):
     ids = lambda p: {x.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id") for x in cl.get(p, [])}
     if "Q5" not in ids("P31"):
         return False
-    nom = ("%s %s" % (c["prenom"], c["nom"])).lower().replace("-", " ")
-    label = (e.get("labels", {}).get("fr", {}).get("value") or "").lower().replace("-", " ")
+    import unicodedata
+    def norm(t):
+        t = unicodedata.normalize("NFD", t.lower().replace("-", " "))
+        return " ".join("".join(ch for ch in t if unicodedata.category(ch) != "Mn").split())
+    nom = norm("%s %s" % (c["prenom"], c["nom"]))
+    label = norm(e.get("labels", {}).get("fr", {}).get("value") or "")
     if label != nom:
         return False
     return "Q82955" in ids("P106") or bool(cl.get("P39")) or bool(cl.get("P102"))

@@ -4,8 +4,110 @@
  "date": "16 octobre 2026",
  "url": "https://sondage-presidentielle.fr/",
  "valeurs": {
-  "le-pen": 34.8, "melenchon": 16.6, "philippe": 15.5, "glucksmann": 12.1, "attal": 9.9,
-  "retailleau": 8.1, "david-lisnard": 5.4, "eric-zemmour": 4.2, "marine-tondelier": 3.3,
-  "francois-ruffin": 2.6, "fabien-roussel": 2.2, "nicolas-dupont-aignan": 2.1, "nathalie-arthaud": 0.8
+  "le-pen": 34.8,
+  "melenchon": 16.6,
+  "philippe": 15.5,
+  "glucksmann": 12.1,
+  "attal": 9.9,
+  "retailleau": 8.1,
+  "david-lisnard": 5.4,
+  "eric-zemmour": 4.2,
+  "marine-tondelier": 3.3,
+  "francois-ruffin": 2.6,
+  "fabien-roussel": 2.2,
+  "nicolas-dupont-aignan": 2.1,
+  "nathalie-arthaud": 0.8
+ },
+ "historique": {
+  "mois": [
+   "Févr.",
+   "Mars",
+   "Avr.",
+   "Mai",
+   "Juin",
+   "Juil.",
+   "Août",
+   "Sept.",
+   "Oct."
+  ],
+  "series": {
+   "le-pen": [
+    34.5,
+    32.8,
+    32.5,
+    31.8,
+    null,
+    null,
+    null,
+    34,
+    34.8
+   ],
+   "melenchon": [
+    10.5,
+    11.8,
+    12,
+    13.6,
+    null,
+    null,
+    null,
+    15,
+    16.6
+   ],
+   "philippe": [
+    16,
+    22,
+    19,
+    16.6,
+    null,
+    null,
+    null,
+    15,
+    15.5
+   ],
+   "glucksmann": [
+    11.5,
+    12.5,
+    11.5,
+    11.1,
+    null,
+    null,
+    null,
+    9,
+    12.1
+   ],
+   "attal": [
+    10,
+    11.5,
+    14,
+    12.3,
+    null,
+    null,
+    null,
+    8,
+    9.9
+   ],
+   "retailleau": [
+    11.5,
+    9.3,
+    11.5,
+    9.8,
+    null,
+    null,
+    null,
+    8,
+    8.1
+   ]
+  },
+  "note": "De février à mai : moyenne de toutes les hypothèses testées avec Marine Le Pen candidate (Ifop, Elabe, Harris Interactive, Ipsos). Juin à août : pas de sondage relevé avec ces six candidats (avant le 7 juillet, Marine Le Pen était inéligible et les instituts testaient Jordan Bardella). Septembre : sondage OpinionWay des 8 et 9 septembre. Octobre : moyenne calculée par sondage-presidentielle.fr au 16 octobre.",
+  "sources": [
+   {
+    "n": "tableau des sondages (Wikipédia)",
+    "u": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election"
+   },
+   {
+    "n": "sondage-presidentielle.fr",
+    "u": "https://sondage-presidentielle.fr/"
+   }
+  ]
  }
 }

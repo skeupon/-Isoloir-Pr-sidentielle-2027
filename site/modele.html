@@ -483,6 +483,44 @@ header.top{background:color-mix(in srgb,var(--bg) 92%,transparent)}
 .tv-full .tvset{max-width:860px;margin:0 auto}
 .tv-full .guide{max-width:860px;margin:14px auto 0}
 @media (max-width:900px){.une{grid-template-columns:1fr}.une-tv{order:1;max-width:420px}}
+
+/* ===== Accueil v2 ===== */
+.une{grid-template-columns:1fr 380px!important;gap:26px}
+.une-news{order:1!important}.une-vid{order:2}
+.vplayer{position:relative;aspect-ratio:16/9;border-radius:16px;overflow:hidden;background:#000;box-shadow:0 18px 40px -24px rgba(30,15,90,.5)}
+.vplayer iframe,.vplayer img{position:absolute;inset:0;width:100%;height:100%;border:0;object-fit:cover}
+.vplayer .veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.05),rgba(0,0,0,.6));display:flex;flex-direction:column;justify-content:flex-end;padding:12px;gap:4px;cursor:pointer;border:0;color:#fff;text-align:left;width:100%}
+.vplayer .big{position:absolute;left:50%;top:44%;transform:translate(-50%,-50%);width:54px;height:54px;border-radius:50%;background:var(--accent);display:grid;place-items:center;box-shadow:0 8px 22px rgba(0,0,0,.4)}
+.vplayer .big svg{width:20px;height:20px;fill:#1A1442;margin-left:3px}
+.vplayer .vt{font:800 .95rem/1.2 var(--display);position:relative;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.vplayer .vw{display:flex;align-items:center;gap:6px;font-weight:700;font-size:.75rem;position:relative}
+.vnext{margin:12px 0 6px;font-size:.78rem;font-weight:700;color:var(--muted);text-transform:none}
+.vflux{display:flex;flex-direction:column;gap:6px;max-height:300px;overflow-y:auto;padding-right:4px}
+.vfi{display:flex;gap:10px;align-items:center;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:6px;cursor:pointer;transition:background .15s}
+.vfi:hover{background:var(--soft)}
+.vfi[aria-current="true"]{border-color:var(--violet);box-shadow:0 0 0 1px var(--violet)}
+.vft{flex:none;width:96px;aspect-ratio:16/9;border-radius:8px;overflow:hidden;background:#222}
+.vft img{width:100%;height:100%;object-fit:cover;display:block}
+.vfm b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font:700 .8rem/1.25 var(--display)}
+.vfm small{display:flex;align-items:center;gap:5px;font-size:.7rem;font-weight:700;color:var(--muted);margin-top:3px}
+.vplayer .mire{position:absolute;inset:0;display:grid;grid-template-rows:1fr auto}
+.chartcard{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:18px 18px 10px;box-shadow:0 1px 2px rgba(20,20,60,.04),0 10px 28px -18px rgba(20,20,60,.18)}
+.chartwrap{overflow-x:auto}
+.chartwrap svg{width:100%;min-width:560px;height:auto;display:block}
+.chartwrap .gl{stroke:var(--line);stroke-width:1}
+.chartwrap .ax{font:600 12px var(--body);fill:var(--muted)}
+.chartwrap .lb{font:800 12.5px var(--display)}
+@media (max-width:900px){.une{grid-template-columns:1fr!important}}
+/* Navigation classique en haut sur ordinateur */
+@media (min-width:861px){
+ nav.main{position:static!important;transform:none!important;margin-left:auto!important;background:none!important;box-shadow:none!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;padding:0!important;border-radius:0!important}
+ nav.main a{color:var(--ink)!important}
+ nav.main a:hover{background:var(--soft)!important}
+ nav.main a[aria-current="page"]{background:var(--ink)!important;color:var(--bg)!important}
+ nav.main a[data-nav="methode"]{display:flex!important}
+ .mlink{display:none!important}
+ body{padding-bottom:0!important}
+}
 </style>
 </head>
 <body>
@@ -502,8 +540,7 @@ header.top{background:color-mix(in srgb,var(--bg) 92%,transparent)}
     <nav class="main" aria-label="Navigation">
       <a href="#accueil" data-nav="accueil"><span data-icon="home"></span>Accueil</a>
       <a href="#programmes" data-nav="programmes"><span data-icon="layers"></span>Programmes</a>
-      <a href="#tv" data-nav="tv"><span data-icon="tv"></span>TV</a>
-      <a href="#duel" data-nav="duel"><span data-icon="versus"></span>Duel</a>
+            <a href="#duel" data-nav="duel"><span data-icon="versus"></span>Duel</a>
       <a href="#actu" data-nav="actu"><span data-icon="news"></span>Actus</a>
       <a href="#methode" data-nav="methode"><span data-icon="info"></span>Méthode</a>
     </nav>
@@ -519,11 +556,7 @@ header.top{background:color-mix(in srgb,var(--bg) 92%,transparent)}
       <div>
         <p class="date"><span data-icon="calendar"></span>Premier tour le 18 avril 2027</p>
         <h1 id="h-accueil">Avant de glisser ton bulletin, <em>compare.</em></h1>
-        <p class="lead">Les propositions des candidats à la présidentielle, thème par thème, avec la source de chacune. Explore, fais le test, compare-les deux par deux.</p>
-        <div class="btns">
-          <a class="btn primary" href="#tv"><span data-icon="tv"></span>Allumer Isoloir TV</a>
-          <a class="btn" href="#programmes"><span data-icon="layers"></span>Explorer les programmes</a>
-        </div>
+        <div class="btns"><a class="btn primary" href="#programmes"><span data-icon="layers"></span>Explorer les programmes</a></div>
       </div>
       <div class="urne-stage" aria-hidden="true">
         <div class="urne"><div class="lid"></div><div class="env drop"></div><div class="pile"><div class="env"></div><div class="env"></div><div class="env"></div><div class="env"></div></div></div>
@@ -531,15 +564,30 @@ header.top{background:color-mix(in srgb,var(--bg) 92%,transparent)}
       </div>
     </div>
    </div>
-   <div class="stories" data-stories aria-label="Accès rapide aux candidats"></div>
   </div>
 
-  <section class="block" aria-labelledby="h-une" style="padding-top:18px">
+  <section class="block" aria-labelledby="h-une" style="padding-top:22px">
     <div class="wrap">
       <div class="une">
-        <div class="une-tv"><div class="sec-head"><h2 id="h-tvhome">Isoloir TV</h2><a class="more" href="#tv">Plein écran <span data-icon="arrow"></span></a></div><div data-tv="home"></div></div>
         <div class="une-news"><div class="sec-head"><h2 id="h-une">À la une</h2><a class="more" href="#actu">Toutes les actus <span data-icon="arrow"></span></a></div><div data-une></div></div>
+        <div class="une-vid"><div class="sec-head"><h2 id="h-vid">En vidéo</h2></div><div data-vmod></div></div>
       </div>
+    </div>
+  </section>
+
+  <section class="block" aria-labelledby="h-courbes">
+    <div class="wrap">
+      <div class="sec-head"><div><h2 id="h-courbes">Les sondages, mois par mois</h2><p class="intro">Intentions de vote au premier tour pour les six candidats en tête.</p></div></div>
+      <div class="chartcard" data-courbes></div>
+    </div>
+  </section>
+
+  <section class="block" aria-labelledby="h-cands">
+    <div class="wrap">
+      <div class="sec-head"><div><h2 id="h-cands" data-nbcands>Les candidatures déclarées</h2><p class="intro">Classées selon la moyenne des sondages. Touche une affiche pour ouvrir la fiche du candidat.</p></div></div>
+      <div class="fchips" role="toolbar" aria-label="Filtrer les candidats"><button type="button" class="fchip" data-f="tous" aria-pressed="true">Toutes</button><button type="button" class="fchip" data-f="detail" aria-pressed="false">Fiches détaillées</button><button type="button" class="fchip" data-f="sondes" aria-pressed="false">Testées dans les sondages</button></div>
+      <div class="panneaux" data-panneaux></div>
+      <p class="legend" data-critere></p>
     </div>
   </section>
 
@@ -549,28 +597,6 @@ header.top{background:color-mix(in srgb,var(--bg) 92%,transparent)}
       <div class="tiles" data-tiles></div>
     </div>
   </section>
-
-  <section class="block" aria-labelledby="h-cands">
-    <div class="wrap">
-      <div class="sec-head"><div><h2 id="h-cands" data-nbcands>Les candidats</h2><p class="intro">Classés selon la moyenne des sondages. Touche une affiche pour ouvrir la fiche du candidat.</p></div></div>
-      <div class="fchips" role="toolbar" aria-label="Filtrer les candidats"><button type="button" class="fchip" data-f="tous" aria-pressed="true">Tous</button><button type="button" class="fchip" data-f="detail" aria-pressed="false">Fiches détaillées</button><button type="button" class="fchip" data-f="sondes" aria-pressed="false">Testés dans les sondages</button></div>
-      <div class="panneaux" data-panneaux></div>
-      <p class="legend" data-critere></p>
-    </div>
-  </section>
-
-  <section class="block" aria-labelledby="h-modes">
-    <div class="wrap">
-      <div class="sec-head"><h2 id="h-modes">Trois façons de s’y retrouver</h2></div>
-      <div class="modes">
-        <a class="mode tint" style="--h:45" href="#tv"><span class="bub"><span data-icon="tv"></span></span><strong>Isoloir TV</strong><span>Les dernières vidéos des candidats, qui s’enchaînent toutes seules.</span><span class="go">Allumer <span data-icon="arrow"></span></span></a>
-        <a class="mode tint" style="--h:265" href="#programmes"><span class="bub"><span data-icon="layers"></span></span><strong>Programmes</strong><span>Un thème, tous les candidats côte à côte, chaque proposition avec sa source.</span><span class="go">Explorer <span data-icon="arrow"></span></span></a>
-        <a class="mode tint" style="--h:12" href="#duel"><span class="bub"><span data-icon="versus"></span></span><strong>Le duel</strong><span>Deux candidats face à face, thème par thème.</span><span class="go">Comparer <span data-icon="arrow"></span></span></a>
-      </div>
-    </div>
-  </section>
-
-
 </section>
 
 <section class="view" id="v-candidat" aria-labelledby="h-candidat"><div class="wrap" data-fiche></div></section>
@@ -584,13 +610,7 @@ header.top{background:color-mix(in srgb,var(--bg) 92%,transparent)}
   </div>
 </section>
 
-<section class="view" id="v-tv" aria-labelledby="h-tv">
-  <div class="wrap">
-    <div class="page-head"><h1 id="h-tv">Isoloir TV</h1><p>Les dernières vidéos des chaînes officielles des candidats, à tour de rôle : une vidéo de chacun, puis la suivante, dans un ordre tiré au sort.</p></div>
-    <div data-tv="full"></div>
-    <div style="height:48px"></div>
-  </div>
-</section>
+
 
 <section class="view" id="v-duel" aria-labelledby="h-duel">
   <div class="wrap">
@@ -629,7 +649,7 @@ header.top{background:color-mix(in srgb,var(--bg) 92%,transparent)}
     <ul class="rules" data-rules style="margin-bottom:28px">
       <li><span class="bub tint" style="--h:150"><span data-icon="check"></span></span><div><b>Les sources, par ordre de priorité</b>D’abord le site officiel de campagne ou de programme du candidat. Ensuite, ses déclarations rapportées par un média identifié. En dernier recours seulement, quand rien n’a été trouvé à la source sur un thème, le comparateur Déchiffrer 2027, qui cite lui-même la source d’origine.</div></li>
       <li><span class="bub tint" style="--h:12"><span data-icon="shield"></span></span><div><b>Ce qui est écarté</b>Les propos d’un proche ou d’un document de parti, qui n’engagent pas le candidat, et les sites qui résument les programmes sans lien vers l’original. Quand rien n’est relevé sur un thème, la fiche le dit.</div></li>
-      <li><span class="bub tint" style="--h:45"><span data-icon="tv"></span></span><div><b>Isoloir TV</b>Uniquement les chaînes YouTube officielles des candidats, au plus trois vidéos récentes chacun, diffusées à tour de rôle dans un ordre tiré au sort.</div></li>
+      <li><span class="bub tint" style="--h:45"><span data-icon="tv"></span></span><div><b>Les vidéos</b>Uniquement les chaînes YouTube officielles des candidats, au plus trois vidéos récentes chacun, diffusées à tour de rôle dans un ordre tiré au sort.</div></li>
       <li><span class="bub tint" style="--h:265"><span data-icon="chart"></span></span><div><b>L’ordre d’affichage</b>Selon la moyenne des intentions de vote au premier tour, avec la source et la date. Les candidats non testés viennent ensuite, par ordre alphabétique. Aucune couleur de parti.</div></li>
       <li><span class="bub tint" style="--h:190"><span data-icon="user"></span></span><div><b>Portraits et fiches de présentation</b>Photos sous licence libre (Wikimedia Commons ou Licence Ouverte), avec leur auteur. Âge, parcours et mandats viennent de Wikidata, uniquement si la fiche trouvée est bien celle du candidat : même nom, activité politique, et vérification manuelle pour les cas douteux. Les homonymes sont écartés. Pas de logos de partis.</div></li>
       <li><span class="bub tint" style="--h:330"><span data-icon="lock"></span></span><div><b>Rien ne quitte ton appareil</b>Tes réponses au test sont calculées dans ton navigateur. Rien n’est envoyé, rien n’est enregistré.</div></li>
@@ -723,7 +743,6 @@ var filt="tous";
 function renderPosters(){var l=ORDER.filter(function(c){return filt==="tous"||(filt==="detail"&&c.detaille)||(filt==="sondes"&&pct(c)!==null)});
   $("[data-panneaux]").innerHTML=l.map(function(c){return poster(c,"a")}).join("");reveal($("[data-panneaux]"),".poster")}
 $$("[data-f]").forEach(function(b){b.addEventListener("click",function(){filt=b.getAttribute("data-f");$$("[data-f]").forEach(function(x){x.setAttribute("aria-pressed",x===b)});renderPosters()})});
-$("[data-stories]").innerHTML=ORDER.map(function(c){var v=pct(c);return '<a class="story" href="#'+c.id+'"><span class="ring">'+av(c)+'</span><span>'+esc(c.nom)+'</span>'+(v!==null?'<span class="pc">'+fpct(v)+'</span>':'')+'</a>'}).join("");
 $("[data-critere]").innerHTML=esc(D.candidats.critere)+" Sondages : "+esc(SO.source||"")+", "+esc(SO.date||"")+(SO.url?' (<a href="'+esc(SO.url)+'" target="_blank" rel="noopener">voir</a>)':"")+". Quelques points d’écart restent dans la marge d’erreur ; les candidats non testés sont classés par ordre alphabétique.";
 
 function pollHTML(){var s=A.sondages;return '<div class="pollcard">'+ic("chart")+'<div><b>Sondages · '+esc(s.d)+'</b><br><span>'+esc(s.x)+'</span><br><span class="src">'+esc(s.s)+' · <a href="'+esc(s.u)+'" target="_blank" rel="noopener">lire l’article</a></span></div></div>'}
@@ -770,28 +789,47 @@ function renderUne(){
   $("[data-une]").innerHTML='<div class="newslist">'+out.map(function(x){return '<a class="nl" href="'+esc(x.u)+'" target="_blank" rel="noopener">'+av(x.c)+'<span><b>'+esc(x.t)+'</b><small>'+esc(full(x.c))+' · '+esc(x.s)+' · '+x.dt+'</small></span></a>'}).join("")+'</div>'+pollHTML();
   reveal($("[data-une]"),".nl");
 }
-/* Isoloir TV */
+/* Vidéos (accueil) */
 function shuf(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
-var TV={list:[],cur:0,on:null};
-(function(){var who=shuf(ORDER.filter(function(c){return (V[c.id]||[]).length}));var r=0,more=true;
-  while(more){more=false;who.forEach(function(c){var v=V[c.id][r];if(v){TV.list.push({c:c,v:v});more=true}});r++}})();
-function screenVeil(i){var x=TV.list[i];return '<button type="button" class="veil" data-tvplay="'+i+'" aria-label="Lancer Isoloir TV : '+esc(x.v.titre)+'"><img src="https://i.ytimg.com/vi/'+encodeURIComponent(x.v.id)+'/hqdefault.jpg" alt=""><span class="big"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4l13 8-13 8z"/></svg></span><span class="vw">'+av(x.c,"s")+esc(full(x.c))+'</span><span class="vt">'+esc(x.v.titre)+'</span></button>'}
-function renderTV(){
-  var n=TV.list.length, nc={};TV.list.forEach(function(x){nc[x.c.id]=1});
-  $$("[data-tv]").forEach(function(box){
-    var full_=box.getAttribute("data-tv")==="full";box.classList.toggle("tv-full",full_);
-    var scr=n?screenVeil(TV.cur):'<div class="mire" aria-label="Mire"><div class="bars"></div><div class="msg">Isoloir TV démarre dès que les chaînes officielles des candidats sont renseignées.</div></div>';
-    var guide=n?'<div class="guide" role="list">'+TV.list.slice(0,full_?60:8).map(function(x,i){return '<button type="button" class="gi" role="listitem" data-tvplay="'+i+'" aria-current="'+(i===TV.cur)+'"><span class="gt"><img src="https://i.ytimg.com/vi/'+encodeURIComponent(x.v.id)+'/mqdefault.jpg" alt="" loading="lazy"><span class="gn">'+(i+1)+'</span></span><b>'+esc(x.v.titre)+'</b><small>'+av(x.c,"s")+esc(x.c.nom)+'</small></button>'}).join("")+'</div>':'';
-    box.innerHTML='<div class="tvset"><div class="screen" data-screen>'+scr+'</div><div class="tvbar"><span class="onair"><i></i>En direct des campagnes</span><span>'+n+' vidéos · '+Object.keys(nc).length+' candidats</span><span class="knobs"><span></span><span></span></span></div></div>'+guide;
+var VL=[];(function(){var who=shuf(ORDER.filter(function(c){return (V[c.id]||[]).length}));var r=0,more=true;
+  while(more){more=false;who.forEach(function(c){var v=V[c.id][r];if(v){VL.push({c:c,v:v});more=true}});r++}})();
+var VCUR=0;
+function vthumb(id,q){return 'https://i.ytimg.com/vi/'+encodeURIComponent(id)+'/'+(q||"hqdefault")+'.jpg'}
+function renderVmod(){
+  var box=$("[data-vmod]");if(!box)return;
+  if(!VL.length){box.innerHTML='<div class="vplayer"><div class="mire"><div class="bars"></div><div class="msg">Les vidéos apparaîtront dès que les chaînes officielles des candidats seront relevées.</div></div></div>';return}
+  var x=VL[VCUR];
+  box.innerHTML='<div class="vplayer" data-vscreen><button type="button" class="veil" data-vplay="'+VCUR+'" aria-label="Lire : '+esc(x.v.titre)+'"><img src="'+vthumb(x.v.id)+'" alt=""><span class="big"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4l13 8-13 8z"/></svg></span><span class="vw">'+av(x.c,"s")+esc(full(x.c))+'</span><span class="vt">'+esc(x.v.titre)+'</span></button></div>'+
+    '<p class="vnext">À suivre · les vidéos s’enchaînent</p><div class="vflux">'+VL.map(function(y,i){return '<button type="button" class="vfi" data-vplay="'+i+'" aria-current="'+(i===VCUR)+'"><span class="vft"><img src="'+vthumb(y.v.id,"mqdefault")+'" alt="" loading="lazy"></span><span class="vfm"><b>'+esc(y.v.titre)+'</b><small>'+av(y.c,"s")+esc(full(y.c))+' · '+fdate(y.v.date)+'</small></span></button>'}).join("")+'</div>';
+}
+function vplay(i){
+  VCUR=i;var box=$("[data-vmod]");
+  var ids=VL.slice(i).concat(VL.slice(0,i)).map(function(x){return encodeURIComponent(x.v.id)});
+  $("[data-vscreen]",box).innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+ids[0]+'?autoplay=1&rel=0&playlist='+ids.slice(1).join(",")+'" title="Vidéos des candidats" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
+  $$(".vfi",box).forEach(function(b){b.setAttribute("aria-current",+b.getAttribute("data-vplay")===i)});
+}
+document.addEventListener("click",function(e){var b=e.target.closest("[data-vplay]");if(!b)return;vplay(+b.getAttribute("data-vplay"))});
+
+/* Courbes des sondages */
+function renderCourbes(){
+  var box=$("[data-courbes]"),H=SO.historique;if(!box||!H)return;
+  var W=760,Ht=320,ml=36,mr=120,mt=16,mb=34,mo=H.mois,n=mo.length;
+  var max=0;Object.keys(H.series).forEach(function(k){H.series[k].forEach(function(v){if(v!==null&&v>max)max=v})});max=Math.ceil((max+2)/5)*5;
+  function X(i){return ml+i*(W-ml-mr)/(n-1)}function Y(v){return mt+(1-v/max)*(Ht-mt-mb)}
+  var cols=["#6C4CFF","#FF8A3D","#1FB58F","#3BA8FF","#E04F8B","#8A7F6E"];
+  var g='';for(var t=0;t<=max;t+=10){g+='<line x1="'+ml+'" x2="'+(W-mr)+'" y1="'+Y(t)+'" y2="'+Y(t)+'" class="gl"/><text x="'+(ml-8)+'" y="'+(Y(t)+4)+'" class="ax" text-anchor="end">'+t+' %</text>'}
+  mo.forEach(function(m,i){g+='<text x="'+X(i)+'" y="'+(Ht-10)+'" class="ax" text-anchor="middle">'+esc(m)+'</text>'});
+  var lab=[];
+  Object.keys(H.series).forEach(function(id,ci){var c=cand(id),col=cols[ci%cols.length],pts=[];H.series[id].forEach(function(v,i){if(v!==null)pts.push([i,v])});
+    for(var k=1;k<pts.length;k++){var a=pts[k-1],b=pts[k],gap=b[0]-a[0]>1;g+='<line x1="'+X(a[0])+'" y1="'+Y(a[1])+'" x2="'+X(b[0])+'" y2="'+Y(b[1])+'" stroke="'+col+'" stroke-width="3" stroke-linecap="round"'+(gap?' stroke-dasharray="2 7" opacity=".7"':'')+'/>'}
+    pts.forEach(function(p){g+='<circle cx="'+X(p[0])+'" cy="'+Y(p[1])+'" r="4.5" fill="'+col+'" stroke="var(--surface)" stroke-width="2"><title>'+esc(full(c))+' · '+esc(mo[p[0]])+' : '+String(p[1]).replace(".",",")+' %</title></circle>'});
+    var last=pts[pts.length-1];if(last)lab.push({y:Y(last[1]),t:c.nom+" "+String(last[1]).replace(".",",")+" %",col:col,x:X(last[0])});
   });
+  lab.sort(function(a,b){return a.y-b.y});for(var k=1;k<lab.length;k++)if(lab[k].y-lab[k-1].y<15)lab[k].y=lab[k-1].y+15;
+  lab.forEach(function(l){g+='<text x="'+(l.x+10)+'" y="'+(l.y+4)+'" class="lb" fill="'+l.col+'">'+esc(l.t)+'</text>'});
+  box.innerHTML='<div class="chartwrap"><svg viewBox="0 0 '+W+' '+Ht+'" role="img" aria-label="Évolution mensuelle des intentions de vote">'+g+'</svg></div><p class="legend">'+esc(H.note)+' Pointillés : mois sans sondage relevé. Couleurs sans rapport avec les partis. Sources : '+H.sources.map(function(x){return '<a href="'+esc(x.u)+'" target="_blank" rel="noopener">'+esc(x.n)+'</a>'}).join(", ")+'.</p>';
 }
-function tvPlay(i,box){
-  TV.cur=i;
-  $$("[data-tv]").forEach(function(b){var sc=$("[data-screen]",b);if(b!==box&&sc&&TV.list.length)sc.innerHTML=screenVeil(i);$$(".gi",b).forEach(function(g){g.setAttribute("aria-current",+g.getAttribute("data-tvplay")===i)})});
-  var ids=TV.list.slice(i).concat(TV.list.slice(0,i)).map(function(x){return encodeURIComponent(x.v.id)});
-  $("[data-screen]",box).innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+ids[0]+'?autoplay=1&rel=0&playlist='+ids.slice(1).join(",")+'" title="Isoloir TV" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
-}
-document.addEventListener("click",function(e){var b=e.target.closest("[data-tvplay]");if(!b)return;var box=b.closest("[data-tv]");tvPlay(+b.getAttribute("data-tvplay"),box);var sc=$("[data-screen]",box);if(sc&&b.classList.contains("gi"))sc.scrollIntoView({block:"nearest",behavior:RM?"auto":"smooth"})});
+
 /* Écran d’accueil */
 (function(){var sp=$("#splash");if(!sp)return;
   var d=Math.ceil((new Date("2027-04-18T08:00:00+02:00")-new Date())/864e5);
@@ -895,7 +933,7 @@ $("#v-duel").addEventListener("click",function(e){var c=e.target.closest("[data-
 $("[data-onlydiff]").addEventListener("change",function(e){duel.only=e.target.checked;renderDuel()});
 
 /* Navigation */
-var VIEWS=["accueil","programmes","tv","duel","actu","methode"];
+var VIEWS=["accueil","programmes","duel","actu","methode"];
 var TITLES={accueil:"Isoloir · Présidentielle 2027",programmes:"Les programmes · Isoloir",tv:"Isoloir TV",duel:"Le duel · Isoloir",actu:"Les actus · Isoloir",methode:"Méthode · Isoloir"};
 function show(v,nav){$$(".view").forEach(function(s){s.classList.toggle("on",s.id==="v-"+v)});$$("[data-nav]").forEach(function(a){if(a.getAttribute("data-nav")===(nav||v))a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")})}
 function route(){if(document.startViewTransition&&!RM){document.startViewTransition(route0)}else route0()}
@@ -905,7 +943,7 @@ function route0(){var h=(location.hash||"").slice(1);
   else{var v=VIEWS.indexOf(h)>-1?h:"accueil";show(v);document.title=TITLES[v]}
   window.scrollTo(0,0)}
 window.addEventListener("hashchange",route);
-renderPosters();renderThemes();renderDuel();renderUne();renderTV();route0();
+renderPosters();renderThemes();renderDuel();renderUne();renderVmod();renderCourbes();route0();
 })();
 </script>
 </body>
