@@ -3,6 +3,8 @@
 
 1. Actus : articles des médias listés dans data/flux.json qui citent chaque candidat.
 2. Portraits : photo sous licence libre trouvée via Wikidata et Wikimedia Commons.
+4. Vidéos : dernières vidéos des chaînes YouTube officielles (data/videos.json, sinon la chaîne indiquée sur Wikidata).
+5. Fiches de présentation : âge, parcours, mandats, études, tirés de Wikidata (data/bios.json).
 3. Programmes : détection des changements sur les sites officiels des candidats
    (data/candidats.json, champ "sources_programme"). Un changement est inscrit au journal comme « à vérifier » :
    aucune position n'est modifiée automatiquement.
@@ -241,10 +243,151 @@ def maj_programmes(candidats, journal):
             time.sleep(2)
 
 
+# 4. Vidéos ------------------------------------------------------------------
+def id_chaine(valeur):
+    valeur = valeur.strip()
+    if re.fullmatch(r"UC[\w-]{20,}", valeur):
+        return valeur
+    m = re.search(r"/channel/(UC[\w-]{20,})", valeur)
+    if m:
+        return m.group(1)
+    if not valeur.startswith("http"):
+        valeur = "https://www.youtube.com/" + (valeur if valeur.startswith("@") else "@" + valeur)
+    if not autorise(valeur):
+        print("  vidéos : robots.txt refuse %s, mets plutôt l'identifiant UC…" % valeur)
+        return None
+    page = telecharger(valeur)
+    m = re.search(r'"externalId":"(UC[\w-]{20,})"', page) or re.search(r'/channel/(UC[\w-]{20,})', page)
+    return m.group(1) if m else None
+
+
+def maj_videos(actus):
+    conf = lire("videos.json")
+    n, jours = conf.get("par_candidat", 3), conf.get("jours_max", 60)
+    ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015",
+          "media": "http://search.yahoo.com/mrss/"}
+    videos = {}
+    try:
+        bios = lire("bios.json").get("fiches", {})
+    except FileNotFoundError:
+        bios = {}
+    chaines = dict(conf.get("chaines", {}))
+    for cid, b in bios.items():
+        if not chaines.get(cid) and b.get("youtube"):
+            chaines[cid] = b["youtube"]  # chaîne déclarée sur Wikidata
+    for cid, valeur in chaines.items():
+        if not valeur:
+            continue
+        try:
+            ch = id_chaine(valeur)
+            if not ch:
+                print("  vidéos %s : chaîne introuvable" % cid)
+                continue
+            racine = ET.fromstring(telecharger("https://www.youtube.com/feeds/videos.xml?channel_id=" + ch))
+        except Exception as e:
+            print("  vidéos %s : échec (%s)" % (cid, e))
+            continue
+        liste = []
+        for en in racine.findall("a:entry", ns):
+            vid = en.findtext("yt:videoId", namespaces=ns)
+            try:
+                d = datetime.fromisoformat((en.findtext("a:published", namespaces=ns) or "").replace("Z", "+00:00"))
+            except Exception:
+                continue
+            if not vid or MAINTENANT - d > timedelta(days=jours):
+                continue
+            liste.append({"id": vid, "titre": (en.findtext("a:title", namespaces=ns) or "").strip(),
+                          "date": d.isoformat(), "chaine": ch})
+        liste.sort(key=lambda v: v["date"], reverse=True)
+        if liste:
+            videos[cid] = liste[:n]
+        time.sleep(1)
+    actus["videos"] = videos
+
+
+# 5. Fiches de présentation (Wikidata) ---------------------------------------
+def _vals(claims, prop):
+    out = []
+    for x in claims.get(prop, []):
+        dv = x.get("mainsnak", {}).get("datavalue", {})
+        out.append((dv.get("value"), x.get("qualifiers", {}), x.get("rank")))
+    return out
+
+
+def _annee(qual, prop):
+    try:
+        return int(qual[prop][0]["datavalue"]["value"]["time"][1:5])
+    except Exception:
+        return None
+
+
+def libelles(ids):
+    ids = [i for i in dict.fromkeys(ids) if i]
+    out = {}
+    for k in range(0, len(ids), 50):
+        r = json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
+                     ids="|".join(ids[k:k + 50]), props="labels", languages="fr|en")
+        for q, e in r.get("entities", {}).items():
+            lab = e.get("labels", {})
+            out[q] = (lab.get("fr") or lab.get("en") or {}).get("value", q)
+    return out
+
+
+def maj_bios(candidats):
+    bios = {}
+    for c in candidats:
+        q = c.get("wikidata")
+        if not q:
+            continue
+        try:
+            ent = json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
+                           ids=q, props="claims")["entities"][q]
+        except Exception as e:
+            print("  fiche %s : échec (%s)" % (c["id"], e))
+            continue
+        cl = ent.get("claims", {})
+        naissance = next((v["time"] for v, _, _ in _vals(cl, "P569") if v), None)
+        lieu = next((v["id"] for v, _, _ in _vals(cl, "P19") if v), None)
+        metiers = [v["id"] for v, _, _ in _vals(cl, "P106") if v][:4]
+        etudes = [v["id"] for v, _, _ in _vals(cl, "P69") if v][:4]
+        partis = [v["id"] for v, qu, _ in _vals(cl, "P102") if v and "P582" not in qu][:2]
+        postes = []
+        for v, qu, _ in _vals(cl, "P39"):
+            if v:
+                postes.append({"q": v["id"], "debut": _annee(qu, "P580"), "fin": _annee(qu, "P582")})
+        # regroupe les mandats identiques (plusieurs législatures) et garde les plus récents
+        groupes = {}
+        for p in postes:
+            g = groupes.setdefault(p["q"], {"q": p["q"], "debut": p["debut"], "fin": p["fin"]})
+            if p["debut"] and (not g["debut"] or p["debut"] < g["debut"]):
+                g["debut"] = p["debut"]
+            if p["fin"] is None:
+                g["fin"] = None
+            elif g["fin"] is not None and p["fin"] > g["fin"]:
+                g["fin"] = p["fin"]
+        postes = sorted(groupes.values(), key=lambda p: (p["fin"] is None, p["fin"] or 0, p["debut"] or 0), reverse=True)[:7]
+        site = next((v for v, _, _ in _vals(cl, "P856") if isinstance(v, str)), None)
+        youtube = next((v for v, _, _ in _vals(cl, "P2397") if isinstance(v, str)), None)
+        lab = libelles([lieu] + metiers + etudes + partis + [p["q"] for p in postes])
+        bios[c["id"]] = {
+            "wikidata": q,
+            "naissance": naissance[1:11] if naissance else None,
+            "lieu": lab.get(lieu) if lieu else None,
+            "metiers": [lab[m] for m in metiers if m in lab],
+            "etudes": [lab[e] for e in etudes if e in lab],
+            "partis": [lab[p] for p in partis if p in lab],
+            "parcours": [{"poste": lab.get(p["q"], p["q"]), "debut": p["debut"], "fin": p["fin"]} for p in postes],
+            "site": site, "youtube": youtube,
+        }
+        time.sleep(1)
+    ecrire("bios.json", {"maj": MAINTENANT.isoformat(timespec="minutes"),
+                         "source": "Wikidata (données sous licence CC0)", "fiches": bios})
+
+
 def main():
     cand_data, actus, journal = lire("candidats.json"), lire("actus.json"), lire("journal.json")
     candidats = cand_data["candidats"]
-    etapes = sys.argv[1:] or ["actus", "portraits", "programmes"]
+    etapes = sys.argv[1:] or ["actus", "portraits", "bios", "videos", "programmes"]
     if "actus" in etapes:
         print("Actus…"); maj_actus(candidats, actus)
     if "portraits" in etapes:
@@ -260,6 +403,14 @@ def main():
             except Exception as e:
                 print("  portrait %s : échec (%s)" % (c["id"], e))
             time.sleep(1)
+    if "bios" in etapes:
+        print("Fiches de présentation…"); maj_bios(candidats)
+    if "videos" in etapes:
+        print("Vidéos…")
+        try:
+            maj_videos(actus)
+        except FileNotFoundError:
+            print("  pas de data/videos.json")
     if "programmes" in etapes:
         print("Programmes…"); maj_programmes(candidats, journal)
     journal["entrees"] = journal["entrees"][-300:]

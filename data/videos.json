@@ -1,0 +1,20 @@
+{
+ "note": "Chaînes YouTube OFFICIELLES des candidats. Mets pour chacun l'identifiant de chaîne (commence par UC…) ou l'adresse de la chaîne (https://www.youtube.com/@nom). Laisse vide si tu n'es pas sûr : une chaîne non officielle fausserait le comparateur. Même nombre de vidéos affichées pour chaque candidat.",
+ "par_candidat": 3,
+ "jours_max": 60,
+ "chaines": {
+  "le-pen": "",
+  "melenchon": "",
+  "philippe": "",
+  "glucksmann": "",
+  "attal": "",
+  "retailleau": "",
+  "david-lisnard": "",
+  "eric-zemmour": "",
+  "marine-tondelier": "",
+  "francois-ruffin": "",
+  "fabien-roussel": "",
+  "nicolas-dupont-aignan": "",
+  "nathalie-arthaud": ""
+ }
+}

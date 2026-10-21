@@ -347,6 +347,46 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
 .opt:hover{transform:translateX(4px)}
 ::view-transition-old(root),::view-transition-new(root){animation-duration:.28s}
 @media (prefers-reduced-motion:reduce){.blob{animation:none}.rv{opacity:1;transform:none;transition:none}.ring,.poster .ph img,.opt{transition:none}.story:hover .ring,.poster:hover .ph img,.opt:hover{transform:none}}
+
+/* Vidéos */
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px;padding:6px 0 18px}
+.vrow{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 2px 14px;scrollbar-width:none}
+.vrow::-webkit-scrollbar{display:none}
+.vrow .vcard{flex:none;width:280px;scroll-snap-align:start}
+.vcard{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:16px;overflow:hidden;text-align:left;padding:0;cursor:pointer;transition:transform .15s,box-shadow .15s}
+.vcard:hover{transform:translateY(-3px);box-shadow:0 14px 30px -16px rgba(40,20,120,.5)}
+.thumb{position:relative;aspect-ratio:16/9;background:linear-gradient(135deg,hsl(258 60% 30%),hsl(330 60% 35%));display:block}
+.thumb img,.thumb iframe{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border:0}
+.play{position:absolute;left:50%;top:50%;width:56px;height:56px;margin:-28px 0 0 -28px;border-radius:50%;background:var(--accent);display:grid;place-items:center;box-shadow:0 6px 18px rgba(0,0,0,.35);transition:transform .15s}
+.play svg{width:22px;height:22px;fill:var(--ink);margin-left:3px}
+.vcard:hover .play{transform:scale(1.1)}
+.vmeta{display:flex;flex-direction:column;gap:6px;padding:12px 14px 14px}
+.vwho{display:flex;align-items:center;gap:8px;font-weight:700;font-size:.85rem}
+.vtitle{font:700 1rem/1.25 var(--display);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.vdate{font-size:.78rem;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){.vcard,.play{transition:none}.vcard:hover,.vcard:hover .play{transform:none}}
+
+/* Fiche de présentation */
+.bio{display:grid;grid-template-columns:1fr 1.2fr;gap:14px;margin:6px 0 18px}
+.bcard{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:18px}
+.bcard h3{display:flex;align-items:center;gap:10px;font:800 1.2rem/1.1 var(--display);margin:0 0 12px}
+.bcard h3 .bub{width:34px;height:34px;border-radius:10px;display:grid;place-items:center}
+.facts{display:grid;gap:10px;margin:0;padding:0;list-style:none}
+.facts li{display:flex;gap:12px;align-items:flex-start}
+.facts .fi{width:38px;height:38px;flex:none;border-radius:12px;display:grid;place-items:center}
+.facts .fi .ic{width:19px;height:19px}
+.facts small{display:block;color:var(--muted);font-size:.78rem;font-weight:700}
+.facts b{font-weight:700}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.tl{list-style:none;margin:0;padding:0 0 0 18px;position:relative}
+.tl::before{content:"";position:absolute;left:5px;top:6px;bottom:6px;width:2px;background:var(--line)}
+.tl li{position:relative;padding:0 0 12px 12px}
+.tl li::before{content:"";position:absolute;left:-18px;top:6px;width:12px;height:12px;border-radius:50%;background:var(--surface);border:3px solid var(--violet)}
+.tl li.now::before{background:var(--accent);border-color:var(--accent)}
+.tl b{display:block;line-height:1.25}
+.tl span{font-size:.82rem;color:var(--muted);font-weight:700}
+.bsrc{font-size:.78rem;color:var(--muted);margin-top:10px}
+@media (max-width:760px){.bio{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -408,7 +448,7 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
     <div class="wrap">
       <div class="sec-head"><h2 id="h-modes">Trois façons de s’y retrouver</h2></div>
       <div class="modes">
-        <a class="mode tint" style="--h:45" href="#test"><span class="bub"><span data-icon="check"></span></span><strong>Le test</strong><span data-nbq>Des questions à choix multiple. À la fin, de qui tu es le plus proche, et pourquoi.</span><span class="go">Faire le test <span data-icon="arrow"></span></span></a>
+        <a class="mode tint" style="--h:45" href="#test"><span class="bub"><span data-icon="check"></span></span><strong>Le test</strong><span data-nbq>Des questions sur lesquelles tous les candidats ont pris position. À la fin, de qui tu es le plus proche, et pourquoi.</span><span class="go">Faire le test <span data-icon="arrow"></span></span></a>
         <a class="mode tint" style="--h:265" href="#programmes"><span class="bub"><span data-icon="layers"></span></span><strong>Programmes</strong><span>Un thème, tous les candidats côte à côte, chaque proposition avec sa source.</span><span class="go">Explorer <span data-icon="arrow"></span></span></a>
         <a class="mode tint" style="--h:12" href="#duel"><span class="bub"><span data-icon="versus"></span></span><strong>Le duel</strong><span>Deux candidats face à face, thème par thème.</span><span class="go">Comparer <span data-icon="arrow"></span></span></a>
       </div>
@@ -417,6 +457,7 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
 
   <section class="block" aria-labelledby="h-actu-teaser">
     <div class="wrap">
+      <div data-vhome></div>
       <div class="sec-head"><h2 id="h-actu-teaser">Les dernières actus</h2><a class="more" href="#actu">Toutes les actus <span data-icon="arrow"></span></a></div>
       <div data-poll-teaser></div>
     </div>
@@ -436,7 +477,7 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
 
 <section class="view" id="v-test" aria-labelledby="h-test">
   <div class="wrap">
-    <div class="page-head"><h1 id="h-test">Le test</h1><p>Choisis la réponse la plus proche de ton avis. Tu peux passer une question et cocher les sujets qui comptent le plus pour toi.</p></div>
+    <div class="page-head"><h1 id="h-test">Le test</h1><p>Choisis la réponse la plus proche de ton avis. Le test ne contient que les sujets sur lesquels <b>tous</b> les candidats comparés ont pris position : chacun est donc noté sur les mêmes questions. Il s’enrichira au fil des programmes.</p></div>
     <div class="quiz" data-quiz></div>
   </div>
 </section>
@@ -460,6 +501,8 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
   <div class="wrap">
     <div class="page-head"><h1 id="h-actu">Les actus</h1><p>Les derniers articles sur chaque candidat, avec un lien vers le média d’origine.</p></div>
     <div data-poll-full></div>
+    <section class="tsec" aria-labelledby="h-videos"><h2 id="h-videos">Les dernières vidéos</h2><p class="auto-note">Les vidéos les plus récentes des chaînes YouTube officielles, au plus trois par candidat. Elles se lancent dans la page, sans cookies publicitaires.</p><div class="vgrid" data-videos></div></section>
+    <h2 class="tsec" style="font:800 1.5rem/1.1 var(--display);margin:8px 0 0">Les derniers articles</h2>
     <div class="filters"><label for="fcand"><b>Candidat</b></label><select id="fcand" data-fcand></select></div>
     <div class="newsgrid" data-news></div>
     <p class="updated" data-maj></p>
@@ -476,7 +519,7 @@ body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
     <ul class="rules" data-rules style="margin-bottom:28px">
       <li><span class="bub tint" style="--h:150"><span data-icon="check"></span></span><div><b>Les sources, par ordre de priorité</b>D’abord le site officiel de campagne ou de programme du candidat. Ensuite, ses déclarations rapportées par un média identifié. En dernier recours seulement, quand rien n’a été trouvé à la source sur un thème, le comparateur Déchiffrer 2027, qui cite lui-même la source d’origine.</div></li>
       <li><span class="bub tint" style="--h:12"><span data-icon="shield"></span></span><div><b>Ce qui est écarté</b>Les propos d’un proche ou d’un document de parti, qui n’engagent pas le candidat, et les sites qui résument les programmes sans lien vers l’original. Quand rien n’est relevé sur un thème, la fiche le dit.</div></li>
-      <li><span class="bub tint" style="--h:45"><span data-icon="check"></span></span><div><b>Comment le test calcule</b>Réponse identique à celle du candidat : 100 %. Réponse voisine sur une échelle : un score partiel. Les sujets cochés comme importants comptent double. Une question n’entre dans le test que si au moins trois candidats y ont une position.</div></li>
+      <li><span class="bub tint" style="--h:45"><span data-icon="check"></span></span><div><b>Comment le test calcule</b>Réponse identique à celle du candidat : 100 %. Réponse voisine sur une échelle : un score partiel. Les sujets cochés comme importants comptent double. Une question n’entre dans le test que si tous les candidats comparés y ont une position : tout le monde est noté sur les mêmes questions.</div></li>
       <li><span class="bub tint" style="--h:265"><span data-icon="chart"></span></span><div><b>L’ordre d’affichage</b>Selon la moyenne des intentions de vote au premier tour, avec la source et la date. Les candidats non testés viennent ensuite, par ordre alphabétique. Aucune couleur de parti.</div></li>
       <li><span class="bub tint" style="--h:190"><span data-icon="user"></span></span><div><b>Les portraits</b>Photos sous licence libre (Wikimedia Commons ou Licence Ouverte), avec leur auteur. Pas de logos de partis : ce sont des marques protégées.</div></li>
       <li><span class="bub tint" style="--h:330"><span data-icon="lock"></span></span><div><b>Rien ne quitte ton appareil</b>Tes réponses au test sont calculées dans ton navigateur. Rien n’est envoyé, rien n’est enregistré.</div></li>
@@ -533,6 +576,7 @@ function pct(c){var v=SO.valeurs[c.id];return typeof v==="number"?v:null}
 function fpct(v){return String(v).replace(".",",")+" %"}
 var ORDER=ALL.slice().sort(function(a,b){var x=pct(a),y=pct(b);if(x!==null||y!==null)return (y===null?-1:y)-(x===null?-1:x);return a.nom.localeCompare(b.nom,"fr")});
 var DET=ORDER.filter(function(c){return c.detaille});
+Q=Q.filter(function(q){return DET.every(function(c){return q.pos[c.id]})});
 function num(id){for(var i=0;i<ORDER.length;i++)if(ORDER[i].id===id)return i+1}
 function ini(c){return esc((c.prenom[0]||"")+(c.nom.replace(/^(Le|La|De|Du) /,"")[0]||""))}
 function av(c,cls){var ph=c.photo&&c.photo.src;return '<span class="av'+(cls?" "+cls:"")+'" aria-hidden="true">'+(ph?'<img src="'+esc(ph)+'" alt="" loading="lazy">':ini(c))+'</span>'}
@@ -592,16 +636,50 @@ function renderNews(){
   $("[data-news]").innerHTML=html||'<p class="empty">Pas encore d’actu relevée.</p>';
 }
 fsel.addEventListener("change",renderNews);renderNews();
+
+/* Vidéos */
+var V=A.videos||{};
+function vcard(c,v){return '<button type="button" class="vcard" data-vid="'+esc(v.id)+'" aria-label="Lire la vidéo : '+esc(v.titre)+'"><span class="thumb"><img src="https://i.ytimg.com/vi/'+encodeURIComponent(v.id)+'/hqdefault.jpg" alt="" loading="lazy"><span class="play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4l13 8-13 8z"/></svg></span></span><span class="vmeta"><span class="vwho">'+av(c,"s")+esc(full(c))+'</span><span class="vtitle">'+esc(v.titre)+'</span><span class="vdate">'+fdate(v.date)+'</span></span></button>'}
+function allVideos(only){var l=[];ORDER.forEach(function(c){if(only&&c.id!==only)return;(V[c.id]||[]).forEach(function(v){l.push({c:c,v:v})})});l.sort(function(a,b){return a.v.date<b.v.date?1:-1});return l}
+function renderVideos(){var l=allVideos(fsel.value);
+  $("[data-videos]").innerHTML=l.length?l.map(function(x){return vcard(x.c,x.v)}).join(""):'<p class="empty">'+(Object.keys(V).length?"Pas de vidéo récente pour ce candidat.":"Les vidéos apparaîtront dès que les chaînes officielles des candidats seront renseignées.")+'</p>';
+  reveal($("[data-videos]"),".vcard")}
+(function(){var l=allVideos("");if(!l.length)return;
+  $("[data-vhome]").innerHTML='<div class="sec-head"><h2>Les dernières vidéos</h2><a class="more" href="#actu">Toutes les vidéos '+ic("arrow")+'</a></div><div class="vrow">'+l.slice(0,10).map(function(x){return vcard(x.c,x.v)}).join("")+'</div>'})();
+document.addEventListener("click",function(e){var b=e.target.closest("[data-vid]");if(!b||b.getAttribute("data-on"))return;b.setAttribute("data-on","1");
+  var id=encodeURIComponent(b.getAttribute("data-vid"));
+  b.querySelector(".thumb").innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+id+'?autoplay=1&rel=0" title="Vidéo YouTube" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>'});
+fsel.addEventListener("change",renderVideos);renderVideos();
+
 $("[data-journal]").innerHTML=J.slice().reverse().slice(0,30).map(function(e){var c=e.candidat&&cand(e.candidat);
   return '<li><time>'+fdt(e.date)+'</time>'+(e.type==="programme"?'<span class="pill tiers" style="align-self:flex-start">Programme modifié, à vérifier</span>':'')+'<span>'+(c?'<a href="#'+c.id+'">'+esc(full(c))+'</a> : ':'')+esc(e.texte)+'</span>'+(e.resume?'<span class="auto-note">Résumé automatique, à valider : '+esc(e.resume)+'</span>':'')+(e.url?'<span class="src"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">voir la page</a></span>':'')+'</li>'}).join("");
 
 /* Fiche candidat */
+var BIOS=(D.bios&&D.bios.fiches)||{};
+IC.cake='<path d="M4 21h16v-8H4z"/><path d="M4 16c2 0 2-1.5 4-1.5S10 16 12 16s2-1.5 4-1.5 2 1.5 4 1.5"/><path d="M12 13V9M12 6v.5"/>';
+IC.pin='<path d="M12 21s7-6.2 7-12a7 7 0 0 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="9" r="2.5"/>';
+IC.globe='<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/>';
+function age(d){var b=new Date(d),n=new Date(),a=n.getFullYear()-b.getFullYear();if(n.getMonth()<b.getMonth()||(n.getMonth()===b.getMonth()&&n.getDate()<b.getDate()))a--;return a}
+function bioHTML(c){var b=BIOS[c.id];if(!b)return "";
+  var f=[];
+  if(b.naissance)f.push(['cake',45,"Âge",age(b.naissance)+" ans · naissance le "+fdate(b.naissance)]);
+  if(b.lieu)f.push(['pin',12,"Lieu de naissance",b.lieu]);
+  if(b.metiers&&b.metiers.length)f.push(['briefcase',210,"Profession",b.metiers.join(", ")]);
+  if(b.etudes&&b.etudes.length)f.push(['school',190,"Études",b.etudes.join(", ")]);
+  if(b.partis&&b.partis.length)f.push(['landmark',290,"Parti",b.partis.join(", ")]);
+  var links=(b.site?'<a class="btn small" href="'+esc(b.site)+'" target="_blank" rel="noopener">'+ic("globe")+'Site officiel</a>':'')+(b.youtube?'<a class="btn small" href="https://www.youtube.com/channel/'+encodeURIComponent(b.youtube)+'" target="_blank" rel="noopener">Chaîne YouTube</a>':'');
+  var tl=(b.parcours||[]).map(function(p){var per=p.debut?(p.fin?(p.debut===p.fin?p.debut:p.debut+" – "+p.fin):"depuis "+p.debut):(p.fin?"jusqu’en "+p.fin:"");return '<li'+(p.fin===null&&p.debut?' class="now"':'')+'><b>'+esc(p.poste.charAt(0).toUpperCase()+p.poste.slice(1))+'</b><span>'+esc(per)+'</span></li>'}).join("");
+  var src='<p class="bsrc">Source : <a href="https://www.wikidata.org/wiki/'+esc(b.wikidata)+'" target="_blank" rel="noopener">Wikidata</a>, mise à jour automatique.</p>';
+  return '<div class="bio"><div class="bcard"><h3><span class="bub tint" style="--h:258">'+ic("user")+'</span>Présentation</h3><ul class="facts">'+f.map(function(x){return '<li><span class="fi tint" style="--h:'+x[1]+'">'+ic(x[0])+'</span><div><small>'+esc(x[2])+'</small><b>'+esc(x[3])+'</b></div></li>'}).join("")+'</ul>'+(links?'<div class="links">'+links+'</div>':'')+src+'</div>'+
+    (tl?'<div class="bcard"><h3><span class="bub tint" style="--h:45">'+ic("chart")+'</span>Parcours et mandats</h3><ul class="tl">'+tl+'</ul>'+src+'</div>':'')+'</div>';
+}
+
 function renderFiche(id){
   var c=cand(id), mine=P.filter(function(p){return p.c===id}), idx=num(id)-1;
   var prev=ORDER[(idx+ORDER.length-1)%ORDER.length], next=ORDER[(idx+1)%ORDER.length], news=newsFor(id);
   var credit=c.photo?'<p class="credit">Photo : '+esc(c.photo.auteur||"")+', '+esc(c.photo.licence||"")+(c.photo.page?' · <a href="'+esc(c.photo.page)+'" target="_blank" rel="noopener">source</a>':'')+'</p>':'';
   var v=pct(c);
-  var html='<div class="fiche-head"><div>'+poster(c,"div")+credit+'</div><div><h1 id="h-candidat">'+esc(full(c))+'</h1><p>'+esc(c.parti)+(v!==null?' · '+fpct(v)+' dans les sondages':'')+'</p><span class="status">'+esc(ST[c.id]||c.statut)+'</span></div></div>';
+  var html='<div class="fiche-head"><div>'+poster(c,"div")+credit+'</div><div><h1 id="h-candidat">'+esc(full(c))+'</h1><p>'+esc(c.parti)+(v!==null?' · '+fpct(v)+' dans les sondages':'')+'</p><span class="status">'+esc(ST[c.id]||c.statut)+'</span></div></div>'+bioHTML(c);
   if(mine.length){
     html+='<div class="ttiles">'+THEMES.map(function(t){var k=mine.filter(function(p){return p.th===t.id}).length;
       return '<button type="button" class="ttile tint"'+tstyle(t)+' data-jump="'+t.id+'" data-n="'+k+'"'+(k?'':' disabled')+'>'+ic(t.ic)+'<span>'+esc(t.label)+' · '+k+'</span></button>'}).join("")+'</div>';
@@ -610,6 +688,7 @@ function renderFiche(id){
   }else{
     html+='<section class="tsec"><h2>Propositions</h2><p class="empty">Cette fiche est en préparation : ses propositions seront relevées et sourcées selon la même méthode que les autres.</p></section>';
   }
+  var vids=(V[id]||[]);if(vids.length)html+='<section class="tsec"><h2><span class="bub tint" style="--h:330"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M10 9l5 3-5 3z"/></svg></span>Ses dernières vidéos</h2><div class="vgrid">'+vids.map(function(v){return vcard(c,v)}).join("")+'</div></section>';
   html+='<section class="tsec"><h2><span class="bub tint" style="--h:215">'+ic("news")+'</span>Ses dernières actus</h2>'+(news.length?'<div class="ncard">'+newsItems(news)+'</div>':'<p class="empty">Pas encore d’actu relevée.</p>')+'</section>';
   html+='<div class="fiche-nav"><a class="btn small" href="#'+prev.id+'">← '+esc(full(prev))+'</a>'+(c.detaille?'<a class="btn small primary" href="#duel" data-duel-with="'+id+'">'+ic("versus")+'Le comparer en duel</a>':'')+'<a class="btn small" href="#'+next.id+'">'+esc(full(next))+' →</a></div>';
   $("[data-fiche]").innerHTML=html;reveal($("[data-fiche]"),".item,.ttile");

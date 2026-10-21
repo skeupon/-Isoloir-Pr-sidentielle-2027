@@ -74,35 +74,42 @@
   {
    "id": "immigration",
    "theme": "Immigration",
-   "q": "Quelle politique pour l’immigration ?",
+   "q": "Quelle politique pour l’immigration de travail ?",
    "opts": [
     {
-     "l": "En débattre d’abord dans une convention citoyenne tirée au sort",
-     "p": null
-    },
-    {
-     "l": "Réduire avec des quotas ou un système à points, en privilégiant le travail",
+     "l": "Régulariser les travailleurs sans papiers",
      "p": 0
     },
     {
-     "l": "Diviser par deux l’immigration légale et suspendre le regroupement familial",
+     "l": "Réduire l’immigration avec des quotas ou un système à points",
      "p": 1
+    },
+    {
+     "l": "La restreindre fortement, en taxant l’embauche de salariés extra-européens",
+     "p": 2
     }
    ],
    "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/immigration-travail",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Régulariser travailleurs, étudiants et parents."
+    },
     "glucksmann": {
      "o": 0,
-     "u": "https://www.cnews.fr/france/2026-09-11/immigration-quelles-sont-les-propositions-des-candidats-lelection-presidentielle",
-     "t": "media",
-     "s": "CNews",
-     "x": "Une convention citoyenne tirée au sort sur l’immigration."
+     "u": "https://dechiffrer2027.fr/mesure/glucksmann/immigration-travail",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Régulariser les travailleurs sans papiers."
     },
     "attal": {
      "o": 1,
      "u": "https://attalpresident.fr/programme/frontieres",
      "t": "site",
      "s": "Site de campagne (attalpresident.fr)",
-     "x": "Accueillir moins, privilégier le travail, système à points."
+     "x": "Accueillir moins, priorité au travail, système à points."
     },
     "retailleau": {
      "o": 1,
@@ -112,11 +119,18 @@
      "x": "Des quotas migratoires fixés par la loi."
     },
     "philippe": {
-     "o": 2,
+     "o": 1,
      "u": "https://lcp.fr/actualites/edouard-philippe-veut-diviser-par-deux-l-immigration-legale-et-propose-un-moratoire-sur",
      "t": "media",
      "s": "LCP",
-     "x": "Diviser par deux l’immigration légale, moratoire sur le regroupement familial."
+     "x": "Diviser par deux l’immigration légale, en privilégiant le travail."
+    },
+    "le-pen": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/le-pen/immigration-travail",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Une taxe de 1 000 € par an sur chaque salarié extra-européen embauché."
     }
    }
   },
@@ -425,6 +439,20 @@
      "t": "tiers",
      "s": "Déchiffrer 2027",
      "x": "8 EPR2 en plus des 6 premiers, si leur chantier avance bien."
+    },
+    "glucksmann": {
+     "o": 1,
+     "u": "https://www.france24.com/fr/info-en-continu/20260825-pr%C3%A9sidentielle-glucksmann-en-qu%C3%AAte-des-verts-et-de-la-primaire",
+     "t": "media",
+     "s": "AFP, repris par France 24",
+     "x": "Veut développer de nouveaux réacteurs, sans en fixer le nombre."
+    },
+    "le-pen": {
+     "o": 2,
+     "u": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen",
+     "t": "media",
+     "s": "Reporterre",
+     "x": "Relance massive du nucléaire (une vingtaine de réacteurs promis en 2022)."
     }
    }
   },
@@ -485,6 +513,13 @@
      "t": "site",
      "s": "Site de campagne (avecretailleau.fr)",
      "x": "Cesser de subventionner les éoliennes."
+    },
+    "glucksmann": {
+     "o": 1,
+     "u": "https://www.france24.com/fr/info-en-continu/20260825-pr%C3%A9sidentielle-glucksmann-en-qu%C3%AAte-des-verts-et-de-la-primaire",
+     "t": "media",
+     "s": "AFP, repris par France 24",
+     "x": "Accélérer les renouvelables pour sortir du gaz et du pétrole, « 100 jours de la révolution écologique »."
     }
    }
   },

@@ -1,6 +1,13 @@
 {
- "note": "Portraits imposés à la main : identifiant du candidat -> nom exact du fichier sur commons.wikimedia.org (sans « File: »). Le robot vérifie toujours que la licence est libre.",
+ "note": "Deux façons d'imposer un portrait. 1) « fichiers » : nom exact d'un fichier sur commons.wikimedia.org ; le robot le télécharge et vérifie la licence. 2) Dépose toi-même une photo libre de droits dans data/photos/, nommée <identifiant>-manuel.jpg (ex. philippe-manuel.jpg), et indique son auteur et sa licence dans « credits ».",
  "fichiers": {
   "attal": "Gabriel Attal, February 2023.jpg"
+ },
+ "credits": {
+  "philippe": {
+   "auteur": "",
+   "licence": "",
+   "page": ""
+  }
  }
 }

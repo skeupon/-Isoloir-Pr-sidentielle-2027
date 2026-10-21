@@ -19,10 +19,23 @@ def charger(nom):
 def main():
     autonome = "--autonome" in sys.argv
     donnees = {k: charger(k + ".json") for k in ("candidats", "programmes", "test", "actus", "journal", "sondages")}
+    donnees["bios"] = charger("bios.json") if (DATA / "bios.json").exists() else {"fiches": {}}
     donnees["journal"].pop("empreintes", None)  # inutile côté navigateur
 
     (SITE / "photos").mkdir(parents=True, exist_ok=True)
+    try:
+        credits = json.loads((DATA / "portraits.json").read_text(encoding="utf-8")).get("credits", {})
+    except FileNotFoundError:
+        credits = {}
     for c in donnees["candidats"]["candidats"]:
+        # Photo déposée à la main dans data/photos/<id>.jpg, prioritaire si elle existe
+        for ext in ("jpg", "jpeg", "png", "webp"):
+            manuelle = DATA / "photos" / ("%s-manuel.%s" % (c["id"], ext))
+            if manuelle.exists():
+                cr = credits.get(c["id"], {})
+                c["photo"] = {"fichier": "photos/" + manuelle.name, "auteur": cr.get("auteur", ""),
+                              "licence": cr.get("licence", ""), "page": cr.get("page")}
+                break
         photo = c.get("photo")
         if not photo or not photo.get("fichier"):
             continue
