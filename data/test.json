@@ -217,6 +217,741 @@
      "x": "Maîtrise publique des infrastructures de l’IA."
     }
    }
+  },
+  {
+   "id": "fortune",
+   "theme": "Impôts",
+   "q": "Faut-il taxer davantage les plus grosses fortunes ?",
+   "opts": [
+    {
+     "l": "Oui, fortement : rétablir un ISF et taxer les patrimoines géants",
+     "p": 0
+    },
+    {
+     "l": "Oui, taxer davantage les plus hauts patrimoines",
+     "p": 1
+    },
+    {
+     "l": "Changer d’impôt : taxer la fortune financière plutôt que l’immobilier",
+     "p": null
+    },
+    {
+     "l": "Non, pas de nouvel impôt sur la fortune",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/patrimoine",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Un ISF climatique et une taxe sur les patrimoines de plus de 100 millions d’euros."
+    },
+    "glucksmann": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/glucksmann/patrimoine",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Taxer les plus hauts patrimoines."
+    },
+    "le-pen": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/le-pen/patrimoine",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Remplacer l’impôt sur la fortune immobilière par un impôt sur la fortune financière."
+    },
+    "attal": {
+     "o": 3,
+     "u": "https://dechiffrer2027.fr/mesure/attal/patrimoine",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Pas de retour de l’ISF."
+    }
+   }
+  },
+  {
+   "id": "heritage",
+   "theme": "Impôts",
+   "q": "Et l’impôt sur l’héritage (droits de succession) ?",
+   "opts": [
+    {
+     "l": "L’augmenter nettement sur les très gros héritages",
+     "p": 0
+    },
+    {
+     "l": "Ne pas l’augmenter, et faciliter les donations",
+     "p": 1
+    },
+    {
+     "l": "Le baisser autant que possible",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/droits-succession",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "150 000 € exonérés, et tout prélevé au-delà de 12 millions d’euros hérités."
+    },
+    "glucksmann": {
+     "o": 0,
+     "u": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/augmenter-les-salaires-en-taxant-les-plus-gros-heritages-la-proposition-de-raphael-glucksmann-est-elle-realiste_8076284.html",
+     "t": "media",
+     "s": "franceinfo",
+     "x": "Taxer le 1 % des plus gros héritages pour augmenter le salaire net."
+    },
+    "philippe": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/droits-succession",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Contre une hausse ; plafonds de donation relevés pendant trois ans."
+    },
+    "attal": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/attal/droits-succession",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Contre toute hausse ; donations du vivant facilitées."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/droits-succession",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Baisser les droits de succession au maximum possible."
+    }
+   }
+  },
+  {
+   "id": "depense",
+   "theme": "Impôts",
+   "q": "Pour les finances de l’État, il faut surtout…",
+   "opts": [
+    {
+     "l": "Dépenser plus pour financer de nouvelles mesures",
+     "p": 0
+    },
+    {
+     "l": "Baisser la dépense publique plutôt qu’augmenter les impôts",
+     "p": 1
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/depense-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Environ 82 milliards d’euros de dépenses nouvelles dès 2027."
+    },
+    "le-pen": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/le-pen/depense-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Ramener la dépense publique sous 50 % du PIB en fin de mandat."
+    },
+    "philippe": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/depense-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Rétablir les comptes en baissant la dépense plutôt qu’en augmentant les impôts."
+    },
+    "attal": {
+     "o": 1,
+     "u": "https://attalpresident.fr/programme/dette-de-letat",
+     "t": "site",
+     "s": "Site de campagne (attalpresident.fr)",
+     "x": "Zéro déficit en dix ans au plus, aucune dépense taboue."
+    },
+    "retailleau": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/depense-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Un « grand coup de frein » à la dépense publique, sans hausse d’impôts."
+    }
+   }
+  },
+  {
+   "id": "nucleaire",
+   "theme": "Énergie",
+   "q": "Faut-il construire de nouveaux réacteurs nucléaires ?",
+   "opts": [
+    {
+     "l": "Non, il faut sortir du nucléaire",
+     "p": 0
+    },
+    {
+     "l": "Oui, en construire, sans objectif chiffré",
+     "p": 1
+    },
+    {
+     "l": "Oui, massivement : 14 réacteurs ou plus",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://melenchon2027.fr/construction-programme/",
+     "t": "site",
+     "s": "Site du programme (melenchon2027.fr)",
+     "x": "Planifier la sortie du nucléaire."
+    },
+    "philippe": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/nouveaux-reacteurs",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "8 EPR en plus des 6 déjà prévus, soit 14."
+    },
+    "attal": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/attal/nouveaux-reacteurs",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Sécuriser les 14 EPR, puis viser un nouveau réacteur par an."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/nouveaux-reacteurs",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "8 EPR2 en plus des 6 premiers, si leur chantier avance bien."
+    }
+   }
+  },
+  {
+   "id": "renouvelables",
+   "theme": "Énergie",
+   "q": "Et l’éolien et le solaire ?",
+   "opts": [
+    {
+     "l": "Accélérer fortement, jusqu’à 100 % renouvelable en 2050",
+     "p": 0
+    },
+    {
+     "l": "Accélérer et investir davantage",
+     "p": 1
+    },
+    {
+     "l": "Continuer à les développer, sans objectif chiffré",
+     "p": 2
+    },
+    {
+     "l": "Freiner : plus de subventions ni de nouveaux appels d’offres",
+     "p": 3
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/renouvelables",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "100 % d’énergies renouvelables en 2050, avec sobriété et efficacité."
+    },
+    "attal": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/attal/renouvelables",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Accélérer les renouvelables, sans privilégier une technologie."
+    },
+    "philippe": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/renouvelables",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Développer les renouvelables, sans objectif chiffré."
+    },
+    "le-pen": {
+     "o": 3,
+     "u": "https://dechiffrer2027.fr/mesure/le-pen/renouvelables",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Mettre fin aux subventions aux énergies intermittentes."
+    },
+    "retailleau": {
+     "o": 3,
+     "u": "https://www.avecretailleau.fr/projet/theme/electricite",
+     "t": "site",
+     "s": "Site de campagne (avecretailleau.fr)",
+     "x": "Cesser de subventionner les éoliennes."
+    }
+   }
+  },
+  {
+   "id": "asile",
+   "theme": "Immigration",
+   "q": "Et le droit d’asile ?",
+   "opts": [
+    {
+     "l": "Le garantir pleinement, et permettre de travailler pendant la demande",
+     "p": 0
+    },
+    {
+     "l": "Le durcir : liste de pays sûrs, protection réexaminée dans le temps",
+     "p": 1
+    },
+    {
+     "l": "Le durcir fortement : examiner les demandes hors de France",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/asile",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Garantir pleinement le droit d’asile, en étudiant chaque dossier."
+    },
+    "philippe": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/asile",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Pays sûrs votés chaque année, fin de l’asile à vie ; asile suspendu à Mayotte et en Guyane."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/asile",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Examiner les demandes hors des frontières, après une révision de la Constitution."
+    }
+   }
+  },
+  {
+   "id": "europe",
+   "theme": "Europe",
+   "q": "Quelle place pour la France dans l’Union européenne ?",
+   "opts": [
+    {
+     "l": "Aller vers une Europe plus intégrée, voire fédérale",
+     "p": 0
+    },
+    {
+     "l": "Rester, mais reprendre la main sur certaines règles ou sur le budget européen",
+     "p": 1
+    },
+    {
+     "l": "Remettre en cause les traités européens",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "glucksmann": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/glucksmann/union-europeenne",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Décider à la majorité plutôt qu’à l’unanimité, et multiplier les ressources propres de l’UE."
+    },
+    "attal": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/attal/union-europeenne",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Préparer des « États-Unis d’Europe »."
+    },
+    "philippe": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/union-europeenne",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Approfondir l’Europe vers une souveraineté européenne complète."
+    },
+    "retailleau": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/union-europeenne",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Écarter le droit européen hors des compétences des traités, sans sortir de l’UE."
+    },
+    "le-pen": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/le-pen/union-europeenne",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Ramener la contribution nette de la France à l’UE à 5 milliards d’euros."
+    },
+    "melenchon": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/union-europeenne",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Rompre les traités de façon concertée, sinon appliquer le programme quoi qu’il arrive."
+    }
+   }
+  },
+  {
+   "id": "loyers",
+   "theme": "Logement",
+   "q": "Faut-il encadrer les loyers ?",
+   "opts": [
+    {
+     "l": "Oui, partout, et les baisser dans les grandes villes",
+     "p": 0
+    },
+    {
+     "l": "Oui, dans les zones où on manque de logements",
+     "p": 1
+    },
+    {
+     "l": "Non, il faut supprimer l’encadrement",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/encadrement-loyers",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Encadrer partout, et à la baisse dans les grandes villes."
+    },
+    "philippe": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/encadrement-loyers",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Opposé à l’encadrement des loyers."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://www.avecretailleau.fr/projet/theme/logement",
+     "t": "site",
+     "s": "Site de campagne (avecretailleau.fr)",
+     "x": "Supprimer l’encadrement des loyers."
+    }
+   }
+  },
+  {
+   "id": "social",
+   "theme": "Logement",
+   "q": "Et le logement social ?",
+   "opts": [
+    {
+     "l": "En construire massivement, 200 000 par an",
+     "p": 0
+    },
+    {
+     "l": "Relever les objectifs de construction",
+     "p": 1
+    },
+    {
+     "l": "Supprimer les quotas imposés aux communes",
+     "p": 2
+    },
+    {
+     "l": "Supprimer les quotas et donner la priorité aux Français",
+     "p": 3
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/logement-social",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "200 000 logements publics par an pendant cinq ans."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://www.avecretailleau.fr/projet/theme/logement",
+     "t": "site",
+     "s": "Site de campagne (avecretailleau.fr)",
+     "x": "Fin des quotas de logements sociaux de la loi SRU."
+    },
+    "le-pen": {
+     "o": 3,
+     "u": "https://dechiffrer2027.fr/mesure/le-pen/logement-social",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Priorité aux Français dans le logement social et abrogation de la loi SRU."
+    }
+   }
+  },
+  {
+   "id": "chomage",
+   "theme": "Travail",
+   "q": "Combien de temps devrait-on pouvoir toucher le chômage ?",
+   "opts": [
+    {
+     "l": "Plus longtemps : annuler les dernières réformes",
+     "p": 0
+    },
+    {
+     "l": "Moins longtemps : appliquer la réforme de 2024 (environ 15 mois au plus)",
+     "p": 1
+    },
+    {
+     "l": "Beaucoup moins : 12 mois au plus avant 50 ans",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/chomage-duree",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Abroger les réformes de l’assurance chômage depuis 2017."
+    },
+    "attal": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/attal/chomage-duree",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Reprendre la réforme de 2024, soit 15 mois d’indemnisation au plus."
+    },
+    "retailleau": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/chomage-duree",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Appliquer les règles de juin 2024 ; ruptures conventionnelles indemnisées 6 mois au plus."
+    },
+    "philippe": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/chomage-duree",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "12 mois au plus pour les moins de 50 ans, sur le modèle allemand."
+    }
+   }
+  },
+  {
+   "id": "fonction",
+   "theme": "Travail",
+   "q": "Faut-il réduire le nombre de fonctionnaires ?",
+   "opts": [
+    {
+     "l": "Non : plus d’agents et de meilleurs salaires",
+     "p": 0
+    },
+    {
+     "l": "Oui, en ne remplaçant pas une partie des départs à la retraite",
+     "p": 1
+    },
+    {
+     "l": "Oui, nettement : 100 000 postes ou plus en moins",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/fonction-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Augmenter de 10 % le point d’indice et inscrire son dégel dans la loi."
+    },
+    "le-pen": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/le-pen/fonction-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Moins d’agents publics, en ne remplaçant pas des départs à la retraite, sans chiffre."
+    },
+    "philippe": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/fonction-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Ne pas remplacer un départ à la retraite sur trois."
+    },
+    "attal": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/attal/fonction-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Supprimer 100 000 postes dans l’État et les collectivités."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/fonction-publique",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Ne pas remplacer 400 000 agents partant à la retraite."
+    }
+   }
+  },
+  {
+   "id": "proportionnelle",
+   "theme": "Institutions",
+   "q": "Faut-il élire les députés à la proportionnelle ?",
+   "opts": [
+    {
+     "l": "Oui",
+     "p": 0
+    },
+    {
+     "l": "Non, garder le système actuel",
+     "p": 1
+    }
+   ],
+   "pos": {
+    "le-pen": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/le-pen/scrutin-legislatif",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Pour la proportionnelle."
+    },
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/scrutin-legislatif",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Une Assemblée élue à la proportionnelle."
+    },
+    "retailleau": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/scrutin-legislatif",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Hostile à la proportionnelle aux législatives (juin 2025)."
+    }
+   }
+  },
+  {
+   "id": "findevie",
+   "theme": "Société",
+   "q": "La loi sur l’aide à mourir, votée en 2026 :",
+   "opts": [
+    {
+     "l": "Aller plus loin et inscrire ce droit dans la Constitution",
+     "p": 0
+    },
+    {
+     "l": "La garder telle qu’elle est",
+     "p": 1
+    },
+    {
+     "l": "La remettre en cause par référendum",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/fin-de-vie",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Inscrire le droit de mourir dans la dignité et les soins palliatifs dans la Constitution."
+    },
+    "attal": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/attal/fin-de-vie",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Soutient la loi adoptée en 2026."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/fin-de-vie",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Contre le texte, demande un référendum (mai 2026)."
+    }
+   }
+  },
+  {
+   "id": "justice",
+   "theme": "Sécurité",
+   "q": "Pour la justice pénale, la priorité :",
+   "opts": [
+    {
+     "l": "Réduire la surpopulation des prisons et développer les peines alternatives",
+     "p": 0
+    },
+    {
+     "l": "Plus de fermeté : peines minimales et plus de places de prison",
+     "p": 1
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/prisons-peines",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Un mécanisme obligatoire pour réguler la surpopulation carcérale."
+    },
+    "philippe": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/philippe/prisons-peines",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Des peines planchers pour les infractions les plus graves."
+    },
+    "attal": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/attal/prisons-peines",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Construire des places de prison et supprimer le juge d’application des peines."
+    },
+    "retailleau": {
+     "o": 1,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/prisons-peines",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Des peines minimales obligatoires pour les infractions les plus graves."
+    }
+   }
+  },
+  {
+   "id": "superieur",
+   "theme": "Éducation",
+   "q": "Pour entrer à l’université :",
+   "opts": [
+    {
+     "l": "Supprimer la sélection et Parcoursup",
+     "p": 0
+    },
+    {
+     "l": "Revoir Parcoursup en concertation",
+     "p": 1
+    },
+    {
+     "l": "Plus de sélection, ou des études plus courtes",
+     "p": 2
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://dechiffrer2027.fr/mesure/melenchon/acces-superieur",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Accès sans sélection et fin de Parcoursup."
+    },
+    "attal": {
+     "o": 2,
+     "u": "https://attalpresident.fr/programme/travail-salaires",
+     "t": "site",
+     "s": "Site de campagne (attalpresident.fr)",
+     "x": "Raccourcir et désengorger les études supérieures."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://dechiffrer2027.fr/mesure/retailleau/acces-superieur",
+     "t": "tiers",
+     "s": "Déchiffrer 2027",
+     "x": "Sélection à l’université par un Parcoursup refondé."
+    }
+   }
   }
  ]
 }

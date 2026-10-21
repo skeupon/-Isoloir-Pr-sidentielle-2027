@@ -3,47 +3,69 @@
  "themes": [
   {
    "id": "eco",
-   "label": "Économie et impôts"
+   "label": "Économie et impôts",
+   "ic": "euro",
+   "h": 45
   },
   {
    "id": "travail",
-   "label": "Travail et revenus"
+   "label": "Travail et revenus",
+   "ic": "briefcase",
+   "h": 210
   },
   {
    "id": "retraites",
-   "label": "Retraites"
+   "label": "Retraites",
+   "ic": "hourglass",
+   "h": 28
   },
   {
    "id": "ecolo",
-   "label": "Écologie et énergie"
+   "label": "Écologie et énergie",
+   "ic": "leaf",
+   "h": 140
   },
   {
    "id": "ia",
-   "label": "IA et numérique"
+   "label": "IA et numérique",
+   "ic": "cpu",
+   "h": 265
   },
   {
    "id": "services",
-   "label": "École et santé"
+   "label": "École et santé",
+   "ic": "school",
+   "h": 190
   },
   {
    "id": "logement",
-   "label": "Logement"
+   "label": "Logement",
+   "ic": "house",
+   "h": 12
   },
   {
    "id": "securite",
-   "label": "Sécurité et justice"
+   "label": "Sécurité et justice",
+   "ic": "shield",
+   "h": 225
   },
   {
    "id": "immigration",
-   "label": "Immigration"
+   "label": "Immigration",
+   "ic": "passport",
+   "h": 330
   },
   {
    "id": "europe",
-   "label": "Europe et défense"
+   "label": "Europe et défense",
+   "ic": "stars",
+   "h": 235
   },
   {
    "id": "institutions",
-   "label": "Institutions et société"
+   "label": "Institutions et société",
+   "ic": "landmark",
+   "h": 290
   }
  ],
  "positions": [
@@ -598,6 +620,572 @@
    "u": "https://www.maddyness.com/2026/10/05/presidentielle-2027-ce-que-les-candidats-proposent-vraiment-sur-lia/",
    "t": "media",
    "s": "Maddyness"
+  },
+  {
+   "c": "philippe",
+   "th": "eco",
+   "x": "Exonérer d’impôt sur le revenu pendant trois ans après une naissance (classes moyennes).",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/impot-revenu",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "eco",
+   "x": "Supprimer des niches fiscales avant toute hausse d’impôt.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/niches-fiscales",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "eco",
+   "x": "Retirer 50 milliards d’aides jugées improductives aux entreprises, en échange de 50 milliards d’impôts en moins.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/aides-entreprises",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "eco",
+   "x": "Pas de hausse d’impôt pour les entreprises.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/impot-societes",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "eco",
+   "x": "Une règle d’or des déficits adoptée par référendum, déficit à 2 % du PIB en 2032.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/deficit-2032",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "eco",
+   "x": "Contre une hausse de l’impôt sur l’héritage ; plafonds de donation relevés pendant trois ans.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/droits-succession",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "eco",
+   "x": "Un impôt sur le revenu à 14 tranches au lieu de 5.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/impot-revenu",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 27"
+  },
+  {
+   "c": "melenchon",
+   "th": "eco",
+   "x": "Supprimer le prélèvement forfaitaire : imposer le capital comme le travail.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/flat-tax",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 27"
+  },
+  {
+   "c": "melenchon",
+   "th": "eco",
+   "x": "Un ISF climatique et une taxe sur les patrimoines de plus de 100 millions d’euros.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/patrimoine",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "eco",
+   "x": "150 000 € hérités exonérés, et tout prélevé au-delà de 12 millions d’euros.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/droits-succession",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "eco",
+   "x": "Un impôt sur les sociétés progressif, jusqu’à 33 % pour les grandes entreprises.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/impot-societes",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "eco",
+   "x": "TVA réduite sur les produits de première nécessité, financée par une TVA sur le grand luxe.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/tva",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 28"
+  },
+  {
+   "c": "melenchon",
+   "th": "eco",
+   "x": "Annuler la dette française détenue par la Banque centrale européenne.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/dette-traitement",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "retailleau",
+   "th": "eco",
+   "x": "Un « grand coup de frein » à la dépense publique, sans hausse d’impôts.",
+   "u": "https://dechiffrer2027.fr/mesure/retailleau/depense-publique",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "retailleau",
+   "th": "eco",
+   "x": "Déficit ramené à 2,2 % du PIB en 2032.",
+   "u": "https://dechiffrer2027.fr/mesure/retailleau/deficit-2032",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme"
+  },
+  {
+   "c": "retailleau",
+   "th": "eco",
+   "x": "Baisser les droits de succession au maximum possible.",
+   "u": "https://dechiffrer2027.fr/mesure/retailleau/droits-succession",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "retailleau",
+   "th": "eco",
+   "x": "9 milliards d’euros attendus de la lutte contre la fraude fiscale et sociale.",
+   "u": "https://dechiffrer2027.fr/mesure/retailleau/fraude",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 12"
+  },
+  {
+   "c": "le-pen",
+   "th": "travail",
+   "x": "Réserver les allocations familiales aux Français.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/allocations-familiales",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "travail",
+   "x": "Deux heures de travail de plus par semaine, par accord d’entreprise.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/duree-travail",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "travail",
+   "x": "Indemnisation chômage limitée à 12 mois avant 50 ans.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/chomage-duree",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "travail",
+   "x": "Une allocation unique de 350 € par mois dès le premier enfant, dégressive.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/allocations-familiales",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "le-pen",
+   "th": "ecolo",
+   "x": "Mettre fin aux subventions à l’éolien et au solaire.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/renouvelables",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "le-pen",
+   "th": "ecolo",
+   "x": "Remplacer MaPrimeRénov’ par un prêt à taux zéro.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/renovations",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "le-pen",
+   "th": "ecolo",
+   "x": "Trains gratuits pour les 18-25 ans aux heures creuses (proposition de 2022).",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/transports-quotidien",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "ecolo",
+   "x": "14 nouveaux réacteurs EPR, soit 8 de plus que prévu.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/nouveaux-reacteurs",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "ecolo",
+   "x": "Développer les renouvelables, sans objectif chiffré.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/renouvelables",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "ecolo",
+   "x": "Décarboner au maximum, en misant sur le fret, la rénovation et l’industrie.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/emissions-2030",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "le-pen",
+   "th": "services",
+   "x": "Moins d’administration à l’hôpital, plus de soignants auprès des patients.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/hopital",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "services",
+   "x": "Augmenter de 20 % la rémunération moyenne des enseignants.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/salaire-enseignants",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "services",
+   "x": "Réduire les effectifs par classe là où c’est nécessaire.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/eleves-par-classe",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "services",
+   "x": "Moins de 19 élèves par classe, en commençant par la maternelle et l’éducation prioritaire.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/eleves-par-classe",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 22"
+  },
+  {
+   "c": "melenchon",
+   "th": "services",
+   "x": "3 milliards de plus pour les hôpitaux et 10 000 postes de soignants.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/hopital",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "services",
+   "x": "Réguler l’installation des médecins.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/installation-medecins",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 57"
+  },
+  {
+   "c": "melenchon",
+   "th": "services",
+   "x": "Accès à l’université sans sélection, fin de Parcoursup.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/acces-superieur",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 24"
+  },
+  {
+   "c": "retailleau",
+   "th": "services",
+   "x": "+135 € nets en début de carrière, environ +300 € en milieu de carrière.",
+   "u": "https://dechiffrer2027.fr/mesure/retailleau/salaire-enseignants",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme"
+  },
+  {
+   "c": "retailleau",
+   "th": "services",
+   "x": "Sélection à l’université par un Parcoursup refondé.",
+   "u": "https://dechiffrer2027.fr/mesure/retailleau/acces-superieur",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme"
+  },
+  {
+   "c": "philippe",
+   "th": "logement",
+   "x": "Opposé à l’encadrement des loyers.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/encadrement-loyers",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "logement",
+   "x": "Encadrer les loyers partout, à la baisse dans les grandes villes.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/encadrement-loyers",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 31"
+  },
+  {
+   "c": "melenchon",
+   "th": "logement",
+   "x": "Construire 200 000 logements publics par an pendant cinq ans.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/logement-social",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 31"
+  },
+  {
+   "c": "philippe",
+   "th": "securite",
+   "x": "Des peines planchers pour les infractions les plus graves.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/prisons-peines",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "securite",
+   "x": "Un mécanisme obligatoire contre la surpopulation des prisons.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/prisons-peines",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 32"
+  },
+  {
+   "c": "melenchon",
+   "th": "securite",
+   "x": "Plus d’enquêteurs contre la criminalité financière et les mafias ; police scientifique doublée.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/effectifs-police",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 33"
+  },
+  {
+   "c": "attal",
+   "th": "securite",
+   "x": "Construire des places de prison et supprimer le juge d’application des peines.",
+   "u": "https://dechiffrer2027.fr/mesure/attal/prisons-peines",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "attal",
+   "th": "securite",
+   "x": "Épargner l’Intérieur et la Justice des suppressions de postes.",
+   "u": "https://dechiffrer2027.fr/mesure/attal/effectifs-police",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "retailleau",
+   "th": "securite",
+   "x": "Des peines minimales obligatoires pour les infractions les plus graves.",
+   "u": "https://dechiffrer2027.fr/mesure/retailleau/prisons-peines",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme"
+  },
+  {
+   "c": "le-pen",
+   "th": "immigration",
+   "x": "Une taxe de 1 000 € par an sur chaque salarié extra-européen embauché.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/immigration-travail",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "immigration",
+   "x": "Régulariser travailleurs, étudiants et parents ; titre de séjour de 10 ans comme référence.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/immigration-travail",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 63"
+  },
+  {
+   "c": "melenchon",
+   "th": "immigration",
+   "x": "Garantir pleinement le droit d’asile, en étudiant chaque dossier.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/asile",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 63"
+  },
+  {
+   "c": "le-pen",
+   "th": "europe",
+   "x": "Ramener la contribution nette de la France à l’UE à 5 milliards d’euros.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/union-europeenne",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "le-pen",
+   "th": "europe",
+   "x": "Opposée à l’accord commercial entre l’UE et le Mercosur.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/libre-echange",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "europe",
+   "x": "Approfondir l’Europe vers une souveraineté européenne complète.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/union-europeenne",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "europe",
+   "x": "Massifier l’armée : 250 000 réservistes et 50 000 volontaires par an.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/budget-defense",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "europe",
+   "x": "Protéger le marché européen face à la Chine.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/libre-echange",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "melenchon",
+   "th": "europe",
+   "x": "Rompre les traités européens de façon concertée, sinon appliquer le programme quoi qu’il arrive.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/union-europeenne",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 65"
+  },
+  {
+   "c": "melenchon",
+   "th": "europe",
+   "x": "Bloquer les nouveaux accords de libre-échange, dont le Mercosur.",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/libre-echange",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "programme, p. 66"
+  },
+  {
+   "c": "melenchon",
+   "th": "europe",
+   "x": "Les dépenses militaires ne sont « pas la priorité ».",
+   "u": "https://dechiffrer2027.fr/mesure/melenchon/budget-defense",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "glucksmann",
+   "th": "europe",
+   "x": "Décider à la majorité plutôt qu’à l’unanimité et multiplier les ressources propres de l’UE.",
+   "u": "https://dechiffrer2027.fr/mesure/glucksmann/union-europeenne",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "le-pen",
+   "th": "institutions",
+   "x": "Élire les députés à la proportionnelle.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/scrutin-legislatif",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "le-pen",
+   "th": "institutions",
+   "x": "Que seul le peuple, par référendum, puisse réviser la Constitution.",
+   "u": "https://dechiffrer2027.fr/mesure/le-pen/constitution-49-3",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "philippe",
+   "th": "institutions",
+   "x": "Contre l’élargissement du référendum ; réviser la Constitution par la voie parlementaire.",
+   "u": "https://dechiffrer2027.fr/mesure/philippe/constitution-49-3",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "attal",
+   "th": "institutions",
+   "x": "Une grande réforme des institutions tranchée par les Français.",
+   "u": "https://dechiffrer2027.fr/mesure/attal/constitution-49-3",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
+  },
+  {
+   "c": "attal",
+   "th": "institutions",
+   "x": "Soutient la loi sur la fin de vie adoptée en 2026.",
+   "u": "https://dechiffrer2027.fr/mesure/attal/fin-de-vie",
+   "t": "tiers",
+   "s": "Déchiffrer 2027",
+   "orig": "déclaration"
   }
- ]
+ ],
+ "statuts": {
+  "le-pen": "Pas de programme publié : propositions tirées de ses déclarations dans la presse et, à défaut, relevées par Déchiffrer 2027. Sa peine d’inéligibilité a été réduite en appel le 7 juillet 2026, ce qui lui permet de se présenter.",
+  "philippe": "Pas de programme publié : propositions tirées de ses déclarations dans la presse et, à défaut, relevées par Déchiffrer 2027.",
+  "glucksmann": "Pas de programme publié : propositions tirées de ses déclarations dans la presse et, à défaut, relevées par Déchiffrer 2027.",
+  "melenchon": "Programme publié (édition 2025) ; nouvelle édition de 1 069 mesures annoncée en librairie le 6 novembre 2026. Complété par la presse et Déchiffrer 2027.",
+  "attal": "Projet publié sur son site de campagne, complété par la presse et Déchiffrer 2027 sur les thèmes qu’il n’aborde pas.",
+  "retailleau": "Projet publié sur son site de campagne (120 mesures, certains thèmes encore « à venir »), complété par Déchiffrer 2027 sur ces thèmes."
+ }
 }
