@@ -1,0 +1,96 @@
+{
+ "maj": "2026-10-21T08:00:00+02:00",
+ "sondages": {
+  "d": "Mi-octobre 2026",
+  "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
+  "u": "https://touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-marine-le-pen-largement-en-tete-dans-les-sondages-a-six-mois-du-premier-tour-trois-candidats-au-coude-a-coude-pour-la-deuxieme-place",
+  "s": "Toute l’Europe"
+ },
+ "selection": [
+  {
+   "c": "le-pen",
+   "d": "Juillet 2026",
+   "x": "Annonce sa candidature le 7 juillet, jour où la cour d’appel réduit sa peine d’inéligibilité, ce qui lui permet de se présenter.",
+   "u": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+   "s": "France 3"
+  },
+  {
+   "c": "le-pen",
+   "d": "Septembre 2026",
+   "x": "Discours de rentrée à Hénin-Beaumont le 13 septembre : la « priorité nationale » au cœur de son programme.",
+   "u": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+   "s": "France 3"
+  },
+  {
+   "c": "philippe",
+   "d": "Octobre 2026",
+   "x": "Dévoile sa réforme des retraites : âge légal à 65 ans et 45 années de cotisation.",
+   "u": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html",
+   "s": "franceinfo"
+  },
+  {
+   "c": "philippe",
+   "d": "Septembre 2026",
+   "x": "Présente sa stratégie sur l’IA : doubler les capacités de calcul et former 100 000 ingénieurs par an.",
+   "u": "https://www.technomedia.org/2026/09/presidentielle-2027-ce-que-proposent.html",
+   "s": "Technomedia"
+  },
+  {
+   "c": "melenchon",
+   "d": "Septembre 2026",
+   "x": "Au sommet Politico Playbook, plaide pour une maîtrise publique des infrastructures de l’IA.",
+   "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-attal-le-pen-et-melenchon-trois-manieres-de-parler-a-un-pays-exaspere",
+   "s": "Public Sénat"
+  },
+  {
+   "c": "melenchon",
+   "d": "Octobre 2026",
+   "x": "Nouvelle édition de son programme, 1 069 mesures, annoncée en librairie le 6 novembre.",
+   "u": "https://melenchon2027.fr/programme/decouvrir/",
+   "s": "Site du programme"
+  },
+  {
+   "c": "glucksmann",
+   "d": "11 octobre 2026",
+   "x": "Remporte la primaire sociale-démocrate dès le premier tour, avec 66 % des voix.",
+   "u": "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+   "s": "France 24"
+  },
+  {
+   "c": "glucksmann",
+   "d": "Octobre 2026",
+   "x": "Propose une agence industrielle du numérique et de l’IA.",
+   "u": "https://www.maddyness.com/2026/10/05/presidentielle-2027-ce-que-les-candidats-proposent-vraiment-sur-lia/",
+   "s": "Maddyness"
+  },
+  {
+   "c": "attal",
+   "d": "Septembre 2026",
+   "x": "Au sommet Politico Playbook, appelle à une régulation internationale de l’IA sur le modèle du nucléaire.",
+   "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-attal-le-pen-et-melenchon-trois-manieres-de-parler-a-un-pays-exaspere",
+   "s": "Public Sénat"
+  },
+  {
+   "c": "attal",
+   "d": "Octobre 2026",
+   "x": "Devant les éditeurs de presse, défend le maintien des aides directes à la presse.",
+   "u": "https://www.technomedia.org/2026/10/presidentielle-2027-les-candidats.html",
+   "s": "Technomedia"
+  },
+  {
+   "c": "retailleau",
+   "d": "Septembre 2026",
+   "x": "Présente une réforme des retraites avec une part de capitalisation.",
+   "u": "https://www.lejdd.fr/politique/retraites-ce-que-proposent-les-candidats-a-la-presidentielle-184728",
+   "s": "Le JDD"
+  },
+  {
+   "c": "retailleau",
+   "d": "Octobre 2026",
+   "x": "Devant les éditeurs de presse, défend lui aussi le maintien des aides directes à la presse.",
+   "u": "https://www.technomedia.org/2026/10/presidentielle-2027-les-candidats.html",
+   "s": "Technomedia"
+  }
+ ],
+ "flux": {}
+}

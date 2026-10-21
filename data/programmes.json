@@ -1,0 +1,603 @@
+{
+ "maj": "2026-10-21",
+ "themes": [
+  {
+   "id": "eco",
+   "label": "Économie et impôts"
+  },
+  {
+   "id": "travail",
+   "label": "Travail et revenus"
+  },
+  {
+   "id": "retraites",
+   "label": "Retraites"
+  },
+  {
+   "id": "ecolo",
+   "label": "Écologie et énergie"
+  },
+  {
+   "id": "ia",
+   "label": "IA et numérique"
+  },
+  {
+   "id": "services",
+   "label": "École et santé"
+  },
+  {
+   "id": "logement",
+   "label": "Logement"
+  },
+  {
+   "id": "securite",
+   "label": "Sécurité et justice"
+  },
+  {
+   "id": "immigration",
+   "label": "Immigration"
+  },
+  {
+   "id": "europe",
+   "label": "Europe et défense"
+  },
+  {
+   "id": "institutions",
+   "label": "Institutions et société"
+  }
+ ],
+ "positions": [
+  {
+   "c": "retailleau",
+   "th": "retraites",
+   "x": "Pouvoir partir dès 63 ans, avec un taux plein garanti à 65 ans.",
+   "u": "https://www.avecretailleau.fr/projet/theme/retraites",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "retraites",
+   "x": "Donner à chaque salarié un capital pour sa retraite, en plus de la pension.",
+   "u": "https://www.avecretailleau.fr/projet/theme/retraites",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "retraites",
+   "x": "Traiter la pénibilité métier par métier.",
+   "u": "https://www.avecretailleau.fr/projet/theme/retraites",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "logement",
+   "x": "Supprimer l’encadrement des loyers.",
+   "u": "https://www.avecretailleau.fr/projet/theme/logement",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "logement",
+   "x": "Fin des quotas de logements sociaux de la loi SRU : construire selon les besoins locaux.",
+   "u": "https://www.avecretailleau.fr/projet/theme/logement",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "logement",
+   "x": "Objectif d’un million de logements supplémentaires en cinq ans, avec un gel des normes de construction pendant dix ans.",
+   "u": "https://www.avecretailleau.fr/projet/theme/logement",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "logement",
+   "x": "Permettre aux locataires HLM qui le souhaitent d’acheter leur logement.",
+   "u": "https://www.avecretailleau.fr/projet/theme/logement",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "ecolo",
+   "x": "Prolonger les centrales nucléaires jusqu’à 80 ans et construire les EPR2 dans les coûts et délais prévus.",
+   "u": "https://www.avecretailleau.fr/projet/theme/electricite",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "ecolo",
+   "x": "Cesser de subventionner les éoliennes.",
+   "u": "https://www.avecretailleau.fr/projet/theme/electricite",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "ecolo",
+   "x": "Abroger l’objectif « zéro artificialisation nette » (ZAN).",
+   "u": "https://www.avecretailleau.fr/projet/theme/logement",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "ecolo",
+   "x": "Supprimer le principe de précaution de la Constitution, par référendum.",
+   "u": "https://www.avecretailleau.fr/projet",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "ia",
+   "x": "Former des millions d’actifs à l’IA en deux ans.",
+   "u": "https://www.avecretailleau.fr/projet/theme/l-ia",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "ia",
+   "x": "Construire des data centers souverains et acheter européen pour les besoins numériques de l’État.",
+   "u": "https://www.avecretailleau.fr/projet/theme/l-ia",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "ia",
+   "x": "Créer « Marianne », un assistant IA pour les démarches administratives de chaque Français.",
+   "u": "https://www.avecretailleau.fr/projet/theme/l-ia",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "immigration",
+   "x": "Faire fixer par la loi des quotas migratoires.",
+   "u": "https://www.avecretailleau.fr/projet",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "immigration",
+   "x": "Supprimer le droit du sol.",
+   "u": "https://www.avecretailleau.fr/projet",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "immigration",
+   "x": "Conditionner les prestations sociales à cinq ans de séjour et de travail.",
+   "u": "https://www.avecretailleau.fr/projet",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "institutions",
+   "x": "Ouvrir le référendum à toutes les lois.",
+   "u": "https://www.avecretailleau.fr/projet",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "institutions",
+   "x": "Inscrire le droit à la sécurité dans la Constitution.",
+   "u": "https://www.avecretailleau.fr/projet",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "europe",
+   "x": "Écarter le droit européen lorsqu’il dépasse les compétences de l’Union.",
+   "u": "https://www.avecretailleau.fr/projet",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "travail",
+   "x": "Verser 240 € par mois et par enfant mineur.",
+   "u": "https://www.avecretailleau.fr/projet/mesure/verser-240-euros-par-mois-par-enfant-mineur",
+   "t": "site",
+   "s": "Site de campagne (avecretailleau.fr)"
+  },
+  {
+   "c": "retailleau",
+   "th": "ia",
+   "x": "Un plan de 25 milliards d’euros sur cinq ans pour l’IA.",
+   "u": "https://www.maddyness.com/2026/10/05/presidentielle-2027-ce-que-les-candidats-proposent-vraiment-sur-lia/",
+   "t": "media",
+   "s": "Maddyness"
+  },
+  {
+   "c": "attal",
+   "th": "retraites",
+   "x": "Ne plus raisonner en âge de départ mais en durée de cotisation.",
+   "u": "https://attalpresident.fr/programme/travail-salaires",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "travail",
+   "x": "Baisser les charges salariales pour augmenter le salaire net.",
+   "u": "https://attalpresident.fr/programme/travail-salaires",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "travail",
+   "x": "Une réforme de l’assurance chômage pour inciter au travail, annoncée à 100 000 emplois de plus.",
+   "u": "https://attalpresident.fr/programme/travail-salaires",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "travail",
+   "x": "Supprimer le plafond légal d’heures supplémentaires.",
+   "u": "https://attalpresident.fr/programme/travail-salaires",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "travail",
+   "x": "Réécrire le Code du travail en une courte « Constitution du travail », le reste étant négocié par branche et entreprise.",
+   "u": "https://attalpresident.fr/programme/travail-salaires",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "travail",
+   "x": "La semaine de quatre jours là où c’est possible, sans baisse des heures mensuelles.",
+   "u": "https://attalpresident.fr/programme/travail-salaires",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "services",
+   "x": "Un livret d’épargne dédié aux places en crèche et 200 000 professionnels de la petite enfance formés d’ici 2030.",
+   "u": "https://attalpresident.fr/programme/travail-salaires",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "services",
+   "x": "Raccourcir et désengorger les études supérieures, valoriser les métiers manuels.",
+   "u": "https://attalpresident.fr/programme/travail-salaires",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "services",
+   "x": "+200 à +500 € nets par mois pour les enseignants dès 2027, et moins d’élèves par classe.",
+   "u": "https://attalpresident.fr/actualites/gabriel-attal-presente-son-equipe-de-campagne-pour-l-election-presidentielle-de-2027",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "immigration",
+   "x": "« Accueillir moins pour accueillir mieux » : priorité à l’immigration de travail, regroupement familial réduit, système à points.",
+   "u": "https://attalpresident.fr/programme/frontieres",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "europe",
+   "x": "Poursuivre et amplifier le réarmement, continuer à soutenir l’Ukraine.",
+   "u": "https://attalpresident.fr/programme/frontieres",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "europe",
+   "x": "Taxer à l’importation les produits chinois vendus à perte (acier, voitures électriques, panneaux solaires).",
+   "u": "https://attalpresident.fr/programme/frontieres",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "ia",
+   "x": "Faire de la France la première puissance européenne de l’IA.",
+   "u": "https://attalpresident.fr/programme/intelligence-artificielle",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "ia",
+   "x": "Une formation à l’IA universelle et obligatoire, de l’école à la reconversion.",
+   "u": "https://attalpresident.fr/programme/intelligence-artificielle",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "ia",
+   "x": "Préférence européenne dans les marchés publics du numérique.",
+   "u": "https://attalpresident.fr/programme/intelligence-artificielle",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "eco",
+   "x": "Zéro déficit public en dix ans au plus.",
+   "u": "https://attalpresident.fr/programme/dette-de-letat",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "eco",
+   "x": "Aucune dépense taboue : l’effort porte d’abord sur la dépense sociale.",
+   "u": "https://attalpresident.fr/programme/dette-de-letat",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "ecolo",
+   "x": "Tripler le rythme de baisse des émissions : de 1,8 % à 5 % par an d’ici 2030.",
+   "u": "https://attalpresident.fr/programme/dette-ecologique",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "ecolo",
+   "x": "Rénovation thermique massive et électrification pour sortir des énergies fossiles.",
+   "u": "https://attalpresident.fr/programme/dette-ecologique",
+   "t": "site",
+   "s": "Site de campagne (attalpresident.fr)"
+  },
+  {
+   "c": "attal",
+   "th": "retraites",
+   "x": "Supprimer l’âge légal de départ.",
+   "u": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+   "t": "media",
+   "s": "LCP"
+  },
+  {
+   "c": "attal",
+   "th": "ia",
+   "x": "Un plan « France 2040 » pour l’IA et l’innovation de 200 milliards d’euros.",
+   "u": "https://www.cnews.fr/france/2026-07-07/presidentielle-2027-les-candidats-du-centre-et-de-la-droite-ancrent-lia-dans-leur",
+   "t": "media",
+   "s": "CNews"
+  },
+  {
+   "c": "attal",
+   "th": "ia",
+   "x": "Une régulation internationale de l’IA sur le modèle du nucléaire.",
+   "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-attal-le-pen-et-melenchon-trois-manieres-de-parler-a-un-pays-exaspere",
+   "t": "media",
+   "s": "Public Sénat"
+  },
+  {
+   "c": "melenchon",
+   "th": "retraites",
+   "x": "Retraite à 60 ans.",
+   "u": "https://melenchon2027.fr/construction-programme/",
+   "t": "site",
+   "s": "Site du programme (melenchon2027.fr)"
+  },
+  {
+   "c": "melenchon",
+   "th": "travail",
+   "x": "Augmenter le Smic à 1 600 € net (édition 2025 du programme).",
+   "u": "https://melenchon2027.fr/programme2025/livre/",
+   "t": "site",
+   "s": "Site du programme (melenchon2027.fr)"
+  },
+  {
+   "c": "melenchon",
+   "th": "ecolo",
+   "x": "Planifier la sortie du nucléaire.",
+   "u": "https://melenchon2027.fr/construction-programme/",
+   "t": "site",
+   "s": "Site du programme (melenchon2027.fr)"
+  },
+  {
+   "c": "melenchon",
+   "th": "ecolo",
+   "x": "Une planification écologique.",
+   "u": "https://melenchon2027.fr/programme2025/livre/",
+   "t": "site",
+   "s": "Site du programme (melenchon2027.fr)"
+  },
+  {
+   "c": "melenchon",
+   "th": "institutions",
+   "x": "Passer à une VIe République.",
+   "u": "https://melenchon2027.fr/programme2025/livre/",
+   "t": "site",
+   "s": "Site du programme (melenchon2027.fr)"
+  },
+  {
+   "c": "melenchon",
+   "th": "retraites",
+   "x": "Revenir à 60 ans avec 40 années de cotisation.",
+   "u": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html",
+   "t": "media",
+   "s": "franceinfo"
+  },
+  {
+   "c": "melenchon",
+   "th": "ia",
+   "x": "Une maîtrise publique des infrastructures stratégiques de l’IA.",
+   "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-attal-le-pen-et-melenchon-trois-manieres-de-parler-a-un-pays-exaspere",
+   "t": "media",
+   "s": "Public Sénat"
+  },
+  {
+   "c": "melenchon",
+   "th": "ia",
+   "x": "Miser sur des modèles d’IA plus petits, spécialisés et moins gourmands.",
+   "u": "https://www.maddyness.com/2026/10/05/presidentielle-2027-ce-que-les-candidats-proposent-vraiment-sur-lia/",
+   "t": "media",
+   "s": "Maddyness"
+  },
+  {
+   "c": "le-pen",
+   "th": "retraites",
+   "x": "Retour à 62 ans, et 60 ans pour ceux qui ont commencé à travailler avant 20 ans.",
+   "u": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html",
+   "t": "media",
+   "s": "franceinfo"
+  },
+  {
+   "c": "le-pen",
+   "th": "eco",
+   "x": "Baisser la TVA sur l’énergie (carburants, électricité, gaz) de 20 % à 5,5 %.",
+   "u": "https://actu.orange.fr/question-du-jour-2026-09-21-CNT000002s0few.html",
+   "t": "media",
+   "s": "BFM, repris par Orange Actu"
+  },
+  {
+   "c": "le-pen",
+   "th": "logement",
+   "x": "Appliquer la « priorité nationale » au logement social.",
+   "u": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+   "t": "media",
+   "s": "France 3"
+  },
+  {
+   "c": "le-pen",
+   "th": "logement",
+   "x": "Supprimer les diagnostics de performance énergétique (DPE).",
+   "u": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+   "t": "media",
+   "s": "France 3"
+  },
+  {
+   "c": "philippe",
+   "th": "retraites",
+   "x": "Porter l’âge légal à 65 ans et la durée de cotisation à 45 ans.",
+   "u": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html",
+   "t": "media",
+   "s": "franceinfo"
+  },
+  {
+   "c": "philippe",
+   "th": "immigration",
+   "x": "Diviser par deux l’immigration légale, en privilégiant l’immigration de travail.",
+   "u": "https://lcp.fr/actualites/edouard-philippe-veut-diviser-par-deux-l-immigration-legale-et-propose-un-moratoire-sur",
+   "t": "media",
+   "s": "LCP"
+  },
+  {
+   "c": "philippe",
+   "th": "immigration",
+   "x": "Un moratoire sur le regroupement familial pendant le quinquennat.",
+   "u": "https://lcp.fr/actualites/edouard-philippe-veut-diviser-par-deux-l-immigration-legale-et-propose-un-moratoire-sur",
+   "t": "media",
+   "s": "LCP"
+  },
+  {
+   "c": "philippe",
+   "th": "immigration",
+   "x": "À Mayotte : suspendre les demandes d’asile, le droit du sol et le regroupement familial.",
+   "u": "https://www.sudradio.fr/societe/a-mayotte-edouard-philippe-promet-de-mettre-fin-a-lappel-dair-de-limmigration",
+   "t": "media",
+   "s": "AFP, repris par Sud Radio"
+  },
+  {
+   "c": "philippe",
+   "th": "ia",
+   "x": "Doubler les capacités de calcul françaises et européennes en cinq ans.",
+   "u": "https://www.technomedia.org/2026/09/presidentielle-2027-ce-que-proposent.html",
+   "t": "media",
+   "s": "Technomedia"
+  },
+  {
+   "c": "philippe",
+   "th": "ia",
+   "x": "Un « Buy European Tech Act » pour soutenir la tech européenne par la commande publique.",
+   "u": "https://www.technomedia.org/2026/09/presidentielle-2027-ce-que-proposent.html",
+   "t": "media",
+   "s": "Technomedia"
+  },
+  {
+   "c": "philippe",
+   "th": "ia",
+   "x": "Former 100 000 ingénieurs par an et créer un droit à la reconversion pour les métiers menacés.",
+   "u": "https://www.technomedia.org/2026/09/presidentielle-2027-ce-que-proposent.html",
+   "t": "media",
+   "s": "Technomedia"
+  },
+  {
+   "c": "glucksmann",
+   "th": "retraites",
+   "x": "Abroger la réforme de 2023 et revenir au principe des 62 ans, adapté à la pénibilité.",
+   "u": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html",
+   "t": "media",
+   "s": "franceinfo"
+  },
+  {
+   "c": "glucksmann",
+   "th": "retraites",
+   "x": "Ne pas faire de l’âge un « totem » : miser sur la durée de cotisation et la pénibilité.",
+   "u": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+   "t": "media",
+   "s": "LCP"
+  },
+  {
+   "c": "glucksmann",
+   "th": "eco",
+   "x": "Taxer davantage le 1 % des plus gros héritages et reverser la recette sur les fiches de paie.",
+   "u": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/augmenter-les-salaires-en-taxant-les-plus-gros-heritages-la-proposition-de-raphael-glucksmann-est-elle-realiste_8076284.html",
+   "t": "media",
+   "s": "franceinfo"
+  },
+  {
+   "c": "glucksmann",
+   "th": "services",
+   "x": "Un plan de cinq ans pour l’école : salaires des enseignants, moins d’élèves en primaire, rénovation des bâtiments.",
+   "u": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+   "t": "media",
+   "s": "Public Sénat"
+  },
+  {
+   "c": "glucksmann",
+   "th": "immigration",
+   "x": "Une convention citoyenne tirée au sort sur l’immigration.",
+   "u": "https://www.cnews.fr/france/2026-09-11/immigration-quelles-sont-les-propositions-des-candidats-lelection-presidentielle",
+   "t": "media",
+   "s": "CNews"
+  },
+  {
+   "c": "glucksmann",
+   "th": "ia",
+   "x": "Créer une agence industrielle du numérique et de l’IA, financée par France 2030.",
+   "u": "https://www.maddyness.com/2026/10/05/presidentielle-2027-ce-que-les-candidats-proposent-vraiment-sur-lia/",
+   "t": "media",
+   "s": "Maddyness"
+  }
+ ]
+}

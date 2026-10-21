@@ -1,0 +1,10 @@
+{
+ "note": "Flux RSS des médias suivis pour les actus. Vérifie chaque adresse avant la mise en ligne : un flux qui ne répond pas est simplement ignoré. Garde un équilibre entre lignes éditoriales.",
+ "flux": [
+  {"nom": "Le Monde", "url": "https://www.lemonde.fr/politique/rss_full.xml"},
+  {"nom": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_politique.xml"},
+  {"nom": "Libération", "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/politique/?outputType=xml"},
+  {"nom": "franceinfo", "url": "https://www.franceinfo.fr/politique.rss"},
+  {"nom": "Public Sénat", "url": "https://www.publicsenat.fr/rss.xml"}
+ ]
+}

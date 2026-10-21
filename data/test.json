@@ -1,0 +1,222 @@
+{
+ "questions": [
+  {
+   "id": "retraites",
+   "theme": "Retraites",
+   "q": "À quel âge devrait-on pouvoir partir à la retraite ?",
+   "opts": [
+    {
+     "l": "60 ans",
+     "p": 0
+    },
+    {
+     "l": "62 ans",
+     "p": 1
+    },
+    {
+     "l": "63 ans minimum, taux plein à 65 ans",
+     "p": 2
+    },
+    {
+     "l": "65 ans",
+     "p": 3
+    },
+    {
+     "l": "Plus d’âge de départ : seule compte la durée de cotisation",
+     "p": null
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://melenchon2027.fr/construction-programme/",
+     "t": "site",
+     "s": "Site du programme (melenchon2027.fr)",
+     "x": "Retraite à 60 ans."
+    },
+    "le-pen": {
+     "o": 1,
+     "u": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html",
+     "t": "media",
+     "s": "franceinfo",
+     "x": "Retour à 62 ans, et 60 ans pour qui a commencé avant 20 ans."
+    },
+    "glucksmann": {
+     "o": 1,
+     "u": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html",
+     "t": "media",
+     "s": "franceinfo",
+     "x": "Abroger la réforme de 2023 et revenir au principe des 62 ans, adapté à la pénibilité."
+    },
+    "retailleau": {
+     "o": 2,
+     "u": "https://www.avecretailleau.fr/projet/theme/retraites",
+     "t": "site",
+     "s": "Site de campagne (avecretailleau.fr)",
+     "x": "Partir dès 63 ans, taux plein garanti à 65 ans."
+    },
+    "philippe": {
+     "o": 3,
+     "u": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html",
+     "t": "media",
+     "s": "franceinfo",
+     "x": "Âge légal à 65 ans et 45 années de cotisation."
+    },
+    "attal": {
+     "o": 4,
+     "u": "https://attalpresident.fr/programme/travail-salaires",
+     "t": "site",
+     "s": "Site de campagne (attalpresident.fr)",
+     "x": "Raisonner en durée de cotisation plutôt qu’en âge de départ."
+    }
+   }
+  },
+  {
+   "id": "immigration",
+   "theme": "Immigration",
+   "q": "Quelle politique pour l’immigration ?",
+   "opts": [
+    {
+     "l": "En débattre d’abord dans une convention citoyenne tirée au sort",
+     "p": null
+    },
+    {
+     "l": "Réduire avec des quotas ou un système à points, en privilégiant le travail",
+     "p": 0
+    },
+    {
+     "l": "Diviser par deux l’immigration légale et suspendre le regroupement familial",
+     "p": 1
+    }
+   ],
+   "pos": {
+    "glucksmann": {
+     "o": 0,
+     "u": "https://www.cnews.fr/france/2026-09-11/immigration-quelles-sont-les-propositions-des-candidats-lelection-presidentielle",
+     "t": "media",
+     "s": "CNews",
+     "x": "Une convention citoyenne tirée au sort sur l’immigration."
+    },
+    "attal": {
+     "o": 1,
+     "u": "https://attalpresident.fr/programme/frontieres",
+     "t": "site",
+     "s": "Site de campagne (attalpresident.fr)",
+     "x": "Accueillir moins, privilégier le travail, système à points."
+    },
+    "retailleau": {
+     "o": 1,
+     "u": "https://www.avecretailleau.fr/projet",
+     "t": "site",
+     "s": "Site de campagne (avecretailleau.fr)",
+     "x": "Des quotas migratoires fixés par la loi."
+    },
+    "philippe": {
+     "o": 2,
+     "u": "https://lcp.fr/actualites/edouard-philippe-veut-diviser-par-deux-l-immigration-legale-et-propose-un-moratoire-sur",
+     "t": "media",
+     "s": "LCP",
+     "x": "Diviser par deux l’immigration légale, moratoire sur le regroupement familial."
+    }
+   }
+  },
+  {
+   "id": "salaires",
+   "theme": "Travail",
+   "q": "Pour que le travail paie mieux, la priorité :",
+   "opts": [
+    {
+     "l": "Augmenter le Smic par la loi",
+     "p": null
+    },
+    {
+     "l": "Baisser les prélèvements sur les salaires, financé par une taxe sur les très gros héritages",
+     "p": null
+    },
+    {
+     "l": "Baisser les charges salariales et réformer le chômage pour que plus de gens travaillent",
+     "p": null
+    }
+   ],
+   "pos": {
+    "melenchon": {
+     "o": 0,
+     "u": "https://melenchon2027.fr/programme2025/livre/",
+     "t": "site",
+     "s": "Site du programme (melenchon2027.fr)",
+     "x": "Smic à 1 600 € net."
+    },
+    "glucksmann": {
+     "o": 1,
+     "u": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/augmenter-les-salaires-en-taxant-les-plus-gros-heritages-la-proposition-de-raphael-glucksmann-est-elle-realiste_8076284.html",
+     "t": "media",
+     "s": "franceinfo",
+     "x": "Taxer le 1 % des plus gros héritages pour augmenter le salaire net."
+    },
+    "attal": {
+     "o": 2,
+     "u": "https://attalpresident.fr/programme/travail-salaires",
+     "t": "site",
+     "s": "Site de campagne (attalpresident.fr)",
+     "x": "Baisser les charges salariales, réforme de l’assurance chômage."
+    }
+   }
+  },
+  {
+   "id": "ia",
+   "theme": "IA et numérique",
+   "q": "Sur l’intelligence artificielle, la priorité :",
+   "opts": [
+    {
+     "l": "Investir massivement et former toute la population",
+     "p": null
+    },
+    {
+     "l": "Créer une agence publique pour coordonner les investissements",
+     "p": null
+    },
+    {
+     "l": "Une maîtrise publique des infrastructures et des modèles plus sobres",
+     "p": null
+    }
+   ],
+   "pos": {
+    "attal": {
+     "o": 0,
+     "u": "https://attalpresident.fr/programme/intelligence-artificielle",
+     "t": "site",
+     "s": "Site de campagne (attalpresident.fr)",
+     "x": "Première puissance européenne de l’IA, formation universelle."
+    },
+    "retailleau": {
+     "o": 0,
+     "u": "https://www.avecretailleau.fr/projet/theme/l-ia",
+     "t": "site",
+     "s": "Site de campagne (avecretailleau.fr)",
+     "x": "Former des millions d’actifs, data centers souverains."
+    },
+    "philippe": {
+     "o": 0,
+     "u": "https://www.technomedia.org/2026/09/presidentielle-2027-ce-que-proposent.html",
+     "t": "media",
+     "s": "Technomedia",
+     "x": "Doubler les capacités de calcul, 100 000 ingénieurs par an."
+    },
+    "glucksmann": {
+     "o": 1,
+     "u": "https://www.maddyness.com/2026/10/05/presidentielle-2027-ce-que-les-candidats-proposent-vraiment-sur-lia/",
+     "t": "media",
+     "s": "Maddyness",
+     "x": "Une agence industrielle du numérique et de l’IA."
+    },
+    "melenchon": {
+     "o": 2,
+     "u": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-attal-le-pen-et-melenchon-trois-manieres-de-parler-a-un-pays-exaspere",
+     "t": "media",
+     "s": "Public Sénat",
+     "x": "Maîtrise publique des infrastructures de l’IA."
+    }
+   }
+  }
+ ]
+}

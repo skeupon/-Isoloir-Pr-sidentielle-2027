@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Isoloir · Présidentielle 2027</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EEF0F6; --surface:#FFFFFF; --ink:#1B1740; --muted:#55526F;
+  --accent:#FFC93C; --on-accent:#1B1740; --lilac:#B9AEFF; --line:#D3D5E2;
+  --glass:rgba(185,174,255,.18); --soft:#F6F6FB;
+  --display:"Bricolage Grotesque","Arial Narrow",system-ui,sans-serif;
+  --body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
+  color-scheme:light; box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){--bg:#14122A;--surface:#201D3D;--ink:#F2F0FF;--muted:#ABA7CC;--lilac:#7F70E8;--line:#363260;--glass:rgba(127,112,232,.16);--soft:#1A1834;color-scheme:dark}
+}
+:root[data-theme="dark"]{--bg:#14122A;--surface:#201D3D;--ink:#F2F0FF;--muted:#ABA7CC;--lilac:#7F70E8;--line:#363260;--glass:rgba(127,112,232,.16);--soft:#1A1834;color-scheme:dark}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 72px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 1.0625rem/1.55 var(--body);-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:4px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+.mark{width:22px;height:22px;flex:none}
+
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:16px;min-height:60px}
+.logo{font:800 1.5rem/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;align-items:center;gap:8px}
+.logo i{display:inline-block;width:18px;height:22px;border:2.5px solid currentColor;border-radius:2px;position:relative}
+.logo i::after{content:"";position:absolute;left:3px;right:3px;top:3px;height:2.5px;background:currentColor}
+nav.main{margin-left:auto;display:flex;gap:2px}
+nav.main a{text-decoration:none;padding:8px 12px;border-radius:999px;font-weight:700;font-size:.95rem}
+nav.main a[aria-current="page"]{background:var(--ink);color:var(--bg)}
+
+.view{display:none}.view.on{display:block}
+
+.hero{display:grid;grid-template-columns:1.25fr 1fr;gap:40px;align-items:center;padding:56px 0 48px}
+.hero h1{font:800 clamp(2.5rem,6.6vw,4.6rem)/.97 var(--display);letter-spacing:-.035em;margin:0 0 20px}
+.hero p.lead{font-size:1.2rem;max-width:36ch;color:var(--muted);margin:0 0 28px}
+.date{display:inline-block;font-weight:700;margin:0 0 18px;padding:6px 14px;border-radius:999px;background:var(--surface)}
+.btns{display:flex;flex-wrap:wrap;gap:12px}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 22px;border-radius:999px;border:2px solid var(--ink);background:transparent;font-weight:700;text-decoration:none;cursor:pointer;text-align:center}
+.btn.primary{background:var(--accent);color:var(--on-accent);border-color:var(--accent)}
+.btn.small{min-height:38px;padding:0 14px;font-size:.92rem}
+.btn:disabled{opacity:.4;cursor:default}
+
+.urne-stage{position:relative;height:320px;display:flex;justify-content:center;align-items:flex-end}
+.urne{position:relative;width:230px;height:210px;border:3px solid var(--ink);border-radius:6px;background:var(--glass)}
+.urne .lid{position:absolute;left:-10px;right:-10px;top:-22px;height:22px;background:var(--ink);border-radius:4px 4px 0 0;z-index:3}
+.urne .lid::after{content:"";position:absolute;left:50%;top:8px;width:96px;height:6px;margin-left:-48px;background:var(--bg);border-radius:3px}
+.urne .pile{position:absolute;left:14px;right:14px;bottom:10px;height:70px}
+.env{position:absolute;width:86px;height:54px;background:var(--surface);border:2px solid var(--ink);border-radius:2px}
+.env::after{content:"";position:absolute;inset:0;background:linear-gradient(155deg,transparent 48%,var(--ink) 48% 52%,transparent 52%),linear-gradient(25deg,transparent 48%,var(--ink) 48% 52%,transparent 52%);background-size:100% 55%;background-repeat:no-repeat;opacity:.5}
+.pile .env:nth-child(1){left:0;bottom:0;transform:rotate(-6deg)}
+.pile .env:nth-child(2){left:60px;bottom:4px;transform:rotate(5deg)}
+.pile .env:nth-child(3){right:0;bottom:0;transform:rotate(-2deg)}
+.pile .env:nth-child(4){left:30px;bottom:26px;transform:rotate(9deg)}
+.drop{position:absolute;left:50%;top:-160px;width:96px;height:60px;margin-left:-48px;background:var(--accent);z-index:2;animation:drop 1.6s cubic-bezier(.5,0,.75,0) .5s both}
+@keyframes drop{0%{transform:translateY(0) rotate(-10deg)}45%{transform:translateY(40px) rotate(0)}100%{transform:translateY(200px)}}
+.avote{position:absolute;top:24px;right:calc(50% - 190px);font:800 1.6rem/1 var(--display);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;transform:rotate(6deg);animation:pop .4s ease-out 2.1s both}
+@keyframes pop{0%{opacity:0;transform:scale(.6) rotate(6deg)}100%{opacity:1;transform:scale(1) rotate(6deg)}}
+
+section.block{padding:48px 0;border-top:1px solid var(--line)}
+section.block h2{font:800 clamp(1.8rem,4vw,2.5rem)/1.05 var(--display);letter-spacing:-.025em;margin:0 0 12px}
+p.intro{color:var(--muted);max-width:60ch;margin:0 0 24px}
+
+.modes{display:grid;grid-template-columns:1.3fr 1fr;gap:16px}
+.mode{display:flex;flex-direction:column;gap:10px;padding:26px;border-radius:14px;background:var(--surface);text-decoration:none;border:2px solid transparent}
+.mode:hover{border-color:var(--ink)}
+.mode strong{font:800 2rem/1 var(--display);letter-spacing:-.02em}
+.mode span{color:var(--muted)}
+.mode.big{background:var(--ink);color:var(--bg)}
+.mode.big span{color:inherit;opacity:.82}
+.mode .go{margin-top:auto;font-weight:700;text-decoration:underline;text-underline-offset:4px}
+
+.cands{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.cand{background:var(--surface);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:6px}
+.cand .nm{display:flex;align-items:center;gap:10px;font:800 1.2rem/1.1 var(--display)}
+.cand small{color:var(--muted)}
+.others{color:var(--muted);max-width:75ch;margin-top:18px}
+
+.rules{display:grid;grid-template-columns:repeat(2,1fr);gap:24px 40px;margin:0;padding:0;list-style:none}
+.rules li{max-width:46ch}
+.rules b{display:block;font:700 1.2rem/1.2 var(--display);margin-bottom:4px}
+
+.page-head{padding:40px 0 12px}
+.page-head h1{font:800 clamp(2.2rem,6vw,3.4rem)/1 var(--display);letter-spacing:-.03em;margin:0 0 8px}
+.page-head p{color:var(--muted);margin:0;max-width:58ch}
+
+/* Test */
+.quiz{max-width:640px;margin:0 auto;padding:24px 0 64px;display:flex;flex-direction:column;gap:18px}
+.progress{display:flex;flex-direction:column;gap:6px;font-size:.9rem;color:var(--muted)}
+.bar{height:8px;border-radius:99px;background:var(--surface);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--ink);transition:width .3s}
+.qcard{background:var(--surface);border:2px solid var(--ink);border-radius:4px;padding:26px 22px;display:flex;flex-direction:column;gap:14px}
+.qcard .th{font-weight:700;color:var(--muted);margin:0}
+.qcard h2{font:700 clamp(1.4rem,4vw,1.9rem)/1.15 var(--display);letter-spacing:-.015em;margin:0}
+.opts{display:flex;flex-direction:column;gap:10px;margin:0;padding:0;list-style:none}
+.opt{width:100%;text-align:left;min-height:52px;padding:12px 16px;border-radius:10px;border:2px solid var(--line);background:var(--soft);cursor:pointer;font-weight:700;line-height:1.3}
+.opt:hover{border-color:var(--ink)}
+.opt[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.qfoot{display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:space-between}
+.imp{display:flex;align-items:center;gap:10px;font-weight:700;cursor:pointer}
+.imp input{width:22px;height:22px;accent-color:var(--ink)}
+.nav-q{display:flex;gap:8px}
+.privacy{font-size:.9rem;color:var(--muted)}
+
+.results h2{font:800 2rem/1.05 var(--display);letter-spacing:-.025em;margin:0}
+.res{background:var(--surface);border-radius:12px;padding:16px 18px;display:grid;grid-template-columns:24px 1fr auto;gap:6px 12px;align-items:center}
+.res .name{font-weight:700}
+.res .pct{font:800 1.5rem/1 var(--display)}
+.res .bar{grid-column:2/4;height:12px;background:var(--soft)}
+.res .bar i{background:var(--lilac)}
+.res small{grid-column:2/4;color:var(--muted)}
+.res details{grid-column:1/4;background:none;padding:0}
+details{background:var(--surface);border-radius:10px;padding:14px 18px}
+summary{font-weight:700;cursor:pointer}
+.recap{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:10px}
+.recap li{border-top:1px solid var(--line);padding-top:10px;font-size:.95rem}
+.recap b{display:block}
+.recap .you{color:var(--muted)}
+.warn{background:var(--soft);border-left:4px solid var(--accent);padding:12px 14px;border-radius:6px;font-size:.95rem}
+
+/* Duel */
+.picks{display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:20px 0}
+.pick fieldset{border:0;margin:0;padding:0}
+.pick legend{font-weight:700;margin-bottom:8px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{min-height:42px;padding:0 14px;border-radius:999px;border:2px solid var(--line);background:var(--surface);font-weight:700;cursor:pointer;display:inline-flex;align-items:center;gap:8px}
+.chip[aria-pressed="true"]{border-color:var(--ink);background:var(--ink);color:var(--bg)}
+.chip .mark{width:16px;height:16px}
+.toggle{display:flex;align-items:center;gap:10px;font-weight:700;margin:4px 0 18px;cursor:pointer}
+.toggle input{width:22px;height:22px;accent-color:var(--ink)}
+.duel-head{display:grid;grid-template-columns:1fr 1fr;gap:12px;position:sticky;top:calc(env(safe-area-inset-top,0px) + 61px);background:var(--bg);padding:10px 0;z-index:2;border-bottom:2px solid var(--ink)}
+.duel-head div{display:flex;align-items:center;gap:8px;font:800 1.15rem/1.1 var(--display)}
+.rows{display:flex;flex-direction:column;gap:14px;padding:16px 0 64px}
+.row{background:var(--surface);border-radius:12px;padding:16px}
+.row h3{font:700 1.1rem/1.25 var(--display);margin:0 0 4px}
+.row .th{font-size:.85rem;color:var(--muted);margin:0}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
+.side{background:var(--soft);border-radius:8px;padding:12px;display:flex;flex-direction:column;gap:8px}
+.side.none{color:var(--muted);font-style:italic}
+.badge{display:inline-block;align-self:flex-start;font-size:.8rem;font-weight:700;padding:3px 10px;border-radius:999px}
+.badge.same{background:var(--lilac);color:var(--ink)}
+.badge.diff{background:var(--accent);color:var(--on-accent)}
+.src{font-size:.82rem;color:var(--muted)}
+.src a{font-weight:700}
+
+footer{border-top:1px solid var(--line);padding:32px 0 48px;color:var(--muted);font-size:.9rem}
+footer p{max-width:75ch;margin:0 0 8px}
+
+@media (max-width:820px){
+  .hero{grid-template-columns:1fr;padding-top:28px;gap:4px}
+  .urne-stage{height:290px}
+  .modes,.rules{grid-template-columns:1fr}
+  .cands{grid-template-columns:1fr 1fr}
+  nav.main a{padding:8px 9px;font-size:.88rem}
+  .logo{font-size:1.25rem}
+  .picks{grid-template-columns:1fr}
+}
+@media (max-width:520px){
+  .cands{grid-template-columns:1fr}
+  .pair{grid-template-columns:1fr}
+  .duel-head{font-size:.95rem}
+  .duel-head div{font-size:1rem}
+}
+@media (prefers-reduced-motion:reduce){
+  .drop{animation:none;transform:translateY(200px)}
+  .avote{animation:none}
+}
+nav.main{overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+nav.main::-webkit-scrollbar{display:none}
+nav.main a{white-space:nowrap}
+
+/* Panneaux électoraux */
+.panneaux{display:grid;grid-template-columns:repeat(6,1fr);gap:12px}
+.poster{position:relative;display:flex;flex-direction:column;aspect-ratio:3/4;border:2px solid var(--ink);border-radius:4px;background:var(--surface);text-decoration:none;overflow:hidden;padding:12px;transition:transform .15s}
+.poster:hover{transform:translateY(-3px)}
+.poster::before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(135deg,transparent 0 9px,var(--glass) 9px 18px);pointer-events:none}
+.poster .num{position:relative;align-self:flex-start;width:30px;height:30px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center;font:800 .95rem/1 var(--display)}
+.poster .sym{position:absolute;top:14px;right:12px}
+.poster .sym .mark{width:22px;height:22px}
+.poster .first{position:relative;margin-top:auto;font-weight:700;font-size:.9rem}
+.poster .last{position:relative;font:800 clamp(1.3rem,2.4vw,2rem)/.92 var(--display);letter-spacing:-.03em;word-break:break-word;hyphens:auto}
+.poster .party{position:relative;font-size:.78rem;color:var(--muted);margin-top:6px;line-height:1.25}
+.poster img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.legend-panneaux{color:var(--muted);font-size:.9rem;margin-top:12px}
+
+/* Fiche candidat */
+.fiche-head{display:grid;grid-template-columns:220px 1fr;gap:28px;align-items:end;padding:36px 0 20px}
+.fiche-head .poster{max-width:220px}
+.fiche-head h1{font:800 clamp(2.4rem,7vw,4.2rem)/.95 var(--display);letter-spacing:-.035em;margin:0 0 10px}
+.fiche-head p{margin:0 0 8px;color:var(--muted);max-width:60ch}
+.status{display:inline-block;background:var(--surface);border-radius:999px;padding:6px 14px;font-weight:700;font-size:.9rem}
+.themebar{display:flex;gap:6px;overflow-x:auto;padding:12px 0;position:sticky;top:calc(env(safe-area-inset-top,0px) + 61px);background:var(--bg);z-index:2;scrollbar-width:none}
+.themebar::-webkit-scrollbar{display:none}
+.tchip{flex:none;min-height:40px;padding:0 14px;border-radius:999px;border:2px solid var(--line);background:var(--surface);font-weight:700;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.tchip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.tchip small{font-weight:400;opacity:.75}
+.tsec{padding:20px 0 6px}
+.tsec h2{font:800 1.6rem/1.1 var(--display);letter-spacing:-.02em;margin:0 0 12px}
+.items{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.item{background:var(--surface);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.item p{margin:0;font-weight:700;line-height:1.35}
+.empty{color:var(--muted);font-style:italic;margin:0}
+.fiche-nav{display:flex;justify-content:space-between;gap:10px;padding:28px 0 56px;flex-wrap:wrap}
+
+/* Programmes par thème */
+.grid6{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:16px 0 56px}
+.colc{background:var(--surface);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.colc .hd{display:flex;align-items:center;gap:10px;text-decoration:none}
+.colc .hd b{font:800 1.15rem/1.1 var(--display)}
+.colc ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.colc li{border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:4px}
+
+/* Actus */
+.newsgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;padding:8px 0 24px}
+.ncard{background:var(--surface);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.ncard .hd{display:flex;align-items:center;gap:10px;font:800 1.15rem/1.1 var(--display);text-decoration:none}
+.nitem{border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:4px}
+.nitem time{font-size:.85rem;font-weight:700;color:var(--muted)}
+.nitem p{margin:0}
+.pollcard{background:var(--ink);color:var(--bg);border-radius:12px;padding:18px 20px;display:flex;flex-direction:column;gap:6px;margin:8px 0 16px}
+.pollcard .src{color:inherit;opacity:.8}
+.updated{font-size:.9rem;color:var(--muted)}
+
+@media (max-width:980px){.panneaux{grid-template-columns:repeat(3,1fr)}.grid6{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:640px){
+  .panneaux{grid-template-columns:repeat(2,1fr)}
+  .fiche-head{grid-template-columns:120px 1fr;gap:16px}
+  .fiche-head .poster{max-width:120px;padding:8px}
+  .fiche-head .poster .last{font-size:1.1rem}
+  .items,.grid6,.newsgrid{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){.poster{transition:none}.poster:hover{transform:none}}
+.mono{width:26px;height:26px;flex:none;border-radius:50%;background:var(--ink);color:var(--bg);display:inline-grid;place-items:center;font:800 .68rem/1 var(--display);letter-spacing:-.02em}
+.chip .mono{width:20px;height:20px;font-size:.58rem}
+.chip[aria-pressed="true"] .mono{background:var(--bg);color:var(--ink)}
+.panneaux{grid-template-columns:repeat(6,1fr)}
+.poster .tag{position:absolute;top:12px;right:10px;font-size:.68rem;font-weight:700;background:var(--accent);color:var(--on-accent);padding:3px 7px;border-radius:999px}
+.poster.has-photo{padding:0}
+.poster.has-photo .num{position:absolute;top:10px;left:10px;z-index:1}
+.poster.has-photo .tag{z-index:1}
+.poster .cap{position:absolute;left:0;right:0;bottom:0;padding:28px 10px 10px;background:linear-gradient(transparent,rgba(10,8,30,.85));color:#fff;z-index:1}
+.poster .cap .party{color:rgba(255,255,255,.85)}
+.poster.has-photo::before{display:none}
+.credit{font-size:.75rem;color:var(--muted);margin-top:6px;max-width:220px}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:4px 0 14px}
+.filters select{min-height:42px;padding:0 12px;border-radius:10px;border:2px solid var(--line);background:var(--surface);font:inherit;font-weight:700;color:inherit;max-width:100%}
+.journal{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.journal li{background:var(--surface);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:4px}
+.journal time{font-size:.82rem;font-weight:700;color:var(--muted)}
+.jtag{align-self:flex-start;font-size:.75rem;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--lilac);color:var(--ink)}
+.auto-note{font-size:.85rem;color:var(--muted)}
+@media (max-width:1100px){.panneaux{grid-template-columns:repeat(4,1fr)}}
+@media (max-width:640px){.panneaux{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#accueil" aria-label="Isoloir, accueil"><i aria-hidden="true"></i>Isoloir</a>
+    <nav class="main" aria-label="Navigation">
+      <a href="#accueil" data-nav="accueil">Accueil</a>
+      <a href="#programmes" data-nav="programmes">Programmes</a>
+      <a href="#test" data-nav="test">Test</a>
+      <a href="#duel" data-nav="duel">Duel</a>
+      <a href="#actu" data-nav="actu">Actus</a>
+      <a href="#methode" data-nav="methode">Méthode</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="view" id="v-accueil" aria-labelledby="h-accueil">
+  <div class="wrap">
+    <div class="hero">
+      <div>
+        <p class="date">Premier tour le 18 avril 2027</p>
+        <h1 id="h-accueil">Avant de glisser ton bulletin, compare.</h1>
+        <p class="lead">Les programmes des candidats à la présidentielle, thème par thème, sourcés un par un. Explore, fais le test, compare-les deux par deux. Personne ne te dit pour qui voter.</p>
+        <div class="btns">
+          <a class="btn primary" href="#programmes">Explorer les programmes</a>
+          <a class="btn" href="#test">Faire le test</a>
+        </div>
+      </div>
+      <div class="urne-stage" aria-hidden="true">
+        <div class="urne"><div class="lid"></div><div class="env drop"></div><div class="pile"><div class="env"></div><div class="env"></div><div class="env"></div><div class="env"></div></div></div>
+        <div class="avote">A voté !</div>
+      </div>
+    </div>
+  </div>
+
+  <section class="block" aria-labelledby="h-cands">
+    <div class="wrap">
+      <h2 id="h-cands" data-nbcands>Les candidats</h2>
+      <p class="intro">Toutes les candidatures déclarées. Comme les panneaux devant ton bureau de vote, l’ordre est tiré au sort. Touche une affiche pour ouvrir la fiche du candidat.</p>
+      <div class="panneaux" data-panneaux></div>
+      <p class="legend-panneaux" data-critere></p>
+    </div>
+  </section>
+
+  <section class="block" aria-labelledby="h-modes">
+    <div class="wrap">
+      <h2 id="h-modes">Trois façons de s’y retrouver</h2>
+      <p class="intro">Commence par ce qui te parle.</p>
+      <div class="modes" style="grid-template-columns:1.3fr 1fr 1fr">
+        <a class="mode big" href="#programmes"><strong>Programmes</strong><span>Choisis un thème (économie, écologie, travail, IA, logement…) et vois ce que propose chaque candidat, côte à côte.</span><span class="go">Explorer les programmes</span></a>
+        <a class="mode" href="#test"><strong>Le test</strong><span>Des questions à choix multiple sur les sujets où les candidats ont pris position. À la fin, de qui tu es le plus proche, et pourquoi.</span><span class="go">Faire le test</span></a>
+        <a class="mode" href="#duel"><strong>Le duel</strong><span>Deux candidats face à face, thème par thème, chaque proposition avec sa source.</span><span class="go">Comparer deux candidats</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" aria-labelledby="h-actu-teaser">
+    <div class="wrap">
+      <h2 id="h-actu-teaser">Les dernières actus</h2>
+      <div data-poll-teaser></div>
+      <a class="btn" href="#actu">Voir toutes les actus des candidats</a>
+    </div>
+  </section>
+</section>
+
+<section class="view" id="v-candidat" aria-labelledby="h-candidat">
+  <div class="wrap" data-fiche></div>
+</section>
+
+<section class="view" id="v-programmes" aria-labelledby="h-programmes">
+  <div class="wrap">
+    <div class="page-head">
+      <h1 id="h-programmes">Les programmes</h1>
+      <p>Choisis un thème : les propositions de chaque candidat s’affichent côte à côte. Touche un nom pour voir tout son programme. Les candidats dont la fiche est encore en préparation apparaîtront ici dès qu’elle sera prête.</p>
+    </div>
+    <div class="themebar" data-themebar-all role="toolbar" aria-label="Thèmes"></div>
+    <div class="grid6" data-grid6 aria-live="polite"></div>
+  </div>
+</section>
+
+<section class="view" id="v-test" aria-labelledby="h-test">
+  <div class="wrap">
+    <div class="page-head">
+      <h1 id="h-test">Le test</h1>
+      <p>Choisis la réponse la plus proche de ton avis. Tu peux passer une question, et cocher les sujets qui comptent le plus pour toi.</p>
+    </div>
+    <div class="quiz" data-quiz></div>
+  </div>
+</section>
+
+<section class="view" id="v-duel" aria-labelledby="h-duel">
+  <div class="wrap">
+    <div class="page-head">
+      <h1 id="h-duel">Le duel</h1>
+      <p>Choisis deux candidats : leurs propositions s’affichent côte à côte, thème par thème, chacune avec sa source.</p>
+    </div>
+    <div class="picks">
+      <div class="pick"><fieldset><legend>Premier candidat</legend><div class="chips" data-pick="0"></div></fieldset></div>
+      <div class="pick"><fieldset><legend>Second candidat</legend><div class="chips" data-pick="1"></div></fieldset></div>
+    </div>
+    <label class="toggle"><input type="checkbox" data-onlydiff> Seulement les thèmes où les deux candidats se sont exprimés</label>
+    <div class="duel-head" data-duelhead></div>
+    <div class="rows" data-rows aria-live="polite"></div>
+  </div>
+</section>
+
+<section class="view" id="v-actu" aria-labelledby="h-actu">
+  <div class="wrap">
+    <div class="page-head">
+      <h1 id="h-actu">Les actus</h1>
+      <p>Les derniers articles sur chaque candidat, avec un lien vers le média d’origine.</p>
+    </div>
+    <div data-poll-full></div>
+    <div class="filters"><label for="fcand"><b>Candidat</b></label><select id="fcand" data-fcand></select></div>
+    <div class="newsgrid" data-news></div>
+    <p class="updated" data-maj></p>
+    <section class="tsec" aria-labelledby="h-journal"><h2 id="h-journal">Mises à jour du site</h2><p class="auto-note">Toutes les 12 heures, le site vérifie les actus, les portraits et les pages de programme. Un changement de programme est signalé ici, puis vérifié par la rédaction avant de modifier une fiche.</p><ul class="journal" data-journal></ul></section>
+    <div style="height:48px"></div>
+  </div>
+</section>
+
+<section class="view" id="v-methode" aria-labelledby="h-methode">
+  <div class="wrap">
+    <div class="page-head">
+      <h1 id="h-methode">Méthode</h1>
+      <p>Un comparateur ne vaut que par sa méthode. La voici, en clair.</p>
+    </div>
+    <section class="block" style="border-top:0;padding-top:16px">
+      <ul class="rules">
+        <li><b>Qui est comparé</b>Toutes les candidatures déclarées ont une fiche. Les programmes détaillés, le test et le duel couvrent d’abord les six premiers du dernier sondage relevé (Ifop-Fiducial pour LCI et Sud Radio, 12 au 14 octobre 2026) ; les autres fiches sont complétées au fur et à mesure, selon la même méthode.</li>
+        <li><b>D’où viennent les positions</b>Uniquement de deux types de sources, toujours liées : le site officiel de campagne ou de programme du candidat et, pour les candidats sans programme publié, ses déclarations rapportées par un média identifié. Isoloir les reformule en langage courant ; aucun comparateur tiers n’est utilisé.</li>
+        <li><b>Ce qui est écarté</b>Les propos d’un proche ou du parti, qui n’engagent pas le candidat, les sites qui résument les programmes sans lien vers l’original, et toute position que la rédaction n’a pas lue à la source. Quand rien n’est relevé sur un thème, la fiche le dit.</li>
+        <li><b>Comment le test calcule</b>Réponse identique à celle du candidat : 100 %. Réponse voisine sur une échelle : un score partiel. Les sujets cochés comme importants comptent double. Le résultat ne porte que sur les questions où le candidat a une position vérifiée.</li>
+        <li><b>Un ordre tiré au sort</b>L’ordre des candidats change à chaque visite. Aucune couleur de parti : chacun a un simple symbole.</li>
+        <li><b>Les portraits</b>Photos sous licence libre issues de Wikimedia Commons, avec leur auteur et leur licence. Pas de logos de partis : ce sont des marques protégées, le parti est indiqué en toutes lettres.</li><li><b>Les mises à jour</b>Toutes les 12 heures : nouvelles actus, nouveaux portraits, et détection des changements sur les pages de programme. Une position n’est jamais modifiée automatiquement : chaque changement est relu avant publication.</li><li><b>Rien ne quitte ton appareil</b>Tes réponses au test sont calculées dans ton navigateur. Rien n’est envoyé, rien n’est enregistré.</li>
+      </ul>
+      <p class="intro" style="margin-top:28px">Limites : Marine Le Pen, Édouard Philippe et Raphaël Glucksmann n’ont pas encore publié de programme, et Jean-Luc Mélenchon publie une nouvelle édition le 6 novembre. Le nombre de positions vérifiées varie donc fortement d’un candidat à l’autre ; chaque fiche l’indique. Relevé du 21 octobre 2026.</p>
+    </section>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Isoloir est un prototype indépendant. <span data-majfoot></span> Positions relevées sur les sites officiels des candidats et dans la presse, reformulées par Isoloir. Chaque position renvoie à sa source.</p>
+    <p>Pour voter, il faut être inscrit sur les listes électorales. <a href="https://www.service-public.fr/particuliers/vosdroits/demarches-et-outils/ISE" target="_blank" rel="noopener">Vérifier ton inscription sur service-public.fr</a></p>
+  </div>
+</footer>
+<script>
+(function(){
+"use strict";
+var D=/*DONNEES*/null;
+var ALL=D.candidats.candidats, P=D.programmes.positions, THEMES=D.programmes.themes, Q=D.test.questions;
+var A=D.actus, J=D.journal.entrees;
+function $(s,r){return (r||document).querySelector(s)}
+function $$(s,r){return Array.prototype.slice.call((r||document).querySelectorAll(s))}
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(m){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]})}
+function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
+function full(c){return c.prenom+" "+c.nom}
+function cand(id){for(var i=0;i<ALL.length;i++)if(ALL[i].id===id)return ALL[i]}
+var ORDER=shuffle(ALL), DET=ORDER.filter(function(c){return c.detaille});
+function num(id){for(var i=0;i<ORDER.length;i++)if(ORDER[i].id===id)return i+1}
+function mono(c){return '<span class="mono" aria-hidden="true">'+esc((c.prenom[0]||"")+(c.nom.replace(/^(Le|La|De|Du) /,"")[0]||""))+'</span>'}
+function fdate(s){try{var d=new Date(s);if(isNaN(d))return esc(s);return d.toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})}catch(e){return esc(s)}}
+function fdt(s){try{var d=new Date(s);return d.toLocaleDateString("fr-FR",{day:"numeric",month:"long"})+" à "+d.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"})}catch(e){return esc(s)}}
+function srcLine(p){return '<span class="src">'+(p.t==="site"?esc(p.s):"Déclaration rapportée par "+esc(p.s))+' · <a href="'+esc(p.u)+'" target="_blank" rel="noopener">voir la source</a></span>'}
+function srcHTML(q,cid,p){return srcLine(p)}
+function poster(c,tag){
+  var ph=c.photo&&c.photo.src;
+  var inner='<span class="num">'+num(c.id)+'</span>'+(c.detaille?'<span class="tag">Fiche détaillée</span>':'');
+  var txt='<span class="first">'+esc(c.prenom)+'</span><span class="last">'+esc(c.nom)+'</span><span class="party">'+esc(c.parti)+'</span>';
+  if(ph)inner+='<img src="'+esc(ph)+'" alt="Portrait de '+esc(full(c))+'" loading="lazy"><span class="cap">'+txt+'</span>';else inner+=txt;
+  var attrs=tag==="a"?' href="#'+c.id+'" aria-label="Fiche de '+esc(full(c))+'"':'';
+  return '<'+tag+' class="poster'+(ph?' has-photo':'')+'"'+attrs+'>'+inner+'</'+tag+'>';
+}
+
+/* Accueil */
+$("[data-nbcands]").textContent=ALL.length+" candidatures déclarées";
+$("[data-critere]").textContent=D.candidats.critere;
+$("[data-panneaux]").innerHTML=ORDER.map(function(c){return poster(c,"a")}).join("");
+function pollHTML(){var s=A.sondages;return '<div class="pollcard"><b>Sondages · '+esc(s.d)+'</b><span>'+esc(s.x)+'</span><span class="src">'+esc(s.s)+' · <a href="'+esc(s.u)+'" target="_blank" rel="noopener">lire l’article</a></span></div>'}
+$("[data-poll-teaser]").innerHTML=pollHTML();$("[data-poll-full]").innerHTML=pollHTML();
+$("[data-maj]").textContent="Dernière mise à jour des actus : "+fdt(A.maj)+".";
+$("[data-majfoot]").textContent="Dernière mise à jour : "+fdt(A.maj)+".";
+
+/* Actus */
+function newsFor(id){
+  var auto=(A.flux&&A.flux[id])||[];
+  if(auto.length)return auto.map(function(n){return {d:fdate(n.date),x:n.titre,s:n.source,u:n.lien}});
+  return A.selection.filter(function(n){return n.c===id}).map(function(n){return {d:esc(n.d),x:n.x,s:n.s,u:n.u}});
+}
+function newsItems(list){return list.map(function(n){return '<div class="nitem"><time>'+n.d+'</time><p>'+esc(n.x)+'</p><span class="src">'+esc(n.s)+' · <a href="'+esc(n.u)+'" target="_blank" rel="noopener">lire l’article</a></span></div>'}).join("")}
+var fsel=$("[data-fcand]");
+fsel.innerHTML='<option value="">Tous les candidats</option>'+ORDER.map(function(c){return '<option value="'+c.id+'">'+esc(full(c))+'</option>'}).join("");
+function renderNews(){
+  var only=fsel.value, list=ORDER.filter(function(c){return !only||c.id===only});
+  var html=list.map(function(c){var n=newsFor(c.id);if(!n.length&&!only)return "";
+    return '<article class="ncard"><a class="hd" href="#'+c.id+'">'+mono(c)+esc(full(c))+'</a>'+(n.length?newsItems(n):'<p class="empty">Pas encore d’actu relevée.</p>')+'</article>'}).join("");
+  $("[data-news]").innerHTML=html||'<p class="empty">Pas encore d’actu relevée.</p>';
+}
+fsel.addEventListener("change",renderNews);renderNews();
+$("[data-journal]").innerHTML=J.slice().reverse().slice(0,30).map(function(e){
+  var c=e.candidat&&cand(e.candidat);
+  return '<li><time>'+fdt(e.date)+'</time>'+(e.type==="programme"?'<span class="jtag">Programme modifié, à vérifier</span>':'')+'<span>'+(c?'<a href="#'+c.id+'">'+esc(full(c))+'</a> : ':'')+esc(e.texte)+'</span>'+(e.resume?'<span class="auto-note">Résumé automatique, à valider : '+esc(e.resume)+'</span>':'')+(e.url?'<span class="src"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">voir la page</a></span>':'')+'</li>'}).join("");
+
+/* Fiche candidat */
+function renderFiche(id){
+  var c=cand(id), mine=P.filter(function(p){return p.c===id});
+  var idx=num(id)-1, prev=ORDER[(idx+ORDER.length-1)%ORDER.length], next=ORDER[(idx+1)%ORDER.length];
+  var news=newsFor(id);
+  var credit=c.photo?'<p class="credit">Photo : '+esc(c.photo.auteur||"")+', '+esc(c.photo.licence||"")+(c.photo.page?' · <a href="'+esc(c.photo.page)+'" target="_blank" rel="noopener">Wikimedia Commons</a>':'')+'</p>':'';
+  var html='<div class="fiche-head"><div>'+poster(c,"div")+credit+'</div><div><h1 id="h-candidat">'+esc(full(c))+'</h1><p>'+esc(c.parti)+'</p><span class="status">'+esc(c.statut)+'</span></div></div>';
+  if(c.detaille){
+    html+='<div class="themebar" role="toolbar" aria-label="Thèmes">'+THEMES.map(function(t){
+      var k=mine.filter(function(p){return p.th===t.id}).length;
+      return '<button type="button" class="tchip" data-jump="'+t.id+'">'+esc(t.label)+' <small>'+k+'</small></button>'}).join("")+'</div>';
+    THEMES.forEach(function(t){
+      var it=mine.filter(function(p){return p.th===t.id});
+      html+='<section class="tsec" id="sec-'+t.id+'"><h2>'+esc(t.label)+'</h2>'+(it.length?'<ul class="items">'+it.map(function(p){return '<li class="item"><p>'+esc(p.x)+'</p>'+srcLine(p)+'</li>'}).join("")+'</ul>':'<p class="empty">Pas de proposition relevée sur ce thème pour l’instant.</p>')+'</section>';
+    });
+  }else{
+    html+='<section class="tsec"><h2>Programme</h2><p class="empty">Cette fiche est en préparation : ses propositions seront relevées et sourcées selon la même méthode que les autres.</p></section>';
+  }
+  html+='<section class="tsec"><h2>Ses dernières actus</h2>'+(news.length?'<div class="ncard">'+newsItems(news)+'</div>':'<p class="empty">Pas encore d’actu relevée.</p>')+'</section>';
+  html+='<div class="fiche-nav"><a class="btn small" href="#'+prev.id+'">'+esc(full(prev))+'</a>'+(c.detaille?'<a class="btn small primary" href="#duel" data-duel-with="'+id+'">Le comparer en duel</a>':'')+'<a class="btn small" href="#'+next.id+'">'+esc(full(next))+'</a></div>';
+  $("[data-fiche]").innerHTML=html;
+}
+$("#v-candidat").addEventListener("click",function(e){
+  var j=e.target.closest("[data-jump]");
+  if(j){var s=document.getElementById("sec-"+j.getAttribute("data-jump"));if(s)s.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"});return}
+  var d=e.target.closest("[data-duel-with]");
+  if(d){var id=d.getAttribute("data-duel-with");duel.pick[0]=id;if(duel.pick[1]===id)duel.pick[1]=DET.filter(function(c){return c.id!==id})[0].id;renderDuel()}
+});
+
+/* Programmes par thème */
+var curTheme=THEMES[0].id;
+function renderThemes(){
+  $("[data-themebar-all]").innerHTML=THEMES.map(function(t){return '<button type="button" class="tchip" data-th="'+t.id+'" aria-pressed="'+(t.id===curTheme)+'">'+esc(t.label)+'</button>'}).join("");
+  $("[data-grid6]").innerHTML=DET.map(function(c){
+    var it=P.filter(function(p){return p.c===c.id&&p.th===curTheme});
+    return '<article class="colc"><a class="hd" href="#'+c.id+'">'+mono(c)+'<b>'+esc(full(c))+'</b></a>'+(it.length?'<ul>'+it.map(function(p){return '<li><span>'+esc(p.x)+'</span>'+srcLine(p)+'</li>'}).join("")+'</ul>':'<p class="empty">Pas de proposition relevée sur ce thème pour l’instant.</p>')+'</article>';
+  }).join("");
+}
+$("#v-programmes").addEventListener("click",function(e){
+  var b=e.target.closest("[data-th]");if(!b)return;curTheme=b.getAttribute("data-th");renderThemes();
+  b=$('[data-th="'+curTheme+'"]');if(b)b.scrollIntoView({block:"nearest",inline:"center"});
+});
+
+/* Test */
+var T;
+function startTest(){T={i:0,ans:{},imp:{}};renderQ()}
+function renderQ(){
+  var box=$("[data-quiz]");
+  if(T.i>=Q.length){renderResults();return}
+  var q=Q[T.i],cur=T.ans[q.id],pct=Math.round(T.i/Q.length*100);
+  box.innerHTML='<div class="progress"><span>Question '+(T.i+1)+' sur '+Q.length+'</span><div class="bar"><i style="width:'+pct+'%"></i></div></div>'+
+   '<div class="qcard"><p class="th">'+esc(q.theme)+'</p><h2 tabindex="-1" data-qtitle>'+esc(q.q)+'</h2>'+
+   '<ul class="opts">'+q.opts.map(function(o,k){return '<li><button type="button" class="opt" data-opt="'+k+'" aria-pressed="'+(cur===k)+'">'+esc(o.l)+'</button></li>'}).join("")+'</ul>'+
+   '<div class="qfoot"><label class="imp"><input type="checkbox" data-imp'+(T.imp[q.id]?" checked":"")+'> Ce sujet compte beaucoup pour moi</label></div></div>'+
+   '<div class="qfoot"><button type="button" class="btn small" data-prev'+(T.i===0?" disabled":"")+'>Question précédente</button><button type="button" class="btn small" data-skip>'+(cur!==undefined?"Question suivante":"Passer cette question")+'</button></div>'+
+   '<p class="privacy">Le test ne contient que les questions où au moins trois candidats ont une position vérifiée ; il s’enrichira avec la publication des programmes. Calculé sur ton appareil : rien n’est envoyé ni enregistré.</p>';
+}
+function scoreFor(q,a,c){if(a===c)return 1;var pa=q.opts[a].p,pc=q.opts[c].p;if(pa===null||pc===null)return 0;var max=0;q.opts.forEach(function(o){if(o.p!==null&&o.p>max)max=o.p});return max?1-Math.abs(pa-pc)/max:0}
+function renderResults(){
+  var rows=DET.map(function(c){var sum=0,w=0,n=0,items=[];
+    Q.forEach(function(q){var a=T.ans[q.id],p=q.pos[c.id];if(a===undefined)return;if(!p){items.push({q:q,a:a,p:null});return}
+      var wt=T.imp[q.id]?2:1,s=scoreFor(q,a,p.o);sum+=s*wt;w+=wt;n++;items.push({q:q,a:a,p:p,s:s})});
+    return {c:c,pct:w?Math.round(sum/w*100):null,n:n,items:items}});
+  var answered=Object.keys(T.ans).length,box=$("[data-quiz]");
+  rows.sort(function(x,y){return (y.pct===null?-1:y.pct)-(x.pct===null?-1:x.pct)});
+  if(!answered){box.innerHTML='<div class="results"><h2>Aucune réponse</h2><p>Réponds à au moins quelques questions pour voir tes affinités.</p><div class="btns"><button type="button" class="btn primary" data-restart>Recommencer le test</button></div></div>';return}
+  box.innerHTML='<div class="results" style="display:flex;flex-direction:column;gap:14px"><h2>Tes affinités</h2><p>Le pourcentage indique à quel point tes réponses rejoignent les positions connues de chaque candidat. Ce n’est pas une consigne de vote : ouvre le détail pour voir sur quoi vous êtes d’accord ou pas.</p>'+
+   (answered<8?'<p class="warn">Tu as répondu à '+answered+' question'+(answered>1?"s":"")+' sur '+Q.length+'. Plus tu réponds, plus le résultat est fiable.</p>':'')+
+   rows.map(function(r){return '<div class="res">'+mono(r.c)+'<span class="name">'+esc(full(r.c))+'</span><span class="pct">'+(r.pct===null?"–":r.pct+" %")+'</span><div class="bar"><i style="width:'+(r.pct||0)+'%"></i></div>'+
+     '<small>'+(r.n?'Calculé sur '+r.n+' de tes réponses'+(r.n<5?' : peu de positions connues, résultat fragile':''):'Aucune position connue sur les questions auxquelles tu as répondu')+' · <a href="#'+r.c.id+'">voir sa fiche</a></small>'+
+     '<details><summary>Voir le détail</summary><ul class="recap">'+r.items.map(function(it){var you=it.q.opts[it.a].l;
+       if(!it.p)return '<li><b>'+esc(it.q.q)+'</b><span class="you">Toi : '+esc(you)+'</span><br>Pas de position connue sur ce sujet.</li>';
+       var tag=it.s===1?"Même réponse":(it.s>0?"Réponse proche":"Désaccord");
+       return '<li><b>'+esc(it.q.q)+'</b><span class="you">Toi : '+esc(you)+' · '+tag+'</span><br>'+esc(it.p.x)+'<br>'+srcHTML(it.q,r.c.id,it.p)+'</li>'}).join("")+'</ul></details></div>'}).join("")+
+   '<div class="btns"><button type="button" class="btn primary" data-duel-top>Comparer mes deux premiers en duel</button><button type="button" class="btn" data-restart>Recommencer le test</button></div><p class="privacy">Calculé sur ton appareil. Rien n’est envoyé ni enregistré.</p></div>';
+  T.top=[rows[0].c.id,rows[1].c.id];
+}
+function focusQ(){var h=$("[data-qtitle]");if(h)h.focus({preventScroll:true})}
+$("#v-test").addEventListener("click",function(e){
+  var o=e.target.closest("[data-opt]");
+  if(o){T.ans[Q[T.i].id]=+o.getAttribute("data-opt");$$("[data-opt]").forEach(function(b){b.setAttribute("aria-pressed",b===o)});setTimeout(function(){T.i++;renderQ();focusQ()},220);return}
+  if(e.target.closest("[data-skip]")){T.i++;renderQ();focusQ();return}
+  if(e.target.closest("[data-prev]")){if(T.i>0){T.i--;renderQ();focusQ()}return}
+  if(e.target.closest("[data-restart]")){startTest();focusQ();return}
+  if(e.target.closest("[data-duel-top]")){duel.pick=T.top.slice();renderDuel();location.hash="#duel"}
+});
+$("#v-test").addEventListener("change",function(e){if(e.target.matches("[data-imp]"))T.imp[Q[T.i].id]=e.target.checked});
+
+/* Duel */
+var duel={pick:[DET[0].id,DET[1].id],only:false};
+function renderDuel(){
+  $$("[data-pick]").forEach(function(box){var idx=+box.getAttribute("data-pick");
+    box.innerHTML=DET.map(function(c){var dis=c.id===duel.pick[1-idx];return '<button type="button" class="chip" data-c="'+c.id+'" aria-pressed="'+(c.id===duel.pick[idx])+'"'+(dis?' disabled style="opacity:.35"':'')+'>'+mono(c)+esc(full(c))+'</button>'}).join("")});
+  var a=cand(duel.pick[0]),b=cand(duel.pick[1]);
+  $("[data-duelhead]").innerHTML='<div>'+mono(a)+esc(full(a))+'</div><div>'+mono(b)+esc(full(b))+'</div>';
+  var html="",shown=0;
+  THEMES.forEach(function(t){
+    var pa=P.filter(function(p){return p.c===a.id&&p.th===t.id}),pb=P.filter(function(p){return p.c===b.id&&p.th===t.id});
+    if(!pa.length&&!pb.length)return;
+    if(duel.only&&(!pa.length||!pb.length))return;
+    shown++;
+    function side(list){return list.length?'<div class="side">'+list.map(function(p){return '<span>'+esc(p.x)+'</span>'+srcLine(p)}).join("")+'</div>':'<div class="side none">Pas de proposition relevée sur ce thème.</div>'}
+    html+='<article class="row"><h3>'+esc(t.label)+'</h3><div class="pair">'+side(pa)+side(pb)+'</div></article>';
+  });
+  $("[data-rows]").innerHTML=shown?html:'<p>Aucun thème où les deux candidats ont une proposition relevée.</p>';
+}
+$("#v-duel").addEventListener("click",function(e){var c=e.target.closest("[data-c]");if(!c||c.disabled)return;duel.pick[+c.parentNode.getAttribute("data-pick")]=c.getAttribute("data-c");renderDuel()});
+$("[data-onlydiff]").addEventListener("change",function(e){duel.only=e.target.checked;renderDuel()});
+
+/* Navigation */
+var VIEWS=["accueil","programmes","test","duel","actu","methode"];
+var TITLES={accueil:"Isoloir · Présidentielle 2027",programmes:"Les programmes · Isoloir",test:"Le test · Isoloir",duel:"Le duel · Isoloir",actu:"Les actus · Isoloir",methode:"Méthode · Isoloir"};
+function show(v){$$(".view").forEach(function(s){s.classList.toggle("on",s.id==="v-"+v)});$$("[data-nav]").forEach(function(a){if(a.getAttribute("data-nav")===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")})}
+function route(){var h=(location.hash||"").slice(1);
+  if(cand(h)){renderFiche(h);show("candidat");document.title=full(cand(h))+" · Isoloir"}
+  else{var v=VIEWS.indexOf(h)>-1?h:"accueil";show(v);document.title=TITLES[v]}
+  window.scrollTo(0,0)}
+window.addEventListener("hashchange",route);
+renderThemes();startTest();renderDuel();route();
+})();
+</script>
+</body>
+</html>
