@@ -8,17 +8,17 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
 <style>:root{
-  --bg:#F1F2F8; --surface:#FFFFFF; --ink:#1B1740; --muted:#55526F;
+  --bg:#F4F1FF; --surface:#FFFFFF; --ink:#1A1442; --muted:#58547A; --violet:#6C4CFF; --coral:#FF6B6B; --mint:#1FC79C; --sky:#3BA8FF;
   --accent:#FFC93C; --on-accent:#1B1740; --lilac:#B9AEFF; --line:#DDDFEA;
   --soft:#F5F5FB; --glass:rgba(185,174,255,.22);
-  --tile-l:93%; --tile-s:85%; --tile-fg-l:24%; --tile-fg-s:55%;
+  --tile-l:88%; --tile-s:95%; --tile-fg-l:22%; --tile-fg-s:70%;
   --display:"Bricolage Grotesque","Arial Narrow",system-ui,sans-serif;
   --body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
   color-scheme:light; box-sizing:border-box;
   padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
 }
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#13112A;--surface:#1E1B3A;--ink:#F2F0FF;--muted:#AAA6CB;--lilac:#7F70E8;--line:#322E58;--soft:#191733;--glass:rgba(127,112,232,.18);--tile-l:21%;--tile-s:32%;--tile-fg-l:84%;--tile-fg-s:80%;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#13112A;--surface:#1E1B3A;--ink:#F2F0FF;--muted:#AAA6CB;--lilac:#7F70E8;--line:#322E58;--soft:#191733;--glass:rgba(127,112,232,.18);--tile-l:21%;--tile-s:32%;--tile-fg-l:84%;--tile-fg-s:80%;color-scheme:dark}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0E0B22;--surface:#1B1738;--ink:#F2F0FF;--muted:#AAA6CB;--lilac:#7F70E8;--line:#322E58;--soft:#191733;--glass:rgba(127,112,232,.18);--tile-l:27%;--tile-s:55%;--tile-fg-l:84%;--tile-fg-s:80%;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0E0B22;--surface:#1B1738;--ink:#F2F0FF;--muted:#AAA6CB;--lilac:#7F70E8;--line:#322E58;--soft:#191733;--glass:rgba(127,112,232,.18);--tile-l:27%;--tile-s:55%;--tile-fg-l:84%;--tile-fg-s:80%;color-scheme:dark}
 *,*::before,*::after{box-sizing:inherit}
 html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 76px)}
 body{margin:0;background:var(--bg);color:var(--ink);font:400 1.0625rem/1.55 var(--body);-webkit-font-smoothing:antialiased}
@@ -284,6 +284,69 @@ footer p{max-width:80ch;margin:0 0 8px}
   .view.on{animation:none}
   .tile,.poster,.mode{transition:none}.tile:hover,.poster:hover,.mode:hover,.btn:not(:disabled):hover{transform:none}
 }
+
+/* ===== Version immersive ===== */
+.mlink{display:inline-flex!important}
+.hero-wrap{position:relative;overflow:hidden;border-radius:32px;margin:18px 0 6px;padding:0 28px;background:linear-gradient(135deg,hsl(258 100% 96%),hsl(330 100% 95%) 55%,hsl(45 100% 92%))}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .hero-wrap{background:linear-gradient(135deg,hsl(258 55% 18%),hsl(320 45% 16%) 55%,hsl(240 50% 14%))}}
+:root[data-theme="dark"] .hero-wrap{background:linear-gradient(135deg,hsl(258 55% 18%),hsl(320 45% 16%) 55%,hsl(240 50% 14%))}
+.blob{position:absolute;border-radius:50%;filter:blur(40px);opacity:.55;pointer-events:none;animation:float 14s ease-in-out infinite alternate}
+.blob.b1{width:320px;height:320px;background:var(--violet);top:-120px;right:8%}
+.blob.b2{width:260px;height:260px;background:var(--coral);bottom:-120px;left:30%;animation-delay:-5s}
+.blob.b3{width:200px;height:200px;background:var(--accent);top:30%;right:-60px;animation-delay:-9s}
+@keyframes float{from{transform:translate(0,0) scale(1)}to{transform:translate(-40px,30px) scale(1.15)}}
+.hero{position:relative;z-index:1}
+.stories{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:10px 2px 14px;scrollbar-width:none}
+.stories::-webkit-scrollbar{display:none}
+.story{flex:none;width:80px;display:flex;flex-direction:column;align-items:center;gap:6px;text-decoration:none;scroll-snap-align:start;font-size:.74rem;font-weight:700;text-align:center;line-height:1.15}
+.ring{width:72px;height:72px;border-radius:50%;padding:3px;background:conic-gradient(from 200deg,var(--accent),var(--coral),var(--violet),var(--mint),var(--accent));transition:transform .2s}
+.ring .av{width:100%;height:100%;border:3px solid var(--bg);font-size:1.1rem}
+.story:hover .ring{transform:scale(1.08) rotate(-4deg)}
+.story .pc{font:800 .78rem/1 var(--display);color:var(--violet)}
+.tile{position:relative;overflow:hidden;min-height:140px;background:linear-gradient(140deg,hsl(var(--h) var(--tile-s) var(--tile-l)),hsl(calc(var(--h) + 35) var(--tile-s) calc(var(--tile-l) - 8%)))!important;box-shadow:0 1px 0 rgba(0,0,0,.03)}
+.tile::after{content:"";position:absolute;right:-26px;bottom:-26px;width:110px;height:110px;border-radius:50%;background:currentColor;opacity:.08}
+.tile:hover{box-shadow:0 12px 30px -12px hsl(var(--h) 80% 40% / .55)}
+.tile .ic{width:40px;height:40px}
+.poster .ph img{transition:transform .4s}
+.poster:hover .ph img{transform:scale(1.06)}
+.poster:hover{box-shadow:0 14px 34px -16px rgba(40,20,120,.45)}
+.fchips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.fchip{min-height:40px;padding:0 16px;border-radius:999px;border:2px solid var(--line);background:var(--surface);font-weight:700;cursor:pointer}
+.fchip[aria-pressed="true"]{background:var(--violet);border-color:var(--violet);color:#fff}
+/* Dock de navigation flottant */
+nav.main{position:fixed!important;left:50%;bottom:calc(14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:20;margin:0!important;display:flex;gap:2px;padding:6px;border-radius:999px;background:color-mix(in srgb,var(--ink) 88%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);box-shadow:0 16px 40px -12px rgba(20,10,60,.55);border:0!important;justify-content:center;width:auto!important;right:auto!important}
+nav.main a{color:var(--bg);padding:10px 16px!important;border-radius:999px!important;flex-direction:row!important;font-size:.92rem!important;gap:8px!important;transition:background .2s,color .2s}
+nav.main a:hover{background:rgba(255,255,255,.12)}
+nav.main a[aria-current="page"]{background:var(--accent)!important;color:var(--on-accent)!important}
+nav.main a[data-nav="methode"]{display:none}
+body{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))!important}
+@media (max-width:860px){nav.main{left:10px;right:10px!important;transform:none;justify-content:space-between}nav.main a{flex-direction:column!important;font-size:.64rem!important;padding:7px 8px!important;gap:2px!important;min-width:0;flex:1}}
+/* Apparitions au défilement */
+.rv{opacity:0;transform:translateY(18px);transition:opacity .5s ease,transform .5s ease}
+.rv.in{opacity:1;transform:none}
+/* Duel face à face */
+.faceoff{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px;margin:6px 0 16px;padding:20px;border-radius:24px;background:linear-gradient(120deg,hsl(258 95% 90%),hsl(12 95% 90%))}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .faceoff{background:linear-gradient(120deg,hsl(258 45% 22%),hsl(12 45% 22%))}}
+:root[data-theme="dark"] .faceoff{background:linear-gradient(120deg,hsl(258 45% 22%),hsl(12 45% 22%))}
+.fo{display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center;font:800 1.1rem/1.1 var(--display)}
+.fo .av{width:96px;height:96px;font-size:1.6rem;border:4px solid var(--surface);box-shadow:0 10px 24px -10px rgba(0,0,0,.4)}
+.fo small{font:700 .8rem var(--body);color:var(--muted)}
+.faceoff .vs{width:62px;height:62px;font-size:1.3rem;transform:rotate(-8deg);box-shadow:0 8px 20px -6px rgba(0,0,0,.35)}
+/* Podium du test */
+.podium{display:grid;grid-template-columns:1fr 1.15fr 1fr;align-items:end;gap:10px;margin:8px 0 6px}
+.pod{display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center}
+.pod .av{width:68px;height:68px;font-size:1.1rem;border:3px solid var(--surface)}
+.pod.p1 .av{width:88px;height:88px}
+.pod b{font:700 .9rem/1.15 var(--display)}
+.pod .step{width:100%;border-radius:16px 16px 6px 6px;display:grid;place-items:center;font:800 1.5rem/1 var(--display);color:var(--on-accent)}
+.pod.p1 .step{height:120px;background:var(--accent)}
+.pod.p2 .step{height:90px;background:hsl(258 95% 85%)}
+.pod.p3 .step{height:70px;background:hsl(12 95% 85%)}
+.qcard{box-shadow:0 18px 40px -24px rgba(40,20,120,.45)}
+.opt{transition:transform .12s,border-color .12s}
+.opt:hover{transform:translateX(4px)}
+::view-transition-old(root),::view-transition-new(root){animation-duration:.28s}
+@media (prefers-reduced-motion:reduce){.blob{animation:none}.rv{opacity:1;transform:none;transition:none}.ring,.poster .ph img,.opt{transition:none}.story:hover .ring,.poster:hover .ph img,.opt:hover{transform:none}}
 </style>
 </head>
 <body>
@@ -305,6 +368,7 @@ footer p{max-width:80ch;margin:0 0 8px}
 <main>
 <section class="view" id="v-accueil" aria-labelledby="h-accueil">
   <div class="wrap">
+   <div class="hero-wrap"><span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span>
     <div class="hero">
       <div>
         <p class="date"><span data-icon="calendar"></span>Premier tour le 18 avril 2027</p>
@@ -320,6 +384,8 @@ footer p{max-width:80ch;margin:0 0 8px}
         <div class="avote">A voté !</div>
       </div>
     </div>
+   </div>
+   <div class="stories" data-stories aria-label="Accès rapide aux candidats"></div>
   </div>
 
   <section class="block" aria-labelledby="h-themes">
@@ -332,6 +398,7 @@ footer p{max-width:80ch;margin:0 0 8px}
   <section class="block" aria-labelledby="h-cands">
     <div class="wrap">
       <div class="sec-head"><div><h2 id="h-cands" data-nbcands>Les candidats</h2><p class="intro">Classés selon la moyenne des sondages. Touche une affiche pour ouvrir la fiche du candidat.</p></div></div>
+      <div class="fchips" role="toolbar" aria-label="Filtrer les candidats"><button type="button" class="fchip" data-f="tous" aria-pressed="true">Tous</button><button type="button" class="fchip" data-f="detail" aria-pressed="false">Fiches détaillées</button><button type="button" class="fchip" data-f="sondes" aria-pressed="false">Testés dans les sondages</button></div>
       <div class="panneaux" data-panneaux></div>
       <p class="legend" data-critere></p>
     </div>
@@ -382,6 +449,7 @@ footer p{max-width:80ch;margin:0 0 8px}
       <div class="vs" aria-hidden="true">VS</div>
       <div class="pick"><fieldset><legend>Second candidat</legend><div class="chips" data-pick="1"></div></fieldset></div>
     </div>
+    <div data-faceoff></div>
     <label class="toggle"><input type="checkbox" data-onlydiff> Seulement les thèmes où les deux se sont exprimés</label>
     <div class="duel-head" data-duelhead></div>
     <div class="rows" data-rows aria-live="polite"></div>
@@ -477,12 +545,16 @@ function srcLine(p){
 }
 function tstyle(t){return ' style="--h:'+(t?t.h:250)+'"'}
 $$("[data-icon]").forEach(function(s){s.outerHTML=ic(s.getAttribute("data-icon"))});
+var RM=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+var IO=("IntersectionObserver" in window&&!RM)?new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("in");IO.unobserve(e.target)}})},{rootMargin:"0px 0px -6% 0px"}):null;
+function reveal(root,sel){if(!IO||!root)return;$$(sel,root).forEach(function(el,i){el.classList.add("rv");el.style.transitionDelay=(i%8)*45+"ms";IO.observe(el)})}
 
 /* Accueil */
 $("[data-tiles]").innerHTML=THEMES.map(function(t){
   var n=P.filter(function(p){return p.th===t.id}).length, k={};P.forEach(function(p){if(p.th===t.id)k[p.c]=1});
   return '<a class="tile tint"'+tstyle(t)+' href="#theme-'+t.id+'">'+ic(t.ic)+'<b>'+esc(t.label)+'</b><small>'+n+' propositions · '+Object.keys(k).length+' candidats</small></a>';
 }).join("");
+reveal($("[data-tiles]"),".tile");
 function poster(c,tag){
   var ph=c.photo&&c.photo.src, v=pct(c), max=pct(ORDER[0])||1;
   var html='<span class="ph">'+(ph?'<img src="'+esc(ph)+'" alt="" loading="lazy">':'<span class="ini" aria-hidden="true">'+ini(c)+'</span>')+
@@ -492,7 +564,11 @@ function poster(c,tag){
   return '<'+tag+' class="poster"'+(tag==="a"?' href="#'+c.id+'" aria-label="Fiche de '+esc(full(c))+'"':'')+'>'+html+'</'+tag+'>';
 }
 $("[data-nbcands]").textContent=ALL.length+" candidatures déclarées";
-$("[data-panneaux]").innerHTML=ORDER.map(function(c){return poster(c,"a")}).join("");
+var filt="tous";
+function renderPosters(){var l=ORDER.filter(function(c){return filt==="tous"||(filt==="detail"&&c.detaille)||(filt==="sondes"&&pct(c)!==null)});
+  $("[data-panneaux]").innerHTML=l.map(function(c){return poster(c,"a")}).join("");reveal($("[data-panneaux]"),".poster")}
+$$("[data-f]").forEach(function(b){b.addEventListener("click",function(){filt=b.getAttribute("data-f");$$("[data-f]").forEach(function(x){x.setAttribute("aria-pressed",x===b)});renderPosters()})});
+$("[data-stories]").innerHTML=ORDER.map(function(c){var v=pct(c);return '<a class="story" href="#'+c.id+'"><span class="ring">'+av(c)+'</span><span>'+esc(c.nom)+'</span>'+(v!==null?'<span class="pc">'+fpct(v)+'</span>':'')+'</a>'}).join("");
 $("[data-critere]").innerHTML=esc(D.candidats.critere)+" Sondages : "+esc(SO.source||"")+", "+esc(SO.date||"")+(SO.url?' (<a href="'+esc(SO.url)+'" target="_blank" rel="noopener">voir</a>)':"")+". Quelques points d’écart restent dans la marge d’erreur ; les candidats non testés sont classés par ordre alphabétique.";
 $("[data-nbq]").textContent=Q.length+" questions à choix multiple. À la fin, de qui tu es le plus proche, et pourquoi.";
 function pollHTML(){var s=A.sondages;return '<div class="pollcard">'+ic("chart")+'<div><b>Sondages · '+esc(s.d)+'</b><br><span>'+esc(s.x)+'</span><br><span class="src">'+esc(s.s)+' · <a href="'+esc(s.u)+'" target="_blank" rel="noopener">lire l’article</a></span></div></div>'}
@@ -536,7 +612,7 @@ function renderFiche(id){
   }
   html+='<section class="tsec"><h2><span class="bub tint" style="--h:215">'+ic("news")+'</span>Ses dernières actus</h2>'+(news.length?'<div class="ncard">'+newsItems(news)+'</div>':'<p class="empty">Pas encore d’actu relevée.</p>')+'</section>';
   html+='<div class="fiche-nav"><a class="btn small" href="#'+prev.id+'">← '+esc(full(prev))+'</a>'+(c.detaille?'<a class="btn small primary" href="#duel" data-duel-with="'+id+'">'+ic("versus")+'Le comparer en duel</a>':'')+'<a class="btn small" href="#'+next.id+'">'+esc(full(next))+' →</a></div>';
-  $("[data-fiche]").innerHTML=html;
+  $("[data-fiche]").innerHTML=html;reveal($("[data-fiche]"),".item,.ttile");
 }
 $("#v-candidat").addEventListener("click",function(e){
   var j=e.target.closest("[data-jump]");
@@ -554,6 +630,7 @@ function renderThemes(){
   $("[data-banner]").innerHTML='<div class="banner tint"'+tstyle(t)+'>'+ic(t.ic)+'<div><h2>'+esc(t.label)+'</h2><p>'+all.length+' propositions de '+who.length+' candidats</p></div></div>';
   $("[data-cols]").innerHTML=who.map(function(c){var it=all.filter(function(p){return p.c===c.id}),v=pct(c);
     return '<article class="colc"><a class="hd" href="#'+c.id+'">'+av(c,"l")+'<span><b>'+esc(full(c))+'</b><small>'+esc(c.parti)+(v!==null?' · '+fpct(v):'')+'</small></span></a><ul>'+it.map(function(p){return '<li><span>'+esc(p.x)+'</span>'+srcLine(p)+'</li>'}).join("")+'</ul></article>'}).join("")||'<p class="empty">Pas encore de proposition relevée sur ce thème.</p>';
+  reveal($("[data-cols]"),".colc");
 }
 $("#v-programmes").addEventListener("click",function(e){
   var b=e.target.closest("[data-th]");if(!b)return;curTheme=b.getAttribute("data-th");history.replaceState(null,"","#theme-"+curTheme);renderThemes();
@@ -584,7 +661,7 @@ function renderResults(){
   var answered=Object.keys(T.ans).length,box=$("[data-quiz]");
   rows.sort(function(x,y){return (y.pct===null?-1:y.pct)-(x.pct===null?-1:x.pct)});
   if(!answered){box.innerHTML='<div class="results"><h2>Aucune réponse</h2><p>Réponds à au moins quelques questions pour voir tes affinités.</p><button type="button" class="btn primary" data-restart>Recommencer</button></div>';return}
-  box.innerHTML='<div class="results" style="display:flex;flex-direction:column;gap:12px"><h2>Tes affinités</h2><p>À quel point tes réponses rejoignent les positions connues de chaque candidat. Ce n’est pas une consigne de vote : ouvre le détail pour voir sur quoi vous êtes d’accord ou pas.</p>'+
+  box.innerHTML='<div class="results" style="display:flex;flex-direction:column;gap:12px"><h2>Tes affinités</h2>'+podium(rows)+'<p>À quel point tes réponses rejoignent les positions connues de chaque candidat. Ce n’est pas une consigne de vote : ouvre le détail pour voir sur quoi vous êtes d’accord ou pas.</p>'+
    (answered<8?'<p class="warn">Tu as répondu à '+answered+' question'+(answered>1?"s":"")+' sur '+Q.length+'. Plus tu réponds, plus le résultat est fiable.</p>':'')+
    rows.map(function(r){return '<div class="res">'+av(r.c,"l")+'<span class="name">'+esc(full(r.c))+'</span><span class="big">'+(r.pct===null?"–":r.pct+" %")+'</span><div class="bar"><i style="width:'+(r.pct||0)+'%"></i></div>'+
      '<small>'+(r.n?'Calculé sur '+r.n+' de tes réponses'+(r.n<5?' : peu de positions connues, résultat fragile':''):'Aucune position connue sur tes réponses')+' · <a href="#'+r.c.id+'">voir sa fiche</a></small>'+
@@ -593,8 +670,12 @@ function renderResults(){
        var tag=it.s===1?"Même réponse":(it.s>0?"Réponse proche":"Désaccord");
        return '<li><b>'+esc(it.q.q)+'</b><span class="you">Toi : '+esc(you)+' · '+tag+'</span><span>'+esc(it.p.x)+'</span>'+srcLine(it.p)+'</li>'}).join("")+'</ul></details></div>'}).join("")+
    '<div class="btns"><button type="button" class="btn primary" data-duel-top>'+ic("versus")+'Comparer mes deux premiers</button><button type="button" class="btn" data-restart>Recommencer</button></div><p class="privacy">Calculé sur ton appareil. Rien n’est envoyé ni enregistré.</p></div>';
-  T.top=[rows[0].c.id,rows[1].c.id];
+  T.top=[rows[0].c.id,rows[1].c.id];countUp(box);reveal(box,".res");
 }
+function podium(rows){var r=rows.filter(function(x){return x.pct!==null}).slice(0,3);if(r.length<3)return "";
+  var ord=[r[1],r[0],r[2]],cls=["p2","p1","p3"];
+  return '<div class="podium">'+ord.map(function(x,i){return '<a class="pod '+cls[i]+'" href="#'+x.c.id+'" style="text-decoration:none">'+av(x.c)+'<b>'+esc(full(x.c))+'</b><span class="step"><span data-count="'+x.pct+'">'+x.pct+'</span>&nbsp;%</span></a>'}).join("")+'</div>'}
+function countUp(root){if(RM)return;$$("[data-count]",root).forEach(function(el){var to=+el.getAttribute("data-count"),t0=null;function f(t){if(!t0)t0=t;var k=Math.min(1,(t-t0)/900);el.textContent=Math.round(to*(1-Math.pow(1-k,3)));if(k<1)requestAnimationFrame(f)}requestAnimationFrame(f)})}
 function focusQ(){var h=$("[data-qtitle]");if(h)h.focus({preventScroll:true})}
 $("#v-test").addEventListener("click",function(e){
   var o=e.target.closest("[data-opt]");
@@ -622,6 +703,9 @@ function renderDuel(){
     html+='<article class="row"><h3><span class="bub tint"'+tstyle(t)+'>'+ic(t.ic)+'</span>'+esc(t.label)+'</h3><div class="pair">'+side(pa)+side(pb)+'</div></article>';
   });
   $("[data-rows]").innerHTML=shown?html:'<p>Aucun thème où les deux candidats ont une proposition relevée.</p>';
+  function fo(c){var v=pct(c);return '<a class="fo" href="#'+c.id+'" style="text-decoration:none">'+av(c)+'<span>'+esc(full(c))+'</span><small>'+esc(c.parti)+(v!==null?' · '+fpct(v):'')+'</small></a>'}
+  $("[data-faceoff]").innerHTML='<div class="faceoff">'+fo(a)+'<div class="vs">VS</div>'+fo(b)+'</div>';
+  reveal($("[data-rows]"),".row");
 }
 $("#v-duel").addEventListener("click",function(e){var c=e.target.closest("[data-c]");if(!c||c.disabled)return;duel.pick[+c.parentNode.getAttribute("data-pick")]=c.getAttribute("data-c");renderDuel()});
 $("[data-onlydiff]").addEventListener("change",function(e){duel.only=e.target.checked;renderDuel()});
@@ -630,13 +714,14 @@ $("[data-onlydiff]").addEventListener("change",function(e){duel.only=e.target.ch
 var VIEWS=["accueil","programmes","test","duel","actu","methode"];
 var TITLES={accueil:"Isoloir · Présidentielle 2027",programmes:"Les programmes · Isoloir",test:"Le test · Isoloir",duel:"Le duel · Isoloir",actu:"Les actus · Isoloir",methode:"Méthode · Isoloir"};
 function show(v,nav){$$(".view").forEach(function(s){s.classList.toggle("on",s.id==="v-"+v)});$$("[data-nav]").forEach(function(a){if(a.getAttribute("data-nav")===(nav||v))a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")})}
-function route(){var h=(location.hash||"").slice(1);
+function route(){if(document.startViewTransition&&!RM){document.startViewTransition(route0)}else route0()}
+function route0(){var h=(location.hash||"").slice(1);
   if(cand(h)){renderFiche(h);show("candidat","");document.title=full(cand(h))+" · Isoloir"}
   else if(h.indexOf("theme-")===0&&theme(h.slice(6))){curTheme=h.slice(6);renderThemes();show("programmes");document.title=theme(curTheme).label+" · Isoloir"}
   else{var v=VIEWS.indexOf(h)>-1?h:"accueil";show(v);document.title=TITLES[v]}
   window.scrollTo(0,0)}
 window.addEventListener("hashchange",route);
-renderThemes();startTest();renderDuel();route();
+renderPosters();renderThemes();startTest();renderDuel();route0();
 })();
 </script>
 </body>

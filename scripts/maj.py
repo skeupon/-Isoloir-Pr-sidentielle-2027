@@ -23,7 +23,7 @@ INSTANTANES = DATA / "instantanes"
 UA = "IsoloirBot/1.0 (comparateur citoyen ; contact : remplacer@exemple.fr)"
 MAINTENANT = datetime.now(timezone.utc)
 ACTUS_PAR_CANDIDAT, ACTUS_JOURS_MAX = 5, 30
-LICENCES_OK = re.compile(r"^(CC0|CC BY|CC-BY|Public domain|PD|Domaine public)", re.I)
+LICENCES_OK = re.compile(r"^(CC0|CC BY|CC-BY|Public domain|PD|Domaine public|Licence Ouverte|Open Licen[cs]e|LO[ -]?\d|Etalab)", re.I)
 
 
 def lire(nom):
@@ -115,30 +115,55 @@ def maj_actus(candidats, actus):
 
 
 # 2. Portraits ---------------------------------------------------------------
+def est_humain(qid):
+    ent = json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
+                   ids=qid, props="claims")["entities"].get(qid, {})
+    p31 = ent.get("claims", {}).get("P31", [])
+    return any(x.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id") == "Q5" for x in p31)
+
+
 def trouver_qid(c):
+    """Cherche la fiche Wikidata de la personne (et pas, par exemple, celle de « Gouvernement X »)."""
     res = json_url("https://www.wikidata.org/w/api.php", action="wbsearchentities", format="json",
-                   language="fr", uselang="fr", type="item", limit=5,
+                   language="fr", uselang="fr", type="item", limit=7,
                    search="%s %s" % (c["prenom"], c["nom"]))
     for r in res.get("search", []):
         desc = (r.get("description") or "").lower()
-        if any(m in desc for m in ("polit", "candidat", "député", "maire", "ministre", "militant", "syndical")):
+        if "gouvernement" in desc or "élection" in desc:
+            continue
+        if est_humain(r["id"]):
             return r["id"]
     return None
 
 
+PORTRAITS = {}
+
+
 def maj_portrait(c, journal):
-    if not c.get("wikidata"):
+    force = PORTRAITS.get(c["id"])
+    if force:
+        c["commons_force"] = force
+    if c.get("wikidata") and not c.get("commons_force") and not est_humain(c["wikidata"]):
+        journal_ajout(journal, "Fiche Wikidata %s écartée (ce n’est pas une personne)." % c["wikidata"], type="portrait", candidat=c["id"])
+        c["wikidata"] = ""
+        c["photo"] = None
+    if not c.get("wikidata") and not c.get("commons_force"):
         qid = trouver_qid(c)
         if not qid:
+            print("  portrait %s : aucune fiche Wikidata trouvée" % c["id"])
             return
         c["wikidata"] = qid
         journal_ajout(journal, "Fiche Wikidata %s associée automatiquement, à vérifier." % qid, type="portrait", candidat=c["id"])
-    ent = json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
-                   ids=c["wikidata"], props="claims")["entities"][c["wikidata"]]
-    p18 = ent.get("claims", {}).get("P18")
-    if not p18:
-        return
-    fichier = p18[0]["mainsnak"]["datavalue"]["value"]
+    if c.get("commons_force"):
+        fichier = c["commons_force"]  # fichier Commons choisi à la main dans candidats.json
+    else:
+        ent = json_url("https://www.wikidata.org/w/api.php", action="wbgetentities", format="json",
+                       ids=c["wikidata"], props="claims")["entities"][c["wikidata"]]
+        p18 = ent.get("claims", {}).get("P18")
+        if not p18:
+            print("  portrait %s : pas d'image sur la fiche Wikidata %s" % (c["id"], c["wikidata"]))
+            return
+        fichier = p18[0]["mainsnak"]["datavalue"]["value"]
     if c.get("photo") and c["photo"].get("commons") == fichier:
         return  # déjà à jour
     q = json_url("https://commons.wikimedia.org/w/api.php", action="query", format="json",
@@ -224,6 +249,11 @@ def main():
         print("Actus…"); maj_actus(candidats, actus)
     if "portraits" in etapes:
         print("Portraits…")
+        global PORTRAITS
+        try:
+            PORTRAITS = lire("portraits.json").get("fichiers", {})
+        except FileNotFoundError:
+            PORTRAITS = {}
         for c in candidats:
             try:
                 maj_portrait(c, journal)
