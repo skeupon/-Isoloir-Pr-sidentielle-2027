@@ -1,0 +1,46 @@
+name: Mise à jour toutes les 12 heures
+
+on:
+  schedule:
+    - cron: "0 4,16 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: isoloir-maj
+  cancel-in-progress: false
+
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Récupérer actus, portraits et changements de programme
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/maj.py
+      - name: Construire le site
+        run: python scripts/build.py
+      - name: Enregistrer les données mises à jour
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "isoloir-bot"
+          git config user.email "isoloir-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Mise à jour automatique $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploiement
+        uses: actions/deploy-pages@v4
