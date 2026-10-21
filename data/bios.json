@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-21T20:24+00:00",
+ "maj": "2026-10-21T21:02+00:00",
  "source": "Wikidata (données sous licence CC0)",
  "fiches": {
   "nathalie-arthaud": {
@@ -7,8 +7,8 @@
    "naissance": "1970-02-23",
    "lieu": "Peyrins",
    "metiers": [
-    "instituteur",
-    "personnalité politique",
+    "institutrice",
+    "femme politique",
     "professeurs, professions scientifiques",
     "enseignant de gymnasium"
    ],
@@ -25,7 +25,7 @@
      "fin": null
     },
     {
-     "poste": "conseiller municipal de Vaulx-en-Velin",
+     "poste": "conseillère municipale de Vaulx-en-Velin",
      "debut": 2008,
      "fin": 2014
     }
@@ -38,7 +38,7 @@
    "naissance": "1957-09-14",
    "lieu": "Paris",
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "fonctionnaire",
     "cadres de la fonction publique"
    ],
@@ -69,12 +69,58 @@
    "site": "http://www.francoisasselineau.fr/",
    "youtube": null
   },
+  "attal": {
+   "wikidata": "Q30339350",
+   "naissance": "1989-03-16",
+   "lieu": "Clamart",
+   "metiers": [
+    "homme politique",
+    "cadres de la fonction publique"
+   ],
+   "etudes": [
+    "Institut d'études politiques de Paris",
+    "université Paris-Panthéon-Assas",
+    "École alsacienne"
+   ],
+   "partis": [
+    "Renaissance"
+   ],
+   "parcours": [
+    {
+     "poste": "député français",
+     "debut": 2017,
+     "fin": null
+    },
+    {
+     "poste": "Premier ministre",
+     "debut": 2024,
+     "fin": 2024
+    },
+    {
+     "poste": "ministre de l'Éducation nationale",
+     "debut": 2023,
+     "fin": 2024
+    },
+    {
+     "poste": "ministre délégué chargé des Comptes publics",
+     "debut": 2022,
+     "fin": 2023
+    },
+    {
+     "poste": "porte-parole du gouvernement",
+     "debut": 2020,
+     "fin": 2022
+    }
+   ],
+   "site": "https://www.info.gouv.fr/personnalite/gabriel-attal",
+   "youtube": "UCOcDPuYTuxoRBtfmTBXtqBA"
+  },
   "delphine-batho": {
    "wikidata": "Q291385",
    "naissance": "1973-03-23",
    "lieu": "12e arrondissement de Paris",
    "metiers": [
-    "personnalité politique",
+    "femme politique",
     "cadres de la fonction publique"
    ],
    "etudes": [
@@ -87,12 +133,12 @@
    ],
    "parcours": [
     {
-     "poste": "député français",
+     "poste": "députée française",
      "debut": 2007,
      "fin": null
     },
     {
-     "poste": "président ou présidente",
+     "poste": "présidente",
      "debut": 1990,
      "fin": 1992
     }
@@ -105,7 +151,7 @@
    "naissance": "1976-04-28",
    "lieu": "Strasbourg",
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "cadres de la fonction publique"
    ],
    "etudes": [
@@ -152,8 +198,8 @@
    "naissance": "1965-03-21",
    "lieu": "Châlons-en-Champagne",
    "metiers": [
-    "personnalité politique",
-    "agent général ou agente générale d'assurance"
+    "homme politique",
+    "agent général d'assurance"
    ],
    "etudes": [
     "université de Reims-Champagne-Ardenne"
@@ -166,7 +212,7 @@
      "fin": null
     },
     {
-     "poste": "président du conseil régional des Hauts-de-France",
+     "poste": "président des Hauts-de-France",
      "debut": 2016,
      "fin": null
     },
@@ -204,7 +250,7 @@
    "naissance": "1973-02-21",
    "lieu": null,
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "cadres administratifs et commerciaux d'entreprise",
     "cadres de la fonction publique"
    ],
@@ -247,7 +293,7 @@
    "naissance": "1989-08-26",
    "lieu": "Estepona",
    "metiers": [
-    "avocat ou avocate",
+    "avocat",
     "essayiste",
     "juriste"
    ],
@@ -267,7 +313,7 @@
    "naissance": "1961-03-07",
    "lieu": "15e arrondissement de Paris",
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "cadres de la fonction publique",
     "cadres de la fonction publique"
    ],
@@ -301,30 +347,14 @@
    "site": "https://www.dupontaignan.fr/",
    "youtube": "UCfA5DnCDX3Ixy5QOAMGtBlA"
   },
-  "sylvain-durif": {
-   "wikidata": "Q111050069",
-   "naissance": "1969-08-23",
-   "lieu": "Nantua",
-   "metiers": [
-    "théoricien ou théoricienne du complot",
-    "vidéaste",
-    "musicien ou musicienne",
-    "prophète ou prophétesse"
-   ],
-   "etudes": [],
-   "partis": [],
-   "parcours": [],
-   "site": null,
-   "youtube": "UCX33oHPsFlI8nhR6524-_Jg"
-  },
   "clara-egger": {
    "wikidata": "Q108584624",
    "naissance": "1988-01-02",
    "lieu": null,
    "metiers": [
     "politologue",
-    "professeur d'université",
-    "personnalité politique"
+    "professeure d’université",
+    "femme politique"
    ],
    "etudes": [
     "Institut d'études politiques de Grenoble",
@@ -343,8 +373,8 @@
    "lieu": "Boulogne-Billancourt",
    "metiers": [
     "journaliste",
-    "auteur ou autrice de non-fiction",
-    "personnalité politique",
+    "auteur de non-fiction",
+    "homme politique",
     "documentaliste"
    ],
    "etudes": [
@@ -362,7 +392,7 @@
      "fin": null
     },
     {
-     "poste": "conseiller ou conseillère",
+     "poste": "conseiller",
      "debut": 2005,
      "fin": null
     }
@@ -377,8 +407,8 @@
    "metiers": [
     "cheminot",
     "syndicaliste",
-    "militant ou militante",
-    "personnalité politique"
+    "militant",
+    "homme politique"
    ],
    "etudes": [],
    "partis": [
@@ -388,28 +418,15 @@
    "site": "http://anasse2027.fr/",
    "youtube": "UC7LNwiZKfwZmYj_RAWxjkKw"
   },
-  "selma-labib": {
-   "wikidata": "Q125755264",
-   "naissance": "1995-08-25",
-   "lieu": null,
-   "metiers": [
-    "chauffeurs"
-   ],
-   "etudes": [],
-   "partis": [],
-   "parcours": [],
-   "site": null,
-   "youtube": null
-  },
   "francis-lalanne": {
    "wikidata": "Q3081533",
    "naissance": "1958-08-08",
    "lieu": "Bayonne",
    "metiers": [
-    "acteur ou actrice",
-    "chanteur ou chanteuse",
-    "auteur-compositeur ou autrice-compositrice",
-    "personnalité politique"
+    "acteur",
+    "chanteur",
+    "auteur-compositeur",
+    "homme politique"
    ],
    "etudes": [
     "conservatoire à rayonnement régional de Marseille"
@@ -424,7 +441,7 @@
    "naissance": "1955-05-03",
    "lieu": "Lourdios-Ichère",
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "professions libérales et assimilés"
    ],
    "etudes": [],
@@ -453,7 +470,7 @@
      "fin": 2017
     },
     {
-     "poste": "président ou présidente",
+     "poste": "président",
      "debut": 1989,
      "fin": 1999
     }
@@ -466,8 +483,8 @@
    "naissance": "1968-08-05",
    "lieu": "Neuilly-sur-Seine",
    "metiers": [
-    "personnalité politique",
-    "avocat ou avocate",
+    "femme politique",
+    "avocate",
     "cadres de la fonction publique",
     "professions libérales et assimilés"
    ],
@@ -479,32 +496,32 @@
    ],
    "parcours": [
     {
-     "poste": "député français",
+     "poste": "députée française",
      "debut": 2017,
      "fin": null
     },
     {
-     "poste": "conseiller départemental du Pas-de-Calais",
+     "poste": "conseillère départementale du Pas-de-Calais",
      "debut": 2021,
      "fin": 2025
     },
     {
-     "poste": "conseiller régional des Hauts-de-France",
+     "poste": "conseillère régionale des Hauts-de-France",
      "debut": 2016,
      "fin": 2021
     },
     {
-     "poste": "dirigeant de parti politique",
+     "poste": "dirigeante de parti politique",
      "debut": 2011,
      "fin": 2021
     },
     {
-     "poste": "député européen",
+     "poste": "députée européenne",
      "debut": 2004,
      "fin": 2017
     },
     {
-     "poste": "conseiller régional d'Île-de-France",
+     "poste": "conseillère régionale d'Île-de-France",
      "debut": 2004,
      "fin": 2010
     }
@@ -512,29 +529,14 @@
    "site": "https://mlafrance.fr",
    "youtube": "UCU3z3px1_RCqYBwrs8LJVWg"
   },
-  "jean-francois-legendre": {
-   "wikidata": "Q3165735",
-   "naissance": "1796-01-21",
-   "lieu": "Montpellier",
-   "metiers": [
-    "sculpteur ou sculptrice"
-   ],
-   "etudes": [
-    "École nationale supérieure des beaux-arts de Lyon"
-   ],
-   "partis": [],
-   "parcours": [],
-   "site": null,
-   "youtube": null
-  },
   "david-lisnard": {
    "wikidata": "Q3018298",
    "naissance": "1969-02-02",
    "lieu": "Limoges",
    "metiers": [
-    "personnalité politique",
-    "footballeur ou footballeuse",
-    "chef ou cheffe d'entreprise",
+    "homme politique",
+    "footballeur",
+    "chef d'entreprise",
     "professions libérales et assimilés"
    ],
    "etudes": [
@@ -576,108 +578,13 @@
    "site": "https://www.lisnard2027.fr",
    "youtube": "UC2XZY-bjIEmyLZ9MPJQytZg"
   },
-  "mira-markovic": {
-   "wikidata": "Q257211",
-   "naissance": "1942-07-10",
-   "lieu": "Požarevac",
-   "metiers": [
-    "journaliste"
-   ],
-   "etudes": [
-    "Faculté de philosophie de l'université de Belgrade"
-   ],
-   "partis": [
-    "Yugoslav Left",
-    "Ligue des communistes de Yougoslavie"
-   ],
-   "parcours": [],
-   "site": null,
-   "youtube": null
-  },
-  "benoit-mathieu": {
-   "wikidata": "Q88138277",
-   "naissance": null,
-   "lieu": null,
-   "metiers": [
-    "chercheur ou chercheuse"
-   ],
-   "etudes": [
-    "Institut national des sciences et techniques de la mer",
-    "École pratique des hautes études"
-   ],
-   "partis": [],
-   "parcours": [],
-   "site": null,
-   "youtube": null
-  },
-  "melenchon": {
-   "wikidata": "Q5829",
-   "naissance": "1951-08-19",
-   "lieu": "Tanger",
-   "metiers": [
-    "personnalité politique",
-    "journaliste",
-    "correcteur",
-    "enseignant ou enseignante du secondaire"
-   ],
-   "etudes": [
-    "université Marie-et-Louis-Pasteur",
-    "lycée Regnault",
-    "lycée Pierre-Corneille de Rouen",
-    "lycée Rouget-de-Lisle de Lons-le-Saunier"
-   ],
-   "partis": [
-    "Parti de gauche",
-    "La France insoumise"
-   ],
-   "parcours": [
-    {
-     "poste": "député français",
-     "debut": 2017,
-     "fin": 2022
-    },
-    {
-     "poste": "député européen",
-     "debut": 2009,
-     "fin": 2017
-    },
-    {
-     "poste": "sénateur ou sénatrice de la Cinquième République",
-     "debut": 1986,
-     "fin": 2010
-    },
-    {
-     "poste": "conseiller général",
-     "debut": 1985,
-     "fin": 2004
-    },
-    {
-     "poste": "ministre délégué",
-     "debut": 2000,
-     "fin": 2002
-    }
-   ],
-   "site": "https://melenchon.fr/",
-   "youtube": "UCk-_PEY3iC6DIGJKuoEe9bw"
-  },
-  "antoine-mikolajczak": {
-   "wikidata": "Q141499720",
-   "naissance": null,
-   "lieu": null,
-   "metiers": [],
-   "etudes": [],
-   "partis": [],
-   "parcours": [],
-   "site": null,
-   "youtube": null
-  },
   "philippe": {
    "wikidata": "Q3579995",
    "naissance": "1970-11-28",
    "lieu": "Rouen",
    "metiers": [
-    "personnalité politique",
-    "avocat ou avocate",
+    "homme politique",
+    "avocat",
     "professions libérales et assimilés",
     "professions de l'information, des arts et des spectacles"
    ],
@@ -712,7 +619,7 @@
      "fin": null
     },
     {
-     "poste": "Premier ministre français",
+     "poste": "Premier ministre",
      "debut": 2017,
      "fin": 2020
     },
@@ -735,7 +642,7 @@
    "naissance": "1981-10-24",
    "lieu": "Croix",
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "fonctionnaire",
     "cadres de la fonction publique"
    ],
@@ -783,7 +690,7 @@
    "naissance": "1973-04-19",
    "lieu": "Saint-Rémy",
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "cadres de la fonction publique",
     "professions libérales et assimilés",
     "professions libérales et assimilés"
@@ -836,7 +743,7 @@
    "partis": [],
    "parcours": [
     {
-     "poste": "directeur ou directrice de la rédaction",
+     "poste": "directrice de la rédaction",
      "debut": 2018,
      "fin": 2024
     }
@@ -849,7 +756,7 @@
    "naissance": "1960-11-20",
    "lieu": "Cholet",
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "permanent politique"
    ],
    "etudes": [
@@ -861,17 +768,17 @@
    ],
    "parcours": [
     {
-     "poste": "président ou présidente",
+     "poste": "président",
      "debut": 2017,
      "fin": null
     },
     {
-     "poste": "président ou présidente",
+     "poste": "président",
      "debut": 2014,
      "fin": null
     },
     {
-     "poste": "sénateur ou sénatrice de la Cinquième République",
+     "poste": "sénateur de la Cinquième République",
      "debut": 2004,
      "fin": null
     },
@@ -891,7 +798,7 @@
      "fin": 2017
     },
     {
-     "poste": "président ou présidente de conseil général",
+     "poste": "président de conseil général",
      "debut": 2010,
      "fin": 2015
     }
@@ -904,7 +811,7 @@
    "naissance": "1969-04-16",
    "lieu": "Béthune",
    "metiers": [
-    "personnalité politique",
+    "homme politique",
     "journaliste",
     "personnes diverses sans activité professionnelle de moins de 60 ans sauf retraités",
     "professions intermédiaires administratives de la fonction publique"
@@ -946,9 +853,9 @@
    "lieu": "Calais",
    "metiers": [
     "journaliste",
-    "réalisateur ou réalisatrice de cinéma",
-    "militant ou militante",
-    "personnalité politique"
+    "réalisateur de cinéma",
+    "militant",
+    "homme politique"
    ],
    "etudes": [
     "Centre de formation des journalistes",
@@ -974,7 +881,7 @@
    "naissance": "1986-08-23",
    "lieu": "Bois-Bernard",
    "metiers": [
-    "personnalité politique",
+    "femme politique",
     "cadres administratifs et commerciaux d'entreprise"
    ],
    "etudes": [
@@ -985,12 +892,12 @@
    ],
    "parcours": [
     {
-     "poste": "secrétaire national des Écologistes",
+     "poste": "secrétaire nationale des Écologistes",
      "debut": 2022,
      "fin": null
     },
     {
-     "poste": "conseiller régional des Hauts-de-France",
+     "poste": "conseillère régionale des Hauts-de-France",
      "debut": 2021,
      "fin": null
     }
@@ -1003,10 +910,10 @@
    "naissance": "1958-08-31",
    "lieu": "Montreuil",
    "metiers": [
-    "écrivain ou écrivaine",
+    "écrivain",
     "éditorialiste",
     "journaliste",
-    "chroniqueur ou chroniqueuse de presse"
+    "chroniqueur de presse"
    ],
    "etudes": [
     "Institut d'études politiques de Paris",
@@ -1017,7 +924,7 @@
    ],
    "parcours": [
     {
-     "poste": "président ou présidente",
+     "poste": "président",
      "debut": 2021,
      "fin": null
     }
