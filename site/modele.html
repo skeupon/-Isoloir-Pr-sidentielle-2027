@@ -262,6 +262,28 @@ nav.main a{white-space:nowrap}
 .auto-note{font-size:.85rem;color:var(--muted)}
 @media (max-width:1100px){.panneaux{grid-template-columns:repeat(4,1fr)}}
 @media (max-width:640px){.panneaux{grid-template-columns:repeat(2,1fr)}}
+
+/* Affiches v2 */
+.panneaux{grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:14px}
+.poster{aspect-ratio:auto;padding:0;border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;background:var(--surface)}
+.poster::before{display:none}
+.poster:hover{transform:translateY(-3px);border-color:var(--ink)}
+.poster .ph{position:relative;aspect-ratio:4/5;display:grid;place-items:center;background:repeating-linear-gradient(135deg,var(--soft) 0 10px,var(--glass) 10px 20px)}
+.poster .ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 20%}
+.poster .ini{font:800 3.2rem/1 var(--display);color:var(--muted);letter-spacing:-.03em}
+.poster .num{position:absolute;top:10px;left:10px;z-index:1;width:30px;height:30px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center;font:800 .9rem/1 var(--display);box-shadow:0 1px 4px rgba(0,0,0,.25)}
+.poster .tag{position:absolute;top:12px;right:10px;z-index:1;font-size:.68rem;font-weight:700;background:var(--accent);color:var(--on-accent);padding:3px 8px;border-radius:999px}
+.poster .meta{padding:10px 12px 12px;display:flex;flex-direction:column;gap:3px}
+.poster .nm{font:700 1.02rem/1.2 var(--display);letter-spacing:-.01em}
+.poster .pt{font-size:.8rem;color:var(--muted);line-height:1.3}
+.poster .pollrow{display:flex;align-items:center;gap:8px;margin-top:6px}
+.poster .pollbar{flex:1;height:6px;border-radius:9px;background:var(--soft);overflow:hidden}
+.poster .pollbar i{display:block;height:100%;background:var(--accent)}
+.poster .pct{font:700 .85rem/1 var(--display);min-width:3.4em;text-align:right}
+.poster .nt{font-size:.75rem;color:var(--muted);margin-top:6px}
+.fiche-head .poster{max-width:220px}
+@media (prefers-reduced-motion:reduce){.poster:hover{transform:none}}
+@media (max-width:640px){.panneaux{grid-template-columns:repeat(2,1fr);gap:10px}.fiche-head .poster{max-width:140px}.fiche-head .poster .meta{display:none}}
 </style>
 </head>
 <body>
@@ -302,7 +324,7 @@ nav.main a{white-space:nowrap}
   <section class="block" aria-labelledby="h-cands">
     <div class="wrap">
       <h2 id="h-cands" data-nbcands>Les candidats</h2>
-      <p class="intro">Toutes les candidatures déclarées. Comme les panneaux devant ton bureau de vote, l’ordre est tiré au sort. Touche une affiche pour ouvrir la fiche du candidat.</p>
+      <p class="intro">Toutes les candidatures déclarées, classées selon la moyenne des sondages. Touche une affiche pour ouvrir la fiche du candidat.</p>
       <div class="panneaux" data-panneaux></div>
       <p class="legend-panneaux" data-critere></p>
     </div>
@@ -397,7 +419,7 @@ nav.main a{white-space:nowrap}
         <li><b>D’où viennent les positions</b>Uniquement de deux types de sources, toujours liées : le site officiel de campagne ou de programme du candidat et, pour les candidats sans programme publié, ses déclarations rapportées par un média identifié. Isoloir les reformule en langage courant ; aucun comparateur tiers n’est utilisé.</li>
         <li><b>Ce qui est écarté</b>Les propos d’un proche ou du parti, qui n’engagent pas le candidat, les sites qui résument les programmes sans lien vers l’original, et toute position que la rédaction n’a pas lue à la source. Quand rien n’est relevé sur un thème, la fiche le dit.</li>
         <li><b>Comment le test calcule</b>Réponse identique à celle du candidat : 100 %. Réponse voisine sur une échelle : un score partiel. Les sujets cochés comme importants comptent double. Le résultat ne porte que sur les questions où le candidat a une position vérifiée.</li>
-        <li><b>Un ordre tiré au sort</b>L’ordre des candidats change à chaque visite. Aucune couleur de parti : chacun a un simple symbole.</li>
+        <li><b>L’ordre d’affichage</b>Les candidats sont classés selon la moyenne des intentions de vote au premier tour, avec la source et la date affichées. Les candidats non testés viennent ensuite, par ordre alphabétique. Aucune couleur de parti.</li>
         <li><b>Les portraits</b>Photos sous licence libre issues de Wikimedia Commons, avec leur auteur et leur licence. Pas de logos de partis : ce sont des marques protégées, le parti est indiqué en toutes lettres.</li><li><b>Les mises à jour</b>Toutes les 12 heures : nouvelles actus, nouveaux portraits, et détection des changements sur les pages de programme. Une position n’est jamais modifiée automatiquement : chaque changement est relu avant publication.</li><li><b>Rien ne quitte ton appareil</b>Tes réponses au test sont calculées dans ton navigateur. Rien n’est envoyé, rien n’est enregistré.</li>
       </ul>
       <p class="intro" style="margin-top:28px">Limites : Marine Le Pen, Édouard Philippe et Raphaël Glucksmann n’ont pas encore publié de programme, et Jean-Luc Mélenchon publie une nouvelle édition le 6 novembre. Le nombre de positions vérifiées varie donc fortement d’un candidat à l’autre ; chaque fiche l’indique. Relevé du 21 octobre 2026.</p>
@@ -424,7 +446,10 @@ function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(m){return
 function shuffle(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
 function full(c){return c.prenom+" "+c.nom}
 function cand(id){for(var i=0;i<ALL.length;i++)if(ALL[i].id===id)return ALL[i]}
-var ORDER=shuffle(ALL), DET=ORDER.filter(function(c){return c.detaille});
+var SO=D.sondages||{valeurs:{}};
+function pct(c){var v=SO.valeurs[c.id];return typeof v==="number"?v:null}
+var ORDER=ALL.slice().sort(function(a,b){var x=pct(a),y=pct(b);if(x!==null||y!==null)return (y===null?-1:y)-(x===null?-1:x);return a.nom.localeCompare(b.nom,"fr")}), DET=ORDER.filter(function(c){return c.detaille});
+function fpct(v){return String(v).replace(".",",")+" %"}
 function num(id){for(var i=0;i<ORDER.length;i++)if(ORDER[i].id===id)return i+1}
 function mono(c){return '<span class="mono" aria-hidden="true">'+esc((c.prenom[0]||"")+(c.nom.replace(/^(Le|La|De|Du) /,"")[0]||""))+'</span>'}
 function fdate(s){try{var d=new Date(s);if(isNaN(d))return esc(s);return d.toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})}catch(e){return esc(s)}}
@@ -432,17 +457,19 @@ function fdt(s){try{var d=new Date(s);return d.toLocaleDateString("fr-FR",{day:"
 function srcLine(p){return '<span class="src">'+(p.t==="site"?esc(p.s):"Déclaration rapportée par "+esc(p.s))+' · <a href="'+esc(p.u)+'" target="_blank" rel="noopener">voir la source</a></span>'}
 function srcHTML(q,cid,p){return srcLine(p)}
 function poster(c,tag){
-  var ph=c.photo&&c.photo.src;
-  var inner='<span class="num">'+num(c.id)+'</span>'+(c.detaille?'<span class="tag">Fiche détaillée</span>':'');
-  var txt='<span class="first">'+esc(c.prenom)+'</span><span class="last">'+esc(c.nom)+'</span><span class="party">'+esc(c.parti)+'</span>';
-  if(ph)inner+='<img src="'+esc(ph)+'" alt="Portrait de '+esc(full(c))+'" loading="lazy"><span class="cap">'+txt+'</span>';else inner+=txt;
-  var attrs=tag==="a"?' href="#'+c.id+'" aria-label="Fiche de '+esc(full(c))+'"':'';
-  return '<'+tag+' class="poster'+(ph?' has-photo':'')+'"'+attrs+'>'+inner+'</'+tag+'>';
+  var ph=c.photo&&c.photo.src, v=pct(c), max=pct(ORDER[0])||1;
+  var ini=esc((c.prenom[0]||"")+(c.nom.replace(/^(Le|La|De|Du) /,"")[0]||""));
+  var html='<span class="ph">'+(ph?'<img src="'+esc(ph)+'" alt="" loading="lazy">':'<span class="ini" aria-hidden="true">'+ini+'</span>')+
+    '<span class="num">'+num(c.id)+'</span>'+(c.detaille?'<span class="tag">Fiche détaillée</span>':'')+'</span>'+
+    '<span class="meta"><span class="nm">'+esc(full(c))+'</span><span class="pt">'+esc(c.parti)+'</span>'+
+    (v!==null?'<span class="pollrow"><span class="pollbar"><i style="width:'+Math.round(v/max*100)+'%"></i></span><span class="pct">'+fpct(v)+'</span></span>':'<span class="nt">Pas encore testé dans les sondages</span>')+'</span>';
+  var attrs=tag==="a"?' href="#'+c.id+'" aria-label="Fiche de '+esc(full(c))+(v!==null?", "+fpct(v)+" dans les sondages":"")+'"':'';
+  return '<'+tag+' class="poster"'+attrs+'>'+html+'</'+tag+'>';
 }
 
 /* Accueil */
 $("[data-nbcands]").textContent=ALL.length+" candidatures déclarées";
-$("[data-critere]").textContent=D.candidats.critere;
+$("[data-critere]").innerHTML=esc(D.candidats.critere)+" Classement selon les intentions de vote au premier tour : "+esc(SO.source||"")+", "+esc(SO.date||"")+(SO.url?' (<a href="'+esc(SO.url)+'" target="_blank" rel="noopener">voir</a>)':"")+". Quelques points d’écart restent dans la marge d’erreur des sondages ; les candidats non testés sont classés par ordre alphabétique.";
 $("[data-panneaux]").innerHTML=ORDER.map(function(c){return poster(c,"a")}).join("");
 function pollHTML(){var s=A.sondages;return '<div class="pollcard"><b>Sondages · '+esc(s.d)+'</b><span>'+esc(s.x)+'</span><span class="src">'+esc(s.s)+' · <a href="'+esc(s.u)+'" target="_blank" rel="noopener">lire l’article</a></span></div>'}
 $("[data-poll-teaser]").innerHTML=pollHTML();$("[data-poll-full]").innerHTML=pollHTML();

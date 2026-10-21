@@ -1,0 +1,11 @@
+{
+ "note": "Intentions de vote au premier tour, utilisées pour classer les candidats. À mettre à jour à la main (ou en me le demandant) : il n'existe pas de flux fiable et libre pour les sondages.",
+ "source": "Moyenne des sondages publiés, calculée par sondage-presidentielle.fr",
+ "date": "16 octobre 2026",
+ "url": "https://sondage-presidentielle.fr/",
+ "valeurs": {
+  "le-pen": 34.8, "melenchon": 16.6, "philippe": 15.5, "glucksmann": 12.1, "attal": 9.9,
+  "retailleau": 8.1, "david-lisnard": 5.4, "eric-zemmour": 4.2, "marine-tondelier": 3.3,
+  "francois-ruffin": 2.6, "fabien-roussel": 2.2, "nicolas-dupont-aignan": 2.1, "nathalie-arthaud": 0.8
+ }
+}

@@ -18,7 +18,7 @@ def charger(nom):
 
 def main():
     autonome = "--autonome" in sys.argv
-    donnees = {k: charger(k + ".json") for k in ("candidats", "programmes", "test", "actus", "journal")}
+    donnees = {k: charger(k + ".json") for k in ("candidats", "programmes", "test", "actus", "journal", "sondages")}
     donnees["journal"].pop("empreintes", None)  # inutile côté navigateur
 
     (SITE / "photos").mkdir(parents=True, exist_ok=True)
