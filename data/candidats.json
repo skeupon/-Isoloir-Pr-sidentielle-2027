@@ -46,7 +46,13 @@
    "detaille": true,
    "statut": "Projet publié sur son site de campagne (« chantiers capitaux »).",
    "wikidata": "",
-   "photo": null,
+   "photo": {
+    "fichier": "photos/attal.jpg",
+    "commons": "Gabriel Attal, February 2023.jpg",
+    "auteur": "DHSgov",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal,_February_2023.jpg"
+   },
    "sources_programme": [
     "https://attalpresident.fr/programme",
     "https://attalpresident.fr/programme/travail-salaires",
@@ -55,7 +61,8 @@
     "https://attalpresident.fr/programme/dette-de-letat",
     "https://attalpresident.fr/programme/dette-ecologique"
    ],
-   "recherche_actus": "Gabriel Attal présidentielle"
+   "recherche_actus": "Gabriel Attal présidentielle",
+   "commons_force": "Gabriel Attal, February 2023.jpg"
   },
   {
    "id": "delphine-batho",
@@ -184,8 +191,14 @@
    "parti": "Étiquette non précisée",
    "detaille": false,
    "statut": "Fiche en préparation : programme pas encore relevé par Isoloir.",
-   "wikidata": "",
-   "photo": null,
+   "wikidata": "Q111050069",
+   "photo": {
+    "fichier": "photos/sylvain-durif.jpg",
+    "commons": "Sylvain Durif, sur une aire d'autoroute, en 2013.png",
+    "auteur": "chatzefratz",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sylvain_Durif,_sur_une_aire_d%27autoroute,_en_2013.png"
+   },
    "sources_programme": [],
    "recherche_actus": "Sylvain Durif présidentielle"
   },
@@ -250,7 +263,7 @@
    "parti": "NPA-Révolutionnaires",
    "detaille": false,
    "statut": "Fiche en préparation : programme pas encore relevé par Isoloir.",
-   "wikidata": "",
+   "wikidata": "Q125755264",
    "photo": null,
    "sources_programme": [],
    "recherche_actus": "Selma Labib présidentielle"
@@ -262,7 +275,7 @@
    "parti": "Étiquette non précisée",
    "detaille": false,
    "statut": "Fiche en préparation : programme pas encore relevé par Isoloir.",
-   "wikidata": "",
+   "wikidata": "Q3081533",
    "photo": null,
    "sources_programme": [],
    "recherche_actus": "Francis Lalanne présidentielle"
@@ -310,8 +323,14 @@
    "parti": "À nous maintenant",
    "detaille": false,
    "statut": "Fiche en préparation : programme pas encore relevé par Isoloir.",
-   "wikidata": "",
-   "photo": null,
+   "wikidata": "Q3165735",
+   "photo": {
+    "fichier": "photos/jean-francois-legendre.jpg",
+    "commons": "Legendre-Héral.jpg",
+    "auteur": "Jacomin (peintre).",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Legendre-H%C3%A9ral.jpg"
+   },
    "sources_programme": [],
    "recherche_actus": "Jean-François Legendre présidentielle"
   },
@@ -352,7 +371,7 @@
    "parti": "Étiquette non précisée",
    "detaille": false,
    "statut": "Fiche en préparation : programme pas encore relevé par Isoloir.",
-   "wikidata": "",
+   "wikidata": "Q88138277",
    "photo": null,
    "sources_programme": [],
    "recherche_actus": "Benoît Mathieu présidentielle"
@@ -385,7 +404,7 @@
    "parti": "Équinoxe",
    "detaille": false,
    "statut": "Fiche en préparation : programme pas encore relevé par Isoloir.",
-   "wikidata": "",
+   "wikidata": "Q141499720",
    "photo": null,
    "sources_programme": [],
    "recherche_actus": "Antoine Mikolajczak présidentielle"
@@ -409,8 +428,14 @@
    "parti": "Horizons",
    "detaille": true,
    "statut": "Pas de programme publié : positions tirées de déclarations rapportées par la presse.",
-   "wikidata": "",
-   "photo": null,
+   "wikidata": "Q3579995",
+   "photo": {
+    "fichier": "photos/philippe.jpg",
+    "commons": "Édouard Philippe 2019 (cropped).jpg",
+    "auteur": "Jacques Paquier",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2019_(cropped).jpg"
+   },
    "sources_programme": [],
    "recherche_actus": "Édouard Philippe présidentielle"
   },
@@ -457,8 +482,14 @@
    "parti": "Nous sommes la France",
    "detaille": false,
    "statut": "Fiche en préparation : programme pas encore relevé par Isoloir.",
-   "wikidata": "",
-   "photo": null,
+   "wikidata": "Q941949",
+   "photo": {
+    "fichier": "photos/natacha-polony.jpg",
+    "commons": "Natacha Polony Cannes 2015.jpg",
+    "auteur": "Georges Biard",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Natacha_Polony_Cannes_2015.jpg"
+   },
    "sources_programme": [],
    "recherche_actus": "Natacha Polony présidentielle"
   },
