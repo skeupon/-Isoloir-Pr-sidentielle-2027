@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-21T08:00:00+02:00",
+ "maj": "2026-10-21T09:14+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -92,5 +92,94 @@
    "s": "Technomedia"
   }
  ],
- "flux": {}
+ "flux": {
+  "le-pen": [
+   {
+    "titre": "\"Le gouvernement a perdu la maîtrise de tout\", dénonce Marine Le Pen qui plaide pour faire payer les casseurs, \"à vie s'il le faut\" après les violences du 17 octobre",
+    "source": "franceinfo",
+    "date": "2026-10-21T10:10:45+02:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/nous-sommes-confrontes-a-un-etat-qui-s-effondre-estime-marine-le-pen_8246899.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+    "source": "franceinfo",
+    "date": "2026-10-21T09:41:16+02:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/retrouver-l-ordre-le-droit-et-le-pouvoir-d-achat-dans-des-petites-communes-de-dordogne-les-violences-du-17-octobre-enracinent-l-envie-de-voter-marine-le-pen_8246170.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "\"Je ne suis pas pour la dissolution de LFI\", affirme Marine Le Pen, candidate RN à la présidentielle, qui préfère \"le combattre dans les urnes\"",
+    "source": "franceinfo",
+    "date": "2026-10-21T09:26:16+02:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/je-ne-suis-pas-pour-la-dissolution-de-lfi-affirme-marine-le-pen-candidate-rn-a-la-presidentielle-qui-prefere-le-combattre-dans-les-urnes_8246923.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Violences du 17 octobre, présidentielle, propos antisémites attribués à Jordan Bardella... Le \"8h30 franceinfo\" de Marine Le Pen",
+    "source": "franceinfo",
+    "date": "2026-10-21T08:54:31+02:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/violences-du-17-octobre-presidentielle-propos-antisemites-attribues-a-jordan-bardella-le-8h30-franceinfo-de-marine-le-pen_8226034.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Édito. À six mois de l'élection présidentielle, la popularité de Marine Le Pen semble inaltérable",
+    "source": "franceinfo",
+    "date": "2026-10-21T08:05:17+02:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-six-mois-de-l-election-presidentielle-la-popularite-de-marine-le-pen-semble-inalterable_8226091.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
+  "david-lisnard": [
+   {
+    "titre": "David Lisnard fantasme sur «des camps d’entraînement» dans le Limousin pour les «terroristes» de gauche",
+    "source": "Libération",
+    "date": "2026-10-20T09:59:41+00:00",
+    "lien": "https://www.liberation.fr/politique/david-lisnard-fantasme-sur-des-camps-dentrainement-dans-le-limousin-pour-les-terroristes-de-gauche-20261020_RJQ4XNZ32NBDPAUDG73MCYCIFU/"
+   },
+   {
+    "titre": "«Non mais je m’en fous madame, j’étais pas né» : interrogé sur le 17 octobre 1961, David Lisnard s’énerve sur LCI",
+    "source": "Libération",
+    "date": "2026-10-20T07:39:51+00:00",
+    "lien": "https://www.liberation.fr/politique/non-mais-je-men-fous-madame-jetais-pas-ne-interroge-sur-le-17-octobre-1961-david-lisnard-senerve-20261020_JZNDU5EO4JAADIKLCY2RDR2H54/"
+   },
+   {
+    "titre": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
+    "source": "Le Figaro",
+    "date": "2026-10-16T09:05:32+02:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015"
+   }
+  ],
+  "melenchon": [
+   {
+    "titre": "Guillaume Tabard : « Pour Sébastien Lecornu, se défendre et démasquer Jean-Luc Mélenchon »",
+    "source": "Le Figaro",
+    "date": "2026-10-21T09:54:28+02:00",
+    "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-pour-sebastien-lecornu-se-defendre-et-demasquer-jean-luc-melenchon-20261021"
+   },
+   {
+    "titre": "17 octobre : comment Jean-Luc Mélenchon s’est retrouvé à porter le costume du coupable idéal",
+    "source": "Libération",
+    "date": "2026-10-19T17:48:47+00:00",
+    "lien": "https://www.liberation.fr/politique/17-octobre-comment-jean-luc-melenchon-sest-retrouve-a-porter-le-costume-du-coupable-ideal-20261019_HXZL644UWFFABA5YHTIIX456QE/"
+   },
+   {
+    "titre": "Mobilisation du 17 octobre : comment Jean-Luc Mélenchon espère tirer profit d’une «convergence des luttes»",
+    "source": "Le Figaro",
+    "date": "2026-10-19T09:57:02+02:00",
+    "lien": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016"
+   }
+  ],
+  "philippe": [
+   {
+    "titre": "Édouard Philippe souhaite \"donner plus de pouvoir\" à la police municipale",
+    "source": "franceinfo",
+    "date": "2026-10-21T08:41:33+02:00",
+    "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-souhaite-donner-plus-de-pouvoir-a-la-police-municipale_8246890.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
+  "retailleau": [
+   {
+    "titre": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
+    "source": "Le Figaro",
+    "date": "2026-10-16T09:05:32+02:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015"
+   }
+  ]
+ }
 }
