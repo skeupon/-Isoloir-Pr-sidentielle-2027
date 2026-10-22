@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-21T21:02+00:00",
+ "maj": "2026-10-22T08:58+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,6 +93,14 @@
   }
  ],
  "flux": {
+  "nathalie-arthaud": [
+   {
+    "titre": "\"Cette irruption de la jeunesse, on ne la voyait pas venir\", commente Nathalie Arthaud, candidate Lutte ouvrière à l'élection présidentielle",
+    "source": "franceinfo",
+    "date": "2026-10-22T09:37:34+02:00",
+    "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/cette-irruption-de-la-jeunesse-on-ne-la-voyait-pas-venir-commente-nathalie-arthaud-candidate-lutte-ouvriere-a-l-election-presidentielle_8248576.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
   "glucksmann": [
    {
     "titre": "Matthieu Pigasse s’en prend à son tour à Raphaël Glucksmann : «C’est “Bismillah, c’est les ténèbres”»",
@@ -103,22 +111,16 @@
   ],
   "le-pen": [
    {
+    "titre": "\"Nous sommes le rempart face à l'extrême gauche avec Marine Le Pen\", affirme le porte-parole du Rassemblement National, Julien Odoul",
+    "source": "franceinfo",
+    "date": "2026-10-22T10:19:05+02:00",
+    "lien": "https://www.franceinfo.fr/politique/front-national/nous-sommes-le-rempart-face-a-l-extreme-gauche-avec-marine-le-pen-affirme-le-porte-parole-du-rassemblement-national-julien-odoul_8248507.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
     "titre": "Donald Trump apporte un soutien à Marine Le Pen",
     "source": "franceinfo",
     "date": "2026-10-21T18:19:12+02:00",
     "lien": "https://www.franceinfo.fr/monde/usa/donald-trump-apporte-un-soutien-a-marine-le-pen_8247688.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Marine Le Pen a-t-elle déjà gagné la présidentielle ?",
-    "source": "franceinfo",
-    "date": "2026-10-21T14:06:25+02:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-a-t-elle-deja-gagne-la-presidentielle_8247295.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner \"leurs candidatures de témoignages\" à la présidentielle pour se rassembler autour de Marine Le Pen",
-    "source": "franceinfo",
-    "date": "2026-10-21T11:36:44+02:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-ciotti-appelle-bruno-retailleau-et-david-lisnard-a-abandonner-leurs-candidatures-de-temoignages-pour-se-rassembler-autour-de-marine-le-pen_8247031.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
     "titre": "Mobilisation du 17 octobre : la contre-attaque indécente de la macronie ouvre un boulevard à Marine Le Pen",
@@ -147,12 +149,6 @@
     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/robert-menard-au-figaro-bruno-retailleau-et-david-lisnard-ne-finiront-pas-a-deux-face-aux-francais-20261021"
    },
    {
-    "titre": "Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner \"leurs candidatures de témoignages\" à la présidentielle pour se rassembler autour de Marine Le Pen",
-    "source": "franceinfo",
-    "date": "2026-10-21T11:36:44+02:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-ciotti-appelle-bruno-retailleau-et-david-lisnard-a-abandonner-leurs-candidatures-de-temoignages-pour-se-rassembler-autour-de-marine-le-pen_8247031.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
     "titre": "David Lisnard fantasme sur «des camps d’entraînement» dans le Limousin pour les «terroristes» de gauche",
     "source": "Libération",
     "date": "2026-10-20T09:59:41+00:00",
@@ -166,6 +162,12 @@
    }
   ],
   "melenchon": [
+   {
+    "titre": "Nicolas Dufrêne, l’homme qui a soufflé l’idée de l’annulation de la dette à Jean-Luc Mélenchon",
+    "source": "Le Monde",
+    "date": "2026-10-22T06:00:50+02:00",
+    "lien": "https://www.lemonde.fr/economie/article/2026/10/22/nicolas-dufrene-l-homme-qui-a-souffle-l-idee-de-l-annulation-de-la-dette-a-jean-luc-melenchon_6798567_3234.html"
+   },
    {
     "titre": "Guillaume Tabard : « Pour Sébastien Lecornu, se défendre et démasquer Jean-Luc Mélenchon »",
     "source": "Le Figaro",
@@ -191,39 +193,27 @@
     "source": "Le Figaro",
     "date": "2026-10-21T17:39:10+02:00",
     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/robert-menard-au-figaro-bruno-retailleau-et-david-lisnard-ne-finiront-pas-a-deux-face-aux-francais-20261021"
-   },
-   {
-    "titre": "Cinq questions sur la possibilité d'interdire un parti politique, comme le proposent Gérard Larcher et Bruno Retailleau pour LFI",
-    "source": "franceinfo",
-    "date": "2026-10-21T15:07:44+02:00",
-    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/est-il-possible-d-interdire-un-parti-politique-comme-le-proposent-gerard-larcher-et-bruno-retailleau-pour-la-france-insoumise_8245717.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner \"leurs candidatures de témoignages\" à la présidentielle pour se rassembler autour de Marine Le Pen",
-    "source": "franceinfo",
-    "date": "2026-10-21T11:36:44+02:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-ciotti-appelle-bruno-retailleau-et-david-lisnard-a-abandonner-leurs-candidatures-de-temoignages-pour-se-rassembler-autour-de-marine-le-pen_8247031.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "WLQfQVEVaao",
-    "titre": "Les images du samedi 17 octobres n’ont pas été générés par IA : les propos de Macron sont graves.",
-    "date": "2026-10-21T20:13:29+00:00",
+    "id": "g1SYY6Zaw58",
+    "titre": "Il faut arrêter la guerre des salariés contre les patrons, des pauvres contre les riches.",
+    "date": "2026-10-22T08:00:32+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "_TlDYmSK6hg",
-    "titre": "Émeutes de 2023 : « Qu'avez-vous fait de la France ? » lance Marine Le Pen à Élisabeth Borne",
-    "date": "2026-10-21T17:00:16+00:00",
+    "id": "HBH8OJaitYQ",
+    "titre": "La CGT contre le congrès d'un parti ? Ça en dit long sur le respect de la démocratie !",
+    "date": "2026-10-22T07:15:29+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "k2OlgZ5OEjg",
-    "titre": "Nous ne laisserons pas la gauche entraver le processus démocratique !",
-    "date": "2026-10-21T14:25:33+00:00",
+    "id": "QyWwpmP0QwI",
+    "titre": "Vous avez le droit de manifester, pas le droit de casser, de brûler, de violenter !",
+    "date": "2026-10-22T06:00:05+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -289,6 +279,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "3VWsMRUnFAA",
+    "titre": "NON AUX POSTURES THÉÂTRALES",
+    "date": "2026-10-22T08:28:38+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "cAy2L7fP9C4",
     "titre": "400 000 EUROS LA PLACE DE PRISON : LE VRAI COÛT DU DÉSORDRE",
     "date": "2026-10-21T16:26:54+00:00",
@@ -298,12 +294,6 @@
     "id": "OLj6pM22bCc",
     "titre": "EX ZADISTES ET BLACK BLOCS : L'ALERTE SUR RTL",
     "date": "2026-10-21T16:07:30+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "nyZWYmrxNek",
-    "titre": "INTERVENIR VITE POUR ÉVITER LES PROBLÈMES",
-    "date": "2026-10-21T15:00:28+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -349,6 +339,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "TPVXQd7HaN0",
+    "titre": "On peut rétablir l’ordre… à condition de redevenir SOUVERAINS.",
+    "date": "2026-10-22T06:30:14+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "nlI1jjbvhbg",
     "titre": "Comment supporter cela encore six mois ?",
     "date": "2026-10-21T18:26:37+00:00",
@@ -358,12 +354,6 @@
     "id": "VobP8dpma6w",
     "titre": "\"Il faut rétablir l'ordre et défendre la justice sociale\" · Cnews, 20/10/2026",
     "date": "2026-10-21T14:30:23+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "TZCOreteHDg",
-    "titre": "Je refuse qu’on prive de liberté TOUS LES FRANÇAIS !",
-    "date": "2026-10-21T09:29:21+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],

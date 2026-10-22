@@ -372,12 +372,19 @@
    "detaille": true,
    "statut": "Programme publié (édition 2025) ; nouvelle édition de 1 069 mesures annoncée en librairie le 6 novembre 2026.",
    "wikidata": "",
-   "photo": null,
+   "photo": {
+    "fichier": "photos/melenchon.jpg",
+    "commons": "06.06.2025 JLM portrait.jpg",
+    "auteur": "Lula Oficial",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:06.06.2025_JLM_portrait.jpg"
+   },
    "sources_programme": [
     "https://melenchon2027.fr/programme/decouvrir/",
     "https://melenchon2027.fr/programme2025/livre/"
    ],
-   "recherche_actus": "Jean-Luc Mélenchon présidentielle"
+   "recherche_actus": "Jean-Luc Mélenchon présidentielle",
+   "commons_force": "06.06.2025 JLM portrait.jpg"
   },
   {
    "id": "antoine-mikolajczak",
