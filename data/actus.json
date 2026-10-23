@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-22T19:35+00:00",
+ "maj": "2026-10-23T08:53+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,15 +93,21 @@
   }
  ],
  "flux": {
-  "nathalie-arthaud": [
+  "attal": [
    {
-    "titre": "\"Cette irruption de la jeunesse, on ne la voyait pas venir\", commente Nathalie Arthaud, candidate Lutte ouvrière à l'élection présidentielle",
+    "titre": "Mobilisation du 24 octobre : \"Si la situation n'est pas rétablie, évidemment qu'il faudra déclarer [l'état d'urgence]\", estime Gabriel Attal",
     "source": "franceinfo",
-    "date": "2026-10-22T09:37:34+02:00",
-    "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/cette-irruption-de-la-jeunesse-on-ne-la-voyait-pas-venir-commente-nathalie-arthaud-candidate-lutte-ouvriere-a-l-election-presidentielle_8248576.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-23T09:20:43+02:00",
+    "lien": "https://www.franceinfo.fr/politique/gabriel-attal/mobilisation-du-24-octobre-si-la-situation-n-est-pas-retablie-evidemment-qu-il-faudra-declarer-l-etat-d-urgence-estime-gabriel-attal_8250256.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "glucksmann": [
+   {
+    "titre": "Absent des mobilisations, Raphaël Glucksmann joue la distance au risque de se faire distancer",
+    "source": "Libération",
+    "date": "2026-10-22T19:37:00+00:00",
+    "lien": "https://www.liberation.fr/politique/absent-des-mobilisations-raphael-glucksmann-joue-la-distance-au-risque-de-se-faire-distancer-20261022_TTSQIFHLJFA53JK2XXVH7TUK6Y/"
+   },
    {
     "titre": "Matthieu Pigasse s’en prend à son tour à Raphaël Glucksmann : «C’est “Bismillah, c’est les ténèbres”»",
     "source": "Libération",
@@ -111,10 +117,16 @@
   ],
   "le-pen": [
    {
-    "titre": "\"Nous sommes le rempart face à l'extrême gauche avec Marine Le Pen\", affirme le porte-parole du Rassemblement National, Julien Odoul",
+    "titre": "\"Il faut que Marine Le Pen arrête son cinéma, on ne va pas empêcher la tenue de son congrès\", assure la cégétiste Sophie Binet",
     "source": "franceinfo",
-    "date": "2026-10-22T10:19:05+02:00",
-    "lien": "https://www.franceinfo.fr/politique/front-national/nous-sommes-le-rempart-face-a-l-extreme-gauche-avec-marine-le-pen-affirme-le-porte-parole-du-rassemblement-national-julien-odoul_8248507.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-23T10:06:18+02:00",
+    "lien": "https://www.franceinfo.fr/politique/front-national/il-faut-que-marine-le-pen-arrete-son-cinema-on-ne-va-pas-empecher-la-tenue-de-son-congres-assure-la-cegetiste-sophie-binet_8250310.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Édito. La manifestation contre le congrès du RN à Orléans contrarie la stratégie de normalisation de Marine Le Pen",
+    "source": "franceinfo",
+    "date": "2026-10-23T08:10:02+02:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-manifestation-contre-le-congres-du-rn-a-orleans-contrarie-la-strategie-de-normalisation-de-marine-le-pen_8229253.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
     "titre": "Mobilisation du 17 octobre : la contre-attaque indécente de la macronie ouvre un boulevard à Marine Le Pen",
@@ -135,12 +147,6 @@
     "source": "Libération",
     "date": "2026-10-20T09:59:41+00:00",
     "lien": "https://www.liberation.fr/politique/david-lisnard-fantasme-sur-des-camps-dentrainement-dans-le-limousin-pour-les-terroristes-de-gauche-20261020_RJQ4XNZ32NBDPAUDG73MCYCIFU/"
-   },
-   {
-    "titre": "«Non mais je m’en fous madame, j’étais pas né» : interrogé sur le 17 octobre 1961, David Lisnard s’énerve sur LCI",
-    "source": "Libération",
-    "date": "2026-10-20T07:39:51+00:00",
-    "lien": "https://www.liberation.fr/politique/non-mais-je-men-fous-madame-jetais-pas-ne-interroge-sur-le-17-octobre-1961-david-lisnard-senerve-20261020_JZNDU5EO4JAADIKLCY2RDR2H54/"
    }
   ],
   "melenchon": [
@@ -149,18 +155,6 @@
     "source": "Le Figaro",
     "date": "2026-10-21T09:54:28+02:00",
     "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-pour-sebastien-lecornu-se-defendre-et-demasquer-jean-luc-melenchon-20261021"
-   },
-   {
-    "titre": "17 octobre : comment Jean-Luc Mélenchon s’est retrouvé à porter le costume du coupable idéal",
-    "source": "Libération",
-    "date": "2026-10-19T17:48:47+00:00",
-    "lien": "https://www.liberation.fr/politique/17-octobre-comment-jean-luc-melenchon-sest-retrouve-a-porter-le-costume-du-coupable-ideal-20261019_HXZL644UWFFABA5YHTIIX456QE/"
-   },
-   {
-    "titre": "Mobilisation du 17 octobre : comment Jean-Luc Mélenchon espère tirer profit d’une «convergence des luttes»",
-    "source": "Le Figaro",
-    "date": "2026-10-19T09:57:02+02:00",
-    "lien": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016"
    }
   ],
   "retailleau": [
@@ -170,18 +164,16 @@
     "date": "2026-10-21T17:39:10+02:00",
     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/robert-menard-au-figaro-bruno-retailleau-et-david-lisnard-ne-finiront-pas-a-deux-face-aux-francais-20261021"
    }
-  ],
-  "eric-zemmour": [
-   {
-    "titre": "VIDEO. \"Le mâle dominant, ce n'est pas Éric Zemmour, c'est Sarah Knafo !\" Le patron de Reconquête est-il en passe d'être \"grand remplacé\" par sa compagne ?",
-    "source": "franceinfo",
-    "date": "2026-10-22T18:22:55+02:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-le-male-dominant-ce-n-est-pas-eric-zemmour-c-est-sarah-knafo-le-patron-de-reconquete-est-il-en-passe-d-etre-grand-remplace-par-sa-compagne_8247673.html#xtor=RSS-3-%5Bgeneral%5D"
-   }
   ]
  },
  "videos": {
   "le-pen": [
+   {
+    "id": "mBow4ln9vD0",
+    "titre": "Mélenchon a choisi la stratégie du pire : c'est la stratégie de l'intimidation.",
+    "date": "2026-10-23T08:00:22+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
    {
     "id": "xcNEVGKOtD4",
     "titre": "Il faut aider les jeunes ruraux à payer leur permis de conduire !",
@@ -192,12 +184,6 @@
     "id": "qjTlM-pWsnY",
     "titre": "Les étrangers doivent respecter le pays dont ils demandent l'hospitalité.",
     "date": "2026-10-22T17:30:11+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "PKSdcjV1TEk",
-    "titre": "Il faut faire des économies sur l’immigration, la fraude, l’UE et le train de vie de l’État !",
-    "date": "2026-10-22T16:00:30+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -223,6 +209,12 @@
   ],
   "attal": [
    {
+    "id": "fKn6l3kPYt0",
+    "titre": "Gabriel Attal sur France 2 I Je réponds à toutes les questions de Francis Letellier",
+    "date": "2026-10-23T07:27:52+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "A70DL_Njp7c",
     "titre": "France info Gabriel Attal",
     "date": "2026-10-20T18:35:42+00:00",
@@ -232,12 +224,6 @@
     "id": "yBCde33U4e4",
     "titre": "Nous avons un pays à changer ! Un modèle à transformer !",
     "date": "2026-10-20T16:54:25+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "f3imepMTwQE",
-    "titre": "La fermeté est la seule ligne possible.",
-    "date": "2026-10-20T15:30:51+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -263,21 +249,21 @@
   ],
   "david-lisnard": [
    {
+    "id": "Nx--ENIqENU",
+    "titre": "JE NE CHERCHE PAS UN POSTE, JE PORTE UN PROJET COHÉRENT",
+    "date": "2026-10-23T08:29:22+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "mFM_ojfrlYU",
+    "titre": "DAVID LISNARD RÉPOND À JEAN-LUC MELENCHON",
+    "date": "2026-10-22T19:37:35+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "OGhcCN79MQ4",
     "titre": "CE N'EST PAS LA PAUVRETÉ QUI A MOTIVÉ LES ÉMEUTIERS",
     "date": "2026-10-22T19:00:04+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "Zhcb9DIu35U",
-    "titre": "David Lisnard invité de ICI matin Côte d'Azur sur France 3",
-    "date": "2026-10-22T10:30:05+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "3VWsMRUnFAA",
-    "titre": "NON AUX POSTURES THÉÂTRALES",
-    "date": "2026-10-22T08:28:38+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -364,7 +350,7 @@
   "florian-philippot": [
    {
     "id": "eAIUTK9Uyyk",
-    "titre": "Annulation de l’élection présidentielle : Macron crache le morceau !",
+    "titre": "Annulation de l’élection présidentielle : la vérité éclate ! Et ça change tout !",
     "date": "2026-10-22T13:00:11+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    },
