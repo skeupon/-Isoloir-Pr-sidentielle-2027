@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-23T19:35+00:00",
+ "maj": "2026-10-24T08:26+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,14 +93,6 @@
   }
  ],
  "flux": {
-  "attal": [
-   {
-    "titre": "Mobilisation du 24 octobre : \"Si la situation n'est pas rétablie, évidemment qu'il faudra déclarer [l'état d'urgence]\", estime Gabriel Attal",
-    "source": "franceinfo",
-    "date": "2026-10-23T09:20:43+02:00",
-    "lien": "https://www.franceinfo.fr/politique/gabriel-attal/mobilisation-du-24-octobre-si-la-situation-n-est-pas-retablie-evidemment-qu-il-faudra-declarer-l-etat-d-urgence-estime-gabriel-attal_8250256.html#xtor=RSS-3-%5Bgeneral%5D"
-   }
-  ],
   "glucksmann": [
    {
     "titre": "«On ne va pas faire campagne pendant six mois comme ça» : à Amiens, Raphaël Glucksmann consacre à la jeunesse son (rapide) premier déplacement",
@@ -119,20 +111,6 @@
     "source": "Libération",
     "date": "2026-10-21T10:21:48+00:00",
     "lien": "https://www.liberation.fr/politique/matthieu-pigasse-sen-prend-a-son-tour-a-raphael-glucksmann-cest-bismillah-cest-les-tenebres-20261021_HLGJ6JCIAFGXNNAK7FPGJQI4QU/"
-   }
-  ],
-  "le-pen": [
-   {
-    "titre": "\"Il faut que Marine Le Pen arrête son cinéma, on ne va pas empêcher la tenue de son congrès\", assure la cégétiste Sophie Binet",
-    "source": "franceinfo",
-    "date": "2026-10-23T10:06:18+02:00",
-    "lien": "https://www.franceinfo.fr/politique/front-national/il-faut-que-marine-le-pen-arrete-son-cinema-on-ne-va-pas-empecher-la-tenue-de-son-congres-assure-la-cegetiste-sophie-binet_8250310.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Mobilisation du 17 octobre : la contre-attaque indécente de la macronie ouvre un boulevard à Marine Le Pen",
-    "source": "Libération",
-    "date": "2026-10-20T18:31:58+00:00",
-    "lien": "https://www.liberation.fr/idees-et-debats/editorial/mobilisation-du-17-octobre-la-contre-attaque-indecente-de-la-macronie-ouvre-un-boulevard-a-marine-le-pen-20261020_JJWYJWV46VFL3H4CYWXOYFBNV4/"
    }
   ],
   "david-lisnard": [
@@ -163,6 +141,12 @@
  "videos": {
   "le-pen": [
    {
+    "id": "_OzvV7CGZ3g",
+    "titre": "Contester une élection dans la rue, par la violence ? C'est éminemment condamnable.",
+    "date": "2026-10-24T08:00:05+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "qsuhrdkqb8g",
     "titre": "15 sénateurs RN-UDR au service des Français ! 🇫🇷",
     "date": "2026-10-23T16:00:35+00:00",
@@ -172,12 +156,6 @@
     "id": "JyWg11sPIfE",
     "titre": "On ne supporte plus de payer pour les casseurs !",
     "date": "2026-10-23T10:00:01+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "mBow4ln9vD0",
-    "titre": "Mélenchon a choisi la stratégie du pire : c'est la stratégie de l'intimidation.",
-    "date": "2026-10-23T08:00:22+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -203,6 +181,12 @@
   ],
   "attal": [
    {
+    "id": "jj-NMpyWYI0",
+    "titre": "Aujourd’hui, le racisme et la haine de l’autre ont tué.",
+    "date": "2026-10-23T21:04:12+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "fKn6l3kPYt0",
     "titre": "Gabriel Attal sur France 2 I Je réponds à toutes les questions de Francis Letellier",
     "date": "2026-10-23T07:27:52+00:00",
@@ -212,12 +196,6 @@
     "id": "A70DL_Njp7c",
     "titre": "France info Gabriel Attal",
     "date": "2026-10-20T18:35:42+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "yBCde33U4e4",
-    "titre": "Nous avons un pays à changer ! Un modèle à transformer !",
-    "date": "2026-10-20T16:54:25+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
