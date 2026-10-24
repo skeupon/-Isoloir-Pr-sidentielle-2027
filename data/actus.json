@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-24T08:26+00:00",
+ "maj": "2026-10-24T18:24+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -141,41 +141,41 @@
  "videos": {
   "le-pen": [
    {
+    "id": "BTzo69C2IKU",
+    "titre": "Le duo que je forme avec Jordan est exceptionnel. 🇫🇷",
+    "date": "2026-10-24T16:00:39+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "WqxyGstwIeg",
+    "titre": "Hommage aux harkis.",
+    "date": "2026-10-24T10:00:21+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "_OzvV7CGZ3g",
     "titre": "Contester une élection dans la rue, par la violence ? C'est éminemment condamnable.",
     "date": "2026-10-24T08:00:05+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "qsuhrdkqb8g",
-    "titre": "15 sénateurs RN-UDR au service des Français ! 🇫🇷",
-    "date": "2026-10-23T16:00:35+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "JyWg11sPIfE",
-    "titre": "On ne supporte plus de payer pour les casseurs !",
-    "date": "2026-10-23T10:00:01+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
    {
-    "id": "7hBEv95Q8Ew",
-    "titre": "La victoire de Lula sera la victoire du peuple",
-    "date": "2026-10-23T16:21:17+00:00",
+    "id": "o6fu63AyFjY",
+    "titre": "Le pouvoir doit céder ou il ne restera plus que la porte de sortie",
+    "date": "2026-10-24T14:51:15+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "_D70leqHHxM",
-    "titre": "À cause de Macron, nous risquons de devenir belligérants !",
-    "date": "2026-10-22T12:30:47+00:00",
+    "id": "loxwn3DECHw",
+    "titre": "Avec la jeunesse et contre la vie chère, déferlante populaire à Paris !",
+    "date": "2026-10-24T14:15:12+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "fNbwyJW3AKU",
-    "titre": "J'ai un message personnel à Gérard Larcher.",
-    "date": "2026-10-21T15:30:06+00:00",
+    "id": "EmZXws6X3fk",
+    "titre": "M. Macron, il est temps de céder, après il ne restera plus que la porte de sortie",
+    "date": "2026-10-24T12:54:51+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -241,6 +241,12 @@
   ],
   "eric-zemmour": [
    {
+    "id": "jfJwDvhcrp8",
+    "titre": "Émeutes urbaines : mon message aux Français.",
+    "date": "2026-10-24T10:38:24+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
     "id": "Lx-YwKqUPeA",
     "titre": "Je suis meurtri de voir mourir sous mes yeux la France !",
     "date": "2026-10-22T19:01:59+00:00",
@@ -250,12 +256,6 @@
     "id": "TL6bI0koWTg",
     "titre": "Comment éviter de nouvelles émeutes ?",
     "date": "2026-10-22T17:19:03+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "A8-BLpuQ10A",
-    "titre": "Mes mesures d’urgence pour l’école 🏫🎓",
-    "date": "2026-10-22T10:47:06+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -281,6 +281,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "s-oud-DqL7U",
+    "titre": "Toute la classe politique qui hurle sur LFI s’est sauvée grâce à des accords électoraux avec eux",
+    "date": "2026-10-24T14:47:36+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "8GtkGavMeZs",
     "titre": "En direct de Brie-sous-Matha, avec des maires et des viticulteurs de la région de Cognac.",
     "date": "2026-10-23T19:04:33+00:00",
@@ -291,35 +297,35 @@
     "titre": "Encadrer oui, interdire non !",
     "date": "2026-10-23T17:46:19+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "ShYf_a5F3V4",
-    "titre": "\"Macron n'est plus en état de présider !\" · LCI, 22/10/2026",
-    "date": "2026-10-23T15:00:39+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "8WSPhF8G9qg",
+    "titre": "La MANIFESTATION du octobre !",
+    "date": "2026-10-24T16:48:54+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "WImjQtKyGWI",
+    "titre": "Le gouvernement n'a qu'une réponse : la violence",
+    "date": "2026-10-24T13:00:06+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "hIwwiSe6mJ0",
     "titre": "Soyons nombreux samedi 24 !",
     "date": "2026-10-23T12:46:31+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "46CDJkKK-VM",
-    "titre": "Faire MIEUX que les gilets jaunes",
-    "date": "2026-10-22T13:00:11+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "Mf6gRev68lo",
-    "titre": "Le 17 octobre et la suite | Débat à la Fête de Lutte Ouvrière à Bordeaux",
-    "date": "2026-10-20T16:32:25+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "AhMxMglL9pQ",
+    "titre": "« Un événement incroyable va se produire en France ! » Me Di Vizio et Florian Philippot",
+    "date": "2026-10-24T13:01:18+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "481R7gTNpYY",
     "titre": "« On a enfin les SMS ! » : un procès historique s’ouvre !",
@@ -330,12 +336,6 @@
     "id": "eAIUTK9Uyyk",
     "titre": "Annulation de l’élection présidentielle : la vérité éclate ! Et ça change tout !",
     "date": "2026-10-22T13:00:11+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "6Y3gKmy8Vuw",
-    "titre": "Brigitte, Trogneux et Macron : coup de folie à l’Élysée !",
-    "date": "2026-10-21T13:00:11+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
