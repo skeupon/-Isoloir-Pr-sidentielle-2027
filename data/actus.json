@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-24T18:24+00:00",
+ "maj": "2026-10-25T08:45+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -113,7 +113,27 @@
     "lien": "https://www.liberation.fr/politique/matthieu-pigasse-sen-prend-a-son-tour-a-raphael-glucksmann-cest-bismillah-cest-les-tenebres-20261021_HLGJ6JCIAFGXNNAK7FPGJQI4QU/"
    }
   ],
+  "le-pen": [
+   {
+    "titre": "DIRECT. Congrès du RN à Orléans : Marine Le Pen lance sa campagne présidentielle avec un premier meeting, son discours prévu à 15h30",
+    "source": "franceinfo",
+    "date": "2026-10-25T09:40:58+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
+    "source": "franceinfo",
+    "date": "2026-10-25T08:28:30+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
   "david-lisnard": [
+   {
+    "titre": "Présidentielle 2027 : derrière la percée de David Lisnard, une stratégie d’occupation minutieuse des réseaux sociaux",
+    "source": "Libération",
+    "date": "2026-10-25T06:06:00+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-derriere-la-percee-de-david-lisnard-une-strategie-doccupation-minutieuse-des-reseaux-sociaux-20261025_TZN6AHJZE5AHXCRXLTJEJ5U34Y/"
+   },
    {
     "titre": "Robert Ménard au Figaro : « Bruno Retailleau et David Lisnard ne finiront pas à deux face aux Français »",
     "source": "Le Figaro",
@@ -281,6 +301,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "JbPZNuZ4lws",
+    "titre": "Je propose depuis des années de rétablir un bac égalitaire et de revoir l’algorithme Parcoursup…",
+    "date": "2026-10-25T07:30:16+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "s-oud-DqL7U",
     "titre": "Toute la classe politique qui hurle sur LFI s’est sauvée grâce à des accords électoraux avec eux",
     "date": "2026-10-24T14:47:36+00:00",
@@ -291,15 +317,15 @@
     "titre": "En direct de Brie-sous-Matha, avec des maires et des viticulteurs de la région de Cognac.",
     "date": "2026-10-23T19:04:33+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "D9cse-BLoFs",
-    "titre": "Encadrer oui, interdire non !",
-    "date": "2026-10-23T17:46:19+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "2iruUv3hGMI",
+    "titre": "\"Des manifestations énormes\" | Nathalie Arthaud sur BFM TV",
+    "date": "2026-10-24T20:01:30+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "8WSPhF8G9qg",
     "titre": "La MANIFESTATION du octobre !",
@@ -310,12 +336,6 @@
     "id": "WImjQtKyGWI",
     "titre": "Le gouvernement n'a qu'une réponse : la violence",
     "date": "2026-10-24T13:00:06+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "hIwwiSe6mJ0",
-    "titre": "Soyons nombreux samedi 24 !",
-    "date": "2026-10-23T12:46:31+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
