@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-25T08:45+00:00",
+ "maj": "2026-10-25T18:35+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -105,20 +105,20 @@
     "source": "Libération",
     "date": "2026-10-22T19:37:00+00:00",
     "lien": "https://www.liberation.fr/politique/absent-des-mobilisations-raphael-glucksmann-joue-la-distance-au-risque-de-se-faire-distancer-20261022_TTSQIFHLJFA53JK2XXVH7TUK6Y/"
-   },
-   {
-    "titre": "Matthieu Pigasse s’en prend à son tour à Raphaël Glucksmann : «C’est “Bismillah, c’est les ténèbres”»",
-    "source": "Libération",
-    "date": "2026-10-21T10:21:48+00:00",
-    "lien": "https://www.liberation.fr/politique/matthieu-pigasse-sen-prend-a-son-tour-a-raphael-glucksmann-cest-bismillah-cest-les-tenebres-20261021_HLGJ6JCIAFGXNNAK7FPGJQI4QU/"
    }
   ],
   "le-pen": [
    {
-    "titre": "DIRECT. Congrès du RN à Orléans : Marine Le Pen lance sa campagne présidentielle avec un premier meeting, son discours prévu à 15h30",
+    "titre": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
     "source": "franceinfo",
-    "date": "2026-10-25T09:40:58+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-25T18:06:16+01:00",
+    "lien": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "“Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique Sandro Gozi, député européen Renew",
+    "source": "franceinfo",
+    "date": "2026-10-25T11:53:30+01:00",
+    "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
     "titre": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
@@ -161,21 +161,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "BTzo69C2IKU",
-    "titre": "Le duo que je forme avec Jordan est exceptionnel. 🇫🇷",
-    "date": "2026-10-24T16:00:39+00:00",
+    "id": "3jM21BgsATw",
+    "titre": "Meeting d'Orléans : le discours en intégralité de Marine Le Pen",
+    "date": "2026-10-25T17:21:03+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "WqxyGstwIeg",
-    "titre": "Hommage aux harkis.",
-    "date": "2026-10-24T10:00:21+00:00",
+    "id": "SF1Q3SEH0uo",
+    "titre": "Si on ne baisse pas les taxes sur le carburant, c’est toute la France qui s’arrêtera.",
+    "date": "2026-10-25T17:00:07+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "_OzvV7CGZ3g",
-    "titre": "Contester une élection dans la rue, par la violence ? C'est éminemment condamnable.",
-    "date": "2026-10-24T08:00:05+00:00",
+    "id": "HrJ4Xr2_-nE",
+    "titre": "Ceux qui se comportent mal dans les HLM seront expulsés.",
+    "date": "2026-10-25T11:00:25+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -241,6 +241,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "PuzDQlUuZz0",
+    "titre": "\"Aujourd'hui, il nous faut une rupture radicale »",
+    "date": "2026-10-25T13:16:59+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "-QBv9RRrKJE",
     "titre": "LA DROITE DOIT S’UNIR PAR LA PRIMAIRE",
     "date": "2026-10-23T17:50:10+00:00",
@@ -250,12 +256,6 @@
     "id": "iTf-8DuMN14",
     "titre": "DES INTERDICTIONS, OUI, MAIS ENCORE FAUT-IL LES FAIRE RESPECTER",
     "date": "2026-10-23T16:00:34+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "rJI1Z8eKvww",
-    "titre": "SOIR DU PSG À CANNES : UN PRÉFET RACCROCHE AU NEZ DU MAIRE",
-    "date": "2026-10-23T13:33:28+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -301,6 +301,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "5Axl7WUXKLk",
+    "titre": "\"Offrons un vrai débat apaisé aux Français\" · BFM TV, 23/10/2026",
+    "date": "2026-10-25T15:30:10+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "JbPZNuZ4lws",
     "titre": "Je propose depuis des années de rétablir un bac égalitaire et de revoir l’algorithme Parcoursup…",
     "date": "2026-10-25T07:30:16+00:00",
@@ -311,15 +317,15 @@
     "titre": "Toute la classe politique qui hurle sur LFI s’est sauvée grâce à des accords électoraux avec eux",
     "date": "2026-10-24T14:47:36+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "8GtkGavMeZs",
-    "titre": "En direct de Brie-sous-Matha, avec des maires et des viticulteurs de la région de Cognac.",
-    "date": "2026-10-23T19:04:33+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "c_qKM7SbZGo",
+    "titre": "Baisser les TAXES ou augmenter les SALAIRES ?",
+    "date": "2026-10-25T14:00:12+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "2iruUv3hGMI",
     "titre": "\"Des manifestations énormes\" | Nathalie Arthaud sur BFM TV",
@@ -331,31 +337,25 @@
     "titre": "La MANIFESTATION du octobre !",
     "date": "2026-10-24T16:48:54+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "WImjQtKyGWI",
-    "titre": "Le gouvernement n'a qu'une réponse : la violence",
-    "date": "2026-10-24T13:00:06+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
    {
+    "id": "jBz5-qzcnOc",
+    "titre": "Énorme : Elon Musk lâche une bombe sur Macron et Zelensky en direct !",
+    "date": "2026-10-25T18:00:14+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
+    "id": "WLepzYYnIDY",
+    "titre": "« Macron et Soros ont tout organisé ! » : l’incroyable enquête américaine !",
+    "date": "2026-10-25T08:47:46+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "AhMxMglL9pQ",
     "titre": "« Un événement incroyable va se produire en France ! » Me Di Vizio et Florian Philippot",
     "date": "2026-10-24T13:01:18+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "481R7gTNpYY",
-    "titre": "« On a enfin les SMS ! » : un procès historique s’ouvre !",
-    "date": "2026-10-23T13:00:14+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "eAIUTK9Uyyk",
-    "titre": "Annulation de l’élection présidentielle : la vérité éclate ! Et ça change tout !",
-    "date": "2026-10-22T13:00:11+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
