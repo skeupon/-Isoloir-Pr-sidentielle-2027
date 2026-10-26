@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-26T09:25+00:00",
+ "maj": "2026-10-26T20:47+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -101,22 +101,10 @@
     "lien": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-dit-etre-victime-d-une-campagne-de-harcelement-de-lfi_8253889.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Raphaël Glucksmann, un candidat à la présidentielle à la recherche de la jeunesse perdue",
-    "source": "Le Monde",
-    "date": "2026-10-26T05:30:14+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/26/raphael-glucksmann-un-candidat-a-la-presidentielle-a-la-recherche-de-la-jeunesse-perdue_6800424_823448.html"
-   },
-   {
     "titre": "«On ne va pas faire campagne pendant six mois comme ça» : à Amiens, Raphaël Glucksmann consacre à la jeunesse son (rapide) premier déplacement",
     "source": "Libération",
     "date": "2026-10-23T18:48:35+00:00",
     "lien": "https://www.liberation.fr/politique/on-ne-va-pas-faire-campagne-pendant-six-mois-comme-ca-a-amiens-raphael-glucksmann-consacre-a-la-jeunesse-son-rapide-premier-deplacement-20261023_KMO47RCRAVEDHCMWSREUQKLJ5E/"
-   },
-   {
-    "titre": "Absent des mobilisations, Raphaël Glucksmann joue la distance au risque de se faire distancer",
-    "source": "Libération",
-    "date": "2026-10-22T19:37:00+00:00",
-    "lien": "https://www.liberation.fr/politique/absent-des-mobilisations-raphael-glucksmann-joue-la-distance-au-risque-de-se-faire-distancer-20261022_TTSQIFHLJFA53JK2XXVH7TUK6Y/"
    }
   ],
   "le-pen": [
@@ -131,18 +119,6 @@
     "source": "Libération",
     "date": "2026-10-25T19:20:58+00:00",
     "lien": "https://www.liberation.fr/politique/a-orleans-marine-le-pen-sort-la-carte-optimisme-pour-relancer-sa-campagne-presidentielle-20261025_NS2ZHVO2KZHHJOIRM464LR3VGU/"
-   },
-   {
-    "titre": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
-    "source": "franceinfo",
-    "date": "2026-10-25T18:06:16+01:00",
-    "lien": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "“Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique Sandro Gozi, député européen Renew",
-    "source": "franceinfo",
-    "date": "2026-10-25T11:53:30+01:00",
-    "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "david-lisnard": [
@@ -193,41 +169,41 @@
  "videos": {
   "le-pen": [
    {
-    "id": "3jM21BgsATw",
-    "titre": "Meeting d'Orléans : le discours en intégralité de Marine Le Pen",
-    "date": "2026-10-25T17:21:03+00:00",
+    "id": "Yj5yZ4J0LAA",
+    "titre": "Présidente, il faut oublier les offenses qui vous ont été faites.",
+    "date": "2026-10-26T20:00:10+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "SF1Q3SEH0uo",
-    "titre": "Si on ne baisse pas les taxes sur le carburant, c’est toute la France qui s’arrêtera.",
-    "date": "2026-10-25T17:00:07+00:00",
+    "id": "OUNT7ukDH90",
+    "titre": "Le futur n'est pas une menace, le futur est une promesse !",
+    "date": "2026-10-26T19:30:01+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "HrJ4Xr2_-nE",
-    "titre": "Ceux qui se comportent mal dans les HLM seront expulsés.",
-    "date": "2026-10-25T11:00:25+00:00",
+    "id": "4fliKKYk_mw",
+    "titre": "Je suis fière que nos retraités soient parmi les moins pauvres d'Europe !",
+    "date": "2026-10-26T18:30:21+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
    {
-    "id": "Mn0EXChZ6RU",
-    "titre": "Une génération dit désormais aux anciens ce qu'il faut faire.",
-    "date": "2026-10-25T18:48:01+00:00",
+    "id": "SlX43tAq3jA",
+    "titre": "Le racisme tue",
+    "date": "2026-10-26T18:45:10+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "o6fu63AyFjY",
-    "titre": "Le pouvoir doit céder ou il ne restera plus que la porte de sortie",
-    "date": "2026-10-24T14:51:15+00:00",
+    "id": "nAs0urs6bU4",
+    "titre": "Blade Runner est une métaphore de la condition humaine.",
+    "date": "2026-10-26T10:36:27+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "loxwn3DECHw",
-    "titre": "Avec la jeunesse et contre la vie chère, déferlante populaire à Paris !",
-    "date": "2026-10-24T14:15:12+00:00",
+    "id": "msIb2rNDSTA",
+    "titre": "Conférence de Jean-Luc Mélenchon à l'ESSEC",
+    "date": "2026-10-26T09:19:33+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -253,6 +229,12 @@
   ],
   "retailleau": [
    {
+    "id": "84HDDOEYmMw",
+    "titre": "Marine Le Pen n’est ni de droite ni de gauche.",
+    "date": "2026-10-26T16:57:06+00:00",
+    "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
+   },
+   {
     "id": "GZgsGjrfWx8",
     "titre": "Une trouille au plus haut sommet de l’État.",
     "date": "2026-10-19T20:19:58+00:00",
@@ -263,15 +245,15 @@
     "titre": "Rétablir l'ordre.",
     "date": "2026-10-19T16:18:27+00:00",
     "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
-   },
-   {
-    "id": "5ucNlO-q3xM",
-    "titre": "La République est en danger.",
-    "date": "2026-10-18T17:34:58+00:00",
-    "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
    }
   ],
   "david-lisnard": [
+   {
+    "id": "PaAzYBOx5LA",
+    "titre": "Un enfant est-il une « bombe écologique » ?",
+    "date": "2026-10-26T11:46:14+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
    {
     "id": "W-kWuy_uq1k",
     "titre": "Le gouvernement vient de lancer un énorme projet d'éolien en mer. C'est un scandale",
@@ -283,31 +265,25 @@
     "titre": "\"Aujourd'hui, il nous faut une rupture radicale »",
     "date": "2026-10-25T13:16:59+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "-QBv9RRrKJE",
-    "titre": "LA DROITE DOIT S’UNIR PAR LA PRIMAIRE",
-    "date": "2026-10-23T17:50:10+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
+    "id": "9kzB7osRm_E",
+    "titre": "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
+    "date": "2026-10-26T12:39:49+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
+    "id": "wsdXpwx7AfU",
+    "titre": "Depuis 20 ans, j’annonce que nous allons vers l’affrontement.",
+    "date": "2026-10-26T10:11:07+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
     "id": "NE5lxiP5oOU",
     "titre": "Je ne me tairai pas, parce que c'est la France que je défends.",
     "date": "2026-10-25T21:53:39+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "H4nLT38Uv-I",
-    "titre": "La vérité doit valoir pour toutes les victimes.",
-    "date": "2026-10-25T19:51:03+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "jfJwDvhcrp8",
-    "titre": "Émeutes urbaines : mon message aux Français.",
-    "date": "2026-10-24T10:38:24+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -333,6 +309,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "ZS3pg7sWFCs",
+    "titre": "Emmanuel Macron cherche-t-il à censurer la présidentielle ?",
+    "date": "2026-10-26T19:44:29+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "3Cuzx-_-6Aw",
     "titre": "Il ne suffit pas de se défaire de Macron et de cette oligarchie malfaisante…",
     "date": "2026-10-25T20:43:28+00:00",
@@ -343,35 +325,35 @@
     "titre": "\"Offrons un vrai débat apaisé aux Français\" · BFM TV, 23/10/2026",
     "date": "2026-10-25T15:30:10+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "JbPZNuZ4lws",
-    "titre": "Je propose depuis des années de rétablir un bac égalitaire et de revoir l’algorithme Parcoursup…",
-    "date": "2026-10-25T07:30:16+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "A3ya1XFLsA4",
+    "titre": "RENFORÇONS LA MOBILISATION !",
+    "date": "2026-10-26T17:53:21+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "iQW3L3emH5c",
+    "titre": "Le PILLAGE, c'est d'abord celui des CAPITALISTES",
+    "date": "2026-10-26T13:36:12+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "-1sBUOXPel8",
     "titre": "Les GRANDES ENTREPRISES ne tournent bien que pour les ACTIONNAIRES",
     "date": "2026-10-26T07:59:23+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "Yy6mw8JMM1s",
-    "titre": "\"Les jeunes ont ouvert la brèche\" | Nathalie Arthaud sur BFM TV",
-    "date": "2026-10-26T07:08:28+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "c_qKM7SbZGo",
-    "titre": "Baisser les TAXES ou augmenter les SALAIRES ?",
-    "date": "2026-10-25T14:00:12+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "JrbDkMbGbxU",
+    "titre": "« L’impensable se produit ! » : l’élection présidentielle bouleversée !",
+    "date": "2026-10-26T14:02:05+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "jBz5-qzcnOc",
     "titre": "Énorme : Elon Musk lâche une bombe sur Macron et Zelensky en direct !",
@@ -382,12 +364,6 @@
     "id": "WLepzYYnIDY",
     "titre": "« Macron et Soros ont tout organisé ! » : l’incroyable enquête américaine !",
     "date": "2026-10-25T08:47:46+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "AhMxMglL9pQ",
-    "titre": "« Un événement incroyable va se produire en France ! » Me Di Vizio et Florian Philippot",
-    "date": "2026-10-24T13:01:18+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
