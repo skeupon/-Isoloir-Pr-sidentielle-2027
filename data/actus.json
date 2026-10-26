@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-25T18:35+00:00",
+ "maj": "2026-10-26T09:25+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,6 +95,18 @@
  "flux": {
   "glucksmann": [
    {
+    "titre": "Raphaël Glucksmann dit être victime d'une \"campagne de harcèlement\" de LFI",
+    "source": "franceinfo",
+    "date": "2026-10-26T10:17:04+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-dit-etre-victime-d-une-campagne-de-harcelement-de-lfi_8253889.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Raphaël Glucksmann, un candidat à la présidentielle à la recherche de la jeunesse perdue",
+    "source": "Le Monde",
+    "date": "2026-10-26T05:30:14+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/26/raphael-glucksmann-un-candidat-a-la-presidentielle-a-la-recherche-de-la-jeunesse-perdue_6800424_823448.html"
+   },
+   {
     "titre": "«On ne va pas faire campagne pendant six mois comme ça» : à Amiens, Raphaël Glucksmann consacre à la jeunesse son (rapide) premier déplacement",
     "source": "Libération",
     "date": "2026-10-23T18:48:35+00:00",
@@ -109,6 +121,18 @@
   ],
   "le-pen": [
    {
+    "titre": "Présidentielle 2027 : depuis Orléans, Marine Le Pen lance sa campagne",
+    "source": "franceinfo",
+    "date": "2026-10-26T08:39:44+01:00",
+    "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-depuis-orleans-marine-le-pen-lance-sa-campagne_8253877.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "A Orléans, Marine Le Pen sort la carte «optimisme» pour relancer sa campagne présidentielle",
+    "source": "Libération",
+    "date": "2026-10-25T19:20:58+00:00",
+    "lien": "https://www.liberation.fr/politique/a-orleans-marine-le-pen-sort-la-carte-optimisme-pour-relancer-sa-campagne-presidentielle-20261025_NS2ZHVO2KZHHJOIRM464LR3VGU/"
+   },
+   {
     "titre": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
     "source": "franceinfo",
     "date": "2026-10-25T18:06:16+01:00",
@@ -119,12 +143,6 @@
     "source": "franceinfo",
     "date": "2026-10-25T11:53:30+01:00",
     "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
-    "source": "franceinfo",
-    "date": "2026-10-25T08:28:30+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "david-lisnard": [
@@ -151,10 +169,24 @@
   ],
   "retailleau": [
    {
+    "titre": "Jonas Haddad, le porte-parole de Bruno Retailleau qui veut défendre les jeunes actifs écrasés par « le système »",
+    "source": "Le Monde",
+    "date": "2026-10-26T10:00:09+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/26/jonas-haddad-le-porte-parole-de-bruno-retailleau-qui-veut-defendre-les-jeunes-actifs-ecrases-par-le-systeme_6800601_823448.html"
+   },
+   {
     "titre": "Robert Ménard au Figaro : « Bruno Retailleau et David Lisnard ne finiront pas à deux face aux Français »",
     "source": "Le Figaro",
     "date": "2026-10-21T17:39:10+02:00",
     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/robert-menard-au-figaro-bruno-retailleau-et-david-lisnard-ne-finiront-pas-a-deux-face-aux-francais-20261021"
+   }
+  ],
+  "marine-tondelier": [
+   {
+    "titre": "\"Il y a une certaine impunité envers les mouvements d'extrême droite qui ne peut plus durer\", déclare Marine Tondelier",
+    "source": "franceinfo",
+    "date": "2026-10-26T09:36:51+01:00",
+    "lien": "https://www.franceinfo.fr/politique/je-pense-qu-il-y-a-quand-meme-une-certaine-impunite-envers-les-mouvements-d-extreme-droite-qui-ne-peut-plus-durer-declare-marine-tondelier-secretaire-nationale-des-ecologistes-et-candidate-a-l-election-presidentielle_8253919.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ]
  },
@@ -181,6 +213,12 @@
   ],
   "melenchon": [
    {
+    "id": "Mn0EXChZ6RU",
+    "titre": "Une génération dit désormais aux anciens ce qu'il faut faire.",
+    "date": "2026-10-25T18:48:01+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
     "id": "o6fu63AyFjY",
     "titre": "Le pouvoir doit céder ou il ne restera plus que la porte de sortie",
     "date": "2026-10-24T14:51:15+00:00",
@@ -190,12 +228,6 @@
     "id": "loxwn3DECHw",
     "titre": "Avec la jeunesse et contre la vie chère, déferlante populaire à Paris !",
     "date": "2026-10-24T14:15:12+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "EmZXws6X3fk",
-    "titre": "M. Macron, il est temps de céder, après il ne restera plus que la porte de sortie",
-    "date": "2026-10-24T12:54:51+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -241,6 +273,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "W-kWuy_uq1k",
+    "titre": "Le gouvernement vient de lancer un énorme projet d'éolien en mer. C'est un scandale",
+    "date": "2026-10-25T20:46:01+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "PuzDQlUuZz0",
     "titre": "\"Aujourd'hui, il nous faut une rupture radicale »",
     "date": "2026-10-25T13:16:59+00:00",
@@ -251,31 +289,25 @@
     "titre": "LA DROITE DOIT S’UNIR PAR LA PRIMAIRE",
     "date": "2026-10-23T17:50:10+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "iTf-8DuMN14",
-    "titre": "DES INTERDICTIONS, OUI, MAIS ENCORE FAUT-IL LES FAIRE RESPECTER",
-    "date": "2026-10-23T16:00:34+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
+    "id": "NE5lxiP5oOU",
+    "titre": "Je ne me tairai pas, parce que c'est la France que je défends.",
+    "date": "2026-10-25T21:53:39+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
+    "id": "H4nLT38Uv-I",
+    "titre": "La vérité doit valoir pour toutes les victimes.",
+    "date": "2026-10-25T19:51:03+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
     "id": "jfJwDvhcrp8",
     "titre": "Émeutes urbaines : mon message aux Français.",
     "date": "2026-10-24T10:38:24+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "Lx-YwKqUPeA",
-    "titre": "Je suis meurtri de voir mourir sous mes yeux la France !",
-    "date": "2026-10-22T19:01:59+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "TL6bI0koWTg",
-    "titre": "Comment éviter de nouvelles émeutes ?",
-    "date": "2026-10-22T17:19:03+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -301,6 +333,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "3Cuzx-_-6Aw",
+    "titre": "Il ne suffit pas de se défaire de Macron et de cette oligarchie malfaisante…",
+    "date": "2026-10-25T20:43:28+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "5Axl7WUXKLk",
     "titre": "\"Offrons un vrai débat apaisé aux Français\" · BFM TV, 23/10/2026",
     "date": "2026-10-25T15:30:10+00:00",
@@ -311,31 +349,25 @@
     "titre": "Je propose depuis des années de rétablir un bac égalitaire et de revoir l’algorithme Parcoursup…",
     "date": "2026-10-25T07:30:16+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "s-oud-DqL7U",
-    "titre": "Toute la classe politique qui hurle sur LFI s’est sauvée grâce à des accords électoraux avec eux",
-    "date": "2026-10-24T14:47:36+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
    {
+    "id": "-1sBUOXPel8",
+    "titre": "Les GRANDES ENTREPRISES ne tournent bien que pour les ACTIONNAIRES",
+    "date": "2026-10-26T07:59:23+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "Yy6mw8JMM1s",
+    "titre": "\"Les jeunes ont ouvert la brèche\" | Nathalie Arthaud sur BFM TV",
+    "date": "2026-10-26T07:08:28+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
     "id": "c_qKM7SbZGo",
     "titre": "Baisser les TAXES ou augmenter les SALAIRES ?",
     "date": "2026-10-25T14:00:12+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "2iruUv3hGMI",
-    "titre": "\"Des manifestations énormes\" | Nathalie Arthaud sur BFM TV",
-    "date": "2026-10-24T20:01:30+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "8WSPhF8G9qg",
-    "titre": "La MANIFESTATION du octobre !",
-    "date": "2026-10-24T16:48:54+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
@@ -343,7 +375,7 @@
    {
     "id": "jBz5-qzcnOc",
     "titre": "Énorme : Elon Musk lâche une bombe sur Macron et Zelensky en direct !",
-    "date": "2026-10-25T18:00:14+00:00",
+    "date": "2026-10-25T19:20:26+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    },
    {
