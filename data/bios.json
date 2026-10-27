@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-27T09:23+00:00",
+ "maj": "2026-10-27T20:16+00:00",
  "source": "Wikidata (données sous licence CC0)",
  "fiches": {
   "nathalie-arthaud": {
@@ -535,9 +535,9 @@
    "lieu": "Limoges",
    "metiers": [
     "homme politique",
-    "footballeur",
     "chef d'entreprise",
-    "professions libérales et assimilés"
+    "professions libérales et assimilés",
+    "personnes diverses sans activité professionnelle de moins de 60 ans sauf retraités"
    ],
    "etudes": [
     "lycée Carnot de Cannes",

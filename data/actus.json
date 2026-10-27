@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-27T09:23+00:00",
+ "maj": "2026-10-27T20:16+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,20 +93,12 @@
   }
  ],
  "flux": {
-  "glucksmann": [
-   {
-    "titre": "«On ne va pas faire campagne pendant six mois comme ça» : à Amiens, Raphaël Glucksmann consacre à la jeunesse son (rapide) premier déplacement",
-    "source": "Libération",
-    "date": "2026-10-23T18:48:35+00:00",
-    "lien": "https://www.liberation.fr/politique/on-ne-va-pas-faire-campagne-pendant-six-mois-comme-ca-a-amiens-raphael-glucksmann-consacre-a-la-jeunesse-son-rapide-premier-deplacement-20261023_KMO47RCRAVEDHCMWSREUQKLJ5E/"
-   }
-  ],
   "le-pen": [
    {
-    "titre": "Didier Guérin, magistrat : « Marine Le Pen est actuellement inéligible jusqu’à la décision de la Cour de cassation sur son pourvoi »",
-    "source": "Le Monde",
-    "date": "2026-10-27T05:00:30+01:00",
-    "lien": "https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html"
+    "titre": "Marine Le Pen veut mettre au pas les contre-pouvoirs ?",
+    "source": "franceinfo",
+    "date": "2026-10-27T14:45:18+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-veut-mettre-au-pas-les-contre-pouvoirs_8255938.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
     "titre": "A Orléans, Marine Le Pen sort la carte «optimisme» pour relancer sa campagne présidentielle",
@@ -131,10 +123,10 @@
   ],
   "melenchon": [
    {
-    "titre": "Guillaume Tabard : « Pour Sébastien Lecornu, se défendre et démasquer Jean-Luc Mélenchon »",
-    "source": "Le Figaro",
-    "date": "2026-10-21T09:54:28+02:00",
-    "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-pour-sebastien-lecornu-se-defendre-et-demasquer-jean-luc-melenchon-20261021"
+    "titre": "Jean-Luc Mélenchon et la Russie : un relativisme toujours aussi problématique",
+    "source": "Libération",
+    "date": "2026-10-27T19:02:23+00:00",
+    "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-et-la-russie-un-relativisme-toujours-aussi-problematique-20261027_YTQBVUD3VBEHBIJBB6F7PMUI5A/"
    }
   ],
   "retailleau": [
@@ -149,25 +141,31 @@
  "videos": {
   "le-pen": [
    {
-    "id": "a2hL8H-Hxrs",
-    "titre": "Il faut mettre les casseurs hors d'état de nuire : le renseignement sait qui ils sont !",
-    "date": "2026-10-27T07:00:38+00:00",
+    "id": "inF6tnhnDcQ",
+    "titre": "Nous ne vivons pas la fin du monde, mais la fin de leur monde !",
+    "date": "2026-10-27T20:00:38+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "Yj5yZ4J0LAA",
-    "titre": "Présidente, il faut oublier les offenses qui vous ont été faites.",
-    "date": "2026-10-26T20:00:10+00:00",
+    "id": "LFMmbi4up7Q",
+    "titre": "Le grand meeting de Marine Le Pen à Orléans | Premier épisode du Quartier Général",
+    "date": "2026-10-27T19:30:01+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "OUNT7ukDH90",
-    "titre": "Le futur n'est pas une menace, le futur est une promesse !",
-    "date": "2026-10-26T19:30:01+00:00",
+    "id": "S7hYOFhktGA",
+    "titre": "Celui qui viole la loi aura trois certitudes : les poursuites, la peine, l'exécution !",
+    "date": "2026-10-27T17:00:27+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
+   {
+    "id": "Adj85ge5B20",
+    "titre": "Conférence de presse de Jean-Luc Mélenchon et Aurélie Trouvé",
+    "date": "2026-10-27T17:21:03+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
    {
     "id": "SlX43tAq3jA",
     "titre": "Le racisme tue",
@@ -178,12 +176,6 @@
     "id": "nAs0urs6bU4",
     "titre": "Blade Runner est une métaphore de la condition humaine.",
     "date": "2026-10-26T10:36:27+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "msIb2rNDSTA",
-    "titre": "Conférence de Jean-Luc Mélenchon à l'ESSEC",
-    "date": "2026-10-26T09:19:33+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -229,41 +221,41 @@
   ],
   "david-lisnard": [
    {
-    "id": "PaAzYBOx5LA",
-    "titre": "Un enfant est-il une « bombe écologique » ?",
-    "date": "2026-10-26T11:46:14+00:00",
+    "id": "rhprSiTV5F0",
+    "titre": "ADAPTER LA FRANCE AU CLIMAT : IL FAUT DE LA CROISSANCE",
+    "date": "2026-10-27T16:00:04+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "W-kWuy_uq1k",
-    "titre": "Le gouvernement vient de lancer un énorme projet d'éolien en mer. C'est un scandale",
-    "date": "2026-10-25T20:46:01+00:00",
+    "id": "LnG4MH9Qi0M",
+    "titre": "LIBÉRER LA SCIENCE POUR PRODUIRE PLUS",
+    "date": "2026-10-27T11:12:17+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "PuzDQlUuZz0",
-    "titre": "\"Aujourd'hui, il nous faut une rupture radicale »",
-    "date": "2026-10-25T13:16:59+00:00",
+    "id": "iat7eAxZiGM",
+    "titre": "LA DROITE, PHILOSOPHIE DE CONSERVATION DU VIVANT",
+    "date": "2026-10-27T10:20:07+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
+    "id": "qWFAUjUSp5U",
+    "titre": "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
+    "date": "2026-10-27T18:07:56+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
+    "id": "bFN1mK0GmNk",
+    "titre": "Le peuple français est un souverain captif.",
+    "date": "2026-10-27T10:10:27+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
     "id": "9kzB7osRm_E",
     "titre": "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
     "date": "2026-10-26T12:39:49+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "wsdXpwx7AfU",
-    "titre": "Depuis 20 ans, j’annonce que nous allons vers l’affrontement.",
-    "date": "2026-10-26T10:11:07+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "NE5lxiP5oOU",
-    "titre": "Je ne me tairai pas, parce que c'est la France que je défends.",
-    "date": "2026-10-25T21:53:39+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -289,6 +281,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "ate-74Y4XTI",
+    "titre": "DU JAMAIS VU !",
+    "date": "2026-10-27T18:36:33+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "ZS3pg7sWFCs",
     "titre": "Emmanuel Macron cherche-t-il à censurer la présidentielle ?",
     "date": "2026-10-26T19:44:29+00:00",
@@ -299,35 +297,35 @@
     "titre": "Il ne suffit pas de se défaire de Macron et de cette oligarchie malfaisante…",
     "date": "2026-10-25T20:43:28+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "5Axl7WUXKLk",
-    "titre": "\"Offrons un vrai débat apaisé aux Français\" · BFM TV, 23/10/2026",
-    "date": "2026-10-25T15:30:10+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "L1afhvXcYI0",
+    "titre": "\"J'aimerais le même élan quand une usine ferme\"",
+    "date": "2026-10-27T17:00:19+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "4nqrk73n6Fw",
+    "titre": "Sur l'attentat raciste à Trappes",
+    "date": "2026-10-27T12:12:41+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "A3ya1XFLsA4",
     "titre": "RENFORÇONS LA MOBILISATION !",
     "date": "2026-10-26T17:53:21+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "iQW3L3emH5c",
-    "titre": "Le PILLAGE, c'est d'abord celui des CAPITALISTES",
-    "date": "2026-10-26T13:36:12+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "-1sBUOXPel8",
-    "titre": "Les GRANDES ENTREPRISES ne tournent bien que pour les ACTIONNAIRES",
-    "date": "2026-10-26T07:59:23+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "TC3vfYpR0aI",
+    "titre": "« Confinement mondial ! » : Macron pousse à fond !",
+    "date": "2026-10-27T14:00:57+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "JrbDkMbGbxU",
     "titre": "« L’impensable se produit ! » : l’élection présidentielle bouleversée !",
@@ -338,12 +336,6 @@
     "id": "jBz5-qzcnOc",
     "titre": "Énorme : Elon Musk lâche une bombe sur Macron et Zelensky en direct !",
     "date": "2026-10-25T19:20:26+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "WLepzYYnIDY",
-    "titre": "« Macron et Soros ont tout organisé ! » : l’incroyable enquête américaine !",
-    "date": "2026-10-25T08:47:46+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
