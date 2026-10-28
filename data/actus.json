@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-27T20:16+00:00",
+ "maj": "2026-10-28T10:05+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,13 +93,23 @@
   }
  ],
  "flux": {
-  "le-pen": [
+  "attal": [
    {
-    "titre": "Marine Le Pen veut mettre au pas les contre-pouvoirs ?",
+    "titre": "\"Ils vont sortir fatigués de cet automne\" : coincés entre les crises et la parole du gouvernement, Gabriel Attal et Edouard Philippe tentent de se faire entendre",
     "source": "franceinfo",
-    "date": "2026-10-27T14:45:18+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-veut-mettre-au-pas-les-contre-pouvoirs_8255938.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
+    "date": "2026-10-28T08:08:26+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/ils-vont-sortir-fatigues-de-cet-automne-coinces-entre-les-crises-et-la-parole-du-gouvernement-gabriel-attal-et-edouard-philippe-tentent-de-se-faire-entendre_8256418.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
+  "glucksmann": [
+   {
+    "titre": "\"Il faut que ça s'arrête\" : Raphaël Glucksmann est-il empêché de faire campagne par des militants Insoumis ?",
+    "source": "franceinfo",
+    "date": "2026-10-27T23:33:14+01:00",
+    "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/il-faut-que-ca-s-arrete-raphael-glucksmann-est-il-empeche-de-faire-campagne-par-des-militants-insoumis_8256463.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
+  "le-pen": [
    {
     "titre": "A Orléans, Marine Le Pen sort la carte «optimisme» pour relancer sa campagne présidentielle",
     "source": "Libération",
@@ -109,10 +119,10 @@
   ],
   "david-lisnard": [
    {
-    "titre": "Présidentielle 2027 : derrière la percée de David Lisnard, une stratégie d’occupation minutieuse des réseaux sociaux",
+    "titre": "David Lisnard dragouille les députés LR",
     "source": "Libération",
-    "date": "2026-10-25T06:06:00+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-derriere-la-percee-de-david-lisnard-une-strategie-doccupation-minutieuse-des-reseaux-sociaux-20261025_TZN6AHJZE5AHXCRXLTJEJ5U34Y/"
+    "date": "2026-10-28T09:35:43+00:00",
+    "lien": "https://www.liberation.fr/politique/david-lisnard-dragouille-les-deputes-lr-20261028_KVMETPZNHJETBJO5QUHLKZPDZI/"
    },
    {
     "titre": "Robert Ménard au Figaro : « Bruno Retailleau et David Lisnard ne finiront pas à deux face aux Français »",
@@ -130,6 +140,12 @@
    }
   ],
   "retailleau": [
+   {
+    "titre": "\"Un projet qui n'est pas le bon pour la France\" : Bruno Retailleau balaie la main tendue du RN en vue d'un éventuel gouvernement d'union des droites",
+    "source": "franceinfo",
+    "date": "2026-10-28T10:51:56+01:00",
+    "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/un-projet-qui-n-est-pas-le-bon-pour-la-france-bruno-retailleau-balaie-la-main-tendue-du-rn-en-vue-d-un-eventuel-gouvernement-d-union-des-droites_8257030.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
    {
     "titre": "Robert Ménard au Figaro : « Bruno Retailleau et David Lisnard ne finiront pas à deux face aux Français »",
     "source": "Le Figaro",
@@ -161,25 +177,31 @@
   ],
   "melenchon": [
    {
+    "id": "K-Y8BfA74rQ",
+    "titre": "Être raciste, c'est déjà un signal de déséquilibre mental.",
+    "date": "2026-10-28T07:59:14+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
+    "id": "msIb2rNDSTA",
+    "titre": "Conférence de Jean-Luc Mélenchon à l'ESSEC",
+    "date": "2026-10-27T20:56:00+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
     "id": "Adj85ge5B20",
     "titre": "Conférence de presse de Jean-Luc Mélenchon et Aurélie Trouvé",
     "date": "2026-10-27T17:21:03+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "SlX43tAq3jA",
-    "titre": "Le racisme tue",
-    "date": "2026-10-26T18:45:10+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "nAs0urs6bU4",
-    "titre": "Blade Runner est une métaphore de la condition humaine.",
-    "date": "2026-10-26T10:36:27+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
+   {
+    "id": "Wy3pdB-tMjU",
+    "titre": "EN DIRECT | Innovation et planification, je présente ma vision économique pour la France.",
+    "date": "2026-10-28T08:51:14+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
    {
     "id": "jj-NMpyWYI0",
     "titre": "Aujourd’hui, le racisme et la haine de l’autre ont tué.",
@@ -190,12 +212,6 @@
     "id": "fKn6l3kPYt0",
     "titre": "Gabriel Attal sur France 2 I Je réponds à toutes les questions de Francis Letellier",
     "date": "2026-10-23T07:27:52+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "A70DL_Njp7c",
-    "titre": "France info Gabriel Attal",
-    "date": "2026-10-20T18:35:42+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -301,6 +317,12 @@
   ],
   "nathalie-arthaud": [
    {
+    "id": "qUW5EGMTxDI",
+    "titre": "15 euros ?! C'est du foutage de gueule !",
+    "date": "2026-10-28T08:32:41+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
     "id": "L1afhvXcYI0",
     "titre": "\"J'aimerais le même élan quand une usine ferme\"",
     "date": "2026-10-27T17:00:19+00:00",
@@ -310,12 +332,6 @@
     "id": "4nqrk73n6Fw",
     "titre": "Sur l'attentat raciste à Trappes",
     "date": "2026-10-27T12:12:41+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "A3ya1XFLsA4",
-    "titre": "RENFORÇONS LA MOBILISATION !",
-    "date": "2026-10-26T17:53:21+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
