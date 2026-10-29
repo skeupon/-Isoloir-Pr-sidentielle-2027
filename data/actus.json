@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-28T20:37+00:00",
+ "maj": "2026-10-29T10:28+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,6 +95,24 @@
  "flux": {
   "attal": [
    {
+    "titre": "Edouard Philippe et Gabriel Attal, empêtrés dans une campagne présidentielle laborieuse, tentent de conjurer leur effacement",
+    "source": "Le Monde",
+    "date": "2026-10-29T10:37:41+01:00",
+    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/29/edouard-philippe-et-gabriel-attal-empetres-dans-une-campagne-presidentielle-laborieuse-tentent-de-conjurer-leur-effacement_6802302_6205049.html"
+   },
+   {
+    "titre": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+    "source": "franceinfo",
+    "date": "2026-10-28T21:52:43+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Gabriel Attal plaide pour l'organisation d'une \"grande primaire des démocrates\" en vue de la présidentielle",
+    "source": "franceinfo",
+    "date": "2026-10-28T21:41:09+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
     "titre": "Présidentielle 2027 : Gabriel Attal pour l’organisation d’une « grande primaire des démocrates »",
     "source": "Le Monde",
     "date": "2026-10-28T21:00:04+01:00",
@@ -109,16 +127,16 @@
   ],
   "glucksmann": [
    {
+    "titre": "\"On est obligés de faire attention\" : comment Raphaël Glucksmann cherche la parade face à \"l'hostilité\" des insoumis sur le terrain",
+    "source": "franceinfo",
+    "date": "2026-10-29T05:44:53+01:00",
+    "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/on-est-obliges-de-faire-attention-comment-raphael-glucksmann-cherche-la-parade-face-a-l-hostilite-des-insoumis-sur-le-terrain_8257408.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
     "titre": "Le porte-parole de Raphaël Glucksmann propose par erreur d’augmenter le Smic de 100 euros… par an",
     "source": "Libération",
     "date": "2026-10-28T12:15:07+00:00",
     "lien": "https://www.liberation.fr/politique/le-porte-parole-de-raphael-glucksmann-propose-par-erreur-daugmenter-le-smic-de-100-euros-par-an-20261028_RX4EYXKXZ5F7XGQ4NWVZAHVMLE/"
-   },
-   {
-    "titre": "\"Il faut que ça s'arrête\" : Raphaël Glucksmann est-il empêché de faire campagne par des militants Insoumis ?",
-    "source": "franceinfo",
-    "date": "2026-10-27T23:33:14+01:00",
-    "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/il-faut-que-ca-s-arrete-raphael-glucksmann-est-il-empeche-de-faire-campagne-par-des-militants-insoumis_8256463.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "david-lisnard": [
@@ -131,10 +149,10 @@
   ],
   "melenchon": [
    {
-    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon affirme qu’il remplacera le directeur de Bpifrance s’il est élu",
+    "titre": "Jean-Luc Mélenchon et LFI à la conquête des « gameurs » avant la présidentielle de 2027",
     "source": "Le Monde",
-    "date": "2026-10-28T17:22:01+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-jean-luc-melenchon-affirme-qu-il-remplacera-le-directeur-de-bpifrance-s-il-est-elu_6801605_823448.html"
+    "date": "2026-10-29T05:30:02+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html"
    },
    {
     "titre": "Jean-Luc Mélenchon et la Russie : un relativisme toujours aussi problématique",
@@ -144,6 +162,12 @@
    }
   ],
   "retailleau": [
+   {
+    "titre": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+    "source": "franceinfo",
+    "date": "2026-10-28T21:52:43+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
    {
     "titre": "\"Un projet qui n'est pas le bon pour la France\" : Bruno Retailleau balaie la main tendue du RN en vue d'un éventuel gouvernement d'union des droites",
     "source": "franceinfo",
@@ -155,25 +179,31 @@
  "videos": {
   "le-pen": [
    {
-    "id": "pFUv1ey5tp0",
-    "titre": "Je rappelle ce principe que je ferai appliquer : en France, on vit comme des Français !",
-    "date": "2026-10-28T19:00:34+00:00",
+    "id": "QUu-9zqa6q8",
+    "titre": "Les Français ne consentent plus à la manière dont l'État dépense leur argent.",
+    "date": "2026-10-29T09:00:02+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "7la2_MT-ciY",
-    "titre": "Pour nous, l'homme est avant tout un être d'affection, attaché à une famille, à un pays !",
-    "date": "2026-10-28T17:00:29+00:00",
+    "id": "sakQa7ib91k",
+    "titre": "Avant de faire travailler plus longtemps, faisons entrer les jeunes plus tôt dans l'emploi !",
+    "date": "2026-10-29T07:00:49+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "dy5lGCM3pKg",
-    "titre": "La France n'est pas dans cet état à cause de son peuple, mais à cause de ses dirigeants !",
-    "date": "2026-10-28T11:00:07+00:00",
+    "id": "dXUhUmYWYsg",
+    "titre": "L'impossibilisme, c'est la maladie des politiques français !",
+    "date": "2026-10-29T05:00:13+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
+   {
+    "id": "w9FA0LTuhVk",
+    "titre": "C’est parce que son autorité n’est plus acceptée qu’un pouvoir tend vers l’autoritarisme.",
+    "date": "2026-10-29T09:39:44+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
    {
     "id": "2U7RJH0GkGU",
     "titre": "Voilà ce que vous disent ceux qui ont pour objectif de créer un marché privé de l'éducation.",
@@ -185,31 +215,25 @@
     "titre": "Conférence de presse de Jean-Luc Mélenchon et Aurélie Trouvé",
     "date": "2026-10-28T11:50:01+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "K-Y8BfA74rQ",
-    "titre": "Être raciste, c'est déjà un signal de déséquilibre mental.",
-    "date": "2026-10-28T07:59:14+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
    {
+    "id": "Wy3pdB-tMjU",
+    "titre": "Innovation et planification, je présente ma vision économique pour la France.",
+    "date": "2026-10-28T23:43:07+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
+    "id": "vjSQpIPFUG0",
+    "titre": "Il est temps d’organiser une grande primaire.",
+    "date": "2026-10-28T21:41:05+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "fcaJb6vQDdE",
     "titre": "Gabriel Attal sur TF1 | Pour la France, une primaire",
     "date": "2026-10-28T19:55:41+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "Wy3pdB-tMjU",
-    "titre": "Innovation et planification, je présente ma vision économique pour la France.",
-    "date": "2026-10-28T08:51:14+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "jj-NMpyWYI0",
-    "titre": "Aujourd’hui, le racisme et la haine de l’autre ont tué.",
-    "date": "2026-10-23T21:04:12+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -235,6 +259,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "1OwMMFAGiew",
+    "titre": "MÉLENCHON, DE NOTABLE ÉTABLI À ISLAMO-GAUCHISTE",
+    "date": "2026-10-29T09:17:22+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "BMEElAL3Lco",
     "titre": "17 OCTOBRE 1961 : LA MISE AU POINT DE DAVID LISNARD",
     "date": "2026-10-28T13:00:05+00:00",
@@ -245,15 +275,15 @@
     "titre": "David Lisnard face à Laurence Ferrari dans l'émission Objectif Élysée 2027",
     "date": "2026-10-28T10:43:50+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "rhprSiTV5F0",
-    "titre": "ADAPTER LA FRANCE AU CLIMAT : IL FAUT DE LA CROISSANCE",
-    "date": "2026-10-27T16:00:04+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "rst_OSYJOLY",
+    "titre": "Nous allons rendre la paix à notre peuple !",
+    "date": "2026-10-29T07:41:35+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "qWFAUjUSp5U",
     "titre": "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
@@ -264,12 +294,6 @@
     "id": "bFN1mK0GmNk",
     "titre": "Le peuple français est un souverain captif.",
     "date": "2026-10-27T10:10:27+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "9kzB7osRm_E",
-    "titre": "🙃La gauche nous a expliqué pendant 50 ans que la prison était criminogène",
-    "date": "2026-10-26T12:39:49+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
