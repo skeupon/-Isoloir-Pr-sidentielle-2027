@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-29T10:28+00:00",
+ "maj": "2026-10-29T20:42+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -97,7 +97,7 @@
    {
     "titre": "Edouard Philippe et Gabriel Attal, empêtrés dans une campagne présidentielle laborieuse, tentent de conjurer leur effacement",
     "source": "Le Monde",
-    "date": "2026-10-29T10:37:41+01:00",
+    "date": "2026-10-29T10:37:40+01:00",
     "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/29/edouard-philippe-et-gabriel-attal-empetres-dans-une-campagne-presidentielle-laborieuse-tentent-de-conjurer-leur-effacement_6802302_6205049.html"
    },
    {
@@ -111,21 +111,15 @@
     "source": "franceinfo",
     "date": "2026-10-28T21:41:09+01:00",
     "lien": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : Gabriel Attal pour l’organisation d’une « grande primaire des démocrates »",
-    "source": "Le Monde",
-    "date": "2026-10-28T21:00:04+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-gabriel-attal-pour-l-organisation-d-une-grande-primaire-des-democrates_6801640_823448.html"
-   },
-   {
-    "titre": "\"Ils vont sortir fatigués de cet automne\" : coincés entre les crises et la parole du gouvernement, Gabriel Attal et Edouard Philippe tentent de se faire entendre",
-    "source": "franceinfo",
-    "date": "2026-10-28T08:08:26+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/ils-vont-sortir-fatigues-de-cet-automne-coinces-entre-les-crises-et-la-parole-du-gouvernement-gabriel-attal-et-edouard-philippe-tentent-de-se-faire-entendre_8256418.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "glucksmann": [
+   {
+    "titre": "Raphaël Glucksmann fait une synthèse à la Hollande",
+    "source": "Libération",
+    "date": "2026-10-29T10:38:10+00:00",
+    "lien": "https://www.liberation.fr/politique/raphael-glucksmann-fait-une-synthese-a-la-hollande-20261029_O7GILJTUGJGW7GHNNE5FFDRBLY/"
+   },
    {
     "titre": "\"On est obligés de faire attention\" : comment Raphaël Glucksmann cherche la parade face à \"l'hostilité\" des insoumis sur le terrain",
     "source": "franceinfo",
@@ -148,6 +142,12 @@
    }
   ],
   "melenchon": [
+   {
+    "titre": "L’Arcom adresse une mise en garde à Radio France à la suite de la diffusion sur France Culture d’un montage détournant des propos de Jean-Luc Mélenchon",
+    "source": "Le Monde",
+    "date": "2026-10-29T21:10:16+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html"
+   },
    {
     "titre": "Jean-Luc Mélenchon et LFI à la conquête des « gameurs » avant la présidentielle de 2027",
     "source": "Le Monde",
@@ -174,26 +174,34 @@
     "date": "2026-10-28T10:51:56+01:00",
     "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/un-projet-qui-n-est-pas-le-bon-pour-la-france-bruno-retailleau-balaie-la-main-tendue-du-rn-en-vue-d-un-eventuel-gouvernement-d-union-des-droites_8257030.html#xtor=RSS-3-%5Bgeneral%5D"
    }
+  ],
+  "marine-tondelier": [
+   {
+    "titre": "Sur la Chine, Marine Tondelier appuie là où ça fait mal avec les insoumis",
+    "source": "Libération",
+    "date": "2026-10-29T11:06:10+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/sur-la-chine-marine-tondelier-appuie-la-ou-ca-fait-mal-avec-les-insoumis-20261029_7RRTVLAM2FEHNMFISZ3M2H2GSI/"
+   }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "QUu-9zqa6q8",
-    "titre": "Les Français ne consentent plus à la manière dont l'État dépense leur argent.",
-    "date": "2026-10-29T09:00:02+00:00",
+    "id": "5VJzd8zdH_c",
+    "titre": "Nicolas Sarkozy n'est pas notre modèle : il a gâché une chance incroyable pour la France.",
+    "date": "2026-10-29T20:00:32+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "sakQa7ib91k",
-    "titre": "Avant de faire travailler plus longtemps, faisons entrer les jeunes plus tôt dans l'emploi !",
-    "date": "2026-10-29T07:00:49+00:00",
+    "id": "gtv0mkdyuxg",
+    "titre": "La violence, c’est la fille de l’incivilité.",
+    "date": "2026-10-29T16:48:02+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "dXUhUmYWYsg",
-    "titre": "L'impossibilisme, c'est la maladie des politiques français !",
-    "date": "2026-10-29T05:00:13+00:00",
+    "id": "AQoKHyQzNPI",
+    "titre": "Mélenchon nourrit une pulsion de mort chez les jeunes. On a autre chose à leur offrir !",
+    "date": "2026-10-29T16:00:21+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -219,6 +227,12 @@
   ],
   "attal": [
    {
+    "id": "B_G5rl8I_Zs",
+    "titre": "Gabriel Attal sur France 5 | Il faut une grande primaire !",
+    "date": "2026-10-29T16:45:43+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "Wy3pdB-tMjU",
     "titre": "Innovation et planification, je présente ma vision économique pour la France.",
     "date": "2026-10-28T23:43:07+00:00",
@@ -228,12 +242,6 @@
     "id": "vjSQpIPFUG0",
     "titre": "Il est temps d’organiser une grande primaire.",
     "date": "2026-10-28T21:41:05+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "fcaJb6vQDdE",
-    "titre": "Gabriel Attal sur TF1 | Pour la France, une primaire",
-    "date": "2026-10-28T19:55:41+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -259,21 +267,21 @@
   ],
   "david-lisnard": [
    {
-    "id": "1OwMMFAGiew",
-    "titre": "MÉLENCHON, DE NOTABLE ÉTABLI À ISLAMO-GAUCHISTE",
-    "date": "2026-10-29T09:17:22+00:00",
+    "id": "Mz8mGdpK7As",
+    "titre": "SUBVENTIONS POUR RÉPARER LES GRILLE-PAIN : LA FRANCE S'ENDETTE",
+    "date": "2026-10-29T17:14:51+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "BMEElAL3Lco",
-    "titre": "17 OCTOBRE 1961 : LA MISE AU POINT DE DAVID LISNARD",
-    "date": "2026-10-28T13:00:05+00:00",
+    "id": "M-Z5lLsBrNs",
+    "titre": "MACRON A OUBLIÉ LES VICTIMES D’ACTES ANTICHRÉTIENS ET ANTISÉMITES",
+    "date": "2026-10-29T14:29:50+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "ISEmls4A5Bo",
-    "titre": "David Lisnard face à Laurence Ferrari dans l'émission Objectif Élysée 2027",
-    "date": "2026-10-28T10:43:50+00:00",
+    "id": "I8eSKcUld-M",
+    "titre": "JOURNALISTES DE CNEWS, FRONTIÈRES, BFM : ÊTRE DÉMOCRATE, C'EST ACCEPTER CEUX QUI DÉRANGENT",
+    "date": "2026-10-29T11:26:19+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -359,6 +367,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "iZumCjI6dhk",
+    "titre": "« Macron panique ! » : une loi hallucinante arrive !",
+    "date": "2026-10-29T14:00:36+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "dADryWLURDQ",
     "titre": "Brigitte et Macron se prennent une énorme baffe judiciaire : ça change tout !",
     "date": "2026-10-28T14:04:02+00:00",
@@ -368,12 +382,6 @@
     "id": "TC3vfYpR0aI",
     "titre": "« Confinement mondial ! » : Macron pousse à fond !",
     "date": "2026-10-27T14:00:57+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "JrbDkMbGbxU",
-    "titre": "« L’impensable se produit ! » : l’élection présidentielle bouleversée !",
-    "date": "2026-10-26T14:02:05+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
