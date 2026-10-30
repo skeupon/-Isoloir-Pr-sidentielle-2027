@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-30T10:29+00:00",
+ "maj": "2026-10-30T20:13+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,7 +95,13 @@
  "flux": {
   "attal": [
    {
-    "titre": "Attentat raciste de Trappes : Yannick Jadot regrette l’absence d’Edouard Philippe et de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir",
+    "titre": "Présidentielle 2027 : jusqu'où ira la chute de Gabriel Attal et Édouard Philippe ?",
+    "source": "franceinfo",
+    "date": "2026-10-30T13:11:12+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jusqu-ou-ira-la-chute-de-gabriel-attal-et-edouard-philippe_8260412.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Attentat raciste de Trappes : Yannick Jadot regrette l’absence de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir ; Edouard Philippe se rendra à La Verrière",
     "source": "Le Monde",
     "date": "2026-10-30T10:46:55+01:00",
     "lien": "https://www.lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html"
@@ -105,12 +111,14 @@
     "source": "franceinfo",
     "date": "2026-10-30T08:15:21+01:00",
     "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-edouard-philippe-gabriel-attal-jusqu-ou-ira-la-chute_8239483.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
+   }
+  ],
+  "xavier-bertrand": [
    {
-    "titre": "Présidentielle 2027 : après sa proposition d’une primaire aux contours flous, Gabriel Attal cible le « centre et la droite »",
-    "source": "Le Monde",
-    "date": "2026-10-29T21:49:56+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html"
+    "titre": "Présidentielle 2027 : « Il continue de penser qu’il y a un chemin », Xavier Bertrand trace sa route vers une candidature",
+    "source": "Le Figaro",
+    "date": "2026-10-30T20:15:00+01:00",
+    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-il-continue-de-penser-qu-il-y-a-un-chemin-xavier-bertrand-trace-sa-route-vers-une-candidature-20261030"
    }
   ],
   "glucksmann": [
@@ -121,41 +129,35 @@
     "lien": "https://www.liberation.fr/politique/raphael-glucksmann-fait-une-synthese-a-la-hollande-20261029_O7GILJTUGJGW7GHNNE5FFDRBLY/"
    },
    {
-    "titre": "\"On est obligés de faire attention\" : comment Raphaël Glucksmann cherche la parade face à \"l'hostilité\" des insoumis sur le terrain",
-    "source": "franceinfo",
-    "date": "2026-10-29T05:44:53+01:00",
-    "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/on-est-obliges-de-faire-attention-comment-raphael-glucksmann-cherche-la-parade-face-a-l-hostilite-des-insoumis-sur-le-terrain_8257408.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
     "titre": "Le porte-parole de Raphaël Glucksmann propose par erreur d’augmenter le Smic de 100 euros… par an",
     "source": "Libération",
     "date": "2026-10-28T12:15:07+00:00",
     "lien": "https://www.liberation.fr/politique/le-porte-parole-de-raphael-glucksmann-propose-par-erreur-daugmenter-le-smic-de-100-euros-par-an-20261028_RX4EYXKXZ5F7XGQ4NWVZAHVMLE/"
    }
   ],
-  "david-lisnard": [
+  "le-pen": [
    {
-    "titre": "David Lisnard dragouille les députés LR",
-    "source": "Libération",
-    "date": "2026-10-28T09:35:43+00:00",
-    "lien": "https://www.liberation.fr/politique/david-lisnard-dragouille-les-deputes-lr-20261028_KVMETPZNHJETBJO5QUHLKZPDZI/"
+    "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
+    "source": "franceinfo",
+    "date": "2026-10-30T13:03:48+01:00",
+    "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
-  "melenchon": [
+  "david-lisnard": [
    {
-    "titre": "L’Arcom adresse une mise en garde à Radio France à la suite de la diffusion sur France Culture d’un montage détournant des propos de Jean-Luc Mélenchon",
-    "source": "Le Monde",
-    "date": "2026-10-29T21:10:16+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html"
-   },
-   {
-    "titre": "Jean-Luc Mélenchon et la Russie : un relativisme toujours aussi problématique",
+    "titre": "Candidat et patron des maires ? L’argument pourri de David Lisnard pour se défendre de tout conflit d’intérêts",
     "source": "Libération",
-    "date": "2026-10-27T19:02:23+00:00",
-    "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-et-la-russie-un-relativisme-toujours-aussi-problematique-20261027_YTQBVUD3VBEHBIJBB6F7PMUI5A/"
+    "date": "2026-10-30T11:56:28+00:00",
+    "lien": "https://www.liberation.fr/politique/candidat-et-patron-des-maires-largument-pourri-de-david-lisnard-pour-se-defendre-de-tout-conflit-dinterets-20261030_CJTOYZRNRJAT5PJIACKWMZMTTQ/"
    }
   ],
   "philippe": [
+   {
+    "titre": "Présidentielle 2027 : jusqu'où ira la chute de Gabriel Attal et Édouard Philippe ?",
+    "source": "franceinfo",
+    "date": "2026-10-30T13:11:12+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jusqu-ou-ira-la-chute-de-gabriel-attal-et-edouard-philippe_8260412.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
    {
     "titre": "EDITO. Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ?",
     "source": "franceinfo",
@@ -175,6 +177,20 @@
     "lien": "https://www.franceinfo.fr/societe/justice/edouard-philippe-place-sous-le-statut-de-temoin-assiste_8259542.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
+  "francois-ruffin": [
+   {
+    "titre": "Livre : François Ruffin, eh oh, eh oh, le chantre du «boulot»",
+    "source": "Libération",
+    "date": "2026-10-30T18:17:06+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/francois-ruffin-eh-oh-eh-oh-le-chantre-du-boulot-20261030_JLHT3SGIVFAM3JPAANIGYE7DNA/"
+   },
+   {
+    "titre": "François Ruffin : «Je suis là pour mettre mes sujets dans les pattes des grands candidats»",
+    "source": "Libération",
+    "date": "2026-10-30T15:08:19+00:00",
+    "lien": "https://www.liberation.fr/politique/francois-ruffin-je-suis-la-pour-mettre-mes-sujets-dans-les-pattes-des-grands-candidats-20261030_YLWIIPDHYRAXHGLTPLD3A4VIDE/"
+   }
+  ],
   "marine-tondelier": [
    {
     "titre": "Sur la Chine, Marine Tondelier appuie là où ça fait mal avec les insoumis",
@@ -187,21 +203,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "BPIukT6fc6U",
-    "titre": "Être présidente ? Une obligation morale, nationale, par amour de la France.",
-    "date": "2026-10-30T09:00:04+00:00",
+    "id": "i3T-i8EiG4A",
+    "titre": "Je n'ai pas peur du front républicain : nous pouvons gagner face au centre !",
+    "date": "2026-10-30T20:00:04+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "mrKpKTVFFgY",
-    "titre": "Je suis la femme de la situation : persévérance, lucidité et courage.",
-    "date": "2026-10-30T07:00:36+00:00",
+    "id": "iktYWKpYu0Y",
+    "titre": "J'avais 8 ans quand une bombe a détruit notre immeuble. Depuis, je n'ai plus peur.",
+    "date": "2026-10-30T16:00:15+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "cICx-7ajWtA",
-    "titre": "Abattre un cheptel, c'est détruire le travail de plusieurs générations d'éleveurs.",
-    "date": "2026-10-30T05:00:14+00:00",
+    "id": "oviV0FGl88Q",
+    "titre": "Une réforme des retraites juste : 60 ans et 40 annuités pour ceux qui ont commencé avant 20 ans.",
+    "date": "2026-10-30T14:30:28+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -267,6 +283,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "ObL32NhETbM",
+    "titre": "UN IMPÔT, UN CHÈQUE, UNE INTERDICTION : LA DOCTRINE QUE LISNARD REFUSE",
+    "date": "2026-10-30T13:35:03+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "yXbWqOpnC7A",
     "titre": "L'EXTRÊME GAUCHE ET LA POSTURE VICTIMAIRE",
     "date": "2026-10-30T09:32:14+00:00",
@@ -277,15 +299,15 @@
     "titre": "SUBVENTIONS POUR RÉPARER LES GRILLE-PAIN : LA FRANCE S'ENDETTE",
     "date": "2026-10-29T17:14:51+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "M-Z5lLsBrNs",
-    "titre": "MACRON A OUBLIÉ LES VICTIMES D’ACTES ANTICHRÉTIENS ET ANTISÉMITES",
-    "date": "2026-10-29T14:29:50+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "6WxmXmkz3kY",
+    "titre": "Depuis la tuerie de Trappes, nous subissons une offensive inouïe contre la liberté d’expression.",
+    "date": "2026-10-30T15:21:56+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "rst_OSYJOLY",
     "titre": "Nous allons rendre la paix à notre peuple !",
@@ -296,12 +318,6 @@
     "id": "qWFAUjUSp5U",
     "titre": "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
     "date": "2026-10-27T18:07:56+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "bFN1mK0GmNk",
-    "titre": "Le peuple français est un souverain captif.",
-    "date": "2026-10-27T10:10:27+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -347,25 +363,31 @@
   ],
   "nathalie-arthaud": [
    {
+    "id": "PiB3_VO9Ijw",
+    "titre": "EXPROPRIER TOTAL !",
+    "date": "2026-10-30T18:00:33+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "NHRncPdGnJE",
+    "titre": "S'ENGOUFFRER DANS LA BRÈCHE OUVERTE PAR LA JEUNESSE",
+    "date": "2026-10-30T14:00:10+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
     "id": "Kkt3570J7-g",
     "titre": "Jackpot pour Total",
     "date": "2026-10-29T21:39:18+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "qUW5EGMTxDI",
-    "titre": "15 euros ?! C'est du foutage de gueule !",
-    "date": "2026-10-28T08:32:41+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "L1afhvXcYI0",
-    "titre": "\"J'aimerais le même élan quand une usine ferme\"",
-    "date": "2026-10-27T17:00:19+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "a_Kc_y2J3wM",
+    "titre": "Incroyable : les Trogneux viennent de mettre une baffe à Macron !",
+    "date": "2026-10-30T19:15:41+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "oO55b7DrZJY",
     "titre": "Coup de tonnerre : Marine Le Pen finalement pas candidate ?!",
@@ -376,12 +398,6 @@
     "id": "iZumCjI6dhk",
     "titre": "« Macron panique ! » : une loi hallucinante arrive !",
     "date": "2026-10-29T14:00:36+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "dADryWLURDQ",
-    "titre": "Brigitte et Macron se prennent une énorme baffe judiciaire : ça change tout !",
-    "date": "2026-10-28T14:04:02+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
