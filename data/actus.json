@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-29T20:42+00:00",
+ "maj": "2026-10-30T10:29+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,22 +95,22 @@
  "flux": {
   "attal": [
    {
-    "titre": "Edouard Philippe et Gabriel Attal, empêtrés dans une campagne présidentielle laborieuse, tentent de conjurer leur effacement",
+    "titre": "Attentat raciste de Trappes : Yannick Jadot regrette l’absence d’Edouard Philippe et de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir",
     "source": "Le Monde",
-    "date": "2026-10-29T10:37:40+01:00",
-    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/29/edouard-philippe-et-gabriel-attal-empetres-dans-une-campagne-presidentielle-laborieuse-tentent-de-conjurer-leur-effacement_6802302_6205049.html"
+    "date": "2026-10-30T10:46:55+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html"
    },
    {
-    "titre": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+    "titre": "EDITO. Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ?",
     "source": "franceinfo",
-    "date": "2026-10-28T21:52:43+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-30T08:15:21+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-edouard-philippe-gabriel-attal-jusqu-ou-ira-la-chute_8239483.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Gabriel Attal plaide pour l'organisation d'une \"grande primaire des démocrates\" en vue de la présidentielle",
-    "source": "franceinfo",
-    "date": "2026-10-28T21:41:09+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html#xtor=RSS-3-%5Bgeneral%5D"
+    "titre": "Présidentielle 2027 : après sa proposition d’une primaire aux contours flous, Gabriel Attal cible le « centre et la droite »",
+    "source": "Le Monde",
+    "date": "2026-10-29T21:49:56+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html"
    }
   ],
   "glucksmann": [
@@ -149,30 +149,30 @@
     "lien": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html"
    },
    {
-    "titre": "Jean-Luc Mélenchon et LFI à la conquête des « gameurs » avant la présidentielle de 2027",
-    "source": "Le Monde",
-    "date": "2026-10-29T05:30:02+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html"
-   },
-   {
     "titre": "Jean-Luc Mélenchon et la Russie : un relativisme toujours aussi problématique",
     "source": "Libération",
     "date": "2026-10-27T19:02:23+00:00",
     "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-et-la-russie-un-relativisme-toujours-aussi-problematique-20261027_YTQBVUD3VBEHBIJBB6F7PMUI5A/"
    }
   ],
-  "retailleau": [
+  "philippe": [
    {
-    "titre": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+    "titre": "EDITO. Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ?",
     "source": "franceinfo",
-    "date": "2026-10-28T21:52:43+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-30T08:15:21+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-edouard-philippe-gabriel-attal-jusqu-ou-ira-la-chute_8239483.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "\"Un projet qui n'est pas le bon pour la France\" : Bruno Retailleau balaie la main tendue du RN en vue d'un éventuel gouvernement d'union des droites",
+    "titre": "\"Il n'y a rien à reprocher à Édouard Philippe dans cette affaire\" de soupçons de détournement de fonds publics, estime l'avocat du candidat à la présidentielle",
     "source": "franceinfo",
-    "date": "2026-10-28T10:51:56+01:00",
-    "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/un-projet-qui-n-est-pas-le-bon-pour-la-france-bruno-retailleau-balaie-la-main-tendue-du-rn-en-vue-d-un-eventuel-gouvernement-d-union-des-droites_8257030.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-10-29T23:15:38+01:00",
+    "lien": "https://www.franceinfo.fr/politique/edouard-philippe/il-n-y-a-rien-a-reprocher-a-edouard-philippe-dans-cette-affaire-de-soupcons-de-detournement-de-fonds-publics-estime-l-avocat-du-candidat-a-la-presidentielle_8259545.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Édouard Philippe placé sous le statut de témoin assisté",
+    "source": "franceinfo",
+    "date": "2026-10-29T23:03:13+01:00",
+    "lien": "https://www.franceinfo.fr/societe/justice/edouard-philippe-place-sous-le-statut-de-temoin-assiste_8259542.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "marine-tondelier": [
@@ -187,21 +187,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "5VJzd8zdH_c",
-    "titre": "Nicolas Sarkozy n'est pas notre modèle : il a gâché une chance incroyable pour la France.",
-    "date": "2026-10-29T20:00:32+00:00",
+    "id": "BPIukT6fc6U",
+    "titre": "Être présidente ? Une obligation morale, nationale, par amour de la France.",
+    "date": "2026-10-30T09:00:04+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "gtv0mkdyuxg",
-    "titre": "La violence, c’est la fille de l’incivilité.",
-    "date": "2026-10-29T16:48:02+00:00",
+    "id": "mrKpKTVFFgY",
+    "titre": "Je suis la femme de la situation : persévérance, lucidité et courage.",
+    "date": "2026-10-30T07:00:36+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "AQoKHyQzNPI",
-    "titre": "Mélenchon nourrit une pulsion de mort chez les jeunes. On a autre chose à leur offrir !",
-    "date": "2026-10-29T16:00:21+00:00",
+    "id": "cICx-7ajWtA",
+    "titre": "Abattre un cheptel, c'est détruire le travail de plusieurs générations d'éleveurs.",
+    "date": "2026-10-30T05:00:14+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -267,6 +267,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "yXbWqOpnC7A",
+    "titre": "L'EXTRÊME GAUCHE ET LA POSTURE VICTIMAIRE",
+    "date": "2026-10-30T09:32:14+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "Mz8mGdpK7As",
     "titre": "SUBVENTIONS POUR RÉPARER LES GRILLE-PAIN : LA FRANCE S'ENDETTE",
     "date": "2026-10-29T17:14:51+00:00",
@@ -276,12 +282,6 @@
     "id": "M-Z5lLsBrNs",
     "titre": "MACRON A OUBLIÉ LES VICTIMES D’ACTES ANTICHRÉTIENS ET ANTISÉMITES",
     "date": "2026-10-29T14:29:50+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "I8eSKcUld-M",
-    "titre": "JOURNALISTES DE CNEWS, FRONTIÈRES, BFM : ÊTRE DÉMOCRATE, C'EST ACCEPTER CEUX QUI DÉRANGENT",
-    "date": "2026-10-29T11:26:19+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -307,6 +307,12 @@
   ],
   "francois-ruffin": [
    {
+    "id": "-EUH1C4YoaQ",
+    "titre": "Présidentielles 2027 : François Ruffin face à Apolline de Malherbe",
+    "date": "2026-10-30T09:48:06+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
     "id": "cdoM3CebMRY",
     "titre": "Plus un rond pour Macron !",
     "date": "2026-10-23T14:41:05+00:00",
@@ -316,12 +322,6 @@
     "id": "kdIXjXE-x9E",
     "titre": "Budget de provocation !",
     "date": "2026-10-20T16:00:27+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "8cV8c1AgYaI",
-    "titre": "Le choix du pourrissement",
-    "date": "2026-10-19T16:51:26+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    }
   ],
@@ -347,6 +347,12 @@
   ],
   "nathalie-arthaud": [
    {
+    "id": "Kkt3570J7-g",
+    "titre": "Jackpot pour Total",
+    "date": "2026-10-29T21:39:18+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
     "id": "qUW5EGMTxDI",
     "titre": "15 euros ?! C'est du foutage de gueule !",
     "date": "2026-10-28T08:32:41+00:00",
@@ -357,15 +363,15 @@
     "titre": "\"J'aimerais le même élan quand une usine ferme\"",
     "date": "2026-10-27T17:00:19+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "4nqrk73n6Fw",
-    "titre": "Sur l'attentat raciste à Trappes",
-    "date": "2026-10-27T12:12:41+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "oO55b7DrZJY",
+    "titre": "Coup de tonnerre : Marine Le Pen finalement pas candidate ?!",
+    "date": "2026-10-30T08:48:44+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "iZumCjI6dhk",
     "titre": "« Macron panique ! » : une loi hallucinante arrive !",
@@ -376,12 +382,6 @@
     "id": "dADryWLURDQ",
     "titre": "Brigitte et Macron se prennent une énorme baffe judiciaire : ça change tout !",
     "date": "2026-10-28T14:04:02+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "TC3vfYpR0aI",
-    "titre": "« Confinement mondial ! » : Macron pousse à fond !",
-    "date": "2026-10-27T14:00:57+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
