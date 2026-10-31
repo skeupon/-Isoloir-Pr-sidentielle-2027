@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-30T20:13+00:00",
+ "maj": "2026-10-31T09:59+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -101,12 +101,6 @@
     "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jusqu-ou-ira-la-chute-de-gabriel-attal-et-edouard-philippe_8260412.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Attentat raciste de Trappes : Yannick Jadot regrette l’absence de Gabriel Attal au rassemblement en hommage aux victimes prévu vendredi soir ; Edouard Philippe se rendra à La Verrière",
-    "source": "Le Monde",
-    "date": "2026-10-30T10:46:55+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html"
-   },
-   {
     "titre": "EDITO. Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ?",
     "source": "franceinfo",
     "date": "2026-10-30T08:15:21+01:00",
@@ -127,12 +121,6 @@
     "source": "Libération",
     "date": "2026-10-29T10:38:10+00:00",
     "lien": "https://www.liberation.fr/politique/raphael-glucksmann-fait-une-synthese-a-la-hollande-20261029_O7GILJTUGJGW7GHNNE5FFDRBLY/"
-   },
-   {
-    "titre": "Le porte-parole de Raphaël Glucksmann propose par erreur d’augmenter le Smic de 100 euros… par an",
-    "source": "Libération",
-    "date": "2026-10-28T12:15:07+00:00",
-    "lien": "https://www.liberation.fr/politique/le-porte-parole-de-raphael-glucksmann-propose-par-erreur-daugmenter-le-smic-de-100-euros-par-an-20261028_RX4EYXKXZ5F7XGQ4NWVZAHVMLE/"
    }
   ],
   "le-pen": [
@@ -144,6 +132,12 @@
    }
   ],
   "david-lisnard": [
+   {
+    "titre": "La candidature de David Lisnard pour 2027, \"une épine dans le pied\" de Bruno Retailleau",
+    "source": "franceinfo",
+    "date": "2026-10-31T07:58:58+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
    {
     "titre": "Candidat et patron des maires ? L’argument pourri de David Lisnard pour se défendre de tout conflit d’intérêts",
     "source": "Libération",
@@ -177,6 +171,14 @@
     "lien": "https://www.franceinfo.fr/societe/justice/edouard-philippe-place-sous-le-statut-de-temoin-assiste_8259542.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
+  "retailleau": [
+   {
+    "titre": "La candidature de David Lisnard pour 2027, \"une épine dans le pied\" de Bruno Retailleau",
+    "source": "franceinfo",
+    "date": "2026-10-31T07:58:58+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
   "francois-ruffin": [
    {
     "titre": "Livre : François Ruffin, eh oh, eh oh, le chantre du «boulot»",
@@ -203,21 +205,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "i3T-i8EiG4A",
-    "titre": "Je n'ai pas peur du front républicain : nous pouvons gagner face au centre !",
-    "date": "2026-10-30T20:00:04+00:00",
+    "id": "gzQRpG1Z_uI",
+    "titre": "Oui, je suis prête : je m'y prépare depuis 30 ans.",
+    "date": "2026-10-31T10:00:14+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "iktYWKpYu0Y",
-    "titre": "J'avais 8 ans quand une bombe a détruit notre immeuble. Depuis, je n'ai plus peur.",
-    "date": "2026-10-30T16:00:15+00:00",
+    "id": "rrVTzX6h95c",
+    "titre": "Peine de mort ? Non. Il faut la perpétuité incompressible pour les crimes les plus graves.",
+    "date": "2026-10-31T07:00:35+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "oviV0FGl88Q",
-    "titre": "Une réforme des retraites juste : 60 ans et 40 annuités pour ceux qui ont commencé avant 20 ans.",
-    "date": "2026-10-30T14:30:28+00:00",
+    "id": "tudiQIxXwxc",
+    "titre": "Face à la Chine, j'utiliserai le compromis de Luxembourg pour défendre nos intérêts vitaux.",
+    "date": "2026-10-31T05:00:38+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
