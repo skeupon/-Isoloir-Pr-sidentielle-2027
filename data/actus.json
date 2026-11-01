@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-01T10:50+00:00",
+ "maj": "2026-11-01T19:55+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -193,21 +193,21 @@
  "videos": {
   "le-pen": [
    {
+    "id": "9sp1XDl1VHw",
+    "titre": "L'idéologie, ce n'est pas moi. L'idéologie, c'est le voile !",
+    "date": "2026-11-01T16:00:28+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "akwoURQ_RYE",
+    "titre": "Je suis la même en privé que sur vos plateaux : je suis ce que je suis !",
+    "date": "2026-11-01T13:00:29+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "T6dPHVVVXnI",
     "titre": "Le logement, c'est fondamental : il touche au pouvoir d'achat et à la natalité.",
     "date": "2026-11-01T10:00:24+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "ftvGBwgA7KM",
-    "titre": "Il y a une espérance française : la France se redressera, je n'en doute pas !",
-    "date": "2026-11-01T07:00:17+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "O7IWeQX4gfg",
-    "titre": "Macron veut être le meilleur élève de la classe. La France doit entraîner l'Europe !",
-    "date": "2026-11-01T05:00:23+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -273,21 +273,21 @@
   ],
   "david-lisnard": [
    {
+    "id": "uaJJfpUbsB8",
+    "titre": "GÉRER UNE MAIRIE, CE N'EST PAS GÉRER UN TABLEAU EXCEL",
+    "date": "2026-11-01T18:31:54+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "X_FrJ_BVa-o",
+    "titre": "UN SEUL GRAND MINISTÈRE DE L'INSTRUCTION PUBLIQUE, DE LA CULTURE ET DE LA RECHERCHE",
+    "date": "2026-11-01T18:14:33+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "ObL32NhETbM",
     "titre": "UN IMPÔT, UN CHÈQUE, UNE INTERDICTION : LA DOCTRINE QUE LISNARD REFUSE",
     "date": "2026-10-30T13:35:03+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "yXbWqOpnC7A",
-    "titre": "L'EXTRÊME GAUCHE ET LA POSTURE VICTIMAIRE",
-    "date": "2026-10-30T09:32:14+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "Mz8mGdpK7As",
-    "titre": "SUBVENTIONS POUR RÉPARER LES GRILLE-PAIN : LA FRANCE S'ENDETTE",
-    "date": "2026-10-29T17:14:51+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -373,6 +373,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "7jCW_35r8i0",
+    "titre": "« Un événement incroyable va se produire en France ! » Marion Saint-Michel et Florian Philippot",
+    "date": "2026-11-01T14:00:15+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "NRwqqyUUsu4",
     "titre": "Pologne : coup d’État européiste en direct !",
     "date": "2026-10-31T14:00:49+00:00",
@@ -382,12 +388,6 @@
     "id": "a_Kc_y2J3wM",
     "titre": "Incroyable : les Trogneux viennent de mettre une baffe à Macron !",
     "date": "2026-10-30T19:15:41+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "oO55b7DrZJY",
-    "titre": "Coup de tonnerre : Marine Le Pen finalement pas candidate ?!",
-    "date": "2026-10-30T08:48:44+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
