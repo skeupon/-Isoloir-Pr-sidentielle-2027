@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-31T19:36+00:00",
+ "maj": "2026-11-01T10:50+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -157,12 +157,6 @@
     "source": "franceinfo",
     "date": "2026-10-30T08:15:21+01:00",
     "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-edouard-philippe-gabriel-attal-jusqu-ou-ira-la-chute_8239483.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "\"Il n'y a rien à reprocher à Édouard Philippe dans cette affaire\" de soupçons de détournement de fonds publics, estime l'avocat du candidat à la présidentielle",
-    "source": "franceinfo",
-    "date": "2026-10-29T23:15:38+01:00",
-    "lien": "https://www.franceinfo.fr/politique/edouard-philippe/il-n-y-a-rien-a-reprocher-a-edouard-philippe-dans-cette-affaire-de-soupcons-de-detournement-de-fonds-publics-estime-l-avocat-du-candidat-a-la-presidentielle_8259545.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "retailleau": [
@@ -199,21 +193,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "A-MwnubxMSU",
-    "titre": "Soutien à nos forces de l’ordre.",
-    "date": "2026-10-31T18:24:28+00:00",
+    "id": "T6dPHVVVXnI",
+    "titre": "Le logement, c'est fondamental : il touche au pouvoir d'achat et à la natalité.",
+    "date": "2026-11-01T10:00:24+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "55Kr-z_3pgc",
-    "titre": "Une dédicace un peu spéciale ✍️",
-    "date": "2026-10-31T17:32:30+00:00",
+    "id": "ftvGBwgA7KM",
+    "titre": "Il y a une espérance française : la France se redressera, je n'en doute pas !",
+    "date": "2026-11-01T07:00:17+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "pRN0UWZ713U",
-    "titre": "Faire venir des migrants pour les payer moins, c'est ça, leur humanisme ?",
-    "date": "2026-10-31T16:00:08+00:00",
+    "id": "O7IWeQX4gfg",
+    "titre": "Macron veut être le meilleur élève de la classe. La France doit entraîner l'Europe !",
+    "date": "2026-11-01T05:00:23+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -339,6 +333,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "tYdx-TM9Gr0",
+    "titre": "🗓️Le Traité de Maastricht entrait en vigueur il y a 33 ans jour pour jour.",
+    "date": "2026-11-01T07:30:16+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "C1BhaO1by08",
     "titre": "Empêchons Macron de bloquer les réseaux sociaux !",
     "date": "2026-10-28T17:00:21+00:00",
@@ -348,12 +348,6 @@
     "id": "ate-74Y4XTI",
     "titre": "DU JAMAIS VU !",
     "date": "2026-10-27T18:36:33+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "ZS3pg7sWFCs",
-    "titre": "Emmanuel Macron cherche-t-il à censurer la présidentielle ?",
-    "date": "2026-10-26T19:44:29+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
