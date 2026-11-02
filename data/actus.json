@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-02T11:43+00:00",
+ "maj": "2026-11-02T23:14+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -111,6 +111,18 @@
   ],
   "glucksmann": [
    {
+    "titre": "Présidentielle : entre Edouard Philippe et Raphaël Glucksmann, une bataille pour l’issue de recours",
+    "source": "Libération",
+    "date": "2026-11-02T19:33:53+00:00",
+    "lien": "https://www.liberation.fr/politique/presidentielle-entre-edouard-philippe-et-raphael-glucksmann-une-bataille-pour-lissue-de-recours-20261102_KXIDYDJLLNAKRNBZI3WXNREVK4/"
+   },
+   {
+    "titre": "\"Une primaire ne peut pas aller de la gauche de Raphaël Glucksmann à ceux qui tendraient la main à Éric Ciotti\" Maud Bregeon",
+    "source": "franceinfo",
+    "date": "2026-11-02T19:00:02+01:00",
+    "lien": "https://www.franceinfo.fr/politique/une-primaire-ne-peut-pas-aller-de-la-gauche-de-raphael-glucksmann-a-ceux-qui-tendraient-la-main-a-eric-ciotti-maud-bregeon_8264399.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
     "titre": "Présidentielle 2027 : Raphaël Glucksmann estime qu’il serait « intelligent » de modifier la date du second tour, prévue le 2 mai",
     "source": "Le Monde",
     "date": "2026-11-02T12:25:46+01:00",
@@ -121,21 +133,17 @@
     "source": "Libération",
     "date": "2026-11-02T09:41:43+00:00",
     "lien": "https://www.liberation.fr/politique/les-brutaux-ne-mimpressionnent-pas-raphael-glucksmann-manifestera-jeudi-avec-les-syndicats-malgre-laccueil-qui-lui-est-reserve-20261102_ZWOAQHNR2FBC7MBO64HT7V6RCM/"
-   },
+   }
+  ],
+  "le-pen": [
    {
-    "titre": "Raphaël Glucksmann fait une synthèse à la Hollande",
-    "source": "Libération",
-    "date": "2026-10-29T10:38:10+00:00",
-    "lien": "https://www.liberation.fr/politique/raphael-glucksmann-fait-une-synthese-a-la-hollande-20261029_O7GILJTUGJGW7GHNNE5FFDRBLY/"
+    "titre": "Gérald Darmanin, soutien d’Edouard Philippe, estime que les propositions de Jean-Luc Mélenchon et de Marine Le Pen « tueront l’Europe telle qu’elle existe »",
+    "source": "Le Monde",
+    "date": "2026-11-02T17:33:59+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/gerald-darmanin-soutien-d-edouard-philippe-estime-que-les-propositions-de-jean-luc-melenchon-et-de-marine-le-pen-tueront-l-europe-telle-qu-elle-existe_6805290_823448.html"
    }
   ],
   "david-lisnard": [
-   {
-    "titre": "La candidature de David Lisnard pour 2027, \"une épine dans le pied\" de Bruno Retailleau",
-    "source": "franceinfo",
-    "date": "2026-10-31T07:58:58+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
    {
     "titre": "Candidat et patron des maires ? L’argument pourri de David Lisnard pour se défendre de tout conflit d’intérêts",
     "source": "Libération",
@@ -145,16 +153,22 @@
   ],
   "melenchon": [
    {
-    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon dit annuler sa venue au « 20 heures » de TF1, qu’il accuse d’avoir laissé Edouard Philippe dérouler un « discours dégoûtant » sur l’immigration",
+    "titre": "Gérald Darmanin, soutien d’Edouard Philippe, estime que les propositions de Jean-Luc Mélenchon et de Marine Le Pen « tueront l’Europe telle qu’elle existe »",
     "source": "Le Monde",
-    "date": "2026-11-02T10:53:30+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html"
+    "date": "2026-11-02T17:33:59+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/gerald-darmanin-soutien-d-edouard-philippe-estime-que-les-propositions-de-jean-luc-melenchon-et-de-marine-le-pen-tueront-l-europe-telle-qu-elle-existe_6805290_823448.html"
    },
    {
     "titre": "Jean-Luc Mélenchon accuse Edouard Philippe de \"calomnies racistes\" après une interview sur TF1, et dit annuler son propre passage sur la chaîne",
     "source": "franceinfo",
-    "date": "2026-11-02T09:26:20+01:00",
+    "date": "2026-11-02T13:01:02+01:00",
     "lien": "https://www.franceinfo.fr/elections/presidentielle/jean-luc-melenchon-annonce-annuler-un-passage-au-20-heures-de-tf1-a-la-suite-d-une-interview-d-edouard-philippe_8263556.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon dit annuler sa venue au « 20 heures » de TF1, qu’il accuse d’avoir laissé Edouard Philippe dérouler un « discours dégoûtant » sur l’immigration",
+    "source": "Le Monde",
+    "date": "2026-11-02T10:53:30+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html"
    },
    {
     "titre": "Jean-Luc Mélenchon annule son passage au «20 heures» de TF1, la chaîne assure que l’interview «n’était déjà plus d’actualité»",
@@ -165,10 +179,10 @@
   ],
   "retailleau": [
    {
-    "titre": "La candidature de David Lisnard pour 2027, \"une épine dans le pied\" de Bruno Retailleau",
-    "source": "franceinfo",
-    "date": "2026-10-31T07:58:58+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html#xtor=RSS-3-%5Bgeneral%5D"
+    "titre": "Les jeunes militants LR confrontés au difficile début de campagne de Bruno Retailleau",
+    "source": "Le Monde",
+    "date": "2026-11-02T17:00:09+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/les-jeunes-militants-lr-confrontes-au-difficile-debut-de-campagne-de-bruno-retailleau_6805283_823448.html"
    }
   ],
   "francois-ruffin": [
@@ -184,34 +198,26 @@
     "date": "2026-10-30T15:08:19+00:00",
     "lien": "https://www.liberation.fr/politique/francois-ruffin-je-suis-la-pour-mettre-mes-sujets-dans-les-pattes-des-grands-candidats-20261030_YLWIIPDHYRAXHGLTPLD3A4VIDE/"
    }
-  ],
-  "marine-tondelier": [
-   {
-    "titre": "Sur la Chine, Marine Tondelier appuie là où ça fait mal avec les insoumis",
-    "source": "Libération",
-    "date": "2026-10-29T11:06:10+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/sur-la-chine-marine-tondelier-appuie-la-ou-ca-fait-mal-avec-les-insoumis-20261029_7RRTVLAM2FEHNMFISZ3M2H2GSI/"
-   }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "tSlRIp4nlNs",
-    "titre": "Je créerai un ministère de l'Enfance de plein exercice.",
-    "date": "2026-11-02T10:00:32+00:00",
+    "id": "qzx4sVJD5xU",
+    "titre": "J'ai vu des restaurateurs faire régulariser leurs sans-papiers, puis les foutre à la porte !",
+    "date": "2026-11-02T21:30:04+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "RY3yy8kIYXw",
-    "titre": "Il faut remonter cette montagne de mensonges et de caricatures faite contre nous.",
-    "date": "2026-11-02T07:00:08+00:00",
+    "id": "fF5Kr71YRCc",
+    "titre": "Partout en Europe, des mouvements veulent changer l'Union européenne, comme nous.",
+    "date": "2026-11-02T16:00:37+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "uEeqxNlnFss",
-    "titre": "Partager l'arme nucléaire ? Je ne suis pas ambiguë : ce sera toujours non !",
-    "date": "2026-11-02T05:00:31+00:00",
+    "id": "ah3QSLifqLs",
+    "titre": "Les fonctionnaires ne sont pas le problème : le problème, c'est l'État !",
+    "date": "2026-11-02T13:00:17+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -277,25 +283,31 @@
   ],
   "david-lisnard": [
    {
-    "id": "rHAQB1TO4no",
-    "titre": "DÉCARBONATION : L'ETAT FIXE LES OBJECTIFS, LE PRIVÉ LES ATTEINT",
-    "date": "2026-11-02T10:42:46+00:00",
+    "id": "b-iv83c1U9o",
+    "titre": "LA BUREAUCRATIE, FREIN À L’ÉCOLOGIE ?",
+    "date": "2026-11-02T16:38:19+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "uaJJfpUbsB8",
-    "titre": "GÉRER UNE MAIRIE, CE N'EST PAS GÉRER UN TABLEAU EXCEL",
-    "date": "2026-11-01T18:31:54+00:00",
+    "id": "sYP8Rr5YbAU",
+    "titre": "JE NE SUIS PAS ÉNARQUE",
+    "date": "2026-11-02T14:19:54+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "X_FrJ_BVa-o",
-    "titre": "UN SEUL GRAND MINISTÈRE DE L'INSTRUCTION PUBLIQUE, DE LA CULTURE ET DE LA RECHERCHE",
-    "date": "2026-11-01T18:14:33+00:00",
+    "id": "qBhmE-GOKmY",
+    "titre": "✅ Vrai ou ❌ faux ?",
+    "date": "2026-11-02T12:26:32+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "KqDTbxhZufk",
+    "titre": "Le maire de Saint-Denis, Bally Bagayoko, persiste et signe : « Robespierre ? Ça me va. »",
+    "date": "2026-11-02T13:22:04+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "NeFe92abWFA",
     "titre": "Je suis un combattant et un dissident.",
@@ -307,35 +319,35 @@
     "titre": "Depuis la tuerie de Trappes, nous subissons une offensive inouïe contre la liberté d’expression.",
     "date": "2026-10-30T15:21:56+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "rst_OSYJOLY",
-    "titre": "Nous allons rendre la paix à notre peuple !",
-    "date": "2026-10-29T07:41:35+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
   "francois-ruffin": [
+   {
+    "id": "OXb4EcY8KHo",
+    "titre": "Présidentielles 2027 : François Ruffin face à Sonia Mabrouk",
+    "date": "2026-11-02T21:56:22+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
+    "id": "nwcR-zt0e1o",
+    "titre": "Supprimer CNews ?",
+    "date": "2026-11-02T17:40:40+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
    {
     "id": "-EUH1C4YoaQ",
     "titre": "Présidentielles 2027 : François Ruffin face à Apolline de Malherbe",
     "date": "2026-10-30T09:48:06+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "cdoM3CebMRY",
-    "titre": "Plus un rond pour Macron !",
-    "date": "2026-10-23T14:41:05+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "kdIXjXE-x9E",
-    "titre": "Budget de provocation !",
-    "date": "2026-10-20T16:00:27+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    }
   ],
   "nicolas-dupont-aignan": [
+   {
+    "id": "w3ysxoJaYaY",
+    "titre": "Macron et Lescure font semblant de s’intéresser au pouvoir d’achat des Français.",
+    "date": "2026-11-02T20:30:06+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
    {
     "id": "TgKISWrTLeU",
     "titre": "L'UE : en sortir pour s'en sortir.",
@@ -347,35 +359,35 @@
     "titre": "🗓️Le Traité de Maastricht entrait en vigueur il y a 33 ans jour pour jour.",
     "date": "2026-11-01T07:30:16+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "C1BhaO1by08",
-    "titre": "Empêchons Macron de bloquer les réseaux sociaux !",
-    "date": "2026-10-28T17:00:21+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "Ys2Dq_XyzNE",
+    "titre": "Tous en GRÈVE et en MANIFESTATION jeudi 5 novembre",
+    "date": "2026-11-02T16:47:43+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "9GO4t2xVS2M",
+    "titre": "Ceux qui ont armé l'assassin",
+    "date": "2026-11-02T14:00:14+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "I1Rsk3Czn8o",
     "titre": "Dans la manifestation du 31 octobre",
     "date": "2026-10-31T17:15:21+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "E920D5-4mp4",
-    "titre": "Un assassin de masse : la faim",
-    "date": "2026-10-31T10:28:13+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "PiB3_VO9Ijw",
-    "titre": "EXPROPRIER TOTAL !",
-    "date": "2026-10-30T18:00:33+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "01Uv_Bg0qo0",
+    "titre": "Pologne : le coup d’État déclenche une immense révolte contre l’UE !",
+    "date": "2026-11-02T14:00:12+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "7jCW_35r8i0",
     "titre": "« Un événement incroyable va se produire en France ! » Marion Saint-Michel et Florian Philippot",
@@ -386,12 +398,6 @@
     "id": "NRwqqyUUsu4",
     "titre": "Pologne : coup d’État européiste en direct !",
     "date": "2026-10-31T14:00:49+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "a_Kc_y2J3wM",
-    "titre": "Incroyable : les Trogneux viennent de mettre une baffe à Macron !",
-    "date": "2026-10-30T19:15:41+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
