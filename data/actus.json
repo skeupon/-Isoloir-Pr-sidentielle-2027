@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-01T19:55+00:00",
+ "maj": "2026-11-02T11:43+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,16 +95,10 @@
  "flux": {
   "attal": [
    {
-    "titre": "Présidentielle 2027 : jusqu'où ira la chute de Gabriel Attal et Édouard Philippe ?",
-    "source": "franceinfo",
-    "date": "2026-10-30T13:11:12+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jusqu-ou-ira-la-chute-de-gabriel-attal-et-edouard-philippe_8260412.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "EDITO. Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ?",
-    "source": "franceinfo",
-    "date": "2026-10-30T08:15:21+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-edouard-philippe-gabriel-attal-jusqu-ou-ira-la-chute_8239483.html#xtor=RSS-3-%5Bgeneral%5D"
+    "titre": "Présidentielle 2027 : Gabriel Attal juge la tenue d’une primaire du centre et de la droite « inéluctable », malgré le refus d’Edouard Philippe",
+    "source": "Le Monde",
+    "date": "2026-11-02T10:24:53+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-gabriel-attal-juge-la-tenue-d-une-primaire-du-centre-et-de-la-droite-ineluctable-malgre-le-refus-d-edouard-philippe_6805225_823448.html"
    }
   ],
   "xavier-bertrand": [
@@ -117,18 +111,22 @@
   ],
   "glucksmann": [
    {
+    "titre": "Présidentielle 2027 : Raphaël Glucksmann estime qu’il serait « intelligent » de modifier la date du second tour, prévue le 2 mai",
+    "source": "Le Monde",
+    "date": "2026-11-02T12:25:46+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-raphael-glucksmann-estime-qu-il-serait-intelligent-de-modifier-la-date-du-second-tour_6805240_823448.html"
+   },
+   {
+    "titre": "«Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats malgré l’accueil qui lui est réservé",
+    "source": "Libération",
+    "date": "2026-11-02T09:41:43+00:00",
+    "lien": "https://www.liberation.fr/politique/les-brutaux-ne-mimpressionnent-pas-raphael-glucksmann-manifestera-jeudi-avec-les-syndicats-malgre-laccueil-qui-lui-est-reserve-20261102_ZWOAQHNR2FBC7MBO64HT7V6RCM/"
+   },
+   {
     "titre": "Raphaël Glucksmann fait une synthèse à la Hollande",
     "source": "Libération",
     "date": "2026-10-29T10:38:10+00:00",
     "lien": "https://www.liberation.fr/politique/raphael-glucksmann-fait-une-synthese-a-la-hollande-20261029_O7GILJTUGJGW7GHNNE5FFDRBLY/"
-   }
-  ],
-  "le-pen": [
-   {
-    "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
-    "source": "franceinfo",
-    "date": "2026-10-31T12:10:00+01:00",
-    "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "david-lisnard": [
@@ -145,18 +143,24 @@
     "lien": "https://www.liberation.fr/politique/candidat-et-patron-des-maires-largument-pourri-de-david-lisnard-pour-se-defendre-de-tout-conflit-dinterets-20261030_CJTOYZRNRJAT5PJIACKWMZMTTQ/"
    }
   ],
-  "philippe": [
+  "melenchon": [
    {
-    "titre": "Présidentielle 2027 : jusqu'où ira la chute de Gabriel Attal et Édouard Philippe ?",
-    "source": "franceinfo",
-    "date": "2026-10-30T13:11:12+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jusqu-ou-ira-la-chute-de-gabriel-attal-et-edouard-philippe_8260412.html#xtor=RSS-3-%5Bgeneral%5D"
+    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon dit annuler sa venue au « 20 heures » de TF1, qu’il accuse d’avoir laissé Edouard Philippe dérouler un « discours dégoûtant » sur l’immigration",
+    "source": "Le Monde",
+    "date": "2026-11-02T10:53:30+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html"
    },
    {
-    "titre": "EDITO. Édouard Philippe, Gabriel Attal, jusqu'où ira la chute ?",
+    "titre": "Jean-Luc Mélenchon accuse Edouard Philippe de \"calomnies racistes\" après une interview sur TF1, et dit annuler son propre passage sur la chaîne",
     "source": "franceinfo",
-    "date": "2026-10-30T08:15:21+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-edouard-philippe-gabriel-attal-jusqu-ou-ira-la-chute_8239483.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-11-02T09:26:20+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/jean-luc-melenchon-annonce-annuler-un-passage-au-20-heures-de-tf1-a-la-suite-d-une-interview-d-edouard-philippe_8263556.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Jean-Luc Mélenchon annule son passage au «20 heures» de TF1, la chaîne assure que l’interview «n’était déjà plus d’actualité»",
+    "source": "Libération",
+    "date": "2026-11-02T08:51:34+00:00",
+    "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-annule-son-passage-au-20-heures-de-tf1-la-chaine-assure-que-linterview-netait-deja-plus-dactualite-20261102_PM3K4MOEUREPFODWLIJQ4KATEE/"
    }
   ],
   "retailleau": [
@@ -193,21 +197,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "9sp1XDl1VHw",
-    "titre": "L'idéologie, ce n'est pas moi. L'idéologie, c'est le voile !",
-    "date": "2026-11-01T16:00:28+00:00",
+    "id": "tSlRIp4nlNs",
+    "titre": "Je créerai un ministère de l'Enfance de plein exercice.",
+    "date": "2026-11-02T10:00:32+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "akwoURQ_RYE",
-    "titre": "Je suis la même en privé que sur vos plateaux : je suis ce que je suis !",
-    "date": "2026-11-01T13:00:29+00:00",
+    "id": "RY3yy8kIYXw",
+    "titre": "Il faut remonter cette montagne de mensonges et de caricatures faite contre nous.",
+    "date": "2026-11-02T07:00:08+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "T6dPHVVVXnI",
-    "titre": "Le logement, c'est fondamental : il touche au pouvoir d'achat et à la natalité.",
-    "date": "2026-11-01T10:00:24+00:00",
+    "id": "uEeqxNlnFss",
+    "titre": "Partager l'arme nucléaire ? Je ne suis pas ambiguë : ce sera toujours non !",
+    "date": "2026-11-02T05:00:31+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -233,6 +237,12 @@
   ],
   "attal": [
    {
+    "id": "q9Pile4jos0",
+    "titre": "Gabriel Attal sur TF1 | Il faut une grande primaire !",
+    "date": "2026-11-02T06:50:31+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "B_G5rl8I_Zs",
     "titre": "Gabriel Attal sur France 5 | Il faut une grande primaire !",
     "date": "2026-10-29T16:45:43+00:00",
@@ -242,12 +252,6 @@
     "id": "Wy3pdB-tMjU",
     "titre": "Innovation et planification, je présente ma vision économique pour la France.",
     "date": "2026-10-28T23:43:07+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "vjSQpIPFUG0",
-    "titre": "Il est temps d’organiser une grande primaire.",
-    "date": "2026-10-28T21:41:05+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -273,6 +277,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "rHAQB1TO4no",
+    "titre": "DÉCARBONATION : L'ETAT FIXE LES OBJECTIFS, LE PRIVÉ LES ATTEINT",
+    "date": "2026-11-02T10:42:46+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "uaJJfpUbsB8",
     "titre": "GÉRER UNE MAIRIE, CE N'EST PAS GÉRER UN TABLEAU EXCEL",
     "date": "2026-11-01T18:31:54+00:00",
@@ -283,15 +293,15 @@
     "titre": "UN SEUL GRAND MINISTÈRE DE L'INSTRUCTION PUBLIQUE, DE LA CULTURE ET DE LA RECHERCHE",
     "date": "2026-11-01T18:14:33+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "ObL32NhETbM",
-    "titre": "UN IMPÔT, UN CHÈQUE, UNE INTERDICTION : LA DOCTRINE QUE LISNARD REFUSE",
-    "date": "2026-10-30T13:35:03+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "NeFe92abWFA",
+    "titre": "Je suis un combattant et un dissident.",
+    "date": "2026-11-02T09:45:56+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "6WxmXmkz3kY",
     "titre": "Depuis la tuerie de Trappes, nous subissons une offensive inouïe contre la liberté d’expression.",
@@ -302,12 +312,6 @@
     "id": "rst_OSYJOLY",
     "titre": "Nous allons rendre la paix à notre peuple !",
     "date": "2026-10-29T07:41:35+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "qWFAUjUSp5U",
-    "titre": "Cher Karim Zéribi, ici nous sommes en France, pas une dictature militaire à l’algérienne.",
-    "date": "2026-10-27T18:07:56+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -333,6 +337,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "TgKISWrTLeU",
+    "titre": "L'UE : en sortir pour s'en sortir.",
+    "date": "2026-11-01T16:00:31+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "tYdx-TM9Gr0",
     "titre": "🗓️Le Traité de Maastricht entrait en vigueur il y a 33 ans jour pour jour.",
     "date": "2026-11-01T07:30:16+00:00",
@@ -342,12 +352,6 @@
     "id": "C1BhaO1by08",
     "titre": "Empêchons Macron de bloquer les réseaux sociaux !",
     "date": "2026-10-28T17:00:21+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "ate-74Y4XTI",
-    "titre": "DU JAMAIS VU !",
-    "date": "2026-10-27T18:36:33+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
