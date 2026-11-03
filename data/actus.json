@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-02T23:14+00:00",
+ "maj": "2026-11-03T11:25+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,10 +95,16 @@
  "flux": {
   "attal": [
    {
-    "titre": "Présidentielle 2027 : Gabriel Attal juge la tenue d’une primaire du centre et de la droite « inéluctable », malgré le refus d’Edouard Philippe",
+    "titre": "Gabriel Attal et Edouard Philippe s’accusent mutuellement d’être macronistes",
+    "source": "Libération",
+    "date": "2026-11-03T10:45:09+00:00",
+    "lien": "https://www.liberation.fr/politique/gabriel-attal-et-edouard-philippe-saccusent-mutuellement-detre-macronistes-20261103_4WIIPXHS3JBNFGBJIXEWI66NIU/"
+   },
+   {
+    "titre": "Présidentielle 2027 : Gérald Darmanin rejette lui aussi la primaire voulue par Gabriel Attal et appelle à se rassembler derrière Edouard Philippe",
     "source": "Le Monde",
-    "date": "2026-11-02T10:24:53+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-gabriel-attal-juge-la-tenue-d-une-primaire-du-centre-et-de-la-droite-ineluctable-malgre-le-refus-d-edouard-philippe_6805225_823448.html"
+    "date": "2026-11-03T09:54:25+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-gerald-darmanin-rejette-la-primaire-voulue-par-gabriel-attal-et-appelle-a-se-rassembler-derriere-edouard-philippe_6805549_823448.html"
    }
   ],
   "xavier-bertrand": [
@@ -123,12 +129,6 @@
     "lien": "https://www.franceinfo.fr/politique/une-primaire-ne-peut-pas-aller-de-la-gauche-de-raphael-glucksmann-a-ceux-qui-tendraient-la-main-a-eric-ciotti-maud-bregeon_8264399.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Présidentielle 2027 : Raphaël Glucksmann estime qu’il serait « intelligent » de modifier la date du second tour, prévue le 2 mai",
-    "source": "Le Monde",
-    "date": "2026-11-02T12:25:46+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-raphael-glucksmann-estime-qu-il-serait-intelligent-de-modifier-la-date-du-second-tour_6805240_823448.html"
-   },
-   {
     "titre": "«Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats malgré l’accueil qui lui est réservé",
     "source": "Libération",
     "date": "2026-11-02T09:41:43+00:00",
@@ -136,6 +136,12 @@
    }
   ],
   "le-pen": [
+   {
+    "titre": "Pourquoi Marine Le Pen se mêle-t-elle de la crise en Pologne ?",
+    "source": "franceinfo",
+    "date": "2026-11-03T08:00:02+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-en-pologne_8244814.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
    {
     "titre": "Gérald Darmanin, soutien d’Edouard Philippe, estime que les propositions de Jean-Luc Mélenchon et de Marine Le Pen « tueront l’Europe telle qu’elle existe »",
     "source": "Le Monde",
@@ -159,30 +165,24 @@
     "lien": "https://www.lemonde.fr/politique/article/2026/11/02/gerald-darmanin-soutien-d-edouard-philippe-estime-que-les-propositions-de-jean-luc-melenchon-et-de-marine-le-pen-tueront-l-europe-telle-qu-elle-existe_6805290_823448.html"
    },
    {
-    "titre": "Jean-Luc Mélenchon accuse Edouard Philippe de \"calomnies racistes\" après une interview sur TF1, et dit annuler son propre passage sur la chaîne",
-    "source": "franceinfo",
-    "date": "2026-11-02T13:01:02+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/jean-luc-melenchon-annonce-annuler-un-passage-au-20-heures-de-tf1-a-la-suite-d-une-interview-d-edouard-philippe_8263556.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon dit annuler sa venue au « 20 heures » de TF1, qu’il accuse d’avoir laissé Edouard Philippe dérouler un « discours dégoûtant » sur l’immigration",
-    "source": "Le Monde",
-    "date": "2026-11-02T10:53:30+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html"
-   },
-   {
     "titre": "Jean-Luc Mélenchon annule son passage au «20 heures» de TF1, la chaîne assure que l’interview «n’était déjà plus d’actualité»",
     "source": "Libération",
     "date": "2026-11-02T08:51:34+00:00",
     "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-annule-son-passage-au-20-heures-de-tf1-la-chaine-assure-que-linterview-netait-deja-plus-dactualite-20261102_PM3K4MOEUREPFODWLIJQ4KATEE/"
    }
   ],
-  "retailleau": [
+  "fabien-roussel": [
    {
-    "titre": "Les jeunes militants LR confrontés au difficile début de campagne de Bruno Retailleau",
-    "source": "Le Monde",
-    "date": "2026-11-02T17:00:09+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/les-jeunes-militants-lr-confrontes-au-difficile-debut-de-campagne-de-bruno-retailleau_6805283_823448.html"
+    "titre": "Fabien Roussel appelle à continuer la mobilisation \"tant que le gouvernement n'entend pas ce cri de souffrance, de douleur, de colère\"",
+    "source": "franceinfo",
+    "date": "2026-11-03T10:17:41+01:00",
+    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fabien-roussel-appelle-a-continuer-la-mobilisation-tant-que-le-gouvernement-n-entend-pas-ce-cri-de-souffrance-de-douleur-de-colere_8265494.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Mobilisations sociales, colère des lycéens, présidentielle... Le \"8h30 franceinfo\" de Fabien Roussel",
+    "source": "franceinfo",
+    "date": "2026-11-03T09:24:56+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-colere-des-lyceens-presidentielle-le-8h30-franceinfo-de-fabien-roussel_8244898.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "francois-ruffin": [
@@ -203,21 +203,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "qzx4sVJD5xU",
-    "titre": "J'ai vu des restaurateurs faire régulariser leurs sans-papiers, puis les foutre à la porte !",
-    "date": "2026-11-02T21:30:04+00:00",
+    "id": "7mFOQjexYgk",
+    "titre": "On ne touche pas à un policier !",
+    "date": "2026-11-03T11:02:12+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "fF5Kr71YRCc",
-    "titre": "Partout en Europe, des mouvements veulent changer l'Union européenne, comme nous.",
-    "date": "2026-11-02T16:00:37+00:00",
+    "id": "XaTuoFOldFE",
+    "titre": "Ni droite ni gauche : je m'adresse à l'ensemble des Français.",
+    "date": "2026-11-03T10:00:11+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "ah3QSLifqLs",
-    "titre": "Les fonctionnaires ne sont pas le problème : le problème, c'est l'État !",
-    "date": "2026-11-02T13:00:17+00:00",
+    "id": "_Pwhy4hr_0Y",
+    "titre": "Là où le RN est en place, la sécurité s'améliore : regardez Perpignan !",
+    "date": "2026-11-03T07:00:32+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -323,6 +323,12 @@
   ],
   "francois-ruffin": [
    {
+    "id": "G7feTtQjUO4",
+    "titre": "Plus un rond pour les anciens présidents !",
+    "date": "2026-11-03T09:59:33+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
     "id": "OXb4EcY8KHo",
     "titre": "Présidentielles 2027 : François Ruffin face à Sonia Mabrouk",
     "date": "2026-11-02T21:56:22+00:00",
@@ -332,12 +338,6 @@
     "id": "nwcR-zt0e1o",
     "titre": "Supprimer CNews ?",
     "date": "2026-11-02T17:40:40+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "-EUH1C4YoaQ",
-    "titre": "Présidentielles 2027 : François Ruffin face à Apolline de Malherbe",
-    "date": "2026-10-30T09:48:06+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    }
   ],
