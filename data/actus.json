@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-03T11:25+00:00",
+ "maj": "2026-11-03T21:19+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -99,12 +99,6 @@
     "source": "Libération",
     "date": "2026-11-03T10:45:09+00:00",
     "lien": "https://www.liberation.fr/politique/gabriel-attal-et-edouard-philippe-saccusent-mutuellement-detre-macronistes-20261103_4WIIPXHS3JBNFGBJIXEWI66NIU/"
-   },
-   {
-    "titre": "Présidentielle 2027 : Gérald Darmanin rejette lui aussi la primaire voulue par Gabriel Attal et appelle à se rassembler derrière Edouard Philippe",
-    "source": "Le Monde",
-    "date": "2026-11-03T09:54:25+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-gerald-darmanin-rejette-la-primaire-voulue-par-gabriel-attal-et-appelle-a-se-rassembler-derriere-edouard-philippe_6805549_823448.html"
    }
   ],
   "xavier-bertrand": [
@@ -116,6 +110,12 @@
    }
   ],
   "glucksmann": [
+   {
+    "titre": "Ukraine, ingérences russes, Meloni, Gaza… Raphaël Glucksmann mise tout sur le front européen",
+    "source": "Libération",
+    "date": "2026-11-03T14:17:51+00:00",
+    "lien": "https://www.liberation.fr/international/europe/ukraine-ingerences-russes-meloni-gaza-raphael-glucksmann-mise-tout-sur-le-front-europeen-20261103_44WL3KYU5NCI7OYCG5LUJNKNOA/"
+   },
    {
     "titre": "Présidentielle : entre Edouard Philippe et Raphaël Glucksmann, une bataille pour l’issue de recours",
     "source": "Libération",
@@ -137,33 +137,19 @@
   ],
   "le-pen": [
    {
-    "titre": "Pourquoi Marine Le Pen se mêle-t-elle de la crise en Pologne ?",
+    "titre": "EDITO. Pourquoi Marine Le Pen se mêle-t-elle de la crise politique en Pologne ?",
+    "source": "franceinfo",
+    "date": "2026-11-03T12:50:41+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/l-edito-pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-politique-en-pologne_8265788.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "EDITO. Pourquoi Marine Le Pen se mêle-t-elle de la crise en Pologne ?",
     "source": "franceinfo",
     "date": "2026-11-03T08:00:02+01:00",
     "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-en-pologne_8244814.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Gérald Darmanin, soutien d’Edouard Philippe, estime que les propositions de Jean-Luc Mélenchon et de Marine Le Pen « tueront l’Europe telle qu’elle existe »",
-    "source": "Le Monde",
-    "date": "2026-11-02T17:33:59+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/gerald-darmanin-soutien-d-edouard-philippe-estime-que-les-propositions-de-jean-luc-melenchon-et-de-marine-le-pen-tueront-l-europe-telle-qu-elle-existe_6805290_823448.html"
-   }
-  ],
-  "david-lisnard": [
-   {
-    "titre": "Candidat et patron des maires ? L’argument pourri de David Lisnard pour se défendre de tout conflit d’intérêts",
-    "source": "Libération",
-    "date": "2026-10-30T11:56:28+00:00",
-    "lien": "https://www.liberation.fr/politique/candidat-et-patron-des-maires-largument-pourri-de-david-lisnard-pour-se-defendre-de-tout-conflit-dinterets-20261030_CJTOYZRNRJAT5PJIACKWMZMTTQ/"
    }
   ],
   "melenchon": [
-   {
-    "titre": "Gérald Darmanin, soutien d’Edouard Philippe, estime que les propositions de Jean-Luc Mélenchon et de Marine Le Pen « tueront l’Europe telle qu’elle existe »",
-    "source": "Le Monde",
-    "date": "2026-11-02T17:33:59+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/02/gerald-darmanin-soutien-d-edouard-philippe-estime-que-les-propositions-de-jean-luc-melenchon-et-de-marine-le-pen-tueront-l-europe-telle-qu-elle-existe_6805290_823448.html"
-   },
    {
     "titre": "Jean-Luc Mélenchon annule son passage au «20 heures» de TF1, la chaîne assure que l’interview «n’était déjà plus d’actualité»",
     "source": "Libération",
@@ -171,7 +157,21 @@
     "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-annule-son-passage-au-20-heures-de-tf1-la-chaine-assure-que-linterview-netait-deja-plus-dactualite-20261102_PM3K4MOEUREPFODWLIJQ4KATEE/"
    }
   ],
+  "philippe": [
+   {
+    "titre": "Propos d'Édouard Philippe sur les casseurs : \"Peut-être que ça a été maladroit\", reconnaît l'élue Horizons Marie-Agnès Poussier-Winsback, qui estime que \"c'est beaucoup trop de polémique pour ces mots\"",
+    "source": "franceinfo",
+    "date": "2026-11-03T20:16:09+01:00",
+    "lien": "https://www.franceinfo.fr/politique/edouard-philippe/propos-d-edouard-philippe-sur-les-casseurs-peut-etre-que-ca-a-ete-maladroit-reconnait-l-elue-horizons-marie-agnes-poussier-winsback-qui-estime-que-c-est-beaucoup-trop-de-polemique-pour-ces-mots_8266460.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
   "fabien-roussel": [
+   {
+    "titre": "«Montée de la haine et du racisme», menaces contre LFI et la CGT : Fabien Roussel fait le parallèle avec «les années 30»",
+    "source": "Libération",
+    "date": "2026-11-03T13:37:04+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/montee-de-la-haine-et-du-racisme-mise-a-lindex-de-lfi-et-de-la-cgt-fabien-roussel-fait-le-parallele-avec-les-annees-30-20261103_TWCEAF5FLFDFZLBFJHWNLEYOHU/"
+   },
    {
     "titre": "Fabien Roussel appelle à continuer la mobilisation \"tant que le gouvernement n'entend pas ce cri de souffrance, de douleur, de colère\"",
     "source": "franceinfo",
@@ -203,21 +203,21 @@
  "videos": {
   "le-pen": [
    {
+    "id": "LHL3ZhSMF8s",
+    "titre": "Je me suis appelée Le Pen toute ma vie : la discrimination, je l'ai vécue !",
+    "date": "2026-11-03T17:00:03+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "8yBWeDtNYs0",
+    "titre": "Nous avons plus que jamais la possibilité de gagner cette présidentielle !",
+    "date": "2026-11-03T13:00:15+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "7mFOQjexYgk",
     "titre": "On ne touche pas à un policier !",
     "date": "2026-11-03T11:02:12+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "XaTuoFOldFE",
-    "titre": "Ni droite ni gauche : je m'adresse à l'ensemble des Français.",
-    "date": "2026-11-03T10:00:11+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "_Pwhy4hr_0Y",
-    "titre": "Là où le RN est en place, la sécurité s'améliore : regardez Perpignan !",
-    "date": "2026-11-03T07:00:32+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -243,6 +243,12 @@
   ],
   "attal": [
    {
+    "id": "NMAxzKOxKMs",
+    "titre": "Partout sur le terrain, le message des Français est clair : rassemblons-nous !",
+    "date": "2026-11-03T17:16:36+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "q9Pile4jos0",
     "titre": "Gabriel Attal sur TF1 | Il faut une grande primaire !",
     "date": "2026-11-02T06:50:31+00:00",
@@ -252,12 +258,6 @@
     "id": "B_G5rl8I_Zs",
     "titre": "Gabriel Attal sur France 5 | Il faut une grande primaire !",
     "date": "2026-10-29T16:45:43+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "Wy3pdB-tMjU",
-    "titre": "Innovation et planification, je présente ma vision économique pour la France.",
-    "date": "2026-10-28T23:43:07+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -283,6 +283,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "nxtvOPfuFyo",
+    "titre": "LIBÉRER LA RECHERCHE SCIENTIFIQUE",
+    "date": "2026-11-03T14:18:03+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "b-iv83c1U9o",
     "titre": "LA BUREAUCRATIE, FREIN À L’ÉCOLOGIE ?",
     "date": "2026-11-02T16:38:19+00:00",
@@ -292,12 +298,6 @@
     "id": "sYP8Rr5YbAU",
     "titre": "JE NE SUIS PAS ÉNARQUE",
     "date": "2026-11-02T14:19:54+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "qBhmE-GOKmY",
-    "titre": "✅ Vrai ou ❌ faux ?",
-    "date": "2026-11-02T12:26:32+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -323,6 +323,12 @@
   ],
   "francois-ruffin": [
    {
+    "id": "M9pcnf2Dz3c",
+    "titre": "\"Au boulot !\", après le film, le livre !",
+    "date": "2026-11-03T21:03:15+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
     "id": "G7feTtQjUO4",
     "titre": "Plus un rond pour les anciens présidents !",
     "date": "2026-11-03T09:59:33+00:00",
@@ -332,12 +338,6 @@
     "id": "OXb4EcY8KHo",
     "titre": "Présidentielles 2027 : François Ruffin face à Sonia Mabrouk",
     "date": "2026-11-02T21:56:22+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "nwcR-zt0e1o",
-    "titre": "Supprimer CNews ?",
-    "date": "2026-11-02T17:40:40+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    }
   ],
@@ -363,6 +363,12 @@
   ],
   "nathalie-arthaud": [
    {
+    "id": "Tq5H7LGOPQ4",
+    "titre": "Dans la manifestation étudiante de ce matin à Lille",
+    "date": "2026-11-03T20:21:30+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
     "id": "Ys2Dq_XyzNE",
     "titre": "Tous en GRÈVE et en MANIFESTATION jeudi 5 novembre",
     "date": "2026-11-02T16:47:43+00:00",
@@ -373,15 +379,15 @@
     "titre": "Ceux qui ont armé l'assassin",
     "date": "2026-11-02T14:00:14+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "I1Rsk3Czn8o",
-    "titre": "Dans la manifestation du 31 octobre",
-    "date": "2026-10-31T17:15:21+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "7SXvnCDUQ3k",
+    "titre": "« Une maison de t*rture ! » : la terrible vérité éclate, Macron est foutu !",
+    "date": "2026-11-03T14:01:22+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "01Uv_Bg0qo0",
     "titre": "Pologne : le coup d’État déclenche une immense révolte contre l’UE !",
@@ -392,12 +398,6 @@
     "id": "7jCW_35r8i0",
     "titre": "« Un événement incroyable va se produire en France ! » Marion Saint-Michel et Florian Philippot",
     "date": "2026-11-01T14:00:15+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "NRwqqyUUsu4",
-    "titre": "Pologne : coup d’État européiste en direct !",
-    "date": "2026-10-31T14:00:49+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
