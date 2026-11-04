@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-04T11:39+00:00",
+ "maj": "2026-11-04T21:35+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -129,36 +129,24 @@
     "lien": "https://www.liberation.fr/politique/les-brutaux-ne-mimpressionnent-pas-raphael-glucksmann-manifestera-jeudi-avec-les-syndicats-malgre-laccueil-qui-lui-est-reserve-20261102_ZWOAQHNR2FBC7MBO64HT7V6RCM/"
    }
   ],
-  "le-pen": [
-   {
-    "titre": "EDITO. Pourquoi Marine Le Pen se mêle-t-elle de la crise politique en Pologne ?",
-    "source": "franceinfo",
-    "date": "2026-11-03T12:50:41+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/l-edito-pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-politique-en-pologne_8265788.html#xtor=RSS-3-%5Bgeneral%5D"
-   }
-  ],
-  "david-lisnard": [
-   {
-    "titre": "Election à la présidence des maires de France : le sortant David Lisnard sous pression",
-    "source": "Le Monde",
-    "date": "2026-11-04T08:52:53+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/election-a-la-presidence-des-maires-de-france-le-sortant-david-lisnard-sous-pression_6806122_823448.html"
-   }
-  ],
   "melenchon": [
+   {
+    "titre": "\"Oui, il y a un problème d'intégration en France\", estime Edouard Philippe, qui propose à Jean-Luc Mélenchon un débat sur l'immigration",
+    "source": "franceinfo",
+    "date": "2026-11-04T14:37:06+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Edouard Philippe invite Jean-Luc Mélenchon à débattre de «racisme» et d’«antisémitisme»",
+    "source": "Libération",
+    "date": "2026-11-04T14:14:15+00:00",
+    "lien": "https://www.liberation.fr/politique/edouard-philippe-invite-jean-luc-melenchon-a-debattre-de-racisme-et-dantisemitisme-20261104_SNQG4X6JAFGC3KYKM67CSD6M24/"
+   },
    {
     "titre": "Jean-Luc Mélenchon annule son passage au «20 heures» de TF1, la chaîne assure que l’interview «n’était déjà plus d’actualité»",
     "source": "Libération",
     "date": "2026-11-02T08:51:34+00:00",
     "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-annule-son-passage-au-20-heures-de-tf1-la-chaine-assure-que-linterview-netait-deja-plus-dactualite-20261102_PM3K4MOEUREPFODWLIJQ4KATEE/"
-   }
-  ],
-  "philippe": [
-   {
-    "titre": "Propos d'Édouard Philippe sur les casseurs : \"Peut-être que ça a été maladroit\", reconnaît l'élue Horizons Marie-Agnès Poussier-Winsback, qui estime que \"c'est beaucoup trop de polémique pour ces mots\"",
-    "source": "franceinfo",
-    "date": "2026-11-03T20:16:09+01:00",
-    "lien": "https://www.franceinfo.fr/politique/edouard-philippe/propos-d-edouard-philippe-sur-les-casseurs-peut-etre-que-ca-a-ete-maladroit-reconnait-l-elue-horizons-marie-agnes-poussier-winsback-qui-estime-que-c-est-beaucoup-trop-de-polemique-pour-ces-mots_8266460.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "retailleau": [
@@ -175,12 +163,6 @@
     "lien": "https://www.liberation.fr/politique/la-haine-de-lfi-rend-bruno-retailleau-aveugle-envers-eric-zemmour-20261104_CY5UBT6XZBH77HCZJNJFVLUC2E/"
    },
    {
-    "titre": "Présidentielle 2027 : Bruno Retailleau juge qu’il faudra une primaire en début d’année",
-    "source": "Le Monde",
-    "date": "2026-11-04T07:31:23+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-bruno-retailleau-juge-qu-il-faudra-une-primaire-en-debut-d-annee_6806114_823448.html"
-   },
-   {
     "titre": "Primaire à droite et au centre : Bruno Retailleau remet la pression sur Edouard Philippe, «il sera contraint à un moment ou un autre de l’accepter»",
     "source": "Libération",
     "date": "2026-11-04T07:17:28+00:00",
@@ -193,43 +175,37 @@
     "source": "Libération",
     "date": "2026-11-03T13:37:04+00:00",
     "lien": "https://www.liberation.fr/politique/elections/montee-de-la-haine-et-du-racisme-mise-a-lindex-de-lfi-et-de-la-cgt-fabien-roussel-fait-le-parallele-avec-les-annees-30-20261103_TWCEAF5FLFDFZLBFJHWNLEYOHU/"
-   },
-   {
-    "titre": "Fabien Roussel appelle à continuer la mobilisation \"tant que le gouvernement n'entend pas ce cri de souffrance, de douleur, de colère\"",
-    "source": "franceinfo",
-    "date": "2026-11-03T10:17:41+01:00",
-    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fabien-roussel-appelle-a-continuer-la-mobilisation-tant-que-le-gouvernement-n-entend-pas-ce-cri-de-souffrance-de-douleur-de-colere_8265494.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Mobilisations sociales, colère des lycéens, présidentielle... Le \"8h30 franceinfo\" de Fabien Roussel",
-    "source": "franceinfo",
-    "date": "2026-11-03T09:24:56+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-colere-des-lyceens-presidentielle-le-8h30-franceinfo-de-fabien-roussel_8244898.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "cDJaAa5ApT4",
-    "titre": "S'appeler Le Pen ? Je suis très fière de mon nom et de ma famille.",
-    "date": "2026-11-04T10:00:05+00:00",
+    "id": "N8y8xLG-I8k",
+    "titre": "La gauche a mis la main sur la communication pour salir ses adversaires.",
+    "date": "2026-11-04T21:30:21+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "wfTnl9r2Cfs",
-    "titre": "Les HLM, nous les avons payés : oui à la priorité nationale au logement social !",
-    "date": "2026-11-04T07:00:23+00:00",
+    "id": "f9rY-DNXIgo",
+    "titre": "Sans acier, tous leurs discours sur le réarmement n'auront aucun effet !",
+    "date": "2026-11-04T16:00:21+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "w_FRiXIq_tw",
-    "titre": "Les journalistes de gauche qui fouillent nos vieux tweets travaillent pour nous !",
-    "date": "2026-11-04T05:00:22+00:00",
+    "id": "CTJ0YYulurQ",
+    "titre": "Pour appliquer les OQTF, il faut une diplomatie de la fermeté, notamment avec l'Algérie !",
+    "date": "2026-11-04T13:00:29+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
+   {
+    "id": "vPZdCClg92c",
+    "titre": "Grand meeting du Bourget - Notre programme de gouvernement",
+    "date": "2026-11-04T16:29:41+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
    {
     "id": "CVDOhkJhINs",
     "titre": "Magnifique mobilisation populaire à Paris !",
@@ -241,35 +217,35 @@
     "titre": "C’est parce que son autorité n’est plus acceptée qu’un pouvoir tend vers l’autoritarisme.",
     "date": "2026-10-29T09:39:44+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "2U7RJH0GkGU",
-    "titre": "Voilà ce que vous disent ceux qui ont pour objectif de créer un marché privé de l'éducation.",
-    "date": "2026-10-28T16:15:26+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
+   {
+    "id": "3RiCpdCXSzo",
+    "titre": "Gabriel Attal sur BFMTV | Je réponds à toutes les questions de Sonia Mabrouk sur BFMTV.",
+    "date": "2026-11-04T20:00:57+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
+    "id": "0wPL--kpyiY",
+    "titre": "26 ans. Des nuits de 25 minutes. Zéro stress.",
+    "date": "2026-11-04T17:10:10+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
    {
     "id": "NMAxzKOxKMs",
     "titre": "Partout sur le terrain, le message des Français est clair : rassemblons-nous !",
     "date": "2026-11-03T17:16:36+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "q9Pile4jos0",
-    "titre": "Gabriel Attal sur TF1 | Il faut une grande primaire !",
-    "date": "2026-11-02T06:50:31+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "B_G5rl8I_Zs",
-    "titre": "Gabriel Attal sur France 5 | Il faut une grande primaire !",
-    "date": "2026-10-29T16:45:43+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
   "retailleau": [
+   {
+    "id": "20QBW8eRyzs",
+    "titre": "Je propose d'organiser 3 débats d'ici décembre",
+    "date": "2026-11-04T11:48:29+00:00",
+    "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
+   },
    {
     "id": "NaOr1be9_tI",
     "titre": "Bruno Retailleau face aux étudiants d’HEC",
@@ -281,31 +257,25 @@
     "titre": "Marine Le Pen n’est ni de droite ni de gauche.",
     "date": "2026-10-26T16:57:06+00:00",
     "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
-   },
-   {
-    "id": "GZgsGjrfWx8",
-    "titre": "Une trouille au plus haut sommet de l’État.",
-    "date": "2026-10-19T20:19:58+00:00",
-    "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
    }
   ],
   "david-lisnard": [
    {
-    "id": "FPH3rkSPWJA",
-    "titre": "David Lisnard face à Sonia Mabrouk sur BFMTV",
-    "date": "2026-11-04T10:16:40+00:00",
+    "id": "UkkuPbr8_o0",
+    "titre": "100 000 adhérents payants : certifié",
+    "date": "2026-11-04T17:48:57+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "3PVrmk47Dos",
-    "titre": "REJOIGNEZ-NOUS CAR NOUS ALLONS REDRESSER LA FRANCE",
-    "date": "2026-11-04T08:36:58+00:00",
+    "id": "lu-iB4lUCFY",
+    "titre": "Comment moins accueillir pour mieux intégrer et assimiler",
+    "date": "2026-11-04T15:21:40+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "nxtvOPfuFyo",
-    "titre": "LIBÉRER LA RECHERCHE SCIENTIFIQUE",
-    "date": "2026-11-03T14:18:03+00:00",
+    "id": "QlicP6Voldo",
+    "titre": "LA DETTE TUE NOTRE SOUVERAINTÉ",
+    "date": "2026-11-04T13:02:14+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -351,6 +321,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "d-hdrkjt1Yo",
+    "titre": "Courage au peuple polonais, qui défend sa démocratie et ses libertés.",
+    "date": "2026-11-04T18:36:25+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "w3ysxoJaYaY",
     "titre": "Macron et Lescure font semblant de s’intéresser au pouvoir d’achat des Français.",
     "date": "2026-11-02T20:30:06+00:00",
@@ -360,12 +336,6 @@
     "id": "TgKISWrTLeU",
     "titre": "L'UE : en sortir pour s'en sortir.",
     "date": "2026-11-01T16:00:31+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "tYdx-TM9Gr0",
-    "titre": "🗓️Le Traité de Maastricht entrait en vigueur il y a 33 ans jour pour jour.",
-    "date": "2026-11-01T07:30:16+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
@@ -391,6 +361,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "B6e1Voz_hdQ",
+    "titre": "« On a les SMS de Macron ! » : ils sont accablants !",
+    "date": "2026-11-04T14:00:14+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "8EdhxlnNgwc",
     "titre": "2800 soldats français en Pologne en plein coup d’État européiste !",
     "date": "2026-11-04T06:41:37+00:00",
@@ -400,12 +376,6 @@
     "id": "7SXvnCDUQ3k",
     "titre": "« Une maison de t*rture ! » : la terrible vérité éclate, Macron est foutu !",
     "date": "2026-11-03T14:01:22+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "01Uv_Bg0qo0",
-    "titre": "Pologne : le coup d’État déclenche une immense révolte contre l’UE !",
-    "date": "2026-11-02T14:00:12+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
