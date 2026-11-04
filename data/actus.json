@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-03T21:19+00:00",
+ "maj": "2026-11-04T11:39+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -123,12 +123,6 @@
     "lien": "https://www.liberation.fr/politique/presidentielle-entre-edouard-philippe-et-raphael-glucksmann-une-bataille-pour-lissue-de-recours-20261102_KXIDYDJLLNAKRNBZI3WXNREVK4/"
    },
    {
-    "titre": "\"Une primaire ne peut pas aller de la gauche de Raphaël Glucksmann à ceux qui tendraient la main à Éric Ciotti\" Maud Bregeon",
-    "source": "franceinfo",
-    "date": "2026-11-02T19:00:02+01:00",
-    "lien": "https://www.franceinfo.fr/politique/une-primaire-ne-peut-pas-aller-de-la-gauche-de-raphael-glucksmann-a-ceux-qui-tendraient-la-main-a-eric-ciotti-maud-bregeon_8264399.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
     "titre": "«Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats malgré l’accueil qui lui est réservé",
     "source": "Libération",
     "date": "2026-11-02T09:41:43+00:00",
@@ -141,12 +135,14 @@
     "source": "franceinfo",
     "date": "2026-11-03T12:50:41+01:00",
     "lien": "https://www.franceinfo.fr/politique/marine-le-pen/l-edito-pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-politique-en-pologne_8265788.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
+   }
+  ],
+  "david-lisnard": [
    {
-    "titre": "EDITO. Pourquoi Marine Le Pen se mêle-t-elle de la crise en Pologne ?",
-    "source": "franceinfo",
-    "date": "2026-11-03T08:00:02+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-en-pologne_8244814.html#xtor=RSS-3-%5Bgeneral%5D"
+    "titre": "Election à la présidence des maires de France : le sortant David Lisnard sous pression",
+    "source": "Le Monde",
+    "date": "2026-11-04T08:52:53+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/election-a-la-presidence-des-maires-de-france-le-sortant-david-lisnard-sous-pression_6806122_823448.html"
    }
   ],
   "melenchon": [
@@ -163,6 +159,32 @@
     "source": "franceinfo",
     "date": "2026-11-03T20:16:09+01:00",
     "lien": "https://www.franceinfo.fr/politique/edouard-philippe/propos-d-edouard-philippe-sur-les-casseurs-peut-etre-que-ca-a-ete-maladroit-reconnait-l-elue-horizons-marie-agnes-poussier-winsback-qui-estime-que-c-est-beaucoup-trop-de-polemique-pour-ces-mots_8266460.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
+  "retailleau": [
+   {
+    "titre": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
+    "source": "franceinfo",
+    "date": "2026-11-04T11:55:26+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "La haine de LFI rend Bruno Retailleau aveugle envers Eric Zemmour",
+    "source": "Libération",
+    "date": "2026-11-04T09:49:53+00:00",
+    "lien": "https://www.liberation.fr/politique/la-haine-de-lfi-rend-bruno-retailleau-aveugle-envers-eric-zemmour-20261104_CY5UBT6XZBH77HCZJNJFVLUC2E/"
+   },
+   {
+    "titre": "Présidentielle 2027 : Bruno Retailleau juge qu’il faudra une primaire en début d’année",
+    "source": "Le Monde",
+    "date": "2026-11-04T07:31:23+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-bruno-retailleau-juge-qu-il-faudra-une-primaire-en-debut-d-annee_6806114_823448.html"
+   },
+   {
+    "titre": "Primaire à droite et au centre : Bruno Retailleau remet la pression sur Edouard Philippe, «il sera contraint à un moment ou un autre de l’accepter»",
+    "source": "Libération",
+    "date": "2026-11-04T07:17:28+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/primaire-a-droite-et-au-centre-bruno-retailleau-remet-la-pression-sur-edouard-philippe-il-sera-contraint-a-un-moment-ou-un-autre-de-laccepter-20261104_C3XFQIVOOVBATCVCSJ4SVJVFIY/"
    }
   ],
   "fabien-roussel": [
@@ -184,40 +206,26 @@
     "date": "2026-11-03T09:24:56+01:00",
     "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-colere-des-lyceens-presidentielle-le-8h30-franceinfo-de-fabien-roussel_8244898.html#xtor=RSS-3-%5Bgeneral%5D"
    }
-  ],
-  "francois-ruffin": [
-   {
-    "titre": "Livre : François Ruffin, eh oh, eh oh, le chantre du «boulot»",
-    "source": "Libération",
-    "date": "2026-10-30T18:17:06+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/francois-ruffin-eh-oh-eh-oh-le-chantre-du-boulot-20261030_JLHT3SGIVFAM3JPAANIGYE7DNA/"
-   },
-   {
-    "titre": "François Ruffin : «Je suis là pour mettre mes sujets dans les pattes des grands candidats»",
-    "source": "Libération",
-    "date": "2026-10-30T15:08:19+00:00",
-    "lien": "https://www.liberation.fr/politique/francois-ruffin-je-suis-la-pour-mettre-mes-sujets-dans-les-pattes-des-grands-candidats-20261030_YLWIIPDHYRAXHGLTPLD3A4VIDE/"
-   }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "LHL3ZhSMF8s",
-    "titre": "Je me suis appelée Le Pen toute ma vie : la discrimination, je l'ai vécue !",
-    "date": "2026-11-03T17:00:03+00:00",
+    "id": "cDJaAa5ApT4",
+    "titre": "S'appeler Le Pen ? Je suis très fière de mon nom et de ma famille.",
+    "date": "2026-11-04T10:00:05+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "8yBWeDtNYs0",
-    "titre": "Nous avons plus que jamais la possibilité de gagner cette présidentielle !",
-    "date": "2026-11-03T13:00:15+00:00",
+    "id": "wfTnl9r2Cfs",
+    "titre": "Les HLM, nous les avons payés : oui à la priorité nationale au logement social !",
+    "date": "2026-11-04T07:00:23+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "7mFOQjexYgk",
-    "titre": "On ne touche pas à un policier !",
-    "date": "2026-11-03T11:02:12+00:00",
+    "id": "w_FRiXIq_tw",
+    "titre": "Les journalistes de gauche qui fouillent nos vieux tweets travaillent pour nous !",
+    "date": "2026-11-04T05:00:22+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -283,21 +291,21 @@
   ],
   "david-lisnard": [
    {
+    "id": "FPH3rkSPWJA",
+    "titre": "David Lisnard face à Sonia Mabrouk sur BFMTV",
+    "date": "2026-11-04T10:16:40+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "3PVrmk47Dos",
+    "titre": "REJOIGNEZ-NOUS CAR NOUS ALLONS REDRESSER LA FRANCE",
+    "date": "2026-11-04T08:36:58+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "nxtvOPfuFyo",
     "titre": "LIBÉRER LA RECHERCHE SCIENTIFIQUE",
     "date": "2026-11-03T14:18:03+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "b-iv83c1U9o",
-    "titre": "LA BUREAUCRATIE, FREIN À L’ÉCOLOGIE ?",
-    "date": "2026-11-02T16:38:19+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "sYP8Rr5YbAU",
-    "titre": "JE NE SUIS PAS ÉNARQUE",
-    "date": "2026-11-02T14:19:54+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -383,6 +391,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "8EdhxlnNgwc",
+    "titre": "2800 soldats français en Pologne en plein coup d’État européiste !",
+    "date": "2026-11-04T06:41:37+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "7SXvnCDUQ3k",
     "titre": "« Une maison de t*rture ! » : la terrible vérité éclate, Macron est foutu !",
     "date": "2026-11-03T14:01:22+00:00",
@@ -392,12 +406,6 @@
     "id": "01Uv_Bg0qo0",
     "titre": "Pologne : le coup d’État déclenche une immense révolte contre l’UE !",
     "date": "2026-11-02T14:00:12+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "7jCW_35r8i0",
-    "titre": "« Un événement incroyable va se produire en France ! » Marion Saint-Michel et Florian Philippot",
-    "date": "2026-11-01T14:00:15+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
