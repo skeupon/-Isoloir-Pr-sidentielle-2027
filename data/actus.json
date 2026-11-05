@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-04T21:35+00:00",
+ "maj": "2026-11-05T11:40+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -121,15 +121,31 @@
     "source": "Libération",
     "date": "2026-11-02T19:33:53+00:00",
     "lien": "https://www.liberation.fr/politique/presidentielle-entre-edouard-philippe-et-raphael-glucksmann-une-bataille-pour-lissue-de-recours-20261102_KXIDYDJLLNAKRNBZI3WXNREVK4/"
-   },
+   }
+  ],
+  "le-pen": [
    {
-    "titre": "«Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats malgré l’accueil qui lui est réservé",
+    "titre": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
+    "source": "Le Monde",
+    "date": "2026-11-04T23:58:31+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html"
+   }
+  ],
+  "david-lisnard": [
+   {
+    "titre": "David Lisnard fait officiellement certifier les 100 000 adhérents de son parti Nouvelle Energie",
     "source": "Libération",
-    "date": "2026-11-02T09:41:43+00:00",
-    "lien": "https://www.liberation.fr/politique/les-brutaux-ne-mimpressionnent-pas-raphael-glucksmann-manifestera-jeudi-avec-les-syndicats-malgre-laccueil-qui-lui-est-reserve-20261102_ZWOAQHNR2FBC7MBO64HT7V6RCM/"
+    "date": "2026-11-05T10:55:25+00:00",
+    "lien": "https://www.liberation.fr/politique/david-lisnard-fait-officiellement-certifier-les-100-000-adherents-de-son-parti-nouvelle-energie-20261105_RSWPDTRENJCZXAXB6XMR4ZWVMM/"
    }
   ],
   "melenchon": [
+   {
+    "titre": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
+    "source": "Le Monde",
+    "date": "2026-11-04T23:58:31+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html"
+   },
    {
     "titre": "\"Oui, il y a un problème d'intégration en France\", estime Edouard Philippe, qui propose à Jean-Luc Mélenchon un débat sur l'immigration",
     "source": "franceinfo",
@@ -141,20 +157,34 @@
     "source": "Libération",
     "date": "2026-11-04T14:14:15+00:00",
     "lien": "https://www.liberation.fr/politique/edouard-philippe-invite-jean-luc-melenchon-a-debattre-de-racisme-et-dantisemitisme-20261104_SNQG4X6JAFGC3KYKM67CSD6M24/"
-   },
+   }
+  ],
+  "philippe": [
    {
-    "titre": "Jean-Luc Mélenchon annule son passage au «20 heures» de TF1, la chaîne assure que l’interview «n’était déjà plus d’actualité»",
-    "source": "Libération",
-    "date": "2026-11-02T08:51:34+00:00",
-    "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-annule-son-passage-au-20-heures-de-tf1-la-chaine-assure-que-linterview-netait-deja-plus-dactualite-20261102_PM3K4MOEUREPFODWLIJQ4KATEE/"
+    "titre": "\"Les propos qu'il tient sont une incitation au racisme\", assure Dominique de Villepin après les paroles d'Édouard Philippe sur les \"Français issus de l'immigration\"",
+    "source": "franceinfo",
+    "date": "2026-11-05T08:59:51+01:00",
+    "lien": "https://www.franceinfo.fr/politique/les-propos-qu-il-tient-sont-une-incitation-au-racisme-assure-dominique-de-villepin-apres-les-paroles-d-edouard-philippe-sur-les-francais-issus-de-l-immigration_8268926.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "retailleau": [
    {
-    "titre": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
+    "titre": "Bruno Retailleau appelle à \"ne pas bloquer\" les lycées et dénonce \"la violence d'une minorité bruyante\"",
     "source": "franceinfo",
-    "date": "2026-11-04T11:55:26+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-11-05T10:15:47+01:00",
+    "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-a-ne-pas-bloquer-les-lycees-et-denonce-la-violence-d-une-minorite-bruyante_8268953.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Bruno Retailleau appelle la droite à \"se réveiller\" pour la présidentielle et défend son idée de débats, avant une éventuelle primaire",
+    "source": "franceinfo",
+    "date": "2026-11-05T10:12:26+01:00",
+    "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-la-droite-a-se-reveiller-pour-la-presidentielle-et-defend-son-idee-de-debats-avant-une-eventuelle-primaire_8269013.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Grève générale, pouvoir d'achat, blocage des lycées... \"Le 8h30 franceinfo\" de Bruno Retailleau",
+    "source": "franceinfo",
+    "date": "2026-11-05T09:03:14+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/greve-generale-pouvoir-d-achat-blocage-des-lycees-le-8h30-franceinfo-de-bruno-retailleau_8248147.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
     "titre": "La haine de LFI rend Bruno Retailleau aveugle envers Eric Zemmour",
@@ -181,21 +211,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "N8y8xLG-I8k",
-    "titre": "La gauche a mis la main sur la communication pour salir ses adversaires.",
-    "date": "2026-11-04T21:30:21+00:00",
+    "id": "bZarF6NVS_s",
+    "titre": "Jordan Bardella est un combattant de la France !",
+    "date": "2026-11-05T10:00:22+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "f9rY-DNXIgo",
-    "titre": "Sans acier, tous leurs discours sur le réarmement n'auront aucun effet !",
-    "date": "2026-11-04T16:00:21+00:00",
+    "id": "pTEOmVaEIDg",
+    "titre": "Un influenceur de retour de Dubaï n'entre pas dans les critères des HLM !",
+    "date": "2026-11-05T07:00:21+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "CTJ0YYulurQ",
-    "titre": "Pour appliquer les OQTF, il faut une diplomatie de la fermeté, notamment avec l'Algérie !",
-    "date": "2026-11-04T13:00:29+00:00",
+    "id": "E_VDicqv7zg",
+    "titre": "Jeter l'éponge ? Mille fois… le soir. Le matin, c'est fini !",
+    "date": "2026-11-05T05:00:21+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -221,21 +251,21 @@
   ],
   "attal": [
    {
-    "id": "3RiCpdCXSzo",
-    "titre": "Gabriel Attal sur BFMTV | Je réponds à toutes les questions de Sonia Mabrouk sur BFMTV.",
-    "date": "2026-11-04T20:00:57+00:00",
+    "id": "vjSNG14e7rM",
+    "titre": "Demandons à plus de Français de se mettre à bosser.",
+    "date": "2026-11-05T11:15:34+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    },
    {
-    "id": "0wPL--kpyiY",
-    "titre": "26 ans. Des nuits de 25 minutes. Zéro stress.",
-    "date": "2026-11-04T17:10:10+00:00",
+    "id": "Uw-0RziYpGU",
+    "titre": "8 victimes de harcèlement ont eu l’immense courage de me raconter l’enfer qu’elles ont traversé.",
+    "date": "2026-11-05T11:00:25+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    },
    {
-    "id": "NMAxzKOxKMs",
-    "titre": "Partout sur le terrain, le message des Français est clair : rassemblons-nous !",
-    "date": "2026-11-03T17:16:36+00:00",
+    "id": "YAj_GTUMFWI",
+    "titre": "ILS ONT VÉCU L'ENFER : 8 VICTIMES RACONTENT TOUT.",
+    "date": "2026-11-05T09:59:06+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -261,6 +291,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "3ryvXwcFuGo",
+    "titre": "Plus de liberté pour les gens qui sont honnêtes, et plus d'autorité contre les voyous",
+    "date": "2026-11-05T10:18:14+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "UkkuPbr8_o0",
     "titre": "100 000 adhérents payants : certifié",
     "date": "2026-11-04T17:48:57+00:00",
@@ -270,12 +306,6 @@
     "id": "lu-iB4lUCFY",
     "titre": "Comment moins accueillir pour mieux intégrer et assimiler",
     "date": "2026-11-04T15:21:40+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "QlicP6Voldo",
-    "titre": "LA DETTE TUE NOTRE SOUVERAINTÉ",
-    "date": "2026-11-04T13:02:14+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
