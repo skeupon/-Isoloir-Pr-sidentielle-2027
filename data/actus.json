@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-05T11:40+00:00",
+ "maj": "2026-11-05T21:37+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -111,6 +111,18 @@
   ],
   "glucksmann": [
    {
+    "titre": "Mobilisation du 5 novembre : Raphaël Glucksmann quitte le cortège après avoir été hué",
+    "source": "franceinfo",
+    "date": "2026-11-05T18:30:21+01:00",
+    "lien": "https://www.franceinfo.fr/economie/greve/greve/mobilisation-du-5-novembre-raphael-glucksmann-quitte-le-cortege-apres-avoir-ete-hue_8269736.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "«S’il y a des militants politiques qui sont hostiles, je m’en fous» : Raphaël Glucksmann présent à la manifestation mais forcé par la police à rebrousser chemin",
+    "source": "Libération",
+    "date": "2026-11-05T18:04:01+00:00",
+    "lien": "https://www.liberation.fr/politique/sil-y-a-des-militants-politiques-qui-sont-hostiles-je-men-fous-raphael-glucksmann-present-a-la-manifestation-mais-force-de-rebrousser-chemin-20261105_JDBBQPL6ABGCTG4VLDMIKM5CJM/"
+   },
+   {
     "titre": "Ukraine, ingérences russes, Meloni, Gaza… Raphaël Glucksmann mise tout sur le front européen",
     "source": "Libération",
     "date": "2026-11-03T14:17:51+00:00",
@@ -123,14 +135,6 @@
     "lien": "https://www.liberation.fr/politique/presidentielle-entre-edouard-philippe-et-raphael-glucksmann-une-bataille-pour-lissue-de-recours-20261102_KXIDYDJLLNAKRNBZI3WXNREVK4/"
    }
   ],
-  "le-pen": [
-   {
-    "titre": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
-    "source": "Le Monde",
-    "date": "2026-11-04T23:58:31+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html"
-   }
-  ],
   "david-lisnard": [
    {
     "titre": "David Lisnard fait officiellement certifier les 100 000 adhérents de son parti Nouvelle Energie",
@@ -141,16 +145,16 @@
   ],
   "melenchon": [
    {
-    "titre": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
-    "source": "Le Monde",
-    "date": "2026-11-04T23:58:31+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html"
+    "titre": "«Nous nous engageons à soutenir Jean-Luc Mélenchon» : Fabien Roussel lâché par la moitié des députés PCF",
+    "source": "Libération",
+    "date": "2026-11-05T17:04:17+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/nous-nous-engageons-a-soutenir-jean-luc-melenchon-fabien-roussel-lache-par-la-majorite-du-groupe-communiste-a-lassemblee-melenchon-20261105_NMD2ZUWHY5FXHGWMSYLRJWUN6Y/"
    },
    {
-    "titre": "\"Oui, il y a un problème d'intégration en France\", estime Edouard Philippe, qui propose à Jean-Luc Mélenchon un débat sur l'immigration",
-    "source": "franceinfo",
-    "date": "2026-11-04T14:37:06+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-%5Bgeneral%5D"
+    "titre": "Présidentielle 2027 : la majorité du groupe communiste et ultramarin à l’Assemblée annonce soutenir Jean-Luc Mélenchon",
+    "source": "Le Monde",
+    "date": "2026-11-05T15:49:25+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/05/presidentielle-2027-la-majorite-du-groupe-communiste-et-ultramarin-a-l-assemblee-annonce-soutenir-jean-luc-melenchon_6806973_823448.html"
    },
    {
     "titre": "Edouard Philippe invite Jean-Luc Mélenchon à débattre de «racisme» et d’«antisémitisme»",
@@ -201,6 +205,12 @@
   ],
   "fabien-roussel": [
    {
+    "titre": "«Nous nous engageons à soutenir Jean-Luc Mélenchon» : Fabien Roussel lâché par la moitié des députés PCF",
+    "source": "Libération",
+    "date": "2026-11-05T17:04:17+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/nous-nous-engageons-a-soutenir-jean-luc-melenchon-fabien-roussel-lache-par-la-majorite-du-groupe-communiste-a-lassemblee-melenchon-20261105_NMD2ZUWHY5FXHGWMSYLRJWUN6Y/"
+   },
+   {
     "titre": "«Montée de la haine et du racisme», menaces contre LFI et la CGT : Fabien Roussel fait le parallèle avec «les années 30»",
     "source": "Libération",
     "date": "2026-11-03T13:37:04+00:00",
@@ -211,21 +221,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "bZarF6NVS_s",
-    "titre": "Jordan Bardella est un combattant de la France !",
-    "date": "2026-11-05T10:00:22+00:00",
+    "id": "4Oc5EAAfkqQ",
+    "titre": "Entre Jordan et moi, pas de coin possible : on ne combat pas pour nous-mêmes.",
+    "date": "2026-11-05T21:30:13+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "pTEOmVaEIDg",
-    "titre": "Un influenceur de retour de Dubaï n'entre pas dans les critères des HLM !",
-    "date": "2026-11-05T07:00:21+00:00",
+    "id": "iY0t_ck8Q0E",
+    "titre": "La France, une grande puissante maritime !",
+    "date": "2026-11-05T20:31:21+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "E_VDicqv7zg",
-    "titre": "Jeter l'éponge ? Mille fois… le soir. Le matin, c'est fini !",
-    "date": "2026-11-05T05:00:21+00:00",
+    "id": "runH10hbw6M",
+    "titre": "Aujourd'hui, le danger, ce n'est plus le communisme : c'est le mondialisme.",
+    "date": "2026-11-05T16:00:13+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -251,6 +261,12 @@
   ],
   "attal": [
    {
+    "id": "zoFMv-7OYlQ",
+    "titre": "Je veux que les grands-parents puissent transmettre plus facilement à leurs petits-enfants.",
+    "date": "2026-11-05T21:12:10+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "vjSNG14e7rM",
     "titre": "Demandons à plus de Français de se mettre à bosser.",
     "date": "2026-11-05T11:15:34+00:00",
@@ -260,12 +276,6 @@
     "id": "Uw-0RziYpGU",
     "titre": "8 victimes de harcèlement ont eu l’immense courage de me raconter l’enfer qu’elles ont traversé.",
     "date": "2026-11-05T11:00:25+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "YAj_GTUMFWI",
-    "titre": "ILS ONT VÉCU L'ENFER : 8 VICTIMES RACONTENT TOUT.",
-    "date": "2026-11-05T09:59:06+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -311,6 +321,12 @@
   ],
   "eric-zemmour": [
    {
+    "id": "taIBLsAwrFo",
+    "titre": "🇫🇷La France n’a jamais été aussi grande que lorsqu’elle regardait vers la mer.",
+    "date": "2026-11-05T12:46:37+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
     "id": "KqDTbxhZufk",
     "titre": "Le maire de Saint-Denis, Bally Bagayoko, persiste et signe : « Robespierre ? Ça me va. »",
     "date": "2026-11-02T13:22:04+00:00",
@@ -320,12 +336,6 @@
     "id": "NeFe92abWFA",
     "titre": "Je suis un combattant et un dissident.",
     "date": "2026-11-02T09:45:56+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "6WxmXmkz3kY",
-    "titre": "Depuis la tuerie de Trappes, nous subissons une offensive inouïe contre la liberté d’expression.",
-    "date": "2026-10-30T15:21:56+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -351,21 +361,21 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "wzlBwUWgS30",
+    "titre": "On ne peut plus vivre avec un smic, il faut l’augmenter !",
+    "date": "2026-11-05T19:25:09+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
+    "id": "DK1ul-29Q2g",
+    "titre": "Grand entretien avec Philippe Murer : \"Les souverainistes se rassemblent !\"",
+    "date": "2026-11-05T17:24:47+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "d-hdrkjt1Yo",
     "titre": "Courage au peuple polonais, qui défend sa démocratie et ses libertés.",
     "date": "2026-11-04T18:36:25+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "w3ysxoJaYaY",
-    "titre": "Macron et Lescure font semblant de s’intéresser au pouvoir d’achat des Français.",
-    "date": "2026-11-02T20:30:06+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "TgKISWrTLeU",
-    "titre": "L'UE : en sortir pour s'en sortir.",
-    "date": "2026-11-01T16:00:31+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
@@ -391,6 +401,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "_9MHbQz0Ys4",
+    "titre": "États-Unis : la révolution éclate !",
+    "date": "2026-11-05T14:01:06+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "B6e1Voz_hdQ",
     "titre": "« On a les SMS de Macron ! » : ils sont accablants !",
     "date": "2026-11-04T14:00:14+00:00",
@@ -400,12 +416,6 @@
     "id": "8EdhxlnNgwc",
     "titre": "2800 soldats français en Pologne en plein coup d’État européiste !",
     "date": "2026-11-04T06:41:37+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "7SXvnCDUQ3k",
-    "titre": "« Une maison de t*rture ! » : la terrible vérité éclate, Macron est foutu !",
-    "date": "2026-11-03T14:01:22+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
