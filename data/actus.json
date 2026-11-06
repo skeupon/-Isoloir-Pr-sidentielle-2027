@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-05T21:37+00:00",
+ "maj": "2026-11-06T11:38+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -109,7 +109,21 @@
     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-il-continue-de-penser-qu-il-y-a-un-chemin-xavier-bertrand-trace-sa-route-vers-une-candidature-20261030"
    }
   ],
+  "nicolas-dupont-aignan": [
+   {
+    "titre": "\"Il faut mettre le smic net à 1 600 euros\", propose Nicolas Dupont-Aignan, candidat Debout la France à la présidentielle",
+    "source": "franceinfo",
+    "date": "2026-11-06T09:19:17+01:00",
+    "lien": "https://www.franceinfo.fr/politique/il-faut-mettre-le-smic-net-a-1-600-euros-propose-nicolas-dupont-aignan-au-lendemain-de-la-mobilisation-contre-la-vie-chere_8270444.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
   "glucksmann": [
+   {
+    "titre": "Raphaël Glucksmann endure des huées de la part de sympathisants « insoumis » à la manifestation du 5 novembre",
+    "source": "Le Monde",
+    "date": "2026-11-05T21:29:01+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/05/raphael-glusckmann-endure-des-huees-de-sympathisants-insoumis-a-la-manifestation-du-5-novembre_6807342_823448.html"
+   },
    {
     "titre": "Mobilisation du 5 novembre : Raphaël Glucksmann quitte le cortège après avoir été hué",
     "source": "franceinfo",
@@ -127,12 +141,20 @@
     "source": "Libération",
     "date": "2026-11-03T14:17:51+00:00",
     "lien": "https://www.liberation.fr/international/europe/ukraine-ingerences-russes-meloni-gaza-raphael-glucksmann-mise-tout-sur-le-front-europeen-20261103_44WL3KYU5NCI7OYCG5LUJNKNOA/"
+   }
+  ],
+  "le-pen": [
+   {
+    "titre": "Présidentielle : François Ruffin pourrait retirer sa candidature «si une solution se dégage pour battre Marine Le Pen»",
+    "source": "Libération",
+    "date": "2026-11-06T10:16:22+00:00",
+    "lien": "https://www.liberation.fr/politique/presidentielle-francois-ruffin-pourrait-retirer-sa-candidature-si-une-solution-se-degage-pour-battre-marine-le-pen-20261106_RUQMLP44YZGGZFYLF3ZH2H3SBQ/"
    },
    {
-    "titre": "Présidentielle : entre Edouard Philippe et Raphaël Glucksmann, une bataille pour l’issue de recours",
-    "source": "Libération",
-    "date": "2026-11-02T19:33:53+00:00",
-    "lien": "https://www.liberation.fr/politique/presidentielle-entre-edouard-philippe-et-raphael-glucksmann-une-bataille-pour-lissue-de-recours-20261102_KXIDYDJLLNAKRNBZI3WXNREVK4/"
+    "titre": "Donner moins d’argent à l’Europe : la proposition de Marine Le Pen est-elle réaliste ?",
+    "source": "Le Monde",
+    "date": "2026-11-06T09:40:32+01:00",
+    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/06/donner-moins-d-argent-a-l-europe-la-proposition-de-marine-le-pen-est-elle-realiste_6807742_4355770.html"
    }
   ],
   "david-lisnard": [
@@ -145,30 +167,34 @@
   ],
   "melenchon": [
    {
+    "titre": "Jean-Luc Mélenchon mise tout sur Gaza au détriment de l’Ukraine, dans son programme pour la présidentielle",
+    "source": "Le Monde",
+    "date": "2026-11-06T10:33:42+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/06/jean-luc-melenchon-mise-tout-sur-gaza-au-detriment-de-l-ukraine-dans-son-programme-pour-la-presidentielle_6807759_823448.html"
+   },
+   {
+    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme L’Avenir en commun autour du concept de « nouvelle France »",
+    "source": "Le Monde",
+    "date": "2026-11-06T06:30:00+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html"
+   },
+   {
+    "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
+    "source": "franceinfo",
+    "date": "2026-11-05T23:35:16+01:00",
+    "lien": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
     "titre": "«Nous nous engageons à soutenir Jean-Luc Mélenchon» : Fabien Roussel lâché par la moitié des députés PCF",
     "source": "Libération",
     "date": "2026-11-05T17:04:17+00:00",
     "lien": "https://www.liberation.fr/politique/elections/nous-nous-engageons-a-soutenir-jean-luc-melenchon-fabien-roussel-lache-par-la-majorite-du-groupe-communiste-a-lassemblee-melenchon-20261105_NMD2ZUWHY5FXHGWMSYLRJWUN6Y/"
    },
    {
-    "titre": "Présidentielle 2027 : la majorité du groupe communiste et ultramarin à l’Assemblée annonce soutenir Jean-Luc Mélenchon",
-    "source": "Le Monde",
-    "date": "2026-11-05T15:49:25+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/05/presidentielle-2027-la-majorite-du-groupe-communiste-et-ultramarin-a-l-assemblee-annonce-soutenir-jean-luc-melenchon_6806973_823448.html"
-   },
-   {
     "titre": "Edouard Philippe invite Jean-Luc Mélenchon à débattre de «racisme» et d’«antisémitisme»",
     "source": "Libération",
     "date": "2026-11-04T14:14:15+00:00",
     "lien": "https://www.liberation.fr/politique/edouard-philippe-invite-jean-luc-melenchon-a-debattre-de-racisme-et-dantisemitisme-20261104_SNQG4X6JAFGC3KYKM67CSD6M24/"
-   }
-  ],
-  "philippe": [
-   {
-    "titre": "\"Les propos qu'il tient sont une incitation au racisme\", assure Dominique de Villepin après les paroles d'Édouard Philippe sur les \"Français issus de l'immigration\"",
-    "source": "franceinfo",
-    "date": "2026-11-05T08:59:51+01:00",
-    "lien": "https://www.franceinfo.fr/politique/les-propos-qu-il-tient-sont-une-incitation-au-racisme-assure-dominique-de-villepin-apres-les-paroles-d-edouard-philippe-sur-les-francais-issus-de-l-immigration_8268926.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "retailleau": [
@@ -205,6 +231,12 @@
   ],
   "fabien-roussel": [
    {
+    "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
+    "source": "franceinfo",
+    "date": "2026-11-05T23:35:16+01:00",
+    "lien": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
     "titre": "«Nous nous engageons à soutenir Jean-Luc Mélenchon» : Fabien Roussel lâché par la moitié des députés PCF",
     "source": "Libération",
     "date": "2026-11-05T17:04:17+00:00",
@@ -216,26 +248,34 @@
     "date": "2026-11-03T13:37:04+00:00",
     "lien": "https://www.liberation.fr/politique/elections/montee-de-la-haine-et-du-racisme-mise-a-lindex-de-lfi-et-de-la-cgt-fabien-roussel-fait-le-parallele-avec-les-annees-30-20261103_TWCEAF5FLFDFZLBFJHWNLEYOHU/"
    }
+  ],
+  "francois-ruffin": [
+   {
+    "titre": "Présidentielle : François Ruffin pourrait retirer sa candidature «si une solution se dégage pour battre Marine Le Pen»",
+    "source": "Libération",
+    "date": "2026-11-06T10:16:22+00:00",
+    "lien": "https://www.liberation.fr/politique/presidentielle-francois-ruffin-pourrait-retirer-sa-candidature-si-une-solution-se-degage-pour-battre-marine-le-pen-20261106_RUQMLP44YZGGZFYLF3ZH2H3SBQ/"
+   }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "4Oc5EAAfkqQ",
-    "titre": "Entre Jordan et moi, pas de coin possible : on ne combat pas pour nous-mêmes.",
-    "date": "2026-11-05T21:30:13+00:00",
+    "id": "KLug5vqw2kk",
+    "titre": "Le logement : une priorité pour Marine Le Pen | Au cœur de la campagne #2 · F. Falcon et J. Sanchez",
+    "date": "2026-11-06T10:19:49+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "iY0t_ck8Q0E",
-    "titre": "La France, une grande puissante maritime !",
-    "date": "2026-11-05T20:31:21+00:00",
+    "id": "uNBJEdvrcAQ",
+    "titre": "La gauche la plus archaïque, la droite la plus pleutre : il faut réformer Schengen !",
+    "date": "2026-11-06T10:00:13+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "runH10hbw6M",
-    "titre": "Aujourd'hui, le danger, ce n'est plus le communisme : c'est le mondialisme.",
-    "date": "2026-11-05T16:00:13+00:00",
+    "id": "8NetOTN7u6Q",
+    "titre": "Les musulmans n'ont rien à craindre de mon arrivée au pouvoir. Les islamistes, si.",
+    "date": "2026-11-06T07:00:12+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -341,21 +381,21 @@
   ],
   "francois-ruffin": [
    {
-    "id": "M9pcnf2Dz3c",
-    "titre": "\"Au boulot !\", après le film, le livre !",
-    "date": "2026-11-03T21:03:15+00:00",
+    "id": "Z5C1NOwsGbI",
+    "titre": "Au Boulot !",
+    "date": "2026-11-06T09:47:52+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    },
    {
-    "id": "G7feTtQjUO4",
-    "titre": "Plus un rond pour les anciens présidents !",
-    "date": "2026-11-03T09:59:33+00:00",
+    "id": "aCTIE2XS55Y",
+    "titre": "40 chantiers pour redresser la France : François Ruffin dans C à vous",
+    "date": "2026-11-06T08:54:20+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    },
    {
-    "id": "OXb4EcY8KHo",
-    "titre": "Présidentielles 2027 : François Ruffin face à Sonia Mabrouk",
-    "date": "2026-11-02T21:56:22+00:00",
+    "id": "0FADWJOcClA",
+    "titre": "Présidentielles 2027 : François Ruffin dans la matinale de France Info",
+    "date": "2026-11-06T08:15:32+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    }
   ],
@@ -401,6 +441,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "R_NSb0s_HGk",
+    "titre": "Présidentielle 2027 : l’impensable se produit et ça change tout !",
+    "date": "2026-11-06T08:48:39+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "_9MHbQz0Ys4",
     "titre": "États-Unis : la révolution éclate !",
     "date": "2026-11-05T14:01:06+00:00",
@@ -410,12 +456,6 @@
     "id": "B6e1Voz_hdQ",
     "titre": "« On a les SMS de Macron ! » : ils sont accablants !",
     "date": "2026-11-04T14:00:14+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "8EdhxlnNgwc",
-    "titre": "2800 soldats français en Pologne en plein coup d’État européiste !",
-    "date": "2026-11-04T06:41:37+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
