@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-06T11:38+00:00",
+ "maj": "2026-11-06T21:07+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,14 +93,6 @@
   }
  ],
  "flux": {
-  "attal": [
-   {
-    "titre": "Gabriel Attal et Edouard Philippe s’accusent mutuellement d’être macronistes",
-    "source": "Libération",
-    "date": "2026-11-03T10:45:09+00:00",
-    "lien": "https://www.liberation.fr/politique/gabriel-attal-et-edouard-philippe-saccusent-mutuellement-detre-macronistes-20261103_4WIIPXHS3JBNFGBJIXEWI66NIU/"
-   }
-  ],
   "xavier-bertrand": [
    {
     "titre": "Présidentielle 2027 : « Il continue de penser qu’il y a un chemin », Xavier Bertrand trace sa route vers une candidature",
@@ -119,42 +111,24 @@
   ],
   "glucksmann": [
    {
-    "titre": "Raphaël Glucksmann endure des huées de la part de sympathisants « insoumis » à la manifestation du 5 novembre",
-    "source": "Le Monde",
-    "date": "2026-11-05T21:29:01+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/05/raphael-glusckmann-endure-des-huees-de-sympathisants-insoumis-a-la-manifestation-du-5-novembre_6807342_823448.html"
-   },
-   {
-    "titre": "Mobilisation du 5 novembre : Raphaël Glucksmann quitte le cortège après avoir été hué",
-    "source": "franceinfo",
-    "date": "2026-11-05T18:30:21+01:00",
-    "lien": "https://www.franceinfo.fr/economie/greve/greve/mobilisation-du-5-novembre-raphael-glucksmann-quitte-le-cortege-apres-avoir-ete-hue_8269736.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
     "titre": "«S’il y a des militants politiques qui sont hostiles, je m’en fous» : Raphaël Glucksmann présent à la manifestation mais forcé par la police à rebrousser chemin",
     "source": "Libération",
     "date": "2026-11-05T18:04:01+00:00",
     "lien": "https://www.liberation.fr/politique/sil-y-a-des-militants-politiques-qui-sont-hostiles-je-men-fous-raphael-glucksmann-present-a-la-manifestation-mais-force-de-rebrousser-chemin-20261105_JDBBQPL6ABGCTG4VLDMIKM5CJM/"
-   },
-   {
-    "titre": "Ukraine, ingérences russes, Meloni, Gaza… Raphaël Glucksmann mise tout sur le front européen",
-    "source": "Libération",
-    "date": "2026-11-03T14:17:51+00:00",
-    "lien": "https://www.liberation.fr/international/europe/ukraine-ingerences-russes-meloni-gaza-raphael-glucksmann-mise-tout-sur-le-front-europeen-20261103_44WL3KYU5NCI7OYCG5LUJNKNOA/"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Inéligibilité de Marine Le Pen : « La liberté d’expression des juges ne saurait être sanctionnée au risque de menacer la vie même de la démocratie »",
+    "source": "Le Monde",
+    "date": "2026-11-06T18:00:07+01:00",
+    "lien": "https://www.lemonde.fr/idees/article/2026/11/06/ineligibilite-de-marine-le-pen-la-liberte-d-expression-des-juges-ne-saurait-etre-sanctionnee-au-risque-de-menacer-la-vie-meme-de-la-democratie_6807834_3232.html"
+   },
    {
     "titre": "Présidentielle : François Ruffin pourrait retirer sa candidature «si une solution se dégage pour battre Marine Le Pen»",
     "source": "Libération",
     "date": "2026-11-06T10:16:22+00:00",
     "lien": "https://www.liberation.fr/politique/presidentielle-francois-ruffin-pourrait-retirer-sa-candidature-si-une-solution-se-degage-pour-battre-marine-le-pen-20261106_RUQMLP44YZGGZFYLF3ZH2H3SBQ/"
-   },
-   {
-    "titre": "Donner moins d’argent à l’Europe : la proposition de Marine Le Pen est-elle réaliste ?",
-    "source": "Le Monde",
-    "date": "2026-11-06T09:40:32+01:00",
-    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/06/donner-moins-d-argent-a-l-europe-la-proposition-de-marine-le-pen-est-elle-realiste_6807742_4355770.html"
    }
   ],
   "david-lisnard": [
@@ -167,16 +141,16 @@
   ],
   "melenchon": [
    {
-    "titre": "Jean-Luc Mélenchon mise tout sur Gaza au détriment de l’Ukraine, dans son programme pour la présidentielle",
-    "source": "Le Monde",
-    "date": "2026-11-06T10:33:42+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/06/jean-luc-melenchon-mise-tout-sur-gaza-au-detriment-de-l-ukraine-dans-son-programme-pour-la-presidentielle_6807759_823448.html"
+    "titre": "D’un Bourget à l’autre : comment Jean-Luc Mélenchon veut continuer de supplanter le PS",
+    "source": "Libération",
+    "date": "2026-11-06T19:54:47+00:00",
+    "lien": "https://www.liberation.fr/politique/dun-bourget-a-lautre-comment-jean-luc-melenchon-veut-continuer-de-supplanter-le-ps-20261106_A22URJZ24NCBFAVXZYA5VXMMIA/"
    },
    {
-    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme L’Avenir en commun autour du concept de « nouvelle France »",
-    "source": "Le Monde",
-    "date": "2026-11-06T06:30:00+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html"
+    "titre": "Nouvelle-Calédonie : les indépendantistes du FLNKS annoncent soutenir Jean-Luc Mélenchon pour la présidentielle",
+    "source": "Libération",
+    "date": "2026-11-06T18:50:14+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/nouvelle-caledonie-les-independantistes-du-flnks-annoncent-soutenir-jean-luc-melenchon-pour-la-presidentielle-20261106_TTITGX45JBBWPFJ4KYEZ7RI47U/"
    },
    {
     "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
@@ -198,24 +172,6 @@
    }
   ],
   "retailleau": [
-   {
-    "titre": "Bruno Retailleau appelle à \"ne pas bloquer\" les lycées et dénonce \"la violence d'une minorité bruyante\"",
-    "source": "franceinfo",
-    "date": "2026-11-05T10:15:47+01:00",
-    "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-a-ne-pas-bloquer-les-lycees-et-denonce-la-violence-d-une-minorite-bruyante_8268953.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Bruno Retailleau appelle la droite à \"se réveiller\" pour la présidentielle et défend son idée de débats, avant une éventuelle primaire",
-    "source": "franceinfo",
-    "date": "2026-11-05T10:12:26+01:00",
-    "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-la-droite-a-se-reveiller-pour-la-presidentielle-et-defend-son-idee-de-debats-avant-une-eventuelle-primaire_8269013.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "Grève générale, pouvoir d'achat, blocage des lycées... \"Le 8h30 franceinfo\" de Bruno Retailleau",
-    "source": "franceinfo",
-    "date": "2026-11-05T09:03:14+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/greve-generale-pouvoir-d-achat-blocage-des-lycees-le-8h30-franceinfo-de-bruno-retailleau_8248147.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
    {
     "titre": "La haine de LFI rend Bruno Retailleau aveugle envers Eric Zemmour",
     "source": "Libération",
@@ -241,12 +197,6 @@
     "source": "Libération",
     "date": "2026-11-05T17:04:17+00:00",
     "lien": "https://www.liberation.fr/politique/elections/nous-nous-engageons-a-soutenir-jean-luc-melenchon-fabien-roussel-lache-par-la-majorite-du-groupe-communiste-a-lassemblee-melenchon-20261105_NMD2ZUWHY5FXHGWMSYLRJWUN6Y/"
-   },
-   {
-    "titre": "«Montée de la haine et du racisme», menaces contre LFI et la CGT : Fabien Roussel fait le parallèle avec «les années 30»",
-    "source": "Libération",
-    "date": "2026-11-03T13:37:04+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/montee-de-la-haine-et-du-racisme-mise-a-lindex-de-lfi-et-de-la-cgt-fabien-roussel-fait-le-parallele-avec-les-annees-30-20261103_TWCEAF5FLFDFZLBFJHWNLEYOHU/"
    }
   ],
   "francois-ruffin": [
@@ -261,21 +211,21 @@
  "videos": {
   "le-pen": [
    {
+    "id": "IpIzqvmOZ5g",
+    "titre": "Je ferai un référendum contre les idéologies totalitaires, dont le voile participe.",
+    "date": "2026-11-06T16:00:22+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "86cF5t3Icwc",
+    "titre": "10 milliards pour l'UE, c'est insupportable : il faut réduire notre contribution !",
+    "date": "2026-11-06T13:00:33+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "KLug5vqw2kk",
     "titre": "Le logement : une priorité pour Marine Le Pen | Au cœur de la campagne #2 · F. Falcon et J. Sanchez",
     "date": "2026-11-06T10:19:49+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "uNBJEdvrcAQ",
-    "titre": "La gauche la plus archaïque, la droite la plus pleutre : il faut réformer Schengen !",
-    "date": "2026-11-06T10:00:13+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "8NetOTN7u6Q",
-    "titre": "Les musulmans n'ont rien à craindre de mon arrivée au pouvoir. Les islamistes, si.",
-    "date": "2026-11-06T07:00:12+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -301,21 +251,21 @@
   ],
   "attal": [
    {
+    "id": "OfUBHxw7lcE",
+    "titre": "Merci La Route du Rhum pour l'accueil. ⛵🇫🇷",
+    "date": "2026-11-06T18:06:38+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
+    "id": "rvZEN4i2XmQ",
+    "titre": "58 000 euros avant de pouvoir poser une pierre...",
+    "date": "2026-11-06T12:03:07+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "zoFMv-7OYlQ",
     "titre": "Je veux que les grands-parents puissent transmettre plus facilement à leurs petits-enfants.",
     "date": "2026-11-05T21:12:10+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "vjSNG14e7rM",
-    "titre": "Demandons à plus de Français de se mettre à bosser.",
-    "date": "2026-11-05T11:15:34+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "Uw-0RziYpGU",
-    "titre": "8 victimes de harcèlement ont eu l’immense courage de me raconter l’enfer qu’elles ont traversé.",
-    "date": "2026-11-05T11:00:25+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -341,21 +291,21 @@
   ],
   "david-lisnard": [
    {
-    "id": "3ryvXwcFuGo",
-    "titre": "Plus de liberté pour les gens qui sont honnêtes, et plus d'autorité contre les voyous",
-    "date": "2026-11-05T10:18:14+00:00",
+    "id": "7j2DJHYpYKQ",
+    "titre": "DAVID LISNARD APPELLE AUDREY LA 100 000e ADHÉRENTE",
+    "date": "2026-11-06T19:00:22+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "UkkuPbr8_o0",
-    "titre": "100 000 adhérents payants : certifié",
-    "date": "2026-11-04T17:48:57+00:00",
+    "id": "Kcrzj-GrqSI",
+    "titre": "ON ACCUEILLE TROP D’IMMIGRÉS ET ON A ABANDONNÉ L’ASSIMILATION",
+    "date": "2026-11-06T15:31:11+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "lu-iB4lUCFY",
-    "titre": "Comment moins accueillir pour mieux intégrer et assimiler",
-    "date": "2026-11-04T15:21:40+00:00",
+    "id": "6hf8aIIzIHM",
+    "titre": "Pourquoi faut-il 17 mois en France pour avoir l’autorisation de construire une usine ?",
+    "date": "2026-11-06T12:27:21+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -381,6 +331,12 @@
   ],
   "francois-ruffin": [
    {
+    "id": "QtA3IIhSC78",
+    "titre": "Sarah Saldmann, histoire d'une conversion",
+    "date": "2026-11-06T15:16:05+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
     "id": "Z5C1NOwsGbI",
     "titre": "Au Boulot !",
     "date": "2026-11-06T09:47:52+00:00",
@@ -391,35 +347,35 @@
     "titre": "40 chantiers pour redresser la France : François Ruffin dans C à vous",
     "date": "2026-11-06T08:54:20+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "0FADWJOcClA",
-    "titre": "Présidentielles 2027 : François Ruffin dans la matinale de France Info",
-    "date": "2026-11-06T08:15:32+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    }
   ],
   "nicolas-dupont-aignan": [
+   {
+    "id": "u4mCKZFkzYY",
+    "titre": "Il y a toujours de l’argent pour l’Ukraine, les fausses cartes vitales ou les éoliennes…",
+    "date": "2026-11-06T15:54:52+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
+    "id": "Y2CpHYTt1Dk",
+    "titre": "\"Je propose le SMIC à 1600 euros net en baissant les cotisations salariales !\" · France 2.",
+    "date": "2026-11-06T11:45:51+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
    {
     "id": "wzlBwUWgS30",
     "titre": "On ne peut plus vivre avec un smic, il faut l’augmenter !",
     "date": "2026-11-05T19:25:09+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "DK1ul-29Q2g",
-    "titre": "Grand entretien avec Philippe Murer : \"Les souverainistes se rassemblent !\"",
-    "date": "2026-11-05T17:24:47+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "d-hdrkjt1Yo",
-    "titre": "Courage au peuple polonais, qui défend sa démocratie et ses libertés.",
-    "date": "2026-11-04T18:36:25+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "XEyVxp4P2mg",
+    "titre": "Avec moins de 2 200€ on vit dans la peur",
+    "date": "2026-11-06T16:18:51+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "Tq5H7LGOPQ4",
     "titre": "Dans la manifestation étudiante de ce matin à Lille",
@@ -431,15 +387,15 @@
     "titre": "Tous en GRÈVE et en MANIFESTATION jeudi 5 novembre",
     "date": "2026-11-02T16:47:43+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "9GO4t2xVS2M",
-    "titre": "Ceux qui ont armé l'assassin",
-    "date": "2026-11-02T14:00:14+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "O6g9dE_nK3Q",
+    "titre": "Coup de tonnerre : l’armée polonaise se retourne contre l’UE et Ursula !",
+    "date": "2026-11-06T19:08:35+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "R_NSb0s_HGk",
     "titre": "Présidentielle 2027 : l’impensable se produit et ça change tout !",
@@ -450,12 +406,6 @@
     "id": "_9MHbQz0Ys4",
     "titre": "États-Unis : la révolution éclate !",
     "date": "2026-11-05T14:01:06+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "B6e1Voz_hdQ",
-    "titre": "« On a les SMS de Macron ! » : ils sont accablants !",
-    "date": "2026-11-04T14:00:14+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
