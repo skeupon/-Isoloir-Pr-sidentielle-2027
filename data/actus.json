@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-06T21:07+00:00",
+ "maj": "2026-11-07T10:43+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -111,6 +111,18 @@
   ],
   "glucksmann": [
    {
+    "titre": "«Il ne faut pas exagérer les conséquences de ce moment» : avant le meeting de Jean-Luc Mélenchon, l’indifférence règne chez Raphaël Glucksmann",
+    "source": "Libération",
+    "date": "2026-11-07T06:56:00+00:00",
+    "lien": "https://www.liberation.fr/politique/il-ne-faut-pas-exagerer-les-consequences-de-ce-moment-avant-le-meeting-de-jean-luc-melenchon-lindifference-regne-chez-raphael-glucksmann-20261107_2TMWMY2LGNHUDFIP23K6SATJQU/"
+   },
+   {
+    "titre": "Raphaël Glucksmann met en ordre de bataille la famille socialiste pour la campagne de la présidentielle 2027",
+    "source": "Le Monde",
+    "date": "2026-11-07T06:00:12+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html"
+   },
+   {
     "titre": "«S’il y a des militants politiques qui sont hostiles, je m’en fous» : Raphaël Glucksmann présent à la manifestation mais forcé par la police à rebrousser chemin",
     "source": "Libération",
     "date": "2026-11-05T18:04:01+00:00",
@@ -141,6 +153,18 @@
   ],
   "melenchon": [
    {
+    "titre": "\"L'accueil dans les manifs, je n'ai jamais vu ça\" : comment Jean-Luc Mélenchon surfe sur la contestation sociale en vue de la présidentielle",
+    "source": "franceinfo",
+    "date": "2026-11-07T07:02:40+01:00",
+    "lien": "https://www.franceinfo.fr/economie/greve/greve/l-accueil-dans-les-manifs-je-n-ai-jamais-vu-ca-comment-jean-luc-melenchon-surfe-sur-la-contestation-sociale-en-vue-de-la-presidentielle_8267927.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "«Il ne faut pas exagérer les conséquences de ce moment» : avant le meeting de Jean-Luc Mélenchon, l’indifférence règne chez Raphaël Glucksmann",
+    "source": "Libération",
+    "date": "2026-11-07T06:56:00+00:00",
+    "lien": "https://www.liberation.fr/politique/il-ne-faut-pas-exagerer-les-consequences-de-ce-moment-avant-le-meeting-de-jean-luc-melenchon-lindifference-regne-chez-raphael-glucksmann-20261107_2TMWMY2LGNHUDFIP23K6SATJQU/"
+   },
+   {
     "titre": "D’un Bourget à l’autre : comment Jean-Luc Mélenchon veut continuer de supplanter le PS",
     "source": "Libération",
     "date": "2026-11-06T19:54:47+00:00",
@@ -153,22 +177,18 @@
     "lien": "https://www.liberation.fr/politique/elections/nouvelle-caledonie-les-independantistes-du-flnks-annoncent-soutenir-jean-luc-melenchon-pour-la-presidentielle-20261106_TTITGX45JBBWPFJ4KYEZ7RI47U/"
    },
    {
-    "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
-    "source": "franceinfo",
-    "date": "2026-11-05T23:35:16+01:00",
-    "lien": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
     "titre": "«Nous nous engageons à soutenir Jean-Luc Mélenchon» : Fabien Roussel lâché par la moitié des députés PCF",
     "source": "Libération",
     "date": "2026-11-05T17:04:17+00:00",
     "lien": "https://www.liberation.fr/politique/elections/nous-nous-engageons-a-soutenir-jean-luc-melenchon-fabien-roussel-lache-par-la-majorite-du-groupe-communiste-a-lassemblee-melenchon-20261105_NMD2ZUWHY5FXHGWMSYLRJWUN6Y/"
-   },
+   }
+  ],
+  "philippe": [
    {
-    "titre": "Edouard Philippe invite Jean-Luc Mélenchon à débattre de «racisme» et d’«antisémitisme»",
-    "source": "Libération",
-    "date": "2026-11-04T14:14:15+00:00",
-    "lien": "https://www.liberation.fr/politique/edouard-philippe-invite-jean-luc-melenchon-a-debattre-de-racisme-et-dantisemitisme-20261104_SNQG4X6JAFGC3KYKM67CSD6M24/"
+    "titre": "\"Il n'y en a qu'un qui ne veut pas de cette primaire\" : Édouard Philippe peut-il encore échapper à une primaire de la droite et du centre ?",
+    "source": "franceinfo",
+    "date": "2026-11-07T09:08:41+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/il-n-y-en-a-qu-un-qui-ne-veut-pas-de-cette-primaire-sous-pression-edouard-philippe-peut-il-encore-echapper-a-une-primaire-de-la-droite-et-du-centre_8251654.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "retailleau": [
@@ -186,12 +206,6 @@
    }
   ],
   "fabien-roussel": [
-   {
-    "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
-    "source": "franceinfo",
-    "date": "2026-11-05T23:35:16+01:00",
-    "lien": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
    {
     "titre": "«Nous nous engageons à soutenir Jean-Luc Mélenchon» : Fabien Roussel lâché par la moitié des députés PCF",
     "source": "Libération",
@@ -251,6 +265,12 @@
   ],
   "attal": [
    {
+    "id": "FORoffQ1aL8",
+    "titre": "Le problème, c'est le système.",
+    "date": "2026-11-07T08:53:34+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "OfUBHxw7lcE",
     "titre": "Merci La Route du Rhum pour l'accueil. ⛵🇫🇷",
     "date": "2026-11-06T18:06:38+00:00",
@@ -260,12 +280,6 @@
     "id": "rvZEN4i2XmQ",
     "titre": "58 000 euros avant de pouvoir poser une pierre...",
     "date": "2026-11-06T12:03:07+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "zoFMv-7OYlQ",
-    "titre": "Je veux que les grands-parents puissent transmettre plus facilement à leurs petits-enfants.",
-    "date": "2026-11-05T21:12:10+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -291,6 +305,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "56vkEAIYXnU",
+    "titre": "Je crains qu'un jour nous ayons un journaliste mort lynché par une foule haineuse",
+    "date": "2026-11-07T10:28:07+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "7j2DJHYpYKQ",
     "titre": "DAVID LISNARD APPELLE AUDREY LA 100 000e ADHÉRENTE",
     "date": "2026-11-06T19:00:22+00:00",
@@ -300,12 +320,6 @@
     "id": "Kcrzj-GrqSI",
     "titre": "ON ACCUEILLE TROP D’IMMIGRÉS ET ON A ABANDONNÉ L’ASSIMILATION",
     "date": "2026-11-06T15:31:11+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "6hf8aIIzIHM",
-    "titre": "Pourquoi faut-il 17 mois en France pour avoir l’autorisation de construire une usine ?",
-    "date": "2026-11-06T12:27:21+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -371,6 +385,12 @@
   ],
   "nathalie-arthaud": [
    {
+    "id": "vVk7r0MX4Ug",
+    "titre": "L'ennemi c'est le grand patronat",
+    "date": "2026-11-07T09:00:22+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
     "id": "XEyVxp4P2mg",
     "titre": "Avec moins de 2 200€ on vit dans la peur",
     "date": "2026-11-06T16:18:51+00:00",
@@ -381,15 +401,15 @@
     "titre": "Dans la manifestation étudiante de ce matin à Lille",
     "date": "2026-11-03T20:21:30+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "Ys2Dq_XyzNE",
-    "titre": "Tous en GRÈVE et en MANIFESTATION jeudi 5 novembre",
-    "date": "2026-11-02T16:47:43+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "Weh5lGs70eg",
+    "titre": "Censure des réseaux sociaux : Macron démasqué !",
+    "date": "2026-11-07T09:16:35+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "O6g9dE_nK3Q",
     "titre": "Coup de tonnerre : l’armée polonaise se retourne contre l’UE et Ursula !",
@@ -400,12 +420,6 @@
     "id": "R_NSb0s_HGk",
     "titre": "Présidentielle 2027 : l’impensable se produit et ça change tout !",
     "date": "2026-11-06T08:48:39+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "_9MHbQz0Ys4",
-    "titre": "États-Unis : la révolution éclate !",
-    "date": "2026-11-05T14:01:06+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
