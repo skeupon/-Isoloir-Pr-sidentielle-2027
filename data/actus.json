@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-07T10:43+00:00",
+ "maj": "2026-11-07T19:41+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -101,14 +101,6 @@
     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-il-continue-de-penser-qu-il-y-a-un-chemin-xavier-bertrand-trace-sa-route-vers-une-candidature-20261030"
    }
   ],
-  "nicolas-dupont-aignan": [
-   {
-    "titre": "\"Il faut mettre le smic net à 1 600 euros\", propose Nicolas Dupont-Aignan, candidat Debout la France à la présidentielle",
-    "source": "franceinfo",
-    "date": "2026-11-06T09:19:17+01:00",
-    "lien": "https://www.franceinfo.fr/politique/il-faut-mettre-le-smic-net-a-1-600-euros-propose-nicolas-dupont-aignan-au-lendemain-de-la-mobilisation-contre-la-vie-chere_8270444.html#xtor=RSS-3-%5Bgeneral%5D"
-   }
-  ],
   "glucksmann": [
    {
     "titre": "«Il ne faut pas exagérer les conséquences de ce moment» : avant le meeting de Jean-Luc Mélenchon, l’indifférence règne chez Raphaël Glucksmann",
@@ -131,10 +123,10 @@
   ],
   "le-pen": [
    {
-    "titre": "Inéligibilité de Marine Le Pen : « La liberté d’expression des juges ne saurait être sanctionnée au risque de menacer la vie même de la démocratie »",
+    "titre": "Marine Le Pen et Edouard Philippe attaquent le programme de LFI, que Jean-Luc Mélenchon doit présenter samedi lors d’un meeting au Bourget",
     "source": "Le Monde",
-    "date": "2026-11-06T18:00:07+01:00",
-    "lien": "https://www.lemonde.fr/idees/article/2026/11/06/ineligibilite-de-marine-le-pen-la-liberte-d-expression-des-juges-ne-saurait-etre-sanctionnee-au-risque-de-menacer-la-vie-meme-de-la-democratie_6807834_3232.html"
+    "date": "2026-11-07T15:43:50+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/07/marine-le-pen-et-edouard-philippe-attaquent-le-programme-de-lfi-que-jean-luc-melenchon-doit-presenter-samedi-lors-d-un-meeting-au-bourget_6808286_823448.html"
    },
    {
     "titre": "Présidentielle : François Ruffin pourrait retirer sa candidature «si une solution se dégage pour battre Marine Le Pen»",
@@ -153,34 +145,34 @@
   ],
   "melenchon": [
    {
-    "titre": "\"L'accueil dans les manifs, je n'ai jamais vu ça\" : comment Jean-Luc Mélenchon surfe sur la contestation sociale en vue de la présidentielle",
+    "titre": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\"",
     "source": "franceinfo",
-    "date": "2026-11-07T07:02:40+01:00",
-    "lien": "https://www.franceinfo.fr/economie/greve/greve/l-accueil-dans-les-manifs-je-n-ai-jamais-vu-ca-comment-jean-luc-melenchon-surfe-sur-la-contestation-sociale-en-vue-de-la-presidentielle_8267927.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-11-07T19:58:40+01:00",
+    "lien": "https://www.franceinfo.fr/politique/melenchon/depuis-son-meeting-au-bourget-jean-luc-melenchon-refuse-de-mettre-de-l-eau-dans-son-vin-pour-seduire-et-etre-moins-clivant_8272640.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "«Il ne faut pas exagérer les conséquences de ce moment» : avant le meeting de Jean-Luc Mélenchon, l’indifférence règne chez Raphaël Glucksmann",
-    "source": "Libération",
-    "date": "2026-11-07T06:56:00+00:00",
-    "lien": "https://www.liberation.fr/politique/il-ne-faut-pas-exagerer-les-consequences-de-ce-moment-avant-le-meeting-de-jean-luc-melenchon-lindifference-regne-chez-raphael-glucksmann-20261107_2TMWMY2LGNHUDFIP23K6SATJQU/"
+    "titre": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de de \"Regards\"",
+    "source": "franceinfo",
+    "date": "2026-11-07T19:43:28+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/meeting-de-jean-luc-melenchon-au-bourget-peu-de-candidats-ou-candidates-a-l-election-presidentielle-sont-capables-de-remplir-une-salle-aussi-grande-souligne-le-redacteur-en-chef-de-de-regards_8272619.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "D’un Bourget à l’autre : comment Jean-Luc Mélenchon veut continuer de supplanter le PS",
+    "titre": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
     "source": "Libération",
-    "date": "2026-11-06T19:54:47+00:00",
-    "lien": "https://www.liberation.fr/politique/dun-bourget-a-lautre-comment-jean-luc-melenchon-veut-continuer-de-supplanter-le-ps-20261106_A22URJZ24NCBFAVXZYA5VXMMIA/"
+    "date": "2026-11-07T19:35:59+00:00",
+    "lien": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/"
    },
    {
-    "titre": "Nouvelle-Calédonie : les indépendantistes du FLNKS annoncent soutenir Jean-Luc Mélenchon pour la présidentielle",
+    "titre": "«A bas la résignation des battus d’avance» : en meeting au Bourget, Jean-Luc Mélenchon signe une inflexible démonstration de force",
     "source": "Libération",
-    "date": "2026-11-06T18:50:14+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/nouvelle-caledonie-les-independantistes-du-flnks-annoncent-soutenir-jean-luc-melenchon-pour-la-presidentielle-20261106_TTITGX45JBBWPFJ4KYEZ7RI47U/"
+    "date": "2026-11-07T18:49:39+00:00",
+    "lien": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/"
    },
    {
-    "titre": "«Nous nous engageons à soutenir Jean-Luc Mélenchon» : Fabien Roussel lâché par la moitié des députés PCF",
-    "source": "Libération",
-    "date": "2026-11-05T17:04:17+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/nous-nous-engageons-a-soutenir-jean-luc-melenchon-fabien-roussel-lache-par-la-majorite-du-groupe-communiste-a-lassemblee-melenchon-20261105_NMD2ZUWHY5FXHGWMSYLRJWUN6Y/"
+    "titre": "Présidentielle 2027 : « Je n’ai qu’une chose raisonnable à vous proposer : il faut tout changer », lance Jean-Luc Mélenchon lors de son meeting au Bourget",
+    "source": "Le Monde",
+    "date": "2026-11-07T17:21:22+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-je-n-ai-qu-une-chose-raisonnable-a-vous-proposer-il-faut-tout-changer-lance-jean-luc-melenchon-en-introduction-de-son-meeting-au-bourget_6808296_823448.html"
    }
   ],
   "philippe": [
@@ -225,6 +217,12 @@
  "videos": {
   "le-pen": [
    {
+    "id": "_pVj2Yx_EkI",
+    "titre": "😉",
+    "date": "2026-11-07T12:02:08+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "IpIzqvmOZ5g",
     "titre": "Je ferai un référendum contre les idéologies totalitaires, dont le voile participe.",
     "date": "2026-11-06T16:00:22+00:00",
@@ -235,19 +233,19 @@
     "titre": "10 milliards pour l'UE, c'est insupportable : il faut réduire notre contribution !",
     "date": "2026-11-06T13:00:33+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "KLug5vqw2kk",
-    "titre": "Le logement : une priorité pour Marine Le Pen | Au cœur de la campagne #2 · F. Falcon et J. Sanchez",
-    "date": "2026-11-06T10:19:49+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
    {
+    "id": "rsZ_e94SiR0",
+    "titre": "Marchons notre chemin, jusqu’à la victoire !",
+    "date": "2026-11-07T17:34:38+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
     "id": "vPZdCClg92c",
     "titre": "Grand meeting du Bourget - Notre programme de gouvernement",
-    "date": "2026-11-04T16:29:41+00:00",
+    "date": "2026-11-07T17:07:54+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
@@ -255,15 +253,15 @@
     "titre": "Magnifique mobilisation populaire à Paris !",
     "date": "2026-10-31T16:52:43+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "w9FA0LTuhVk",
-    "titre": "C’est parce que son autorité n’est plus acceptée qu’un pouvoir tend vers l’autoritarisme.",
-    "date": "2026-10-29T09:39:44+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
+   {
+    "id": "GWemcz4Rejg",
+    "titre": "Pour la France, il faut une primaire.",
+    "date": "2026-11-07T18:45:46+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
    {
     "id": "FORoffQ1aL8",
     "titre": "Le problème, c'est le système.",
@@ -274,12 +272,6 @@
     "id": "OfUBHxw7lcE",
     "titre": "Merci La Route du Rhum pour l'accueil. ⛵🇫🇷",
     "date": "2026-11-06T18:06:38+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "rvZEN4i2XmQ",
-    "titre": "58 000 euros avant de pouvoir poser une pierre...",
-    "date": "2026-11-06T12:03:07+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -305,6 +297,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "frPvNGYDeh4",
+    "titre": "Rendez-vous le 10 novembre à 19h30 pour le premier DLive",
+    "date": "2026-11-07T17:18:32+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "56vkEAIYXnU",
     "titre": "Je crains qu'un jour nous ayons un journaliste mort lynché par une foule haineuse",
     "date": "2026-11-07T10:28:07+00:00",
@@ -314,12 +312,6 @@
     "id": "7j2DJHYpYKQ",
     "titre": "DAVID LISNARD APPELLE AUDREY LA 100 000e ADHÉRENTE",
     "date": "2026-11-06T19:00:22+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "Kcrzj-GrqSI",
-    "titre": "ON ACCUEILLE TROP D’IMMIGRÉS ET ON A ABANDONNÉ L’ASSIMILATION",
-    "date": "2026-11-06T15:31:11+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -345,6 +337,12 @@
   ],
   "francois-ruffin": [
    {
+    "id": "7vWTBpIPQ4g",
+    "titre": "Sarah Saldmann, histoire d'une conversion",
+    "date": "2026-11-07T11:31:38+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
     "id": "QtA3IIhSC78",
     "titre": "Sarah Saldmann, histoire d'une conversion",
     "date": "2026-11-06T15:16:05+00:00",
@@ -355,35 +353,35 @@
     "titre": "Au Boulot !",
     "date": "2026-11-06T09:47:52+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "aCTIE2XS55Y",
-    "titre": "40 chantiers pour redresser la France : François Ruffin dans C à vous",
-    "date": "2026-11-06T08:54:20+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    }
   ],
   "nicolas-dupont-aignan": [
    {
-    "id": "u4mCKZFkzYY",
-    "titre": "Il y a toujours de l’argent pour l’Ukraine, les fausses cartes vitales ou les éoliennes…",
-    "date": "2026-11-06T15:54:52+00:00",
+    "id": "DzQRN--jthE",
+    "titre": "Présidentielle 2027 : je serai le candidat des 55 % de Français qui ont dit NON à l’UE !",
+    "date": "2026-11-07T17:43:58+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    },
    {
-    "id": "Y2CpHYTt1Dk",
-    "titre": "\"Je propose le SMIC à 1600 euros net en baissant les cotisations salariales !\" · France 2.",
-    "date": "2026-11-06T11:45:51+00:00",
+    "id": "xW1afzEGKxc",
+    "titre": "ASSEZ D’IMPUNITÉ !Toujours les mêmes délinquants sont arrêtés et ressortent libres.",
+    "date": "2026-11-07T15:35:22+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    },
    {
-    "id": "wzlBwUWgS30",
-    "titre": "On ne peut plus vivre avec un smic, il faut l’augmenter !",
-    "date": "2026-11-05T19:25:09+00:00",
+    "id": "WqFOxrBL1Nc",
+    "titre": "\"Assez de beaux discours, passons aux actes !\" · Outre-mer La 1ère, 03/11/2026",
+    "date": "2026-11-07T13:13:55+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "ntAwjBjJqAQ",
+    "titre": "Mélenchon ne fait rien pour que les travailleurs s'attaquent eux-mêmes aux grands patrons",
+    "date": "2026-11-07T14:06:00+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "vVk7r0MX4Ug",
     "titre": "L'ennemi c'est le grand patronat",
@@ -395,15 +393,15 @@
     "titre": "Avec moins de 2 200€ on vit dans la peur",
     "date": "2026-11-06T16:18:51+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "Tq5H7LGOPQ4",
-    "titre": "Dans la manifestation étudiante de ce matin à Lille",
-    "date": "2026-11-03T20:21:30+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "ZITHtN6HQuA",
+    "titre": "« Kit d’urgence 72h ! » imposé aux Français : ce que ça cache !",
+    "date": "2026-11-07T14:00:04+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "Weh5lGs70eg",
     "titre": "Censure des réseaux sociaux : Macron démasqué !",
@@ -414,12 +412,6 @@
     "id": "O6g9dE_nK3Q",
     "titre": "Coup de tonnerre : l’armée polonaise se retourne contre l’UE et Ursula !",
     "date": "2026-11-06T19:08:35+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "R_NSb0s_HGk",
-    "titre": "Présidentielle 2027 : l’impensable se produit et ça change tout !",
-    "date": "2026-11-06T08:48:39+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
