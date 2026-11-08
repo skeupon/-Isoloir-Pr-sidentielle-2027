@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-07T19:41+00:00",
+ "maj": "2026-11-08T10:49+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -145,34 +145,34 @@
   ],
   "melenchon": [
    {
-    "titre": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\"",
+    "titre": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument",
     "source": "franceinfo",
-    "date": "2026-11-07T19:58:40+01:00",
-    "lien": "https://www.franceinfo.fr/politique/melenchon/depuis-son-meeting-au-bourget-jean-luc-melenchon-refuse-de-mettre-de-l-eau-dans-son-vin-pour-seduire-et-etre-moins-clivant_8272640.html#xtor=RSS-3-%5Bgeneral%5D"
+    "date": "2026-11-08T10:27:31+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de de \"Regards\"",
+    "titre": "Présidentielle 2027 : en meeting au Bourget, Jean-Luc Mélenchon mobilise sa base tout en s’attelant à élargir son électorat",
+    "source": "Le Monde",
+    "date": "2026-11-08T05:00:04+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html"
+   },
+   {
+    "titre": "REPORTAGE. \"Nous allons gagner\" : au Bourget, Jean-Luc Mélenchon dévoile son programme pour 2027 et poursuit sa démonstration de force",
     "source": "franceinfo",
-    "date": "2026-11-07T19:43:28+01:00",
+    "date": "2026-11-07T21:30:30+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-nous-allons-gagner-au-bourget-jean-luc-melenchon-devoile-son-programme-pour-2027-et-poursuit-sa-demonstration-de-force_8272679.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de \"Regards\"",
+    "source": "franceinfo",
+    "date": "2026-11-07T21:16:17+01:00",
     "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/meeting-de-jean-luc-melenchon-au-bourget-peu-de-candidats-ou-candidates-a-l-election-presidentielle-sont-capables-de-remplir-une-salle-aussi-grande-souligne-le-redacteur-en-chef-de-de-regards_8272619.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
-    "source": "Libération",
-    "date": "2026-11-07T19:35:59+00:00",
-    "lien": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/"
-   },
-   {
-    "titre": "«A bas la résignation des battus d’avance» : en meeting au Bourget, Jean-Luc Mélenchon signe une inflexible démonstration de force",
-    "source": "Libération",
-    "date": "2026-11-07T18:49:39+00:00",
-    "lien": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/"
-   },
-   {
-    "titre": "Présidentielle 2027 : « Je n’ai qu’une chose raisonnable à vous proposer : il faut tout changer », lance Jean-Luc Mélenchon lors de son meeting au Bourget",
-    "source": "Le Monde",
-    "date": "2026-11-07T17:21:22+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-je-n-ai-qu-une-chose-raisonnable-a-vous-proposer-il-faut-tout-changer-lance-jean-luc-melenchon-en-introduction-de-son-meeting-au-bourget_6808296_823448.html"
+    "titre": "\"Il faut tout changer !\", scande Jean-Luc Mélenchon lors de son grand meeting du Bourget",
+    "source": "franceinfo",
+    "date": "2026-11-07T20:43:45+01:00",
+    "lien": "https://www.franceinfo.fr/politique/melenchon/il-faut-tout-changer-scande-jean-luc-melenchon-lors-de-son-grand-meeting-du-bourget_8272676.html#xtor=RSS-3-%5Bgeneral%5D"
    }
   ],
   "philippe": [
@@ -237,21 +237,21 @@
   ],
   "melenchon": [
    {
-    "id": "rsZ_e94SiR0",
-    "titre": "Marchons notre chemin, jusqu’à la victoire !",
-    "date": "2026-11-07T17:34:38+00:00",
+    "id": "VEP0NhPbruc",
+    "titre": "Nous saluons avec fraternité l'arrivée de la majorité des députés communistes à nos côtés !",
+    "date": "2026-11-08T10:45:48+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "vPZdCClg92c",
-    "titre": "Grand meeting du Bourget - Notre programme de gouvernement",
-    "date": "2026-11-07T17:07:54+00:00",
+    "id": "zoPZaRWu3TU",
+    "titre": "La lutte paie ! À notre tour de changer l'Histoire !",
+    "date": "2026-11-08T08:00:27+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "CVDOhkJhINs",
-    "titre": "Magnifique mobilisation populaire à Paris !",
-    "date": "2026-10-31T16:52:43+00:00",
+    "id": "2mwE5hGsbNg",
+    "titre": "Nous réalisons avec vous une démonstration de la force insoumise !",
+    "date": "2026-11-07T20:28:32+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -297,6 +297,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "ims42aZczqg",
+    "titre": "NOTRE SYSTÈME ÉDUCATIF ACTUEL EST UN MASSACRE",
+    "date": "2026-11-07T20:44:06+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "frPvNGYDeh4",
     "titre": "Rendez-vous le 10 novembre à 19h30 pour le premier DLive",
     "date": "2026-11-07T17:18:32+00:00",
@@ -306,12 +312,6 @@
     "id": "56vkEAIYXnU",
     "titre": "Je crains qu'un jour nous ayons un journaliste mort lynché par une foule haineuse",
     "date": "2026-11-07T10:28:07+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "7j2DJHYpYKQ",
-    "titre": "DAVID LISNARD APPELLE AUDREY LA 100 000e ADHÉRENTE",
-    "date": "2026-11-06T19:00:22+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
