@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-08T20:00+00:00",
+ "maj": "2026-11-09T12:13+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -119,8 +119,20 @@
    {
     "titre": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
     "source": "franceinfo",
-    "date": "2026-11-08T20:55:32+01:00",
+    "date": "2026-11-09T13:06:30+01:00",
     "lien": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Raphaël Glucksmann affirme qu'il a refusé d'être Premier ministre d'Emmanuel Macron en 2024, après la dissolution",
+    "source": "franceinfo",
+    "date": "2026-11-09T11:25:39+01:00",
+    "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024_8274305.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
+    "source": "Libération",
+    "date": "2026-11-09T05:51:02+00:00",
+    "lien": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/"
    },
    {
     "titre": "Présidentielle 2027 : Raphaël Glucksmann affirme avoir refusé Matignon après la dissolution de 2024",
@@ -129,30 +141,24 @@
     "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html"
    },
    {
-    "titre": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
-    "source": "Libération",
-    "date": "2026-11-08T19:47:26+00:00",
-    "lien": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/"
-   },
-   {
     "titre": "«Il ne faut pas exagérer les conséquences de ce moment» : avant le meeting de Jean-Luc Mélenchon, l’indifférence règne chez Raphaël Glucksmann",
     "source": "Libération",
     "date": "2026-11-07T06:56:00+00:00",
     "lien": "https://www.liberation.fr/politique/il-ne-faut-pas-exagerer-les-consequences-de-ce-moment-avant-le-meeting-de-jean-luc-melenchon-lindifference-regne-chez-raphael-glucksmann-20261107_2TMWMY2LGNHUDFIP23K6SATJQU/"
-   },
-   {
-    "titre": "«S’il y a des militants politiques qui sont hostiles, je m’en fous» : Raphaël Glucksmann présent à la manifestation mais forcé par la police à rebrousser chemin",
-    "source": "Libération",
-    "date": "2026-11-05T18:04:01+00:00",
-    "lien": "https://www.liberation.fr/politique/sil-y-a-des-militants-politiques-qui-sont-hostiles-je-men-fous-raphael-glucksmann-present-a-la-manifestation-mais-force-de-rebrousser-chemin-20261105_JDBBQPL6ABGCTG4VLDMIKM5CJM/"
    }
   ],
   "le-pen": [
    {
-    "titre": "Marine Le Pen et Edouard Philippe attaquent le programme de LFI, que Jean-Luc Mélenchon doit présenter samedi lors d’un meeting au Bourget",
+    "titre": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
     "source": "Le Monde",
-    "date": "2026-11-07T15:43:50+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/07/marine-le-pen-et-edouard-philippe-attaquent-le-programme-de-lfi-que-jean-luc-melenchon-doit-presenter-samedi-lors-d-un-meeting-au-bourget_6808286_823448.html"
+    "date": "2026-11-09T11:47:04+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html"
+   },
+   {
+    "titre": "Marine Le Pen ne s’oppose plus à la «remigration»",
+    "source": "Libération",
+    "date": "2026-11-09T11:27:06+00:00",
+    "lien": "https://www.liberation.fr/politique/marine-le-pen-ne-soppose-plus-a-la-remigration-20261109_DJTPUVAS4ZFQLMPIP772ORKJ54/"
    },
    {
     "titre": "Présidentielle : François Ruffin pourrait retirer sa candidature «si une solution se dégage pour battre Marine Le Pen»",
@@ -195,19 +201,39 @@
     "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Jean-Luc Mélenchon, en meeting au Bourget pour l’élection présidentielle 2027, mobilise sa base tout en s’attelant à élargir son électorat",
-    "source": "Le Monde",
-    "date": "2026-11-08T05:00:04+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html"
-   },
-   {
     "titre": "REPORTAGE. \"Nous allons gagner\" : au Bourget, Jean-Luc Mélenchon dévoile son programme pour 2027 et poursuit sa démonstration de force",
     "source": "franceinfo",
     "date": "2026-11-07T21:30:30+01:00",
     "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-nous-allons-gagner-au-bourget-jean-luc-melenchon-devoile-son-programme-pour-2027-et-poursuit-sa-demonstration-de-force_8272679.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
+    "source": "Libération",
+    "date": "2026-11-07T19:35:59+00:00",
+    "lien": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/"
+   }
+  ],
+  "retailleau": [
+   {
+    "titre": "Bruno Retailleau fait appel aux fédés LR pour financer sa campagne présidentielle",
+    "source": "Libération",
+    "date": "2026-11-09T10:51:12+00:00",
+    "lien": "https://www.liberation.fr/politique/bruno-retailleau-fait-appel-aux-fedes-lr-pour-financer-sa-campagne-presidentielle-20261109_7C6MQWO3LVHJ3O5VOPH2DSE3MU/"
    }
   ],
   "fabien-roussel": [
+   {
+    "titre": "Revalorisation du SMIC : Fabien Roussel souhaite \"l’augmentation généralisée des salaires\"",
+    "source": "franceinfo",
+    "date": "2026-11-08T23:08:42+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html#xtor=RSS-3-%5Bgeneral%5D"
+   },
+   {
+    "titre": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
+    "source": "Le Monde",
+    "date": "2026-11-08T22:00:53+01:00",
+    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html"
+   },
    {
     "titre": "Présidentielle 2027 : en dépit des départs chez LFI, Fabien Roussel assure qu’il ira «jusqu’au bout»",
     "source": "Libération",
@@ -253,6 +279,12 @@
   ],
   "melenchon": [
    {
+    "id": "cXLdUJhORZI",
+    "titre": "Le Pen et Bardella n'ont aucune idée à part le racisme.",
+    "date": "2026-11-09T10:51:41+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
     "id": "09noWXm2fVA",
     "titre": "Nous agirons frontalement au secours des Palestiniens",
     "date": "2026-11-08T15:42:05+00:00",
@@ -262,12 +294,6 @@
     "id": "VEP0NhPbruc",
     "titre": "Nous saluons avec fraternité l'arrivée de la majorité des députés communistes à nos côtés !",
     "date": "2026-11-08T10:45:48+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "zoPZaRWu3TU",
-    "titre": "La lutte paie ! À notre tour de changer l'Histoire !",
-    "date": "2026-11-08T08:00:27+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -313,21 +339,21 @@
   ],
   "david-lisnard": [
    {
+    "id": "8eFYK7Cn_H8",
+    "titre": "Je nommerai un gouvernement commando qui engagera sa responsabilité sur les 200",
+    "date": "2026-11-09T10:15:13+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "PLh8DYt9HZs",
+    "titre": "Vrai ou Faux ✅❌",
+    "date": "2026-11-08T20:16:44+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "dvRDs_atv4Y",
     "titre": "Quand l'IA rend l'ENA obsolète.",
     "date": "2026-11-08T15:07:11+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "y5M91WRAIjc",
-    "titre": "« Pourquoi les Français vous choisiraient vous comme président ? » La réponse de @david_lisnard",
-    "date": "2026-11-08T13:25:04+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "oj1dHD8bqms",
-    "titre": "La seule motivation de @david_lisnard",
-    "date": "2026-11-08T11:37:31+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -373,6 +399,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "eOp-vPmEOho",
+    "titre": "Pour pouvoir résoudre nos problèmes, sortons de l'UE ! · LCI, 08/11/2026",
+    "date": "2026-11-08T20:27:58+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "DzQRN--jthE",
     "titre": "Présidentielle 2027 : je serai le candidat des 55 % de Français qui ont dit NON à l’UE !",
     "date": "2026-11-07T17:43:58+00:00",
@@ -383,38 +415,32 @@
     "titre": "ASSEZ D’IMPUNITÉ !Toujours les mêmes délinquants sont arrêtés et ressortent libres.",
     "date": "2026-11-07T15:35:22+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "WqFOxrBL1Nc",
-    "titre": "\"Assez de beaux discours, passons aux actes !\" · Outre-mer La 1ère, 03/11/2026",
-    "date": "2026-11-07T13:13:55+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
    {
+    "id": "IT7Z5hKDKrI",
+    "titre": "L'école est d'abord là pour dresser les futurs travailleurs",
+    "date": "2026-11-09T10:30:29+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "SrD6EKLhN68",
+    "titre": "Comme tous les politiciens, Le Pen est au service des grands patrons",
+    "date": "2026-11-09T06:21:28+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
     "id": "fagPZeNKNBo",
     "titre": "2200€ net pour vivre | Nathalie Arthaud sur BFMTV",
     "date": "2026-11-08T18:27:14+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "ntAwjBjJqAQ",
-    "titre": "Mélenchon ne fait rien pour que les travailleurs s'attaquent eux-mêmes aux grands patrons",
-    "date": "2026-11-07T14:06:00+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "vVk7r0MX4Ug",
-    "titre": "L'ennemi c'est le grand patronat",
-    "date": "2026-11-07T09:00:22+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
    {
     "id": "c1Sf7G43-JU",
-    "titre": "« Fuite des Macron dans un bunker ! » : un livre révèle tout !",
+    "titre": "« Fuite des Macron dans un bunker ! » : un livre révèle le plan 2027 !",
     "date": "2026-11-08T14:00:15+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    },
