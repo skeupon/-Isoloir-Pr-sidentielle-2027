@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10T11:53+00:00",
+ "maj": "2026-11-10T21:30+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -98,7 +98,7 @@
     "titre": "Gabriel Attal souhaite la \"bienvenue\" à Teddy Riner \"dans cette course\" à l’élection présidentielle",
     "source": "franceinfo",
     "date": "2026-11-10T08:58:59+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/gabriel-attal-dit-bienvenue-a-teddy-riner-dans-cette-course-a-l-election-presidentielle_8275922.html#xtor=RSS-3-%5Bgeneral%5D"
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/gabriel-attal-dit-bienvenue-a-teddy-riner-dans-cette-course-a-l-election-presidentielle_8275922.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "glucksmann": [
@@ -107,12 +107,6 @@
     "source": "Libération",
     "date": "2026-11-09T16:55:54+00:00",
     "lien": "https://www.liberation.fr/politique/revision-de-la-constitution-contribution-des-hauts-patrimoines-neutralite-carbone-raphael-glucksmann-devoile-la-premiere-partie-de-sa-revolution-ecologique-20261109_6RRYZ6Z74FBSHIZOR7KQWJNHWQ/"
-   },
-   {
-    "titre": "Présidentielle 2027 : Raphaël Glucksmann, avec Yannick Jadot, présente ses « cent jours de la révolution écologique »",
-    "source": "Le Monde",
-    "date": "2026-11-09T13:49:09+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-le-duo-glucksmann-jadot-presente-ses-100-jours-de-la-revolution-ecologique_6808651_823448.html"
    },
    {
     "titre": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
@@ -129,25 +123,33 @@
   ],
   "le-pen": [
    {
-    "titre": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
-    "source": "franceinfo",
-    "date": "2026-11-09T22:44:40+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "\"Il n'y a pas de discriminations en France\" pour Marine Le Pen",
-    "source": "franceinfo",
-    "date": "2026-11-09T22:00:02+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
     "titre": "Marine Le Pen ne s’oppose plus à la «remigration»",
     "source": "Libération",
     "date": "2026-11-09T11:27:06+00:00",
     "lien": "https://www.liberation.fr/politique/marine-le-pen-ne-soppose-plus-a-la-remigration-20261109_DJTPUVAS4ZFQLMPIP772ORKJ54/"
    }
   ],
+  "david-lisnard": [
+   {
+    "titre": "Présidentielle 2027 : David Lisnard et les raisons d’une surprenante percée libérale",
+    "source": "Le Monde",
+    "date": "2026-11-10T15:00:03+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-david-lisnard-et-les-raisons-d-une-percee-liberale-inattendue_6808840_823448.html"
+   }
+  ],
   "melenchon": [
+   {
+    "titre": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass",
+    "source": "franceinfo",
+    "date": "2026-11-10T22:04:25+01:00",
+    "lien": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
+    "source": "franceinfo",
+    "date": "2026-11-10T14:51:41+01:00",
+    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
     "source": "Le Figaro",
@@ -165,18 +167,6 @@
     "source": "Libération",
     "date": "2026-11-07T18:49:39+00:00",
     "lien": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/"
-   },
-   {
-    "titre": "Présidentielle : les députés qui soutiennent Jean-Luc Mélenchon se sont mis «en dehors du parti», réagit le PCF",
-    "source": "Libération",
-    "date": "2026-11-07T12:55:49+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-les-deputes-qui-soutiennent-jean-luc-melenchon-se-sont-mis-en-dehors-du-parti-reagit-le-pcf-20261107_WTSZWGQPBVCPBJTMAUO5WZCEFE/"
-   },
-   {
-    "titre": "«Il ne faut pas exagérer les conséquences de ce moment» : avant le meeting de Jean-Luc Mélenchon, l’indifférence règne chez Raphaël Glucksmann",
-    "source": "Libération",
-    "date": "2026-11-07T06:56:00+00:00",
-    "lien": "https://www.liberation.fr/politique/il-ne-faut-pas-exagerer-les-consequences-de-ce-moment-avant-le-meeting-de-jean-luc-melenchon-lindifference-regne-chez-raphael-glucksmann-20261107_2TMWMY2LGNHUDFIP23K6SATJQU/"
    }
   ],
   "retailleau": [
@@ -219,6 +209,12 @@
   ],
   "melenchon": [
    {
+    "id": "v5uFQymMOU0",
+    "titre": "Vive la France une et indivisible !",
+    "date": "2026-11-10T15:46:45+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
     "id": "4Wb0aYJlE90",
     "titre": "Je vous annonce quelque chose qui va me valoir la désapprobation de Big Pharma",
     "date": "2026-11-10T08:56:18+00:00",
@@ -229,31 +225,25 @@
     "titre": "Discours sur la paix - Jean-Luc Mélenchon à La Souterraine",
     "date": "2026-11-09T16:54:35+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "cXLdUJhORZI",
-    "titre": "Le Pen et Bardella n'ont aucune idée à part le racisme.",
-    "date": "2026-11-09T10:51:41+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
    {
+    "id": "wE8CZI2ZQA8",
+    "titre": "Il y a des discriminations en France.",
+    "date": "2026-11-10T18:10:15+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
+    "id": "fZXNZKsc0n8",
+    "titre": "GABRIEL ATTAL DÉBAT AUX RENCONTRES DE L'AVENIR À SAINT-RAPHAËL",
+    "date": "2026-11-10T17:54:21+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "pCu-qJyfLak",
     "titre": "Gabriel Attal sur France Inter | Il faut une grande primaire !",
     "date": "2026-11-10T08:03:25+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "GWemcz4Rejg",
-    "titre": "Pour la France, il faut une primaire.",
-    "date": "2026-11-07T18:45:46+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "FORoffQ1aL8",
-    "titre": "Le problème, c'est le système.",
-    "date": "2026-11-07T08:53:34+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -279,61 +269,61 @@
   ],
   "david-lisnard": [
    {
-    "id": "9uRCZpB8ZJI",
-    "titre": "Vous êtes écologiste",
-    "date": "2026-11-10T10:13:39+00:00",
+    "id": "ikzfcs0PPfs",
+    "titre": "DLIVE",
+    "date": "2026-11-10T20:00:01+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "ExNveo00_Cs",
-    "titre": "Rendez-vous demain à 19h30 pour lepremier DLive ! Je répondrai en direct à vos questions",
-    "date": "2026-11-09T20:28:14+00:00",
+    "id": "pIh7AkOHYcs",
+    "titre": "DLIVE",
+    "date": "2026-11-10T19:51:09+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "hPB81tTxAuw",
-    "titre": "Le courage, la capacité de jugement des situations humaines, la loyauté et le travail",
-    "date": "2026-11-09T17:10:01+00:00",
+    "id": "b25ImKtq6XE",
+    "titre": "\"L'attente du sauveur est une forme de démission\"",
+    "date": "2026-11-10T16:18:13+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
-    "id": "taIBLsAwrFo",
-    "titre": "🇫🇷La France n’a jamais été aussi grande que lorsqu’elle regardait vers la mer.",
-    "date": "2026-11-05T12:46:37+00:00",
+    "id": "6qDUG34PYWo",
+    "titre": "Je suis candidat à l'élection présidentielle.",
+    "date": "2026-11-10T21:02:08+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "KqDTbxhZufk",
-    "titre": "Le maire de Saint-Denis, Bally Bagayoko, persiste et signe : « Robespierre ? Ça me va. »",
-    "date": "2026-11-02T13:22:04+00:00",
+    "id": "G4GwAdZ_iAc",
+    "titre": "Notre avenir sera français.👉 ericzemmour.fr",
+    "date": "2026-11-10T20:50:01+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "NeFe92abWFA",
-    "titre": "Je suis un combattant et un dissident.",
-    "date": "2026-11-02T09:45:56+00:00",
+    "id": "4_R4XWQA47Q",
+    "titre": "🇫🇷 Je suis candidat à l’élection présidentielle de 2027:",
+    "date": "2026-11-10T20:08:26+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
   "francois-ruffin": [
    {
+    "id": "4QNMtwY3LTU",
+    "titre": "Le logement, premier contraceptif du pays",
+    "date": "2026-11-10T16:16:54+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
+    "id": "_1yLr2gn9Uo",
+    "titre": "Pour une école de tous les savoirs !",
+    "date": "2026-11-10T13:26:22+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
     "id": "7vWTBpIPQ4g",
     "titre": "Sarah Saldmann, histoire d'une conversion",
     "date": "2026-11-07T11:31:38+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "QtA3IIhSC78",
-    "titre": "Sarah Saldmann, histoire d'une conversion",
-    "date": "2026-11-06T15:16:05+00:00",
-    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
-   },
-   {
-    "id": "Z5C1NOwsGbI",
-    "titre": "Au Boulot !",
-    "date": "2026-11-06T09:47:52+00:00",
     "chaine": "UCIQGSp79vVch0vO3Efqif_w"
    }
   ],
@@ -379,6 +369,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "R-ZU9QE7aKc",
+    "titre": "« Macron en taule 30 ans ! » : énorme clash sur CNews !",
+    "date": "2026-11-10T14:00:11+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "Q8Cp3dZAyD4",
     "titre": "Florian Philippot sur la tombe du général de Gaulle 9/11/2026 !",
     "date": "2026-11-10T05:58:13+00:00",
@@ -388,12 +384,6 @@
     "id": "ZK8OpCB0fqM",
     "titre": "Coup de tonnerre : Poutine « règle le cas Macron » !",
     "date": "2026-11-09T13:52:02+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "c1Sf7G43-JU",
-    "titre": "« Fuite des Macron dans un bunker ! » : un livre révèle le plan 2027 !",
-    "date": "2026-11-08T14:00:15+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
