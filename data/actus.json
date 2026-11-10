@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-09T23:52+00:00",
+ "maj": "2026-11-10T11:53+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,6 +93,14 @@
   }
  ],
  "flux": {
+  "attal": [
+   {
+    "titre": "Gabriel Attal souhaite la \"bienvenue\" à Teddy Riner \"dans cette course\" à l’élection présidentielle",
+    "source": "franceinfo",
+    "date": "2026-11-10T08:58:59+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/gabriel-attal-dit-bienvenue-a-teddy-riner-dans-cette-course-a-l-election-presidentielle_8275922.html#xtor=RSS-3-%5Bgeneral%5D"
+   }
+  ],
   "glucksmann": [
    {
     "titre": "Révision de la Constitution, contribution des hauts patrimoines, neutralité carbone : Raphaël Glucksmann dévoile la première partie de sa «révolution écologique»",
@@ -105,12 +113,6 @@
     "source": "Le Monde",
     "date": "2026-11-09T13:49:09+01:00",
     "lien": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-le-duo-glucksmann-jadot-presente-ses-100-jours-de-la-revolution-ecologique_6808651_823448.html"
-   },
-   {
-    "titre": "Raphaël Glucksmann affirme qu'il a refusé d'être Premier ministre d'Emmanuel Macron en 2024, après la dissolution",
-    "source": "franceinfo",
-    "date": "2026-11-09T11:25:39+01:00",
-    "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024_8274305.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
     "titre": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
@@ -139,18 +141,6 @@
     "lien": "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html#xtor=RSS-3-%5Bgeneral%5D"
    },
    {
-    "titre": "Marine Le Pen affirme que la France est \"le pays le moins raciste\" et suscite la polémique",
-    "source": "franceinfo",
-    "date": "2026-11-09T14:35:29+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-affirme-que-la-france-est-le-pays-le-moins-raciste-et-suscite-la-polemique_8274581.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
-    "titre": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
-    "source": "Le Monde",
-    "date": "2026-11-09T11:47:04+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html"
-   },
-   {
     "titre": "Marine Le Pen ne s’oppose plus à la «remigration»",
     "source": "Libération",
     "date": "2026-11-09T11:27:06+00:00",
@@ -161,7 +151,7 @@
    {
     "titre": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
     "source": "Le Figaro",
-    "date": "2026-11-09T17:34:57+01:00",
+    "date": "2026-11-10T08:13:32+01:00",
     "lien": "https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109"
    },
    {
@@ -199,26 +189,213 @@
   ],
   "fabien-roussel": [
    {
-    "titre": "Revalorisation du SMIC : Fabien Roussel souhaite \"l’augmentation généralisée des salaires\"",
-    "source": "franceinfo",
-    "date": "2026-11-08T23:08:42+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html#xtor=RSS-3-%5Bgeneral%5D"
-   },
-   {
     "titre": "Présidentielle 2027 : en dépit des départs chez LFI, Fabien Roussel assure qu’il ira «jusqu’au bout»",
     "source": "Libération",
     "date": "2026-11-08T19:28:00+00:00",
     "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-en-depit-des-departs-chez-lfi-fabien-roussel-assure-quil-ira-jusquau-bout-20261108_HIS3472YWZDDLOVZR7KOXSHEYM/"
    }
+  ]
+ },
+ "videos": {
+  "le-pen": [
+   {
+    "id": "_pVj2Yx_EkI",
+    "titre": "😉",
+    "date": "2026-11-07T12:02:08+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "IpIzqvmOZ5g",
+    "titre": "Je ferai un référendum contre les idéologies totalitaires, dont le voile participe.",
+    "date": "2026-11-06T16:00:22+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "86cF5t3Icwc",
+    "titre": "10 milliards pour l'UE, c'est insupportable : il faut réduire notre contribution !",
+    "date": "2026-11-06T13:00:33+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   }
+  ],
+  "melenchon": [
+   {
+    "id": "4Wb0aYJlE90",
+    "titre": "Je vous annonce quelque chose qui va me valoir la désapprobation de Big Pharma",
+    "date": "2026-11-10T08:56:18+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
+    "id": "xZoKroZbxbA",
+    "titre": "Discours sur la paix - Jean-Luc Mélenchon à La Souterraine",
+    "date": "2026-11-09T16:54:35+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
+    "id": "cXLdUJhORZI",
+    "titre": "Le Pen et Bardella n'ont aucune idée à part le racisme.",
+    "date": "2026-11-09T10:51:41+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   }
+  ],
+  "attal": [
+   {
+    "id": "pCu-qJyfLak",
+    "titre": "Gabriel Attal sur France Inter | Il faut une grande primaire !",
+    "date": "2026-11-10T08:03:25+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
+    "id": "GWemcz4Rejg",
+    "titre": "Pour la France, il faut une primaire.",
+    "date": "2026-11-07T18:45:46+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
+    "id": "FORoffQ1aL8",
+    "titre": "Le problème, c'est le système.",
+    "date": "2026-11-07T08:53:34+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   }
+  ],
+  "retailleau": [
+   {
+    "id": "p929gMZUDxg",
+    "titre": "De Gaulle : l’exigence de l’ordre",
+    "date": "2026-11-09T21:11:24+00:00",
+    "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
+   },
+   {
+    "id": "20QBW8eRyzs",
+    "titre": "Je propose d'organiser 3 débats d'ici décembre",
+    "date": "2026-11-04T11:48:29+00:00",
+    "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
+   },
+   {
+    "id": "NaOr1be9_tI",
+    "titre": "Bruno Retailleau face aux étudiants d’HEC",
+    "date": "2026-10-28T15:10:20+00:00",
+    "chaine": "UCRkuLQabW1hsihpZuHJSbEA"
+   }
+  ],
+  "david-lisnard": [
+   {
+    "id": "9uRCZpB8ZJI",
+    "titre": "Vous êtes écologiste",
+    "date": "2026-11-10T10:13:39+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "ExNveo00_Cs",
+    "titre": "Rendez-vous demain à 19h30 pour lepremier DLive ! Je répondrai en direct à vos questions",
+    "date": "2026-11-09T20:28:14+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "hPB81tTxAuw",
+    "titre": "Le courage, la capacité de jugement des situations humaines, la loyauté et le travail",
+    "date": "2026-11-09T17:10:01+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   }
+  ],
+  "eric-zemmour": [
+   {
+    "id": "taIBLsAwrFo",
+    "titre": "🇫🇷La France n’a jamais été aussi grande que lorsqu’elle regardait vers la mer.",
+    "date": "2026-11-05T12:46:37+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
+    "id": "KqDTbxhZufk",
+    "titre": "Le maire de Saint-Denis, Bally Bagayoko, persiste et signe : « Robespierre ? Ça me va. »",
+    "date": "2026-11-02T13:22:04+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
+    "id": "NeFe92abWFA",
+    "titre": "Je suis un combattant et un dissident.",
+    "date": "2026-11-02T09:45:56+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   }
   ],
   "francois-ruffin": [
    {
-    "titre": "Présidentielle : François Ruffin pourrait retirer sa candidature «si une solution se dégage pour battre Marine Le Pen»",
-    "source": "Libération",
-    "date": "2026-11-06T10:16:22+00:00",
-    "lien": "https://www.liberation.fr/politique/presidentielle-francois-ruffin-pourrait-retirer-sa-candidature-si-une-solution-se-degage-pour-battre-marine-le-pen-20261106_RUQMLP44YZGGZFYLF3ZH2H3SBQ/"
+    "id": "7vWTBpIPQ4g",
+    "titre": "Sarah Saldmann, histoire d'une conversion",
+    "date": "2026-11-07T11:31:38+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
+    "id": "QtA3IIhSC78",
+    "titre": "Sarah Saldmann, histoire d'une conversion",
+    "date": "2026-11-06T15:16:05+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   },
+   {
+    "id": "Z5C1NOwsGbI",
+    "titre": "Au Boulot !",
+    "date": "2026-11-06T09:47:52+00:00",
+    "chaine": "UCIQGSp79vVch0vO3Efqif_w"
+   }
+  ],
+  "nicolas-dupont-aignan": [
+   {
+    "id": "rBStsQ0rAok",
+    "titre": "C’était Colombey.",
+    "date": "2026-11-09T15:36:31+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
+    "id": "eOp-vPmEOho",
+    "titre": "Pour pouvoir résoudre nos problèmes, sortons de l'UE ! · LCI, 08/11/2026",
+    "date": "2026-11-08T20:27:58+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
+    "id": "DzQRN--jthE",
+    "titre": "Présidentielle 2027 : je serai le candidat des 55 % de Français qui ont dit NON à l’UE !",
+    "date": "2026-11-07T17:43:58+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   }
+  ],
+  "nathalie-arthaud": [
+   {
+    "id": "X_k7EM2tD2w",
+    "titre": "Un parti des travailleurs pour que le prochain mai 68 aille jusqu'au bout",
+    "date": "2026-11-10T11:53:21+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "lvvh6obUI9w",
+    "titre": "Imposons l'augmentation générale des salaires | Éditorial de Nathalie Arthaud",
+    "date": "2026-11-09T19:31:37+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "YAcz1ENJ7Ag",
+    "titre": "La jeunesse a ouvert la brèche, engouffrons-nous dedans !",
+    "date": "2026-11-09T18:30:24+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   }
+  ],
+  "florian-philippot": [
+   {
+    "id": "Q8Cp3dZAyD4",
+    "titre": "Florian Philippot sur la tombe du général de Gaulle 9/11/2026 !",
+    "date": "2026-11-10T05:58:13+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
+    "id": "ZK8OpCB0fqM",
+    "titre": "Coup de tonnerre : Poutine « règle le cas Macron » !",
+    "date": "2026-11-09T13:52:02+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
+    "id": "c1Sf7G43-JU",
+    "titre": "« Fuite des Macron dans un bunker ! » : un livre révèle le plan 2027 !",
+    "date": "2026-11-08T14:00:15+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
- },
- "videos": {}
+ }
 }
