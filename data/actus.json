@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10T21:30+00:00",
+ "maj": "2026-11-11T11:30+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,10 +95,10 @@
  "flux": {
   "attal": [
    {
-    "titre": "Gabriel Attal souhaite la \"bienvenue\" à Teddy Riner \"dans cette course\" à l’élection présidentielle",
+    "titre": "\"Complément d'enquête\". Gabriel Attal, l'enfant pas si chéri de la Macronie",
     "source": "franceinfo",
-    "date": "2026-11-10T08:58:59+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/gabriel-attal-dit-bienvenue-a-teddy-riner-dans-cette-course-a-l-election-presidentielle_8275922.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-11T09:12:37+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-gabriel-attal-l-enfant-pas-si-cheri-de-la-macronie_8249824.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "glucksmann": [
@@ -170,6 +170,12 @@
    }
   ],
   "retailleau": [
+   {
+    "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+    "source": "franceinfo",
+    "date": "2026-11-11T10:54:07+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Bruno Retailleau fait appel aux fédés LR pour financer sa campagne présidentielle",
     "source": "Libération",
@@ -269,6 +275,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "gPrnwAQRQA0",
+    "titre": "Jean-Luc Mélenchon est contre la propriété privée ? Qu'il s'applique sa doctrine à lui-même !",
+    "date": "2026-11-11T10:31:44+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "ikzfcs0PPfs",
     "titre": "DLIVE",
     "date": "2026-11-10T20:00:01+00:00",
@@ -279,31 +291,25 @@
     "titre": "DLIVE",
     "date": "2026-11-10T19:51:09+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "b25ImKtq6XE",
-    "titre": "\"L'attente du sauveur est une forme de démission\"",
-    "date": "2026-11-10T16:18:13+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
-    "id": "6qDUG34PYWo",
-    "titre": "Je suis candidat à l'élection présidentielle.",
-    "date": "2026-11-10T21:02:08+00:00",
+    "id": "hVI-2YCr4kk",
+    "titre": "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale.",
+    "date": "2026-11-11T10:09:39+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "G4GwAdZ_iAc",
-    "titre": "Notre avenir sera français.👉 ericzemmour.fr",
-    "date": "2026-11-10T20:50:01+00:00",
+    "id": "6a65WJ4ro2I",
+    "titre": "Battez vous à mes côtés pour que la France reste française. 🇫🇷🚀",
+    "date": "2026-11-11T08:46:59+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "4_R4XWQA47Q",
-    "titre": "🇫🇷 Je suis candidat à l’élection présidentielle de 2027:",
-    "date": "2026-11-10T20:08:26+00:00",
+    "id": "ntOjSe5GkSo",
+    "titre": "Zemmour face aux voix d'internet",
+    "date": "2026-11-10T22:41:14+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -329,6 +335,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "jnH-bb9MwUc",
+    "titre": "Honneur à nos morts et vive la paix.",
+    "date": "2026-11-10T22:35:30+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "rBStsQ0rAok",
     "titre": "C’était Colombey.",
     "date": "2026-11-09T15:36:31+00:00",
@@ -338,12 +350,6 @@
     "id": "eOp-vPmEOho",
     "titre": "Pour pouvoir résoudre nos problèmes, sortons de l'UE ! · LCI, 08/11/2026",
     "date": "2026-11-08T20:27:58+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "DzQRN--jthE",
-    "titre": "Présidentielle 2027 : je serai le candidat des 55 % de Français qui ont dit NON à l’UE !",
-    "date": "2026-11-07T17:43:58+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
