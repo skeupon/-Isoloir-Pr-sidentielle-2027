@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T11:30+00:00",
+ "maj": "2026-11-11T22:20+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -113,15 +113,27 @@
     "source": "Libération",
     "date": "2026-11-09T05:51:02+00:00",
     "lien": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/"
-   },
-   {
-    "titre": "«Il ne faut pas exagérer les conséquences de ce moment» : avant le meeting de Jean-Luc Mélenchon, l’indifférence règne chez Raphaël Glucksmann",
-    "source": "Libération",
-    "date": "2026-11-07T06:56:00+00:00",
-    "lien": "https://www.liberation.fr/politique/il-ne-faut-pas-exagerer-les-consequences-de-ce-moment-avant-le-meeting-de-jean-luc-melenchon-lindifference-regne-chez-raphael-glucksmann-20261107_2TMWMY2LGNHUDFIP23K6SATJQU/"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
+    "source": "franceinfo",
+    "date": "2026-11-11T21:26:40+01:00",
+    "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Un référendum pour changer la constitution : 110 constitutionnalistes critiquent le projet de Marine Le Pen",
+    "source": "Libération",
+    "date": "2026-11-11T19:03:08+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/un-referendum-pour-changer-la-constitution-110-constitutionnalistes-critiquent-le-projet-de-marine-le-pen-20261111_FKMMJMKVCNETHJZ2X7ADMX5Y4M/"
+   },
+   {
+    "titre": "REPORTAGE. 11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles",
+    "source": "franceinfo",
+    "date": "2026-11-11T15:13:08+01:00",
+    "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Marine Le Pen ne s’oppose plus à la «remigration»",
     "source": "Libération",
@@ -129,47 +141,51 @@
     "lien": "https://www.liberation.fr/politique/marine-le-pen-ne-soppose-plus-a-la-remigration-20261109_DJTPUVAS4ZFQLMPIP772ORKJ54/"
    }
   ],
-  "david-lisnard": [
-   {
-    "titre": "Présidentielle 2027 : David Lisnard et les raisons d’une surprenante percée libérale",
-    "source": "Le Monde",
-    "date": "2026-11-10T15:00:03+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-david-lisnard-et-les-raisons-d-une-percee-liberale-inattendue_6808840_823448.html"
-   }
-  ],
   "melenchon": [
    {
-    "titre": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass",
+    "titre": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
     "source": "franceinfo",
-    "date": "2026-11-10T22:04:25+01:00",
-    "lien": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-11T21:26:40+01:00",
+    "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
+    "titre": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
     "source": "franceinfo",
-    "date": "2026-11-10T14:51:41+01:00",
-    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-11T21:03:28+01:00",
+    "lien": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
-    "source": "Le Figaro",
-    "date": "2026-11-10T08:13:32+01:00",
-    "lien": "https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109"
+    "titre": "Référendum dans le Donbass : pourquoi la proposition de Jean-Luc Mélenchon fait réagir jusqu’à Kiev",
+    "source": "franceinfo",
+    "date": "2026-11-11T20:43:12+01:00",
+    "lien": "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
-    "source": "Libération",
-    "date": "2026-11-07T19:35:59+00:00",
-    "lien": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/"
+    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
+    "source": "Le Monde",
+    "date": "2026-11-11T20:20:46+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html"
    },
    {
-    "titre": "«A bas la résignation des battus d’avance» : en meeting au Bourget, Jean-Luc Mélenchon signe une inflexible démonstration de force",
-    "source": "Libération",
-    "date": "2026-11-07T18:49:39+00:00",
-    "lien": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/"
+    "titre": "11-Novembre : Emmanuel Macron a présidé sa dernière cérémonie de commémoration à Paris ; Jean-Luc Mélenchon a appelé à se souvenir de l’histoire, Marine Le Pen à « l’unité »",
+    "source": "Le Monde",
+    "date": "2026-11-11T13:00:34+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/11/11-novembre-emmanuel-macron-preside-la-ceremonie-de-commemoration-pour-la-derniere-fois_6808966_823448.html"
    }
   ],
   "retailleau": [
+   {
+    "titre": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
+    "source": "Le Figaro",
+    "date": "2026-11-11T17:39:58+01:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111"
+   },
+   {
+    "titre": "Présidentielle 2027 : Bruno Retailleau propose aux candidats de la droite et du centre d’organiser une primaire les 31 janvier et 7 février",
+    "source": "Le Monde",
+    "date": "2026-11-11T15:24:18+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-bruno-retailleau-propose-aux-candidats-de-la-droite-et-du-centre-d-organiser-une-primaire-les-31-janvier-et-7-fevrier_6808981_823448.html"
+   },
    {
     "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
     "source": "franceinfo",
@@ -195,6 +211,12 @@
  "videos": {
   "le-pen": [
    {
+    "id": "Gebzo6e0gmE",
+    "titre": "11 Novembre : on ne prépare pas l'avenir en effaçant le passé | Marine Le Pen à Hénin-Beaumont",
+    "date": "2026-11-11T14:23:06+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "_pVj2Yx_EkI",
     "titre": "😉",
     "date": "2026-11-07T12:02:08+00:00",
@@ -205,31 +227,25 @@
     "titre": "Je ferai un référendum contre les idéologies totalitaires, dont le voile participe.",
     "date": "2026-11-06T16:00:22+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "86cF5t3Icwc",
-    "titre": "10 milliards pour l'UE, c'est insupportable : il faut réduire notre contribution !",
-    "date": "2026-11-06T13:00:33+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
    {
-    "id": "v5uFQymMOU0",
-    "titre": "Vive la France une et indivisible !",
-    "date": "2026-11-10T15:46:45+00:00",
+    "id": "zig1srurS1M",
+    "titre": "Je préfère battre une droite qui a de la gueule plutôt qu'une cohorte confuse comme en ce moment !",
+    "date": "2026-11-11T19:37:28+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "4Wb0aYJlE90",
-    "titre": "Je vous annonce quelque chose qui va me valoir la désapprobation de Big Pharma",
-    "date": "2026-11-10T08:56:18+00:00",
+    "id": "Q6DWR2YgeEs",
+    "titre": "🫶 🇫🇷",
+    "date": "2026-11-11T19:02:49+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
     "id": "xZoKroZbxbA",
     "titre": "Discours sur la paix - Jean-Luc Mélenchon à La Souterraine",
-    "date": "2026-11-09T16:54:35+00:00",
+    "date": "2026-11-11T17:42:53+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -275,25 +291,31 @@
   ],
   "david-lisnard": [
    {
+    "id": "WGMiHjHyTms",
+    "titre": "\"Merci à tous nos aïeux qui sont morts pour la France\"",
+    "date": "2026-11-11T15:28:09+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "9npOV-4RDjw",
+    "titre": "#Absurdistan",
+    "date": "2026-11-11T12:24:03+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "gPrnwAQRQA0",
     "titre": "Jean-Luc Mélenchon est contre la propriété privée ? Qu'il s'applique sa doctrine à lui-même !",
     "date": "2026-11-11T10:31:44+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "ikzfcs0PPfs",
-    "titre": "DLIVE",
-    "date": "2026-11-10T20:00:01+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "pIh7AkOHYcs",
-    "titre": "DLIVE",
-    "date": "2026-11-10T19:51:09+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "bDY05PouIeQ",
+    "titre": "🇫🇷",
+    "date": "2026-11-11T12:23:45+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "hVI-2YCr4kk",
     "titre": "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale.",
@@ -304,12 +326,6 @@
     "id": "6a65WJ4ro2I",
     "titre": "Battez vous à mes côtés pour que la France reste française. 🇫🇷🚀",
     "date": "2026-11-11T08:46:59+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "ntOjSe5GkSo",
-    "titre": "Zemmour face aux voix d'internet",
-    "date": "2026-11-10T22:41:14+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -355,6 +371,12 @@
   ],
   "nathalie-arthaud": [
    {
+    "id": "2R2aKkzH1os",
+    "titre": "La lutte compte bien plus que les élections",
+    "date": "2026-11-11T14:00:17+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
     "id": "X_k7EM2tD2w",
     "titre": "Un parti des travailleurs pour que le prochain mai 68 aille jusqu'au bout",
     "date": "2026-11-10T11:53:21+00:00",
@@ -365,15 +387,15 @@
     "titre": "Imposons l'augmentation générale des salaires | Éditorial de Nathalie Arthaud",
     "date": "2026-11-09T19:31:37+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "YAcz1ENJ7Ag",
-    "titre": "La jeunesse a ouvert la brèche, engouffrons-nous dedans !",
-    "date": "2026-11-09T18:30:24+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "lMXou83j8Rk",
+    "titre": "Pologne et sortie de l’UE : jour historique !",
+    "date": "2026-11-11T14:02:35+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "R-ZU9QE7aKc",
     "titre": "« Macron en taule 30 ans ! » : énorme clash sur CNews !",
@@ -384,12 +406,6 @@
     "id": "Q8Cp3dZAyD4",
     "titre": "Florian Philippot sur la tombe du général de Gaulle 9/11/2026 !",
     "date": "2026-11-10T05:58:13+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "ZK8OpCB0fqM",
-    "titre": "Coup de tonnerre : Poutine « règle le cas Macron » !",
-    "date": "2026-11-09T13:52:02+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
