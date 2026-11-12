@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-12T11:56+00:00",
+ "maj": "2026-11-12T21:56+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,110 +95,118 @@
  "flux": {
   "attal": [
    {
-    "titre": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+    "titre": "VIDEO. \"Culte de la personnalité\", purges supposées de militants… des témoignages pointent une dérive autocratique de Gabriel Attal à la tête de Renaissance",
     "source": "franceinfo",
-    "date": "2026-11-12T11:57:36+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-12T19:41:48+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-culte-de-la-personnalite-purges-supposees-de-militants-des-temoignages-pointent-une-derive-autocratique-de-gabriel-attal-a-la-tete-de-renaissance_8279141.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Primaire de la droite et du centre : \"Il y aura un siège\" pour Edouard Philippe \"dans toutes les réunions\", assure Gabriel Attal",
+    "titre": "VIDEO. \"Complément d'enquête\". \"J'ai décidé qu'on ne pourrait plus porter l'abaya à l'école\" : les coulisses d'une opération de communication en 2023 qui a fait bondir la popularité de Gabriel Attal",
     "source": "franceinfo",
-    "date": "2026-11-12T10:41:19+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-droite-et-du-centre-il-y-aura-un-siege-pour-edouard-philippe-dans-toutes-les-reunions-assure-gabriel-attal_8279009.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-12T18:51:36+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-complement-d-enquete-j-ai-decide-qu-on-ne-pourrait-plus-porter-l-abaya-a-l-ecole-les-coulisses-d-une-operation-de-communication-en-2023-qui-a-fait-bondir-la-popularite-de-gabriel-attal_8278169.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "glucksmann": [
    {
-    "titre": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Raphaël Glucksmann souhaite une « refonte et un sauvetage de l’école publique dans son ensemble »",
-    "source": "Le Monde",
-    "date": "2026-11-12T12:50:45+01:00",
-    "lien": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html"
-   },
-   {
-    "titre": "Révision de la Constitution, contribution des hauts patrimoines, neutralité carbone : Raphaël Glucksmann dévoile la première partie de sa «révolution écologique»",
-    "source": "Libération",
-    "date": "2026-11-09T16:55:54+00:00",
-    "lien": "https://www.liberation.fr/politique/revision-de-la-constitution-contribution-des-hauts-patrimoines-neutralite-carbone-raphael-glucksmann-devoile-la-premiere-partie-de-sa-revolution-ecologique-20261109_6RRYZ6Z74FBSHIZOR7KQWJNHWQ/"
+    "titre": "Présidentielle 2027 : \"Je ne veux pas d'une société où les grands médias sont contrôlés par quelques oligarques\", assure Raphaël Glucksmann",
+    "source": "franceinfo",
+    "date": "2026-11-12T16:55:30+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-ne-veux-pas-d-une-societe-ou-les-grands-medias-sont-controles-par-quelques-oligarques-assure-raphael-glucksmann_8279636.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "le-pen": [
-   {
-    "titre": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
-    "source": "franceinfo",
-    "date": "2026-11-11T23:53:01+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
    {
     "titre": "Un référendum pour changer la constitution : 110 constitutionnalistes critiquent le projet de Marine Le Pen",
     "source": "Libération",
     "date": "2026-11-11T19:03:08+00:00",
     "lien": "https://www.liberation.fr/politique/elections/un-referendum-pour-changer-la-constitution-110-constitutionnalistes-critiquent-le-projet-de-marine-le-pen-20261111_FKMMJMKVCNETHJZ2X7ADMX5Y4M/"
-   },
-   {
-    "titre": "REPORTAGE. 11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles",
-    "source": "franceinfo",
-    "date": "2026-11-11T15:13:08+01:00",
-    "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "melenchon": [
    {
-    "titre": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
+    "titre": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
     "source": "franceinfo",
-    "date": "2026-11-12T09:39:57+01:00",
-    "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-12T20:56:47+01:00",
+    "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
+    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon veut créer un \"service public de la petite enfance\" et 500 000 places en crèche",
     "source": "franceinfo",
-    "date": "2026-11-11T21:03:28+01:00",
-    "lien": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-12T20:26:23+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Référendum dans le Donbass : pourquoi la proposition de Jean-Luc Mélenchon fait réagir jusqu’à Kiev",
-    "source": "franceinfo",
-    "date": "2026-11-11T20:43:12+01:00",
-    "lien": "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html#xtor=RSS-3-%5Bpolitique%5D"
+    "titre": "Israël interdit de territoire Jean-Luc Mélenchon, la France dénonce une «décision démagogique»",
+    "source": "Libération",
+    "date": "2026-11-12T20:26:04+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE/"
    },
    {
-    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
+    "titre": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël.",
+    "source": "franceinfo",
+    "date": "2026-11-12T19:05:17+01:00",
+    "lien": "https://www.franceinfo.fr/politique/melenchon/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279888.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Jean-Luc Mélenchon a été interdit d’entrée en Israël en raison de la « position extrêmement hostile » de LFI",
     "source": "Le Monde",
-    "date": "2026-11-11T20:20:46+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html"
+    "date": "2026-11-12T18:39:26+01:00",
+    "lien": "https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html"
+   }
+  ],
+  "philippe": [
+   {
+    "titre": "Présidentielle 2027 : \"La possibilité de se syndiquer doit être interdite\" dans la magistrature, estime Édouard Philippe",
+    "source": "franceinfo",
+    "date": "2026-11-12T20:16:15+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
-    "source": "Le Figaro",
-    "date": "2026-11-10T08:13:32+01:00",
-    "lien": "https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109"
+    "titre": "Présidentielle 2027 : \"Je ne me soumettrai pas à une primaire\", répète Édouard Philippe",
+    "source": "franceinfo",
+    "date": "2026-11-12T18:21:06+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-je-ne-me-soumettrai-pas-a-une-primaire-repete-edouard-philippe-candidat-horizons_8279726.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "retailleau": [
    {
-    "titre": "Présidentielle 2027 : Bruno Retailleau propose un calendrier pour la primaire et accentue la pression sur Edouard Philippe",
-    "source": "Le Monde",
-    "date": "2026-11-12T06:00:07+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-retailleau-propose-un-calendrier-pour-la-primaire-et-accentue-la-pression-sur-edouard-philippe_6809051_823448.html"
+    "titre": "Présidentielle 2027 : pour Bruno Retailleau, une primaire de la droite doit se faire même sans Edouard Philippe",
+    "source": "Libération",
+    "date": "2026-11-12T18:31:58+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-pour-bruno-retailleau-une-primaire-de-la-droite-doit-se-faire-meme-sans-edouard-philippe-20261112_PVIINOMGVVFH5BBITBMCAGUZOQ/"
+   },
+   {
+    "titre": "Présidentielle 2027 : Bruno Retailleau veut \"économiser 300 000 postes\" dans la fonction publique grâce à l'intelligence artificielle",
+    "source": "franceinfo",
+    "date": "2026-11-12T16:01:38+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-bruno-retailleau-veut-economiser-300-000-postes-dans-la-fonction-publique-grace-a-l-intelligence-artificielle_8279522.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
     "titre": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
     "source": "Le Figaro",
     "date": "2026-11-11T17:39:58+01:00",
     "lien": "https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111"
-   },
-   {
-    "titre": "Présidentielle 2027 : Bruno Retailleau propose aux candidats de la droite et du centre d’organiser une primaire les 31 janvier et 7 février",
-    "source": "Le Monde",
-    "date": "2026-11-11T15:24:18+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-bruno-retailleau-propose-aux-candidats-de-la-droite-et-du-centre-d-organiser-une-primaire-les-31-janvier-et-7-fevrier_6808981_823448.html"
    }
   ],
-  "fabien-roussel": [
+  "marine-tondelier": [
    {
-    "titre": "Attentat raciste de Trappes : \"L'extrême droite tue la démocratie et l'extrême droite tue même celles et ceux qui l'exercent\", dénonce Fabien Roussel",
+    "titre": "«Des gens tuent en son nom» : après les propos de Marine Tondelier sur l’attentat de Trappes, le RN va porter plainte en diffamation",
+    "source": "Libération",
+    "date": "2026-11-12T20:15:20+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/des-gens-tuent-en-son-nom-apres-les-propos-de-marine-tondelier-sur-lattentat-de-trappes-le-rn-va-porter-plainte-en-diffamation-20261112_HFJ4OYDV7ZEXNKWYRG32QKOHDA/"
+   },
+   {
+    "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
     "source": "franceinfo",
-    "date": "2026-11-12T12:07:25+01:00",
-    "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-l-extreme-droite-tue-la-democratie-et-l-extreme-droite-tue-meme-celles-et-ceux-qui-l-exercent-denonce-fabien-roussel_8279168.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-12T17:03:43+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Attentat raciste de Trappes : \"C’est au Rassemblement national de s’expliquer plutôt que de m’attaquer en justice\", estime Marine Tondelier",
+    "source": "franceinfo",
+    "date": "2026-11-12T16:20:46+01:00",
+    "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-c-est-au-rassemblement-national-de-s-expliquer-plutot-que-de-m-attaquer-en-justice-estime-marine-tondelier_8279558.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ]
  },
@@ -225,25 +233,31 @@
   ],
   "melenchon": [
    {
-    "id": "H7__OFn0v5c",
-    "titre": "Vous savez qui a suggéré l'idée de l'auto-déclaration des arrêts de travail ?",
-    "date": "2026-11-12T10:10:36+00:00",
+    "id": "jIcDV6MXm84",
+    "titre": "Israël m'interdit d'entrer sur son territoire ? Je n'ai pas demandé à y entrer.",
+    "date": "2026-11-12T19:29:51+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "m9RMM1WHxIw",
-    "titre": "De qui le gouvernement se moque-t-il ?",
-    "date": "2026-11-12T08:36:18+00:00",
+    "id": "5Honm5yYYB4",
+    "titre": "Grand oral sur les services publics avec Jean-Luc Mélenchon",
+    "date": "2026-11-12T18:08:11+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "zig1srurS1M",
-    "titre": "Je préfère battre une droite qui a de la gueule plutôt qu'une cohorte confuse comme en ce moment !",
-    "date": "2026-11-11T19:37:28+00:00",
+    "id": "40rE6D1EZKk",
+    "titre": "Voilà comment le Rwanda se sent légitime à envahir une partie de la RDC",
+    "date": "2026-11-12T16:00:01+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
+   {
+    "id": "QHsojHi4vsI",
+    "titre": "Gabriel Attal sur France Info | Ses propositions sur le service public",
+    "date": "2026-11-12T13:17:23+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
    {
     "id": "wE8CZI2ZQA8",
     "titre": "Il y a des discriminations en France.",
@@ -254,12 +268,6 @@
     "id": "fZXNZKsc0n8",
     "titre": "GABRIEL ATTAL DÉBAT AUX RENCONTRES DE L'AVENIR À SAINT-RAPHAËL",
     "date": "2026-11-10T17:54:21+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "pCu-qJyfLak",
-    "titre": "Gabriel Attal sur France Inter | Il faut une grande primaire !",
-    "date": "2026-11-10T08:03:25+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -285,41 +293,41 @@
   ],
   "david-lisnard": [
    {
+    "id": "80IAu1BFN3Y",
+    "titre": "L'Europe qui réglemente l'IA sans la produire",
+    "date": "2026-11-12T18:41:22+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "ln29uoqyJuU",
+    "titre": "De combien les intérêts de la dette française augmentent en un DLive ?",
+    "date": "2026-11-12T16:28:48+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "rG-dHN12gu8",
     "titre": "Liberté pour Christophe Gleizes",
     "date": "2026-11-12T10:53:42+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "WGMiHjHyTms",
-    "titre": "\"Merci à tous nos aïeux qui sont morts pour la France\"",
-    "date": "2026-11-11T15:28:09+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "9npOV-4RDjw",
-    "titre": "#Absurdistan",
-    "date": "2026-11-11T12:24:03+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
-    "id": "GURFqeiI8gA",
-    "titre": "Ce que je pense de l’IA ? 🤖",
-    "date": "2026-11-12T11:25:51+00:00",
+    "id": "4aMCNsa_7Lo",
+    "titre": "C'est le moment de réduire les effectifs sans licencier personne !",
+    "date": "2026-11-12T20:18:57+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "bDY05PouIeQ",
-    "titre": "🇫🇷",
-    "date": "2026-11-11T12:23:45+00:00",
+    "id": "TmVv5F1glgM",
+    "titre": "La responsabilité des politiques n'est pas de se taire, mais d’arrêter les causes de la violence.",
+    "date": "2026-11-12T19:01:50+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "hVI-2YCr4kk",
-    "titre": "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale.",
-    "date": "2026-11-11T10:09:39+00:00",
+    "id": "qANieKBsBtQ",
+    "titre": "Mon projet pour l’école ! 🇫🇷",
+    "date": "2026-11-12T16:13:58+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -345,6 +353,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "_4MKzYbmNiM",
+    "titre": "🇫🇷 La France a tous les atouts pour redevenir une grande puissance économique et industrielle !",
+    "date": "2026-11-12T18:57:52+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "fhRzenal9LQ",
     "titre": "Direct · Présentation à la presse de mon projet économique présidentiel.",
     "date": "2026-11-12T11:53:40+00:00",
@@ -355,15 +369,15 @@
     "titre": "Honneur à nos morts et vive la paix.",
     "date": "2026-11-10T22:35:30+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "rBStsQ0rAok",
-    "titre": "C’était Colombey.",
-    "date": "2026-11-09T15:36:31+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "zcmoPtZXhU4",
+    "titre": "Écart entre salaire brut et net : une diversion #grève  #lecampdestravailleurs #nathaliearthaud",
+    "date": "2026-11-12T14:00:21+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "2R2aKkzH1os",
     "titre": "La lutte compte bien plus que les élections",
@@ -375,15 +389,15 @@
     "titre": "Un parti des travailleurs pour que le prochain mai 68 aille jusqu'au bout",
     "date": "2026-11-10T11:53:21+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "lvvh6obUI9w",
-    "titre": "Imposons l'augmentation générale des salaires | Éditorial de Nathalie Arthaud",
-    "date": "2026-11-09T19:31:37+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "Gank-UrEoGc",
+    "titre": "Les Macron : la vérité éclate, et c’est mondial !",
+    "date": "2026-11-12T14:01:19+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "Xz6xlRFl6L4",
     "titre": "Florian Philippot veut juger Macron pour haute trahison : le plateau s’affole !",
@@ -394,12 +408,6 @@
     "id": "lMXou83j8Rk",
     "titre": "Pologne et sortie de l’UE : jour historique !",
     "date": "2026-11-11T14:02:35+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "R-ZU9QE7aKc",
-    "titre": "« Macron en taule 30 ans ! » : énorme clash sur CNews !",
-    "date": "2026-11-10T14:00:11+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]

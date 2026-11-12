@@ -47,6 +47,9 @@ Le projet
 L'IA
 15 mesures
 Le projet
+Immigration
+13 mesures
+Le projet
 Retraites
 7 mesures
 Le projet
@@ -55,13 +58,6 @@ Justice
 Le projet ·
 Justice
 Rendre à la justice sa fermeté et sa rapidité : une peine prononcée doit être une peine exécutée, et la victime passer avant le coupable.
-À venir
-Le projet
-Immigration
-À venir
-Le projet ·
-Immigration
-Reprendre le contrôle : c'est à la France de décider qui entre, qui reste et qui doit partir, en soumettant les grands choix aux Français par référendum.
 À venir
 Le projet
 Sécurité
@@ -105,8 +101,8 @@ sur le projet, et la réponse du candidat, une par une.
 Toutes les questions fréquentes
 Trouver une mesure
 Tapez trois lettres : énergie, éducation, sécurité…
-120
-120
+133
+133
 Pour le peuple et par le peuple
 Éducation
 Travail
@@ -117,10 +113,9 @@ Famille
 Électricité
 Comptes publics
 L'IA
+Immigration
 Retraites
 Justice
-À venir
-Immigration
 À venir
 Sécurité
 À venir
@@ -169,7 +164,7 @@ Pour le peuple et par le peuple
 Abaisser le seuil du référendum d'initiative partagée
 Pour le peuple et par le peuple
 Les
-120
+133
 mesures
 Avec votre accord, nous mesurons l'audience du site avec Google Analytics, qui dépose des cookies. Sans accord, le site n'appelle pas Google.
 Aucune publicité, aucun profilage. Votre choix est gardé six mois et se change à tout moment depuis « Cookies », en pied de page.
