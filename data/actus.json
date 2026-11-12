@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T22:20+00:00",
+ "maj": "2026-11-12T11:56+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,32 +95,38 @@
  "flux": {
   "attal": [
    {
-    "titre": "\"Complément d'enquête\". Gabriel Attal, l'enfant pas si chéri de la Macronie",
+    "titre": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
     "source": "franceinfo",
-    "date": "2026-11-11T09:12:37+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-gabriel-attal-l-enfant-pas-si-cheri-de-la-macronie_8249824.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-12T11:57:36+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Primaire de la droite et du centre : \"Il y aura un siège\" pour Edouard Philippe \"dans toutes les réunions\", assure Gabriel Attal",
+    "source": "franceinfo",
+    "date": "2026-11-12T10:41:19+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-droite-et-du-centre-il-y-aura-un-siege-pour-edouard-philippe-dans-toutes-les-reunions-assure-gabriel-attal_8279009.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "glucksmann": [
+   {
+    "titre": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Raphaël Glucksmann souhaite une « refonte et un sauvetage de l’école publique dans son ensemble »",
+    "source": "Le Monde",
+    "date": "2026-11-12T12:50:45+01:00",
+    "lien": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html"
+   },
    {
     "titre": "Révision de la Constitution, contribution des hauts patrimoines, neutralité carbone : Raphaël Glucksmann dévoile la première partie de sa «révolution écologique»",
     "source": "Libération",
     "date": "2026-11-09T16:55:54+00:00",
     "lien": "https://www.liberation.fr/politique/revision-de-la-constitution-contribution-des-hauts-patrimoines-neutralite-carbone-raphael-glucksmann-devoile-la-premiere-partie-de-sa-revolution-ecologique-20261109_6RRYZ6Z74FBSHIZOR7KQWJNHWQ/"
-   },
-   {
-    "titre": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
-    "source": "Libération",
-    "date": "2026-11-09T05:51:02+00:00",
-    "lien": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/"
    }
   ],
   "le-pen": [
    {
-    "titre": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
+    "titre": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
     "source": "franceinfo",
-    "date": "2026-11-11T21:26:40+01:00",
-    "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-11T23:53:01+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
     "titre": "Un référendum pour changer la constitution : 110 constitutionnalistes critiquent le projet de Marine Le Pen",
@@ -133,19 +139,13 @@
     "source": "franceinfo",
     "date": "2026-11-11T15:13:08+01:00",
     "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Marine Le Pen ne s’oppose plus à la «remigration»",
-    "source": "Libération",
-    "date": "2026-11-09T11:27:06+00:00",
-    "lien": "https://www.liberation.fr/politique/marine-le-pen-ne-soppose-plus-a-la-remigration-20261109_DJTPUVAS4ZFQLMPIP772ORKJ54/"
    }
   ],
   "melenchon": [
    {
-    "titre": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
+    "titre": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
     "source": "franceinfo",
-    "date": "2026-11-11T21:26:40+01:00",
+    "date": "2026-11-12T09:39:57+01:00",
     "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
@@ -167,13 +167,19 @@
     "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html"
    },
    {
-    "titre": "11-Novembre : Emmanuel Macron a présidé sa dernière cérémonie de commémoration à Paris ; Jean-Luc Mélenchon a appelé à se souvenir de l’histoire, Marine Le Pen à « l’unité »",
-    "source": "Le Monde",
-    "date": "2026-11-11T13:00:34+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/11/11-novembre-emmanuel-macron-preside-la-ceremonie-de-commemoration-pour-la-derniere-fois_6808966_823448.html"
+    "titre": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
+    "source": "Le Figaro",
+    "date": "2026-11-10T08:13:32+01:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109"
    }
   ],
   "retailleau": [
+   {
+    "titre": "Présidentielle 2027 : Bruno Retailleau propose un calendrier pour la primaire et accentue la pression sur Edouard Philippe",
+    "source": "Le Monde",
+    "date": "2026-11-12T06:00:07+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-retailleau-propose-un-calendrier-pour-la-primaire-et-accentue-la-pression-sur-edouard-philippe_6809051_823448.html"
+   },
    {
     "titre": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
     "source": "Le Figaro",
@@ -185,67 +191,55 @@
     "source": "Le Monde",
     "date": "2026-11-11T15:24:18+01:00",
     "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-bruno-retailleau-propose-aux-candidats-de-la-droite-et-du-centre-d-organiser-une-primaire-les-31-janvier-et-7-fevrier_6808981_823448.html"
-   },
-   {
-    "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
-    "source": "franceinfo",
-    "date": "2026-11-11T10:54:07+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Bruno Retailleau fait appel aux fédés LR pour financer sa campagne présidentielle",
-    "source": "Libération",
-    "date": "2026-11-09T10:51:12+00:00",
-    "lien": "https://www.liberation.fr/politique/bruno-retailleau-fait-appel-aux-fedes-lr-pour-financer-sa-campagne-presidentielle-20261109_7C6MQWO3LVHJ3O5VOPH2DSE3MU/"
    }
   ],
   "fabien-roussel": [
    {
-    "titre": "Présidentielle 2027 : en dépit des départs chez LFI, Fabien Roussel assure qu’il ira «jusqu’au bout»",
-    "source": "Libération",
-    "date": "2026-11-08T19:28:00+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-en-depit-des-departs-chez-lfi-fabien-roussel-assure-quil-ira-jusquau-bout-20261108_HIS3472YWZDDLOVZR7KOXSHEYM/"
+    "titre": "Attentat raciste de Trappes : \"L'extrême droite tue la démocratie et l'extrême droite tue même celles et ceux qui l'exercent\", dénonce Fabien Roussel",
+    "source": "franceinfo",
+    "date": "2026-11-12T12:07:25+01:00",
+    "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-l-extreme-droite-tue-la-democratie-et-l-extreme-droite-tue-meme-celles-et-ceux-qui-l-exercent-denonce-fabien-roussel_8279168.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
+    "id": "keLtdW7v5e0",
+    "titre": "L'avenir nous appartient !",
+    "date": "2026-11-12T10:38:25+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "-Md4POFXIWc",
+    "titre": "L’UDR, soutien essentiel de Marine Le Pen | Au cœur de la campagne #3 avec É. Ciotti et J. Sanchez",
+    "date": "2026-11-12T10:22:02+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "Gebzo6e0gmE",
     "titre": "11 Novembre : on ne prépare pas l'avenir en effaçant le passé | Marine Le Pen à Hénin-Beaumont",
     "date": "2026-11-11T14:23:06+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "_pVj2Yx_EkI",
-    "titre": "😉",
-    "date": "2026-11-07T12:02:08+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "IpIzqvmOZ5g",
-    "titre": "Je ferai un référendum contre les idéologies totalitaires, dont le voile participe.",
-    "date": "2026-11-06T16:00:22+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
    {
+    "id": "H7__OFn0v5c",
+    "titre": "Vous savez qui a suggéré l'idée de l'auto-déclaration des arrêts de travail ?",
+    "date": "2026-11-12T10:10:36+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
+    "id": "m9RMM1WHxIw",
+    "titre": "De qui le gouvernement se moque-t-il ?",
+    "date": "2026-11-12T08:36:18+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
     "id": "zig1srurS1M",
     "titre": "Je préfère battre une droite qui a de la gueule plutôt qu'une cohorte confuse comme en ce moment !",
     "date": "2026-11-11T19:37:28+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "Q6DWR2YgeEs",
-    "titre": "🫶 🇫🇷",
-    "date": "2026-11-11T19:02:49+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "xZoKroZbxbA",
-    "titre": "Discours sur la paix - Jean-Luc Mélenchon à La Souterraine",
-    "date": "2026-11-11T17:42:53+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -291,6 +285,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "rG-dHN12gu8",
+    "titre": "Liberté pour Christophe Gleizes",
+    "date": "2026-11-12T10:53:42+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "WGMiHjHyTms",
     "titre": "\"Merci à tous nos aïeux qui sont morts pour la France\"",
     "date": "2026-11-11T15:28:09+00:00",
@@ -301,15 +301,15 @@
     "titre": "#Absurdistan",
     "date": "2026-11-11T12:24:03+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "gPrnwAQRQA0",
-    "titre": "Jean-Luc Mélenchon est contre la propriété privée ? Qu'il s'applique sa doctrine à lui-même !",
-    "date": "2026-11-11T10:31:44+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "GURFqeiI8gA",
+    "titre": "Ce que je pense de l’IA ? 🤖",
+    "date": "2026-11-12T11:25:51+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "bDY05PouIeQ",
     "titre": "🇫🇷",
@@ -320,12 +320,6 @@
     "id": "hVI-2YCr4kk",
     "titre": "Le 11 novembre, nous célébrons la fin de la Première Guerre mondiale.",
     "date": "2026-11-11T10:09:39+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "6a65WJ4ro2I",
-    "titre": "Battez vous à mes côtés pour que la France reste française. 🇫🇷🚀",
-    "date": "2026-11-11T08:46:59+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -351,6 +345,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "fhRzenal9LQ",
+    "titre": "Direct · Présentation à la presse de mon projet économique présidentiel.",
+    "date": "2026-11-12T11:53:40+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "jnH-bb9MwUc",
     "titre": "Honneur à nos morts et vive la paix.",
     "date": "2026-11-10T22:35:30+00:00",
@@ -360,12 +360,6 @@
     "id": "rBStsQ0rAok",
     "titre": "C’était Colombey.",
     "date": "2026-11-09T15:36:31+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "eOp-vPmEOho",
-    "titre": "Pour pouvoir résoudre nos problèmes, sortons de l'UE ! · LCI, 08/11/2026",
-    "date": "2026-11-08T20:27:58+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
@@ -391,6 +385,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "Xz6xlRFl6L4",
+    "titre": "Florian Philippot veut juger Macron pour haute trahison : le plateau s’affole !",
+    "date": "2026-11-12T09:22:48+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "lMXou83j8Rk",
     "titre": "Pologne et sortie de l’UE : jour historique !",
     "date": "2026-11-11T14:02:35+00:00",
@@ -400,12 +400,6 @@
     "id": "R-ZU9QE7aKc",
     "titre": "« Macron en taule 30 ans ! » : énorme clash sur CNews !",
     "date": "2026-11-10T14:00:11+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "Q8Cp3dZAyD4",
-    "titre": "Florian Philippot sur la tombe du général de Gaulle 9/11/2026 !",
-    "date": "2026-11-10T05:58:13+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
