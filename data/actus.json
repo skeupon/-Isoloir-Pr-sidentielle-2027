@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-13T11:39+00:00",
+ "maj": "2026-11-13T21:41+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,6 +95,12 @@
  "flux": {
   "attal": [
    {
+    "titre": "\"Peut-il mettre à mal l'annonce faite d'un combat entre le RN et LFI ?\" : Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, ne ferme par la porte à Teddy Riner",
+    "source": "franceinfo",
+    "date": "2026-11-13T22:31:29+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/peut-il-mettre-a-mal-l-annonce-faite-d-un-combat-entre-le-rn-et-lfi-jean-charles-orsucci-porte-parole-de-campagne-de-gabriel-attal-ne-ferme-par-la-porte-a-teddy-riner_8281595.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
     "titre": "Pourquoi Gabriel Attal est persuadé de gagner la primaire face à Retailleau et Lisnard",
     "source": "Libération",
     "date": "2026-11-13T10:07:31+00:00",
@@ -105,15 +111,15 @@
     "source": "franceinfo",
     "date": "2026-11-13T09:42:09+01:00",
     "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-dans-les-fauteuils-rouges-de-complement-d-enquete-prisca-thevenot-directrice-de-campagne-de-gabriel-attal_8280116.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "VIDEO. \"Culte de la personnalité\", purges supposées de militants… des témoignages pointent une dérive autocratique de Gabriel Attal à la tête de Renaissance",
-    "source": "franceinfo",
-    "date": "2026-11-12T19:41:48+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-culte-de-la-personnalite-purges-supposees-de-militants-des-temoignages-pointent-une-derive-autocratique-de-gabriel-attal-a-la-tete-de-renaissance_8279141.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles",
+    "source": "franceinfo",
+    "date": "2026-11-13T19:29:43+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Un référendum pour changer la constitution : 110 constitutionnalistes critiquent le projet de Marine Le Pen",
     "source": "Libération",
@@ -137,28 +143,16 @@
     "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/francois-ruffin-denonce-la-censure-d-israel-apres-l-interdiction-de-territoire-visant-jean-luc-melenchon_8280653.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "L’avenir selon La France insoumise : l’analyse du programme de Jean-Luc Mélenchon",
-    "source": "Le Monde",
-    "date": "2026-11-13T05:00:32+01:00",
-    "lien": "https://www.lemonde.fr/podcasts/article/2026/11/13/l-avenir-selon-la-france-insoumise-l-analyse-du-programme-de-jean-luc-melenchon_6809267_5463015.html"
-   },
-   {
-    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon veut créer un \"service public de la petite enfance\" et 500 000 places en crèche",
-    "source": "franceinfo",
-    "date": "2026-11-12T20:26:23+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
     "titre": "Israël interdit de territoire Jean-Luc Mélenchon, la France dénonce une «décision démagogique»",
     "source": "Libération",
     "date": "2026-11-12T20:26:04+00:00",
     "lien": "https://www.liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE/"
    },
    {
-    "titre": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël.",
-    "source": "franceinfo",
-    "date": "2026-11-12T19:05:17+01:00",
-    "lien": "https://www.franceinfo.fr/politique/melenchon/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279888.html#xtor=RSS-3-%5Bpolitique%5D"
+    "titre": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
+    "source": "Le Figaro",
+    "date": "2026-11-10T08:13:32+01:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109"
    }
   ],
   "retailleau": [
@@ -203,9 +197,9 @@
   ],
   "marine-tondelier": [
    {
-    "titre": "Attentat raciste de Trappes : le Rassemblement national annonce déposer une plainte en diffamation « très prochainement » contre Marine Tondelier",
+    "titre": "Attentat raciste de Trappes : le RN annonce déposer une plainte en diffamation contre Marine Tondelier « très prochainement »",
     "source": "Le Monde",
-    "date": "2026-11-13T10:44:33+01:00",
+    "date": "2026-11-13T10:44:32+01:00",
     "lien": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html"
    },
    {
@@ -219,41 +213,41 @@
  "videos": {
   "le-pen": [
    {
-    "id": "aFCNPNEtSJY",
-    "titre": "11 Novembre : la victoire fut aussi celle de l'arrière, au premier rang desquels les femmes",
-    "date": "2026-11-13T11:00:17+00:00",
+    "id": "7Yv0xZJ4ZVc",
+    "titre": "C'étaient des militants d'extrême gauche : certains, vous allez même boire un café avec !",
+    "date": "2026-11-13T21:30:04+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "keLtdW7v5e0",
-    "titre": "L'avenir nous appartient !",
-    "date": "2026-11-12T10:38:25+00:00",
+    "id": "PEaAo7vzzyQ",
+    "titre": "Test qualité approuvé ! 😉",
+    "date": "2026-11-13T20:26:56+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "-Md4POFXIWc",
-    "titre": "L’UDR, soutien essentiel de Marine Le Pen | Au cœur de la campagne #3 avec É. Ciotti et J. Sanchez",
-    "date": "2026-11-12T10:22:02+00:00",
+    "id": "BfZyYTBhrk0",
+    "titre": "Emmanuel Macron a battu un nouveau record : zéro voix sur un budget à l'Assemblée !",
+    "date": "2026-11-13T17:00:21+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
    {
+    "id": "7wGA4PeFsLg",
+    "titre": "Nous mettrons en place un service public de la petite enfance.",
+    "date": "2026-11-13T16:53:23+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
+    "id": "SO2oL5FFNEU",
+    "titre": "Nous allons relancer la filière textile en France",
+    "date": "2026-11-13T12:27:09+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
+   {
     "id": "BdG488hwTek",
     "titre": "Il n’y a pas besoin de faire des espaces « no kids ».",
     "date": "2026-11-13T11:04:32+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "BsSESMR8S2g",
-    "titre": "Pourquoi l’endométriose n’a pas été étudiée pendant des décennies ? Et ça continue maintenant !",
-    "date": "2026-11-13T08:20:01+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "jIcDV6MXm84",
-    "titre": "Israël m'interdit d'entrer sur son territoire ? Je n'ai pas demandé à y entrer.",
-    "date": "2026-11-12T19:29:51+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -299,41 +293,41 @@
   ],
   "david-lisnard": [
    {
-    "id": "aiom_mFXKAU",
-    "titre": "« Il ne fait décidément pas bon d'être franco-algérien en Algérie »",
-    "date": "2026-11-13T10:48:26+00:00",
+    "id": "Rf3aQabKbsw",
+    "titre": "« Je pense que la philosophie devrait être instruite dès le primaire »",
+    "date": "2026-11-13T19:06:56+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "80IAu1BFN3Y",
-    "titre": "L'Europe qui réglemente l'IA sans la produire",
-    "date": "2026-11-12T18:41:22+00:00",
+    "id": "YsmeHDAfHeU",
+    "titre": "À l’ère de l’IA, il est fondamental de sanctuariser des temps d’apprentissage sans numérique",
+    "date": "2026-11-13T15:31:52+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "ln29uoqyJuU",
-    "titre": "De combien les intérêts de la dette française augmentent en un DLive ?",
-    "date": "2026-11-12T16:28:48+00:00",
+    "id": "bEFdGRhr8JU",
+    "titre": "Le plan de David Lisnard pour libérer les collectivités.",
+    "date": "2026-11-13T14:00:18+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
+    "id": "zZCqR8uHcLU",
+    "titre": "Les verres incassables de Duralex, ce n’est pas un mythe !",
+    "date": "2026-11-13T19:01:24+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
+    "id": "-QYbMSQFzkw",
+    "titre": "🇫🇷 Bien arrivé au salon du Made in France.",
+    "date": "2026-11-13T14:31:11+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
     "id": "4aMCNsa_7Lo",
     "titre": "C'est le moment de réduire les effectifs sans licencier personne !",
     "date": "2026-11-12T20:18:57+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "qANieKBsBtQ",
-    "titre": "Mon projet pour l’école ! 🇫🇷",
-    "date": "2026-11-12T16:13:58+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "hOdtRPtU8iU",
-    "titre": "Eric Zemmour sur France Info : Mes propositions pour le service public",
-    "date": "2026-11-12T13:59:29+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -359,25 +353,31 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "J4T_nYqT4ug",
+    "titre": "Quand Emmanuel Macron est arrivé, la France versait 17 milliards d’euros à l’UE…",
+    "date": "2026-11-13T18:32:56+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
+    "id": "1XGdqYkD0P4",
+    "titre": "Salon du Made in France 2026 🇫🇷",
+    "date": "2026-11-13T15:13:42+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "_4MKzYbmNiM",
     "titre": "🇫🇷 La France a tous les atouts pour redevenir une grande puissance économique et industrielle !",
     "date": "2026-11-12T18:57:52+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "fhRzenal9LQ",
-    "titre": "Direct · Présentation à la presse de mon projet économique présidentiel.",
-    "date": "2026-11-12T11:53:40+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "jnH-bb9MwUc",
-    "titre": "Honneur à nos morts et vive la paix.",
-    "date": "2026-11-10T22:35:30+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "K3nAfDPsQnk",
+    "titre": "Le patron a besoin de la division alimentée par le #RN",
+    "date": "2026-11-13T19:35:12+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "zcmoPtZXhU4",
     "titre": "Écart entre salaire brut et net : une diversion #grève  #lecampdestravailleurs #nathaliearthaud",
@@ -389,15 +389,15 @@
     "titre": "La lutte compte bien plus que les élections",
     "date": "2026-11-11T14:00:17+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "X_k7EM2tD2w",
-    "titre": "Un parti des travailleurs pour que le prochain mai 68 aille jusqu'au bout",
-    "date": "2026-11-10T11:53:21+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "SFsyxQ10zVo",
+    "titre": "Coup de tonnerre : Poutine humilie Macron en direct !",
+    "date": "2026-11-13T19:08:12+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "TWXnYRWu78s",
     "titre": "Coup de folie allemand : la France « divorce enfin » !",
@@ -408,12 +408,6 @@
     "id": "Gank-UrEoGc",
     "titre": "Les Macron : la vérité éclate, et c’est mondial !",
     "date": "2026-11-12T14:01:19+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "Xz6xlRFl6L4",
-    "titre": "Florian Philippot veut juger Macron pour haute trahison : le plateau s’affole !",
-    "date": "2026-11-12T09:22:48+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]

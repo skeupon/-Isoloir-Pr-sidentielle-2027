@@ -303,27 +303,27 @@ un million de logements
 . Les classes moyennes en paient le prix, trop aisées pour le logement social, trop modestes pour un marché que la puissance publique a déséquilibré. Nous romprons avec quarante ans de pénurie administrée.
 Téléchargez le livret
 Vos avis
-Consultation en cours
+3 terminées
+Consultation
+Logement social
+Le logement social doit-il prioritairement accueillir les familles actives ou rester ouvert à tous
+Priorité aux familles actives
+Accueil selon les besoins sociaux
+Mixte : familles actives et vulnérables
+Voir les mesures
+Consultation
+Logement
+Pour accélérer la construction, faut-il d'abord simplifier les normes ou renforcer les équipes municipales
+Simplifier les normes de construction
+Renforcer les équipes des mairies
+Faire les deux en même temps
+Voir les mesures
 Consultation
 Congé de naissance
 Pour aider les jeunes parents à accéder au logement, faut-il agir sur le crédit ou sur les allocations
 Baisser les taux d'emprunt
 Augmenter les aides financières
 Geler les prix de l'immobilier
-Votez
-Consultation
-Logement social
-Le logement social doit-il prioritairement accueillir les familles actives ou rester ouvert à tous
-Priorité aux familles actives
-Accueil selon les besoins sociaux
-Mixte : familles actives et vulnérables
-Voir les mesures
-Consultation
-Logement
-Pour accélérer la construction, faut-il d'abord simplifier les normes ou renforcer les équipes municipales
-Simplifier les normes de construction
-Renforcer les équipes des mairies
-Faire les deux en même temps
 Voir les mesures
 Consultation
 Logement social
@@ -340,6 +340,13 @@ Renforcer les équipes des mairies
 Faire les deux en même temps
 Voir les mesures
 Consultation
+Congé de naissance
+Pour aider les jeunes parents à accéder au logement, faut-il agir sur le crédit ou sur les allocations
+Baisser les taux d'emprunt
+Augmenter les aides financières
+Geler les prix de l'immobilier
+Voir les mesures
+Consultation
 Logement social
 Le logement social doit-il prioritairement accueillir les familles actives ou rester ouvert à tous
 Priorité aux familles actives
@@ -352,6 +359,13 @@ Pour accélérer la construction, faut-il d'abord simplifier les normes ou renfo
 Simplifier les normes de construction
 Renforcer les équipes des mairies
 Faire les deux en même temps
+Voir les mesures
+Consultation
+Congé de naissance
+Pour aider les jeunes parents à accéder au logement, faut-il agir sur le crédit ou sur les allocations
+Baisser les taux d'emprunt
+Augmenter les aides financières
+Geler les prix de l'immobilier
 Voir les mesures
 La FAQ
 question
