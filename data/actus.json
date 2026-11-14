@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-14T11:00+00:00",
+ "maj": "2026-11-14T20:11+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -111,7 +111,7 @@
    {
     "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
     "source": "franceinfo",
-    "date": "2026-11-14T09:19:06+01:00",
+    "date": "2026-11-14T16:14:25+01:00",
     "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
@@ -163,12 +163,6 @@
   ],
   "retailleau": [
    {
-    "titre": "Bruno Retailleau, le candidat des Républicains à la présidentielle, n'a \"pas de prêt bancaire\" et accuse le gouvernement",
-    "source": "franceinfo",
-    "date": "2026-11-13T11:22:37+01:00",
-    "lien": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
     "titre": "Présidentielle 2027 : pour Bruno Retailleau, une primaire de la droite doit se faire même sans Edouard Philippe",
     "source": "Libération",
     "date": "2026-11-12T18:31:58+00:00",
@@ -193,21 +187,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "7Yv0xZJ4ZVc",
-    "titre": "C'étaient des militants d'extrême gauche : certains, vous allez même boire un café avec !",
-    "date": "2026-11-13T21:30:04+00:00",
+    "id": "CQ_VHJjtxlA",
+    "titre": "Marine Le Pen répond aux questions de la jeunesse : logement, études, travail, Parcoursup",
+    "date": "2026-11-14T19:16:16+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "PEaAo7vzzyQ",
-    "titre": "Test qualité approuvé ! 😉",
-    "date": "2026-11-13T20:26:56+00:00",
+    "id": "C9wOWsfFRAo",
+    "titre": "Celui qui méprise notre culture et nos lois ? La porte est grande ouverte !",
+    "date": "2026-11-14T18:00:25+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "BfZyYTBhrk0",
-    "titre": "Emmanuel Macron a battu un nouveau record : zéro voix sur un budget à l'Assemblée !",
-    "date": "2026-11-13T17:00:21+00:00",
+    "id": "HJl9Bh9q4KE",
+    "titre": "Rencontrer Zelensky ? Oui, si je peux le rencontrer à Bruxelles !",
+    "date": "2026-11-14T11:00:33+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -273,6 +267,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "3N-mdENj19Y",
+    "titre": "« En 5 ans, la France doit redevenir une superpuissance éducative »",
+    "date": "2026-11-14T15:29:33+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "Rf3aQabKbsw",
     "titre": "« Je pense que la philosophie devrait être instruite dès le primaire »",
     "date": "2026-11-13T19:06:56+00:00",
@@ -283,15 +283,15 @@
     "titre": "À l’ère de l’IA, il est fondamental de sanctuariser des temps d’apprentissage sans numérique",
     "date": "2026-11-13T15:31:52+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "bEFdGRhr8JU",
-    "titre": "Le plan de David Lisnard pour libérer les collectivités.",
-    "date": "2026-11-13T14:00:18+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "WtEgoqmc610",
+    "titre": "🍇 Merci pour votre accueil si chaleureux à Beaune !",
+    "date": "2026-11-14T16:46:53+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "zZCqR8uHcLU",
     "titre": "Les verres incassables de Duralex, ce n’est pas un mythe !",
@@ -302,12 +302,6 @@
     "id": "-QYbMSQFzkw",
     "titre": "🇫🇷 Bien arrivé au salon du Made in France.",
     "date": "2026-11-13T14:31:11+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "4aMCNsa_7Lo",
-    "titre": "C'est le moment de réduire les effectifs sans licencier personne !",
-    "date": "2026-11-12T20:18:57+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -333,6 +327,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "BL5l1Vrba8M",
+    "titre": "\"Je propose un protectionnisme intelligent !\" · Salon du Made in France, 12/11/2026",
+    "date": "2026-11-14T16:00:05+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "J4T_nYqT4ug",
     "titre": "Quand Emmanuel Macron est arrivé, la France versait 17 milliards d’euros à l’UE…",
     "date": "2026-11-13T18:32:56+00:00",
@@ -343,35 +343,35 @@
     "titre": "Salon du Made in France 2026 🇫🇷",
     "date": "2026-11-13T15:13:42+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "_4MKzYbmNiM",
-    "titre": "🇫🇷 La France a tous les atouts pour redevenir une grande puissance économique et industrielle !",
-    "date": "2026-11-12T18:57:52+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "QxJstwoZ8dM",
+    "titre": "Le racisme est d'abord une arme contre #lecampdestravailleurs (#nathaliearthaud)",
+    "date": "2026-11-14T14:00:33+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
+   {
+    "id": "t6KEmvKGGGU",
+    "titre": "Dénoncer le CAC 40 est loin d'être hors-sujet | Nathalie Arthaud en débat à Belfort",
+    "date": "2026-11-14T11:26:31+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "K3nAfDPsQnk",
     "titre": "Le patron a besoin de la division alimentée par le #RN",
     "date": "2026-11-13T19:35:12+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "zcmoPtZXhU4",
-    "titre": "Écart entre salaire brut et net : une diversion #grève  #lecampdestravailleurs #nathaliearthaud",
-    "date": "2026-11-12T14:00:21+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "2R2aKkzH1os",
-    "titre": "La lutte compte bien plus que les élections",
-    "date": "2026-11-11T14:00:17+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "CnF5BIftU_s",
+    "titre": "Pannes géantes et « 17 novembre » : ce que j’ai découvert est incroyable !",
+    "date": "2026-11-14T12:58:00+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "SFsyxQ10zVo",
     "titre": "Coup de tonnerre : Poutine balance du lourd sur Macron en direct !",
@@ -382,12 +382,6 @@
     "id": "TWXnYRWu78s",
     "titre": "Coup de folie allemand : la France « divorce enfin » !",
     "date": "2026-11-13T08:47:28+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "Gank-UrEoGc",
-    "titre": "Les Macron : la vérité éclate, et c’est mondial !",
-    "date": "2026-11-12T14:01:19+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
