@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-13T21:41+00:00",
+ "maj": "2026-11-14T11:00+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -105,15 +105,35 @@
     "source": "Libération",
     "date": "2026-11-13T10:07:31+00:00",
     "lien": "https://www.liberation.fr/politique/pourquoi-gabriel-attal-est-persuade-de-gagner-la-primaire-face-a-retailleau-et-lisnard-20261113_RBF4A6X3TRBERDDRKPD5O5RTEY/"
+   }
+  ],
+  "glucksmann": [
+   {
+    "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
+    "source": "franceinfo",
+    "date": "2026-11-14T09:19:06+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "VIDEO. Dans les fauteuils rouges de \"Complément d'enquête\" : Prisca Thevenot, directrice de campagne de Gabriel Attal",
-    "source": "franceinfo",
-    "date": "2026-11-13T09:42:09+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-dans-les-fauteuils-rouges-de-complement-d-enquete-prisca-thevenot-directrice-de-campagne-de-gabriel-attal_8280116.html#xtor=RSS-3-%5Bpolitique%5D"
+    "titre": "Présidentielle 2027 : les relations tortueuses entre Raphaël Glucksmann et les macronistes, entre attraction et grande méfiance",
+    "source": "Le Monde",
+    "date": "2026-11-14T06:18:15+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo d'Edwige Diaz",
+    "source": "franceinfo",
+    "date": "2026-11-14T11:32:35+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-14-novembre-guerre-en-ukraine-parrainages-et-financement-de-la-campagne-le-8h30-franceinfo-d-edwige-diaz_8261291.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "\"Il nous manque encore une centaine\" de parrainages pour la candidature à la présidentielle de Marine Le Pen, chiffre Edwige Diaz",
+    "source": "franceinfo",
+    "date": "2026-11-14T09:32:43+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/il-nous-manque-encore-une-centaine-de-parrainages-pour-la-candidature-a-la-presidentielle-de-marine-le-pen-chiffre-edwige-diaz_8282216.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles",
     "source": "franceinfo",
@@ -127,21 +147,7 @@
     "lien": "https://www.liberation.fr/politique/elections/un-referendum-pour-changer-la-constitution-110-constitutionnalistes-critiquent-le-projet-de-marine-le-pen-20261111_FKMMJMKVCNETHJZ2X7ADMX5Y4M/"
    }
   ],
-  "david-lisnard": [
-   {
-    "titre": "Élisabeth Borne écarte une primaire allant jusqu'à David Lisnard en vue de l'élection présidentielle de 2027",
-    "source": "franceinfo",
-    "date": "2026-11-13T10:11:22+01:00",
-    "lien": "https://www.franceinfo.fr/elections/elisabeth-borne-ecarte-une-primaire-allant-jusqu-a-david-lisnard-en-vue-de-l-election-presidentielle-de-2027_8280728.html#xtor=RSS-3-%5Bpolitique%5D"
-   }
-  ],
   "melenchon": [
-   {
-    "titre": "François Ruffin dénonce \"la censure\" d'Israël après l'interdiction de territoire visant Jean-Luc Mélenchon",
-    "source": "franceinfo",
-    "date": "2026-11-13T09:24:40+01:00",
-    "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/francois-ruffin-denonce-la-censure-d-israel-apres-l-interdiction-de-territoire-visant-jean-luc-melenchon_8280653.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
    {
     "titre": "Israël interdit de territoire Jean-Luc Mélenchon, la France dénonce une «décision démagogique»",
     "source": "Libération",
@@ -163,18 +169,6 @@
     "lien": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "\"Vous avez en France des minorités bruyantes, agissantes, violentes, qu'on laisse agir\", affirme Bruno Retailleau à propos du mouvement social",
-    "source": "franceinfo",
-    "date": "2026-11-13T09:29:11+01:00",
-    "lien": "https://www.franceinfo.fr/politique/vous-avez-en-france-des-minorites-bruyantes-agissantes-violentes-qu-on-laisse-agir-affirme-bruno-retailleau-a-propos-du-mouvement-social_8280638.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : Bruno Retailleau, en s’attaquant au droit du sol, durcit son programme sur l’immigration",
-    "source": "Le Monde",
-    "date": "2026-11-13T08:20:16+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-bruno-retailleau-devoile-son-programme-toujours-plus-dur-pour-lutter-contre-l-immigration_6809292_823448.html"
-   },
-   {
     "titre": "Présidentielle 2027 : pour Bruno Retailleau, une primaire de la droite doit se faire même sans Edouard Philippe",
     "source": "Libération",
     "date": "2026-11-12T18:31:58+00:00",
@@ -187,21 +181,7 @@
     "lien": "https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111"
    }
   ],
-  "francois-ruffin": [
-   {
-    "titre": "François Ruffin dénonce \"la censure\" d'Israël après l'interdiction de territoire visant Jean-Luc Mélenchon",
-    "source": "franceinfo",
-    "date": "2026-11-13T09:24:40+01:00",
-    "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/francois-ruffin-denonce-la-censure-d-israel-apres-l-interdiction-de-territoire-visant-jean-luc-melenchon_8280653.html#xtor=RSS-3-%5Bpolitique%5D"
-   }
-  ],
   "marine-tondelier": [
-   {
-    "titre": "Attentat raciste de Trappes : le RN annonce déposer une plainte en diffamation contre Marine Tondelier « très prochainement »",
-    "source": "Le Monde",
-    "date": "2026-11-13T10:44:32+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html"
-   },
    {
     "titre": "«Des gens tuent en son nom» : après les propos de Marine Tondelier sur l’attentat de Trappes, le RN va porter plainte en diffamation",
     "source": "Libération",
@@ -394,7 +374,7 @@
   "florian-philippot": [
    {
     "id": "SFsyxQ10zVo",
-    "titre": "Coup de tonnerre : Poutine humilie Macron en direct !",
+    "titre": "Coup de tonnerre : Poutine balance du lourd sur Macron en direct !",
     "date": "2026-11-13T19:08:12+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    },
