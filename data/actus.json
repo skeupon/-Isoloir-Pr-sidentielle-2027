@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-14T20:11+00:00",
+ "maj": "2026-11-15T11:35+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -109,19 +109,25 @@
   ],
   "glucksmann": [
    {
+    "titre": "Réseaux sociaux : pourquoi Raphaël Glucksmann n’a plus la cote",
+    "source": "Libération",
+    "date": "2026-11-15T10:02:17+00:00",
+    "lien": "https://www.liberation.fr/politique/reseaux-sociaux-pourquoi-raphael-glucksmann-na-plus-la-cote-20261115_GIC6HKMNTZAO3DUPZDRJAPX64I/"
+   },
+   {
     "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
     "source": "franceinfo",
     "date": "2026-11-14T16:14:25+01:00",
     "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : les relations tortueuses entre Raphaël Glucksmann et les macronistes, entre attraction et grande méfiance",
-    "source": "Le Monde",
-    "date": "2026-11-14T06:18:15+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
+    "source": "franceinfo",
+    "date": "2026-11-15T08:48:43+01:00",
+    "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo d'Edwige Diaz",
     "source": "franceinfo",
@@ -187,21 +193,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "CQ_VHJjtxlA",
-    "titre": "Marine Le Pen répond aux questions de la jeunesse : logement, études, travail, Parcoursup",
-    "date": "2026-11-14T19:16:16+00:00",
+    "id": "8AbeIVTjlio",
+    "titre": "La francophonie, une véritable fraternité à faire vivre | Marine Le Pen",
+    "date": "2026-11-15T11:09:14+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "C9wOWsfFRAo",
-    "titre": "Celui qui méprise notre culture et nos lois ? La porte est grande ouverte !",
-    "date": "2026-11-14T18:00:25+00:00",
+    "id": "Mes2S5SNAko",
+    "titre": "L'hormone de croissance de ce comportement antidémocratique, c'est aussi la presse !",
+    "date": "2026-11-15T11:00:06+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "HJl9Bh9q4KE",
-    "titre": "Rencontrer Zelensky ? Oui, si je peux le rencontrer à Bruxelles !",
-    "date": "2026-11-14T11:00:33+00:00",
+    "id": "iNJJ4zSJnRk",
+    "titre": "Le chômage des étrangers est deux fois plus élevé : nous ne pouvons plus importer des chômeurs !",
+    "date": "2026-11-15T08:00:37+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -267,6 +273,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "bQUSlf2Q9YQ",
+    "titre": "« La liberté n'a jamais à se justifier »",
+    "date": "2026-11-15T11:15:24+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "3N-mdENj19Y",
     "titre": "« En 5 ans, la France doit redevenir une superpuissance éducative »",
     "date": "2026-11-14T15:29:33+00:00",
@@ -277,15 +289,15 @@
     "titre": "« Je pense que la philosophie devrait être instruite dès le primaire »",
     "date": "2026-11-13T19:06:56+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "YsmeHDAfHeU",
-    "titre": "À l’ère de l’IA, il est fondamental de sanctuariser des temps d’apprentissage sans numérique",
-    "date": "2026-11-13T15:31:52+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "e2UK4vCk4NA",
+    "titre": "👨‍🍳 Aux fourneaux !",
+    "date": "2026-11-14T20:16:22+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "WtEgoqmc610",
     "titre": "🍇 Merci pour votre accueil si chaleureux à Beaune !",
@@ -296,12 +308,6 @@
     "id": "zZCqR8uHcLU",
     "titre": "Les verres incassables de Duralex, ce n’est pas un mythe !",
     "date": "2026-11-13T19:01:24+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "-QYbMSQFzkw",
-    "titre": "🇫🇷 Bien arrivé au salon du Made in France.",
-    "date": "2026-11-13T14:31:11+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -327,6 +333,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "JIP5VWOv0ms",
+    "titre": "🇫🇷 À Colombey-les-Deux-Églises, nous tenions à rendre hommage au général de Gaulle.",
+    "date": "2026-11-15T06:00:24+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "BL5l1Vrba8M",
     "titre": "\"Je propose un protectionnisme intelligent !\" · Salon du Made in France, 12/11/2026",
     "date": "2026-11-14T16:00:05+00:00",
@@ -336,12 +348,6 @@
     "id": "J4T_nYqT4ug",
     "titre": "Quand Emmanuel Macron est arrivé, la France versait 17 milliards d’euros à l’UE…",
     "date": "2026-11-13T18:32:56+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "1XGdqYkD0P4",
-    "titre": "Salon du Made in France 2026 🇫🇷",
-    "date": "2026-11-13T15:13:42+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
@@ -367,6 +373,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "DKm3FgjqD_8",
+    "titre": "Ursula Von der Leyen s’augmente de 18 000 euros !",
+    "date": "2026-11-15T08:56:43+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "CnF5BIftU_s",
     "titre": "Pannes géantes et « 17 novembre » : ce que j’ai découvert est incroyable !",
     "date": "2026-11-14T12:58:00+00:00",
@@ -376,12 +388,6 @@
     "id": "SFsyxQ10zVo",
     "titre": "Coup de tonnerre : Poutine balance du lourd sur Macron en direct !",
     "date": "2026-11-13T19:08:12+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "TWXnYRWu78s",
-    "titre": "Coup de folie allemand : la France « divorce enfin » !",
-    "date": "2026-11-13T08:47:28+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
