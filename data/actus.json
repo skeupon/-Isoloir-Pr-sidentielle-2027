@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-15T11:35+00:00",
+ "maj": "2026-11-15T20:37+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -123,13 +123,25 @@
   ],
   "le-pen": [
    {
+    "titre": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
+    "source": "franceinfo",
+    "date": "2026-11-15T20:02:15+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
+    "source": "Le Monde",
+    "date": "2026-11-15T14:22:32+01:00",
+    "lien": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html"
+   },
+   {
     "titre": "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
     "source": "franceinfo",
     "date": "2026-11-15T08:48:43+01:00",
     "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo d'Edwige Diaz",
+    "titre": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo\" d'Edwige Diaz",
     "source": "franceinfo",
     "date": "2026-11-14T11:32:35+01:00",
     "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-14-novembre-guerre-en-ukraine-parrainages-et-financement-de-la-campagne-le-8h30-franceinfo-d-edwige-diaz_8261291.html#xtor=RSS-3-%5Bpolitique%5D"
@@ -139,18 +151,6 @@
     "source": "franceinfo",
     "date": "2026-11-14T09:32:43+01:00",
     "lien": "https://www.franceinfo.fr/politique/marine-le-pen/il-nous-manque-encore-une-centaine-de-parrainages-pour-la-candidature-a-la-presidentielle-de-marine-le-pen-chiffre-edwige-diaz_8282216.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles",
-    "source": "franceinfo",
-    "date": "2026-11-13T19:29:43+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Un référendum pour changer la constitution : 110 constitutionnalistes critiquent le projet de Marine Le Pen",
-    "source": "Libération",
-    "date": "2026-11-11T19:03:08+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/un-referendum-pour-changer-la-constitution-110-constitutionnalistes-critiquent-le-projet-de-marine-le-pen-20261111_FKMMJMKVCNETHJZ2X7ADMX5Y4M/"
    }
   ],
   "melenchon": [
@@ -183,6 +183,12 @@
   ],
   "marine-tondelier": [
    {
+    "titre": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
+    "source": "franceinfo",
+    "date": "2026-11-15T20:02:15+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
     "titre": "«Des gens tuent en son nom» : après les propos de Marine Tondelier sur l’attentat de Trappes, le RN va porter plainte en diffamation",
     "source": "Libération",
     "date": "2026-11-12T20:15:20+00:00",
@@ -193,6 +199,12 @@
  "videos": {
   "le-pen": [
    {
+    "id": "aSIsqmSHcHg",
+    "titre": "Si Mélenchon n'a même pas l'autorité sur ses militants, je m'inquiète !",
+    "date": "2026-11-15T14:00:14+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "8AbeIVTjlio",
     "titre": "La francophonie, une véritable fraternité à faire vivre | Marine Le Pen",
     "date": "2026-11-15T11:09:14+00:00",
@@ -202,12 +214,6 @@
     "id": "Mes2S5SNAko",
     "titre": "L'hormone de croissance de ce comportement antidémocratique, c'est aussi la presse !",
     "date": "2026-11-15T11:00:06+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "iNJJ4zSJnRk",
-    "titre": "Le chômage des étrangers est deux fois plus élevé : nous ne pouvons plus importer des chômeurs !",
-    "date": "2026-11-15T08:00:37+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -273,25 +279,31 @@
   ],
   "david-lisnard": [
    {
+    "id": "E60vhEgk2yM",
+    "titre": "Comment l'idéologie de certains de ses professeurs a renforcé la conscience politique",
+    "date": "2026-11-15T18:21:43+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "CaeN7irj3Y8",
+    "titre": "Vous vous souvenez d'Hibernatus ?",
+    "date": "2026-11-15T13:13:18+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "bQUSlf2Q9YQ",
     "titre": "« La liberté n'a jamais à se justifier »",
     "date": "2026-11-15T11:15:24+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "3N-mdENj19Y",
-    "titre": "« En 5 ans, la France doit redevenir une superpuissance éducative »",
-    "date": "2026-11-14T15:29:33+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "Rf3aQabKbsw",
-    "titre": "« Je pense que la philosophie devrait être instruite dès le primaire »",
-    "date": "2026-11-13T19:06:56+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "6zuVRNe1NKI",
+    "titre": "🇫🇷 Ravi d’être aux côtés des Varois aujourd’hui à La Croix-Valmer",
+    "date": "2026-11-15T13:54:34+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "e2UK4vCk4NA",
     "titre": "👨‍🍳 Aux fourneaux !",
@@ -302,12 +314,6 @@
     "id": "WtEgoqmc610",
     "titre": "🍇 Merci pour votre accueil si chaleureux à Beaune !",
     "date": "2026-11-14T16:46:53+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "zZCqR8uHcLU",
-    "titre": "Les verres incassables de Duralex, ce n’est pas un mythe !",
-    "date": "2026-11-13T19:01:24+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -333,6 +339,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "Gd8tcg80jdA",
+    "titre": "Ne vous laissez pas voler la présidentielle !",
+    "date": "2026-11-15T16:00:03+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "JIP5VWOv0ms",
     "titre": "🇫🇷 À Colombey-les-Deux-Églises, nous tenions à rendre hommage au général de Gaulle.",
     "date": "2026-11-15T06:00:24+00:00",
@@ -343,15 +355,15 @@
     "titre": "\"Je propose un protectionnisme intelligent !\" · Salon du Made in France, 12/11/2026",
     "date": "2026-11-14T16:00:05+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "J4T_nYqT4ug",
-    "titre": "Quand Emmanuel Macron est arrivé, la France versait 17 milliards d’euros à l’UE…",
-    "date": "2026-11-13T18:32:56+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "qwPj0NCP1tQ",
+    "titre": "Contre le chômage, répartissons le travail entre tous sans perte de salaire #lecampdestravailleurs",
+    "date": "2026-11-15T14:00:37+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "QxJstwoZ8dM",
     "titre": "Le racisme est d'abord une arme contre #lecampdestravailleurs (#nathaliearthaud)",
@@ -363,15 +375,15 @@
     "titre": "Dénoncer le CAC 40 est loin d'être hors-sujet | Nathalie Arthaud en débat à Belfort",
     "date": "2026-11-14T11:26:31+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "K3nAfDPsQnk",
-    "titre": "Le patron a besoin de la division alimentée par le #RN",
-    "date": "2026-11-13T19:35:12+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "FePpkYQSyFw",
+    "titre": "Je ne pensais pas vivre ça un jour…Débat hallucinant sur BFM TV !",
+    "date": "2026-11-15T14:00:01+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "DKm3FgjqD_8",
     "titre": "Ursula Von der Leyen s’augmente de 18 000 euros !",
@@ -382,12 +394,6 @@
     "id": "CnF5BIftU_s",
     "titre": "Pannes géantes et « 17 novembre » : ce que j’ai découvert est incroyable !",
     "date": "2026-11-14T12:58:00+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "SFsyxQ10zVo",
-    "titre": "Coup de tonnerre : Poutine balance du lourd sur Macron en direct !",
-    "date": "2026-11-13T19:08:12+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
