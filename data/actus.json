@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-16T12:08+00:00",
+ "maj": "2026-11-16T23:52+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,6 +95,18 @@
  "flux": {
   "attal": [
    {
+    "titre": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+    "source": "Le Monde",
+    "date": "2026-11-16T23:21:54+01:00",
+    "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html"
+   },
+   {
+    "titre": "APPEL A TEMOIGNAGES. Présidentielle 2027 : posez vos questions à Gabriel Attal, invité de \"L'Heure de vérité\"",
+    "source": "franceinfo",
+    "date": "2026-11-16T15:20:46+01:00",
+    "lien": "https://www.franceinfo.fr/politique/gabriel-attal/appel-a-temoignages-presidentielle-2027-posez-vos-questions-a-gabriel-attal-invite-de-l-heure-de-verite_8284901.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
     "titre": "Pourquoi Gabriel Attal est persuadé de gagner la primaire face à Retailleau et Lisnard",
     "source": "Libération",
     "date": "2026-11-13T10:07:31+00:00",
@@ -103,48 +115,48 @@
   ],
   "glucksmann": [
    {
+    "titre": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+    "source": "Le Monde",
+    "date": "2026-11-16T23:21:54+01:00",
+    "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html"
+   },
+   {
     "titre": "Réseaux sociaux : pourquoi Raphaël Glucksmann n’a plus la cote",
     "source": "Libération",
     "date": "2026-11-15T10:02:17+00:00",
     "lien": "https://www.liberation.fr/politique/reseaux-sociaux-pourquoi-raphael-glucksmann-na-plus-la-cote-20261115_GIC6HKMNTZAO3DUPZDRJAPX64I/"
-   },
-   {
-    "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
-    "source": "franceinfo",
-    "date": "2026-11-14T16:14:25+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Débat de la présidentielle : Marine Le Pen cible les associations « politisées », dont la Ligue des droits de l’homme, « ramassis de gauchistes »",
+    "source": "Le Monde",
+    "date": "2026-11-17T00:17:20+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/debat-de-la-presidentielle-marine-le-pen-cible-les-associations-politisees-dont-la-ligue-des-droits-de-l-homme-ramassis-de-gauchistes_6812656_823448.html"
+   },
+   {
+    "titre": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
+    "source": "franceinfo",
+    "date": "2026-11-16T22:09:09+01:00",
+    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Marine Le Pen assure auprès de l’ambassadeur ukrainien que la France ne pourrait « plus aider financièrement » Kiev si elle est élue présidente de la République",
+    "source": "Le Monde",
+    "date": "2026-11-16T18:36:20+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/16/marine-le-pen-assure-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue-presidente-de-la-republique_6812229_823448.html"
+   },
+   {
+    "titre": "ÉDITO. Sur l'Ukraine, Marine Le Pen a-t-elle une \"position antipatriotique\" ?",
+    "source": "franceinfo",
+    "date": "2026-11-16T13:14:16+01:00",
+    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/edito-sur-l-ukraine-marine-le-pen-a-t-elle-une-position-antipatriotique_8284844.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "VIDEO. Marine Le Pen, qui va présenter mardi son projet de réforme des retraites, a \"une solution pour financer une part de capitalisation pour tous les Français\", assure Jean-Philippe Tanguy",
     "source": "franceinfo",
     "date": "2026-11-16T11:41:43+01:00",
     "lien": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "« Fractures françaises » : Marine Le Pen et les limites de la « dédiabolisation » du RN à l’approche de l’élection présidentielle",
-    "source": "Le Monde",
-    "date": "2026-11-16T05:29:03+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html"
-   },
-   {
-    "titre": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
-    "source": "franceinfo",
-    "date": "2026-11-15T20:02:15+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
-    "source": "Le Monde",
-    "date": "2026-11-15T14:22:32+01:00",
-    "lien": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html"
-   },
-   {
-    "titre": "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
-    "source": "franceinfo",
-    "date": "2026-11-15T08:48:43+01:00",
-    "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "david-lisnard": [
@@ -163,6 +175,12 @@
   ],
   "melenchon": [
    {
+    "titre": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+    "source": "Le Monde",
+    "date": "2026-11-16T23:21:54+01:00",
+    "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html"
+   },
+   {
     "titre": "Israël interdit de territoire Jean-Luc Mélenchon, la France dénonce une «décision démagogique»",
     "source": "Libération",
     "date": "2026-11-12T20:26:04+00:00",
@@ -176,6 +194,12 @@
    }
   ],
   "retailleau": [
+   {
+    "titre": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+    "source": "Le Monde",
+    "date": "2026-11-16T23:21:54+01:00",
+    "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html"
+   },
    {
     "titre": "Présidentielle 2027 : pour Bruno Retailleau, une primaire de la droite doit se faire même sans Edouard Philippe",
     "source": "Libération",
@@ -207,6 +231,12 @@
  "videos": {
   "le-pen": [
    {
+    "id": "Ac9fQMLkbww",
+    "titre": "LE QUARTIER GÉNÉRAL | Suivez en direct le grand débat de Marine Le Pen sur LCI !",
+    "date": "2026-11-16T22:33:30+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "UieXX8_7Wdg",
     "titre": "C'est la fin d'un monde : nous assistons au grand retour des nations !",
     "date": "2026-11-16T11:00:19+00:00",
@@ -217,35 +247,35 @@
     "titre": "Personne d'autre ne fait ça : c'est une marque de fabrique de l'extrême gauche !",
     "date": "2026-11-16T07:00:30+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "aSIsqmSHcHg",
-    "titre": "Si Mélenchon n'a même pas l'autorité sur ses militants, je m'inquiète !",
-    "date": "2026-11-15T14:00:14+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
    {
-    "id": "7wGA4PeFsLg",
-    "titre": "Nous mettrons en place un service public de la petite enfance.",
-    "date": "2026-11-13T16:53:23+00:00",
+    "id": "5Df-5eY6Xtc",
+    "titre": "Le grand débat LCI avec Jean-Luc Mélenchon - En association avec les Restos du Cœur",
+    "date": "2026-11-16T22:36:57+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "SO2oL5FFNEU",
-    "titre": "Nous allons relancer la filière textile en France",
-    "date": "2026-11-13T12:27:09+00:00",
+    "id": "03XR4hE5ICQ",
+    "titre": "Le préfet a le pouvoir de les réquisitionner. Ce pouvoir doit être utilisé !",
+    "date": "2026-11-16T21:55:33+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    },
    {
-    "id": "BdG488hwTek",
-    "titre": "Il n’y a pas besoin de faire des espaces « no kids ».",
-    "date": "2026-11-13T11:04:32+00:00",
+    "id": "Dr3HtvmzoB4",
+    "titre": "La seule ressource de la France, c’est sa matière grise.",
+    "date": "2026-11-16T21:55:32+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
+   {
+    "id": "1NR_BfzVgoo",
+    "titre": "EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.",
+    "date": "2026-11-16T22:20:49+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
    {
     "id": "QHsojHi4vsI",
     "titre": "Gabriel Attal sur France Info | Ses propositions sur le service public",
@@ -256,12 +286,6 @@
     "id": "wE8CZI2ZQA8",
     "titre": "Il y a des discriminations en France.",
     "date": "2026-11-10T18:10:15+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "fZXNZKsc0n8",
-    "titre": "GABRIEL ATTAL DÉBAT AUX RENCONTRES DE L'AVENIR À SAINT-RAPHAËL",
-    "date": "2026-11-10T17:54:21+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -287,41 +311,41 @@
   ],
   "david-lisnard": [
    {
+    "id": "HSkYR63tjgE",
+    "titre": "\"Au nom de l'égalité, on a produit l'égalitarisme, qui est la pire des injustices.\"",
+    "date": "2026-11-16T18:26:19+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "12PdaXAXsjs",
+    "titre": "Pourquoi je veux supprimer les aides aux entreprises",
+    "date": "2026-11-16T13:21:56+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "wdK08eYdBVQ",
     "titre": "Vrai ✅ ou faux ❌",
     "date": "2026-11-16T10:26:20+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "E60vhEgk2yM",
-    "titre": "Comment l'idéologie de certains de ses professeurs a renforcé la conscience politique",
-    "date": "2026-11-15T18:21:43+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "CaeN7irj3Y8",
-    "titre": "Vous vous souvenez d'Hibernatus ?",
-    "date": "2026-11-15T13:13:18+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
+    "id": "hz2ckr8mXGE",
+    "titre": "École, industrie, civilisation : Eric Zemmour face aux Entrepreneurs et Dirigeants Chrétiens.",
+    "date": "2026-11-16T19:39:59+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
+    "id": "f7RMkhgTTRo",
+    "titre": "Mon problème n’est pas le confort des délinquants : c’est la sécurité des Français.",
+    "date": "2026-11-16T12:28:42+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
     "id": "6zuVRNe1NKI",
     "titre": "🇫🇷 Ravi d’être aux côtés des Varois aujourd’hui à La Croix-Valmer",
     "date": "2026-11-15T13:54:34+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "e2UK4vCk4NA",
-    "titre": "👨‍🍳 Aux fourneaux !",
-    "date": "2026-11-14T20:16:22+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "WtEgoqmc610",
-    "titre": "🍇 Merci pour votre accueil si chaleureux à Beaune !",
-    "date": "2026-11-14T16:46:53+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -347,6 +371,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "Gro90qKgrXo",
+    "titre": "Mensonge d’État !",
+    "date": "2026-11-16T17:28:56+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "Gd8tcg80jdA",
     "titre": "Ne vous laissez pas voler la présidentielle !",
     "date": "2026-11-15T16:00:03+00:00",
@@ -357,15 +387,15 @@
     "titre": "🇫🇷 À Colombey-les-Deux-Églises, nous tenions à rendre hommage au général de Gaulle.",
     "date": "2026-11-15T06:00:24+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "BL5l1Vrba8M",
-    "titre": "\"Je propose un protectionnisme intelligent !\" · Salon du Made in France, 12/11/2026",
-    "date": "2026-11-14T16:00:05+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "IxMnbZRVwdM",
+    "titre": "Pas d'argent pour les salaires ? Et dans les caisses du patronat ? | Éditorial de Nathalie Arthaud",
+    "date": "2026-11-16T18:42:07+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "qwPj0NCP1tQ",
     "titre": "Contre le chômage, répartissons le travail entre tous sans perte de salaire #lecampdestravailleurs",
@@ -377,15 +407,15 @@
     "titre": "Le racisme est d'abord une arme contre #lecampdestravailleurs (#nathaliearthaud)",
     "date": "2026-11-14T14:00:33+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "t6KEmvKGGGU",
-    "titre": "Dénoncer le CAC 40 est loin d'être hors-sujet | Nathalie Arthaud en débat à Belfort",
-    "date": "2026-11-14T11:26:31+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "J4cZbkSMhC4",
+    "titre": "« Macron était terrorisé ! » : Poutine lui envoie un message incroyable !",
+    "date": "2026-11-16T14:00:15+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "FePpkYQSyFw",
     "titre": "Je ne pensais pas vivre ça un jour…Débat hallucinant sur BFM TV !",
@@ -396,12 +426,6 @@
     "id": "DKm3FgjqD_8",
     "titre": "Ursula Von der Leyen s’augmente de 18 000 euros !",
     "date": "2026-11-15T08:56:43+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "CnF5BIftU_s",
-    "titre": "Pannes géantes et « 17 novembre » : ce que j’ai découvert est incroyable !",
-    "date": "2026-11-14T12:58:00+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
