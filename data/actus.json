@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-15T20:37+00:00",
+ "maj": "2026-11-16T12:08+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,12 +95,6 @@
  "flux": {
   "attal": [
    {
-    "titre": "\"Peut-il mettre à mal l'annonce faite d'un combat entre le RN et LFI ?\" : Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, ne ferme par la porte à Teddy Riner",
-    "source": "franceinfo",
-    "date": "2026-11-13T22:31:29+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/peut-il-mettre-a-mal-l-annonce-faite-d-un-combat-entre-le-rn-et-lfi-jean-charles-orsucci-porte-parole-de-campagne-de-gabriel-attal-ne-ferme-par-la-porte-a-teddy-riner_8281595.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
     "titre": "Pourquoi Gabriel Attal est persuadé de gagner la primaire face à Retailleau et Lisnard",
     "source": "Libération",
     "date": "2026-11-13T10:07:31+00:00",
@@ -123,6 +117,18 @@
   ],
   "le-pen": [
    {
+    "titre": "VIDEO. Marine Le Pen, qui va présenter mardi son projet de réforme des retraites, a \"une solution pour financer une part de capitalisation pour tous les Français\", assure Jean-Philippe Tanguy",
+    "source": "franceinfo",
+    "date": "2026-11-16T11:41:43+01:00",
+    "lien": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "« Fractures françaises » : Marine Le Pen et les limites de la « dédiabolisation » du RN à l’approche de l’élection présidentielle",
+    "source": "Le Monde",
+    "date": "2026-11-16T05:29:03+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html"
+   },
+   {
     "titre": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
     "source": "franceinfo",
     "date": "2026-11-15T20:02:15+01:00",
@@ -139,18 +145,20 @@
     "source": "franceinfo",
     "date": "2026-11-15T08:48:43+01:00",
     "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-%5Bpolitique%5D"
+   }
+  ],
+  "david-lisnard": [
+   {
+    "titre": "Pour le camp Philippe, David Lisnard est «le meilleur argument pour repousser la primaire»",
+    "source": "Libération",
+    "date": "2026-11-16T11:09:35+00:00",
+    "lien": "https://www.liberation.fr/politique/pour-le-camp-philippe-david-lisnard-est-le-meilleur-argument-pour-repousser-la-primaire-20261116_NMLEYLK7O5GZFFZDTHVGGP27O4/"
    },
    {
-    "titre": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo\" d'Edwige Diaz",
+    "titre": "Présidentielle 2027 : les coulisses de l'accélération de la campagne de David Lisnard",
     "source": "franceinfo",
-    "date": "2026-11-14T11:32:35+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-14-novembre-guerre-en-ukraine-parrainages-et-financement-de-la-campagne-le-8h30-franceinfo-d-edwige-diaz_8261291.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "\"Il nous manque encore une centaine\" de parrainages pour la candidature à la présidentielle de Marine Le Pen, chiffre Edwige Diaz",
-    "source": "franceinfo",
-    "date": "2026-11-14T09:32:43+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/il-nous-manque-encore-une-centaine-de-parrainages-pour-la-candidature-a-la-presidentielle-de-marine-le-pen-chiffre-edwige-diaz_8282216.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-15T23:42:31+01:00",
+    "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/presidentielle-2027-les-coulisses-de-l-acceleration-de-la-campagne-de-david-lisnard_8283962.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "melenchon": [
@@ -199,21 +207,21 @@
  "videos": {
   "le-pen": [
    {
+    "id": "UieXX8_7Wdg",
+    "titre": "C'est la fin d'un monde : nous assistons au grand retour des nations !",
+    "date": "2026-11-16T11:00:19+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "ZPhAR6uaCOY",
+    "titre": "Personne d'autre ne fait ça : c'est une marque de fabrique de l'extrême gauche !",
+    "date": "2026-11-16T07:00:30+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "aSIsqmSHcHg",
     "titre": "Si Mélenchon n'a même pas l'autorité sur ses militants, je m'inquiète !",
     "date": "2026-11-15T14:00:14+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "8AbeIVTjlio",
-    "titre": "La francophonie, une véritable fraternité à faire vivre | Marine Le Pen",
-    "date": "2026-11-15T11:09:14+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "Mes2S5SNAko",
-    "titre": "L'hormone de croissance de ce comportement antidémocratique, c'est aussi la presse !",
-    "date": "2026-11-15T11:00:06+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -279,6 +287,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "wdK08eYdBVQ",
+    "titre": "Vrai ✅ ou faux ❌",
+    "date": "2026-11-16T10:26:20+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "E60vhEgk2yM",
     "titre": "Comment l'idéologie de certains de ses professeurs a renforcé la conscience politique",
     "date": "2026-11-15T18:21:43+00:00",
@@ -288,12 +302,6 @@
     "id": "CaeN7irj3Y8",
     "titre": "Vous vous souvenez d'Hibernatus ?",
     "date": "2026-11-15T13:13:18+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "bQUSlf2Q9YQ",
-    "titre": "« La liberté n'a jamais à se justifier »",
-    "date": "2026-11-15T11:15:24+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
