@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-17T23:12+00:00",
+ "maj": "2026-11-18T12:22+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,15 +93,13 @@
   }
  ],
  "flux": {
-  "attal": [
-   {
-    "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
-    "source": "franceinfo",
-    "date": "2026-11-17T06:44:29+01:00",
-    "lien": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html#xtor=RSS-3-%5Bpolitique%5D"
-   }
-  ],
   "glucksmann": [
+   {
+    "titre": "Présidentielle 2027 : à Villeurbanne, Raphaël Glucksmann ancre sa campagne à gauche face à l’extrême droite",
+    "source": "Le Monde",
+    "date": "2026-11-18T09:12:24+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-a-villeurbanne-raphael-glucksmann-ancre-sa-campagne-a-gauche-face-a-l-extreme-droite_6813091_823448.html"
+   },
    {
     "titre": "Réseaux sociaux : pourquoi Raphaël Glucksmann n’a plus la cote",
     "source": "Libération",
@@ -111,43 +109,31 @@
   ],
   "le-pen": [
    {
-    "titre": "Comment Marine Le Pen veut-elle financer son plan pour les retraites ?",
-    "source": "franceinfo",
-    "date": "2026-11-17T21:48:50+01:00",
-    "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/comment-marine-le-pen-veut-elle-financer-son-plan-pour-les-retraites_8287178.html#xtor=RSS-3-%5Bpolitique%5D"
+    "titre": "Le Medef pas convaincu par le projet de réforme des retraites de Marine Le Pen",
+    "source": "Libération",
+    "date": "2026-11-18T11:13:24+00:00",
+    "lien": "https://www.liberation.fr/economie/social/le-medef-pas-convaincu-par-le-projet-de-reforme-des-retraites-de-marine-le-pen-20261118_ZSMW73X5SZGKLMNVR7ZTZBTJBA/"
+   },
+   {
+    "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
+    "source": "Le Figaro",
+    "date": "2026-11-18T10:28:37+01:00",
+    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
    },
    {
     "titre": "Guillaume Tabard : «Marine Le Pen sous le totem des 62 ans, un tournant bienvenu»",
     "source": "Le Figaro",
-    "date": "2026-11-17T18:30:00+01:00",
+    "date": "2026-11-18T10:04:43+01:00",
     "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117"
    },
    {
-    "titre": "La Ligue des droits de l'homme accuse Marine Le Pen de vouloir \"supprimer tous les contre-pouvoirs\", après ses déclarations sur des associations jugées \"politisées\"",
-    "source": "franceinfo",
-    "date": "2026-11-17T18:05:19+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/la-ligue-des-droits-de-l-homme-accuse-marine-le-pen-de-vouloir-supprimer-tous-les-contre-pouvoirs-apres-ses-declarations-sur-des-associations-jugees-politisees_8286773.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites, un système basé sur la progressivité et une part de capitalisation",
-    "source": "Le Monde",
-    "date": "2026-11-17T12:32:16+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html"
-   },
-   {
-    "titre": "Marine Le Pen et l’Ukraine, entre hypocrisie et lâcheté",
-    "source": "Le Monde",
-    "date": "2026-11-17T10:30:10+01:00",
-    "lien": "https://www.lemonde.fr/idees/article/2026/11/17/marine-le-pen-et-l-ukraine-entre-hypocrisie-et-lachete_6812934_3232.html"
+    "titre": "Sur le financement des associations, un front républicain bienvenu contre Marine Le Pen",
+    "source": "Libération",
+    "date": "2026-11-17T06:25:13+00:00",
+    "lien": "https://www.liberation.fr/politique/sur-le-financement-des-associations-un-front-republicain-bienvenu-contre-marine-le-pen-20261117_BYBIUKIKSRDW5I3MVV5PFGTPSY/"
    }
   ],
   "david-lisnard": [
-   {
-    "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
-    "source": "franceinfo",
-    "date": "2026-11-17T06:44:29+01:00",
-    "lien": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
    {
     "titre": "Pour le camp Philippe, David Lisnard est «le meilleur argument pour repousser la primaire»",
     "source": "Libération",
@@ -157,49 +143,37 @@
   ],
   "melenchon": [
    {
-    "titre": "La chanson \"Les Antisémites\" de Pierre Perret, qui cible LFI avec virulence, suscite la \"peine\" de Jean-Luc Mélenchon",
-    "source": "franceinfo",
-    "date": "2026-11-17T18:06:50+01:00",
-    "lien": "https://www.franceinfo.fr/culture/musique/chanson-francaise/la-chanson-les-antisemites-de-pierre-perret-qui-cible-lfi-avec-virulence-suscite-la-peine-de-jean-luc-melenchon_8286701.html#xtor=RSS-3-%5Bpolitique%5D"
+    "titre": "Dîner de Jean-Luc Mélenchon avec les grands patrons : Sonia Mabrouk ironise sur la base d’une fausse information et agace LFI",
+    "source": "Libération",
+    "date": "2026-11-18T11:07:07+00:00",
+    "lien": "https://www.liberation.fr/politique/diner-de-jean-luc-melenchon-avec-les-grands-patrons-sonia-mabrouk-ironise-sur-la-base-dune-fausse-information-et-agace-lfi-20261118_R5MJ5SMWZZGOBMKENC6MLDV6FE/"
    },
    {
-    "titre": "De Jean-Luc Mélenchon à Bruno Retailleau, les adversaires politiques de Marine Le Pen attaquent son projet de réforme des retraites",
+    "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
+    "source": "Le Figaro",
+    "date": "2026-11-18T10:28:37+01:00",
+    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
+   },
+   {
+    "titre": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
     "source": "Le Monde",
-    "date": "2026-11-17T17:58:45+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/la-droite-et-le-centre-attaquent-le-projet-de-reforme-des-retraites-de-marine-le-pen_6813010_823448.html"
+    "date": "2026-11-18T09:45:01+01:00",
+    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html"
+   },
+   {
+    "titre": "Présidentielle 2027 : Gérald Darmanin appelle au ralliement derrière Edouard Philippe pour barrer la route à Jean-Luc Mélenchon, qui « gagnera[it] l’élection » face à Marine Le Pen",
+    "source": "Le Monde",
+    "date": "2026-11-18T02:08:49+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-gerald-darmanin-appelle-bruno-retailleau-et-gabriel-attal-a-s-effacer-derriere-edouard-philippe-pour-barrer-la-route-a-jean-luc-melenchon_6813056_823448.html"
    },
    {
     "titre": "Un dîner chez Drouant ce mardi entre Jean-Luc Mélenchon, Bernard Arnault et Patrick Pouyanné : «Ça me fait plaisir de les voir»",
     "source": "Libération",
     "date": "2026-11-17T15:04:42+00:00",
     "lien": "https://www.liberation.fr/politique/un-diner-chez-drouant-ce-mardi-entre-jean-luc-melenchon-bernard-arnault-et-patrick-pouyanne-20261117_HKHJG34XLZFVXCQJIBE7THWFQQ/"
-   },
-   {
-    "titre": "«Comment a-t-il pu en arriver là ?» : Jean-Luc Mélenchon dit sa «peine» après la chanson de Pierre Perret «les Antisémites»",
-    "source": "Libération",
-    "date": "2026-11-17T14:17:36+00:00",
-    "lien": "https://www.liberation.fr/politique/comment-a-t-il-pu-en-arriver-la-jean-luc-melenchon-dit-sa-peine-apres-la-chanson-de-pierre-perret-les-antisemites-20261117_P3VFYCGR25FKPCJW3MEPA2HLOI/"
-   },
-   {
-    "titre": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
-    "source": "franceinfo",
-    "date": "2026-11-17T09:45:36+01:00",
-    "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "retailleau": [
-   {
-    "titre": "De Jean-Luc Mélenchon à Bruno Retailleau, les adversaires politiques de Marine Le Pen attaquent son projet de réforme des retraites",
-    "source": "Le Monde",
-    "date": "2026-11-17T17:58:45+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/la-droite-et-le-centre-attaquent-le-projet-de-reforme-des-retraites-de-marine-le-pen_6813010_823448.html"
-   },
-   {
-    "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
-    "source": "franceinfo",
-    "date": "2026-11-17T06:44:29+01:00",
-    "lien": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
    {
     "titre": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
     "source": "Le Figaro",
@@ -211,21 +185,21 @@
  "videos": {
   "le-pen": [
    {
+    "id": "EQb13I6caCo",
+    "titre": "L'extrême gauche crée le chaos : c'est le même phénomène partout !",
+    "date": "2026-11-18T11:00:38+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "JD1FAwdQako",
+    "titre": "Nous permettrons aux jeunes de voyager gratuitement dans les trains aux heures creuses.",
+    "date": "2026-11-18T10:37:12+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "b_TcMBeYjig",
     "titre": "LE QUARTIER GÉNÉRAL #02 | AVEC JEAN-PHILIPPE TANGUY !",
     "date": "2026-11-17T21:00:14+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "8-EZ8DBR21M",
-    "titre": "17 novembre 2026",
-    "date": "2026-11-17T19:47:57+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "U7dEqufHTCc",
-    "titre": "Vive le Made in France ! | Marine Le Pen au Salon du Made in France",
-    "date": "2026-11-17T19:09:25+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -251,6 +225,12 @@
   ],
   "attal": [
    {
+    "id": "qf7CK-nNf8s",
+    "titre": "Je vais augmenter vos salaires.",
+    "date": "2026-11-18T08:59:19+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "C7kbM8d_xBY",
     "titre": "C'est vrai ça ! 👀️️️️️️",
     "date": "2026-11-17T11:59:25+00:00",
@@ -260,12 +240,6 @@
     "id": "1NR_BfzVgoo",
     "titre": "EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.",
     "date": "2026-11-16T22:20:49+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "QHsojHi4vsI",
-    "titre": "Gabriel Attal sur France Info | Ses propositions sur le service public",
-    "date": "2026-11-12T13:17:23+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -291,25 +265,31 @@
   ],
   "david-lisnard": [
    {
+    "id": "f-VdTZu7oKs",
+    "titre": "« Je ne sais pas si la primaire aura lieu. Ce ne doit pas être un accord de gouvernement »",
+    "date": "2026-11-18T10:59:47+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "67yMGmr_pS0",
+    "titre": "David Lisnard invité de Bonjour ! sur TF1",
+    "date": "2026-11-18T09:06:43+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "NNE3PAmP36E",
     "titre": "La répartition est une pyramide de Ponzi",
     "date": "2026-11-17T15:14:13+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "-83RuVvB9w4",
-    "titre": "Vrai ✅ ou faux ❌",
-    "date": "2026-11-17T11:15:20+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "HSkYR63tjgE",
-    "titre": "\"Au nom de l'égalité, on a produit l'égalitarisme, qui est la pire des injustices.\"",
-    "date": "2026-11-16T18:26:19+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "FyZoZtLp4xA",
+    "titre": "Je veux vous parler des chrétiens persécutés dans le monde.",
+    "date": "2026-11-18T10:57:28+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "4Qpn6CoS2uk",
     "titre": "🙃 On me dit que la sélection, c’est la reproduction des élites.",
@@ -320,12 +300,6 @@
     "id": "8J-XegiphYQ",
     "titre": "À samedi, à Toulon !",
     "date": "2026-11-17T11:22:35+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "hz2ckr8mXGE",
-    "titre": "École, industrie, civilisation : Eric Zemmour face aux Entrepreneurs et Dirigeants Chrétiens.",
-    "date": "2026-11-16T19:39:59+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
