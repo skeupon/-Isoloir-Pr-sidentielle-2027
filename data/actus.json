@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-18T12:22+00:00",
+ "maj": "2026-11-18T22:43+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,21 +93,55 @@
   }
  ],
  "flux": {
-  "glucksmann": [
+  "attal": [
    {
-    "titre": "Présidentielle 2027 : à Villeurbanne, Raphaël Glucksmann ancre sa campagne à gauche face à l’extrême droite",
-    "source": "Le Monde",
-    "date": "2026-11-18T09:12:24+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-a-villeurbanne-raphael-glucksmann-ancre-sa-campagne-a-gauche-face-a-l-extreme-droite_6813091_823448.html"
+    "titre": "ÉDITO. Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux",
+    "source": "franceinfo",
+    "date": "2026-11-18T12:48:45+01:00",
+    "lien": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Réseaux sociaux : pourquoi Raphaël Glucksmann n’a plus la cote",
+    "titre": "\"L'heure de vérité\". Avec Gabriel Attal",
+    "source": "franceinfo",
+    "date": "2026-11-18T11:08:02+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/l-heure-de-verite-avec-gabriel-attal_8284823.html#xtor=RSS-3-%5Bpolitique%5D"
+   }
+  ],
+  "glucksmann": [
+   {
+    "titre": "Boris Vallaud : «Raphaël Glucksmann est le troisième homme de cette présidentielle»",
     "source": "Libération",
-    "date": "2026-11-15T10:02:17+00:00",
-    "lien": "https://www.liberation.fr/politique/reseaux-sociaux-pourquoi-raphael-glucksmann-na-plus-la-cote-20261115_GIC6HKMNTZAO3DUPZDRJAPX64I/"
+    "date": "2026-11-18T17:09:59+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/boris-vallaud-raphael-glucksmann-est-le-troisieme-homme-de-cette-presidentielle-20261118_LTHCSKKZYNEY5NCUX6CVRSCL54/"
+   },
+   {
+    "titre": "« La candidature de Raphaël Glucksmann tente de rassembler les nuances de la gauche antitotalitaire »",
+    "source": "Le Monde",
+    "date": "2026-11-18T15:30:01+01:00",
+    "lien": "https://www.lemonde.fr/idees/article/2026/11/18/la-candidature-de-raphael-glucksmann-tente-de-rassembler-les-nuances-de-la-gauche-antitotalitaire_6813145_3232.html"
+   },
+   {
+    "titre": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
+    "source": "franceinfo",
+    "date": "2026-11-18T12:44:49+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-%5Bpolitique%5D"
+   }
+  ],
+  "francis-lalanne": [
+   {
+    "titre": "Présidentielle 2027 : Francis Lalanne maintient son meeting mercredi soir à Montauban, en présence de Dieudonné",
+    "source": "Le Monde",
+    "date": "2026-11-18T18:32:56+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-francis-lalanne-maintient-son-meeting-mercredi-soir-a-montauban-en-presence-de-dieudonne_6813181_823448.html"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Marine Le Pen dénonce à nouveau ce qu'elle voit comme des \"dérives financières et éthiques des associations politisées\"",
+    "source": "franceinfo",
+    "date": "2026-11-18T14:43:48+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-denonce-a-nouveau-ce-qu-elle-juge-comme-des-derives-financieres-et-ethiques-des-associations-politisees_8288303.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Le Medef pas convaincu par le projet de réforme des retraites de Marine Le Pen",
     "source": "Libération",
@@ -127,13 +161,19 @@
     "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117"
    },
    {
-    "titre": "Sur le financement des associations, un front républicain bienvenu contre Marine Le Pen",
-    "source": "Libération",
-    "date": "2026-11-17T06:25:13+00:00",
-    "lien": "https://www.liberation.fr/politique/sur-le-financement-des-associations-un-front-republicain-bienvenu-contre-marine-le-pen-20261117_BYBIUKIKSRDW5I3MVV5PFGTPSY/"
+    "titre": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+    "source": "franceinfo",
+    "date": "2026-11-18T09:34:00+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "david-lisnard": [
+   {
+    "titre": "ÉDITO. Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux",
+    "source": "franceinfo",
+    "date": "2026-11-18T12:48:45+01:00",
+    "lien": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Pour le camp Philippe, David Lisnard est «le meilleur argument pour repousser la primaire»",
     "source": "Libération",
@@ -143,63 +183,101 @@
   ],
   "melenchon": [
    {
-    "titre": "Dîner de Jean-Luc Mélenchon avec les grands patrons : Sonia Mabrouk ironise sur la base d’une fausse information et agace LFI",
-    "source": "Libération",
-    "date": "2026-11-18T11:07:07+00:00",
-    "lien": "https://www.liberation.fr/politique/diner-de-jean-luc-melenchon-avec-les-grands-patrons-sonia-mabrouk-ironise-sur-la-base-dune-fausse-information-et-agace-lfi-20261118_R5MJ5SMWZZGOBMKENC6MLDV6FE/"
+    "titre": "VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027",
+    "source": "franceinfo",
+    "date": "2026-11-18T22:36:41+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
-    "source": "Le Figaro",
-    "date": "2026-11-18T10:28:37+01:00",
-    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
-   },
-   {
-    "titre": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
+    "titre": "Présidentielle 2027 : Marine Tondelier se dit « prête » à bâtir une « coalition autour de la candidature » de Jean-Luc Mélenchon",
     "source": "Le Monde",
-    "date": "2026-11-18T09:45:01+01:00",
-    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html"
+    "date": "2026-11-18T21:59:38+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-marine-tondelier-se-dit-prete-a-batir-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon_6813209_823448.html"
    },
    {
-    "titre": "Présidentielle 2027 : Gérald Darmanin appelle au ralliement derrière Edouard Philippe pour barrer la route à Jean-Luc Mélenchon, qui « gagnera[it] l’élection » face à Marine Le Pen",
+    "titre": "Les grands patrons entre séduction et effroi : le récit d’un dîner mémorable avec Jean-Luc Mélenchon",
     "source": "Le Monde",
-    "date": "2026-11-18T02:08:49+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-gerald-darmanin-appelle-bruno-retailleau-et-gabriel-attal-a-s-effacer-derriere-edouard-philippe-pour-barrer-la-route-a-jean-luc-melenchon_6813056_823448.html"
+    "date": "2026-11-18T21:24:02+01:00",
+    "lien": "https://www.lemonde.fr/economie/article/2026/11/18/les-grands-patrons-entre-seduction-et-effroi-le-recit-d-un-diner-memorable-avec-jean-luc-melenchon_6813208_3234.html"
    },
    {
-    "titre": "Un dîner chez Drouant ce mardi entre Jean-Luc Mélenchon, Bernard Arnault et Patrick Pouyanné : «Ça me fait plaisir de les voir»",
+    "titre": "Présidentielle : Marine Tondelier «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
     "source": "Libération",
-    "date": "2026-11-17T15:04:42+00:00",
-    "lien": "https://www.liberation.fr/politique/un-diner-chez-drouant-ce-mardi-entre-jean-luc-melenchon-bernard-arnault-et-patrick-pouyanne-20261117_HKHJG34XLZFVXCQJIBE7THWFQQ/"
+    "date": "2026-11-18T20:24:07+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118_PUIXEKHEVNGODJR6DXZRPEQ5ZI/"
+   },
+   {
+    "titre": "«C’était courtois, ils se sont bien marrés et c’était intéressant» : récit du dîner entre Jean-Luc Mélenchon et les grands patrons",
+    "source": "Libération",
+    "date": "2026-11-18T17:51:48+00:00",
+    "lien": "https://www.liberation.fr/politique/cetait-courtois-ils-se-sont-bien-marres-et-cetait-interessant-recit-du-diner-entre-jean-luc-melenchon-et-les-grands-patrons-20261118_DV4MCKQXPFB3ZLNZGPC4MJ3QUU/"
    }
   ],
   "retailleau": [
+   {
+    "titre": "ÉDITO. Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux",
+    "source": "franceinfo",
+    "date": "2026-11-18T12:48:45+01:00",
+    "lien": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
     "source": "Le Figaro",
     "date": "2026-11-11T17:39:58+01:00",
     "lien": "https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111"
    }
+  ],
+  "marine-tondelier": [
+   {
+    "titre": "\"Je veux qu'on alerte sur les 10 ans d'inaction climatique des deux quinquennats Macron\", lance Marine Tondelier, candidate Les Écologistes à l'élection présidentielle",
+    "source": "franceinfo",
+    "date": "2026-11-18T23:12:58+01:00",
+    "lien": "https://www.franceinfo.fr/elections/je-veux-qu-on-alerte-sur-les-10-ans-d-inaction-climatique-des-deux-quinquennats-macron-lance-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_8289020.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027",
+    "source": "franceinfo",
+    "date": "2026-11-18T22:36:41+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "\"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise",
+    "source": "franceinfo",
+    "date": "2026-11-18T22:30:14+01:00",
+    "lien": "https://www.franceinfo.fr/elections/c-est-une-bonne-nouvelle-qui-renforce-la-possibilite-d-une-victoire-populaire-reagit-manuel-bompard-apres-la-main-tendue-de-marine-tondelier-a-la-france-insoumise_8288990.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Présidentielle 2027 : Marine Tondelier se dit « prête » à bâtir une « coalition autour de la candidature » de Jean-Luc Mélenchon",
+    "source": "Le Monde",
+    "date": "2026-11-18T21:59:38+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-marine-tondelier-se-dit-prete-a-batir-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon_6813209_823448.html"
+   },
+   {
+    "titre": "Présidentielle : Marine Tondelier «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
+    "source": "Libération",
+    "date": "2026-11-18T20:24:07+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118_PUIXEKHEVNGODJR6DXZRPEQ5ZI/"
+   }
   ]
  },
  "videos": {
   "le-pen": [
    {
+    "id": "y0WaUgMZUA8",
+    "titre": "Très beau cadeau !",
+    "date": "2026-11-18T21:57:24+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "m5Ixw6IORZY",
+    "titre": "Il est normal qu'il y ait une priorité d'accès aux Français dans le logement social !",
+    "date": "2026-11-18T21:30:30+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "EQb13I6caCo",
     "titre": "L'extrême gauche crée le chaos : c'est le même phénomène partout !",
     "date": "2026-11-18T11:00:38+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "JD1FAwdQako",
-    "titre": "Nous permettrons aux jeunes de voyager gratuitement dans les trains aux heures creuses.",
-    "date": "2026-11-18T10:37:12+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "b_TcMBeYjig",
-    "titre": "LE QUARTIER GÉNÉRAL #02 | AVEC JEAN-PHILIPPE TANGUY !",
-    "date": "2026-11-17T21:00:14+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -225,6 +303,12 @@
   ],
   "attal": [
    {
+    "id": "taqqfnW40Sw",
+    "titre": "Voler des voitures, c’est mal. #GTA6",
+    "date": "2026-11-18T19:52:10+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "qf7CK-nNf8s",
     "titre": "Je vais augmenter vos salaires.",
     "date": "2026-11-18T08:59:19+00:00",
@@ -234,12 +318,6 @@
     "id": "C7kbM8d_xBY",
     "titre": "C'est vrai ça ! 👀️️️️️️",
     "date": "2026-11-17T11:59:25+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "1NR_BfzVgoo",
-    "titre": "EN DIRECT | Je débats face à Mélenchon, Le Pen, Glucksmann et Retailleau sur LCI.",
-    "date": "2026-11-16T22:20:49+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -265,6 +343,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "PiF2nxHx4HQ",
+    "titre": "La politique ce crée pas de richesse",
+    "date": "2026-11-18T15:41:18+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "f-VdTZu7oKs",
     "titre": "« Je ne sais pas si la primaire aura lieu. Ce ne doit pas être un accord de gouvernement »",
     "date": "2026-11-18T10:59:47+00:00",
@@ -275,31 +359,25 @@
     "titre": "David Lisnard invité de Bonjour ! sur TF1",
     "date": "2026-11-18T09:06:43+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "NNE3PAmP36E",
-    "titre": "La répartition est une pyramide de Ponzi",
-    "date": "2026-11-17T15:14:13+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
-    "id": "FyZoZtLp4xA",
-    "titre": "Je veux vous parler des chrétiens persécutés dans le monde.",
-    "date": "2026-11-18T10:57:28+00:00",
+    "id": "FhDUhCK1Dhw",
+    "titre": "Si je suis dans cette primaire, ce sera une primaire de droite.",
+    "date": "2026-11-18T22:34:14+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "4Qpn6CoS2uk",
-    "titre": "🙃 On me dit que la sélection, c’est la reproduction des élites.",
-    "date": "2026-11-17T15:53:00+00:00",
+    "id": "PbjAH0X6WaU",
+    "titre": "💶 Je supprimerai la CSG d’activité : 10 % de salaire net en plus pour tous.",
+    "date": "2026-11-18T21:01:44+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "8J-XegiphYQ",
-    "titre": "À samedi, à Toulon !",
-    "date": "2026-11-17T11:22:35+00:00",
+    "id": "kTYGbmS_Xbw",
+    "titre": "Éric Zemmour sur CNews : Primaire de la droite, pouvoir d'achat et présidentielle 2027 !",
+    "date": "2026-11-18T19:09:23+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -325,25 +403,31 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "ahYk3z3aOhs",
+    "titre": "Contraint, le gouvernement finit par avouer qu'il y a des troupes françaises en Ukraine...",
+    "date": "2026-11-18T21:02:19+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
+    "id": "g2o8Al7DP48",
+    "titre": "Soldats français en Ukraine : Macron veut une guerre à la place de la présidentielle !",
+    "date": "2026-11-18T18:59:14+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "APWB5NITr1o",
     "titre": "\"UE : le plus grand danger c'est d'y rester !\" · BFM TV, 16/11/2026",
     "date": "2026-11-17T16:44:05+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "Gro90qKgrXo",
-    "titre": "Mensonge d’État !",
-    "date": "2026-11-16T17:28:56+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "Gd8tcg80jdA",
-    "titre": "Ne vous laissez pas voler la présidentielle !",
-    "date": "2026-11-15T16:00:03+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "77RMg5I3KoI",
+    "titre": "Les réponses aux questions des jeunes se trouvent dans les idées communistes révolutionnaires",
+    "date": "2026-11-18T20:48:07+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "IxMnbZRVwdM",
     "titre": "Pas d'argent pour les salaires ? Et dans les caisses du patronat ? | Éditorial de Nathalie Arthaud",
@@ -355,15 +439,15 @@
     "titre": "Contre le chômage, répartissons le travail entre tous sans perte de salaire #lecampdestravailleurs",
     "date": "2026-11-15T14:00:37+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "QxJstwoZ8dM",
-    "titre": "Le racisme est d'abord une arme contre #lecampdestravailleurs (#nathaliearthaud)",
-    "date": "2026-11-14T14:00:33+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "7lnhLRFZPLI",
+    "titre": "Macron vs Poutine : ce que j’ai découvert est incroyable !",
+    "date": "2026-11-18T13:59:56+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "4C_vh5buMOs",
     "titre": "Présidentielle : « l’impensable se produit ! » et ça change tout !",
@@ -374,12 +458,6 @@
     "id": "TP1X-dgZw4M",
     "titre": "Opération « Volia » : l’armée française débarque en Ukraine !",
     "date": "2026-11-17T05:51:42+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "J4cZbkSMhC4",
-    "titre": "« Macron était terrorisé ! » : Poutine lui envoie un message très spécial !…",
-    "date": "2026-11-16T14:00:15+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
