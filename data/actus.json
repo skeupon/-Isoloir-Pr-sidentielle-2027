@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-19T12:16+00:00",
+ "maj": "2026-11-19T22:47+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,12 +93,20 @@
   }
  ],
  "flux": {
+  "attal": [
+   {
+    "titre": "REPLAY. \"J'assume de demander des efforts\" : revivez le passage de Gabriel Attal dans \"L'Heure de vérité\"",
+    "source": "franceinfo",
+    "date": "2026-11-19T23:42:30+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/direct-presidentielle-2027-gabriel-attal-est-l-invite-de-l-heure-de-verite-a-partir-de-20h40_8288690.html#xtor=RSS-3-%5Bpolitique%5D"
+   }
+  ],
   "glucksmann": [
    {
-    "titre": "Présidentielle 2027 : Raphaël Glucksmann étrille Marine Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes",
-    "source": "Le Monde",
-    "date": "2026-11-19T10:35:34+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes_6813266_823448.html"
+    "titre": "Présidentielle : Le ralliement de Marine Tondelier à Jean-Luc  Mélenchon est une trahison estime Raphaël Glucksmann.",
+    "source": "franceinfo",
+    "date": "2026-11-19T13:32:35+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-le-ralliement-de-marine-tondelier-a-jean-luc-melenchon-est-une-trahison-estime-raphael-glucksmann_8290025.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
     "titre": "Sommet international, présidentielle, pouvoir d'achat... Le 8h30 franceinfo de Raphaël Glucksmann",
@@ -119,20 +127,12 @@
     "lien": "https://www.liberation.fr/politique/elections/boris-vallaud-raphael-glucksmann-est-le-troisieme-homme-de-cette-presidentielle-20261118_LTHCSKKZYNEY5NCUX6CVRSCL54/"
    }
   ],
-  "francis-lalanne": [
-   {
-    "titre": "Présidentielle 2027 : Francis Lalanne maintient son meeting mercredi soir à Montauban, en présence de Dieudonné",
-    "source": "Le Monde",
-    "date": "2026-11-18T18:32:56+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-francis-lalanne-maintient-son-meeting-mercredi-soir-a-montauban-en-presence-de-dieudonne_6813181_823448.html"
-   }
-  ],
   "le-pen": [
    {
-    "titre": "Marine Le Pen dénonce à nouveau ce qu'elle voit comme des \"dérives financières et éthiques des associations politisées\"",
-    "source": "franceinfo",
-    "date": "2026-11-18T14:43:48+01:00",
-    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-denonce-a-nouveau-ce-qu-elle-juge-comme-des-derives-financieres-et-ethiques-des-associations-politisees_8288303.html#xtor=RSS-3-%5Bpolitique%5D"
+    "titre": "Des perquisitions au RN et au ministère de l’Intérieur après des fuites de documents sensibles vers des proches de Marine Le Pen",
+    "source": "Libération",
+    "date": "2026-11-19T21:17:16+00:00",
+    "lien": "https://www.liberation.fr/societe/police-justice/des-perquisitions-au-siege-du-rn-et-au-ministere-de-linterieur-pour-des-soupcons-de-violation-du-secret-de-linstruction-20261119_6GA46AAFMNBSTNRTK2JUTI7BKQ/"
    },
    {
     "titre": "Le Medef pas convaincu par le projet de réforme des retraites de Marine Le Pen",
@@ -151,15 +151,15 @@
     "source": "Le Figaro",
     "date": "2026-11-18T10:04:43+01:00",
     "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117"
-   },
-   {
-    "titre": "Sur le financement des associations, un front républicain bienvenu contre Marine Le Pen",
-    "source": "Libération",
-    "date": "2026-11-17T06:25:13+00:00",
-    "lien": "https://www.liberation.fr/politique/sur-le-financement-des-associations-un-front-republicain-bienvenu-contre-marine-le-pen-20261117_BYBIUKIKSRDW5I3MVV5PFGTPSY/"
    }
   ],
   "david-lisnard": [
+   {
+    "titre": "David Lisnard doit dès aujourd’hui quitter la présidence de l’Association des maires de France",
+    "source": "Libération",
+    "date": "2026-11-19T13:59:48+00:00",
+    "lien": "https://www.liberation.fr/idees-et-debats/tribunes/david-lisnard-doit-des-aujourdhui-quitter-la-presidence-de-lassociation-des-maires-de-france-20261119_BHNDCMVXS5HNFHACPJ27RNGEPU/"
+   },
    {
     "titre": "David Lisnard suspecté de vouloir «saboter la primaire de l’intérieur»",
     "source": "Libération",
@@ -175,6 +175,18 @@
   ],
   "melenchon": [
    {
+    "titre": "Yannick Jadot quitte Les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
+    "source": "franceinfo",
+    "date": "2026-11-19T23:16:18+01:00",
+    "lien": "https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon_8290748.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Marine Tondelier divise la gauche après sa déclaration sur Jean-Luc Mélenchon : l'Insoumis peut-il modifier son programme pour une alliance avec les Écologistes ?",
+    "source": "franceinfo",
+    "date": "2026-11-19T22:13:32+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-tondelier/marine-tondelier-divise-la-gauche-apres-sa-declaration-sur-jean-luc-melenchon-l-insoumis-peut-il-modifier-son-programme-pour-une-alliance-avec-les-ecologistes_8290712.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
     "titre": "À six mois de l'élection présidentielle, Marine Tondelier fait un pas vers Jean-Luc Mélenchon et se dit \"prête\" à travailler avec lui",
     "source": "franceinfo",
     "date": "2026-11-19T09:40:59+01:00",
@@ -187,36 +199,18 @@
     "lien": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Présidentielle 2027 : Marine Tondelier tente de forcer la main des Ecologistes en se disant prête à rallier Jean-Luc Mélenchon",
-    "source": "Le Monde",
-    "date": "2026-11-19T00:49:22+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-marine-tondelier-tente-de-forcer-la-main-des-ecologistes-en-se-disant-prete-a-rallier-jean-luc-melenchon_6813213_823448.html"
-   },
-   {
-    "titre": "VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027",
-    "source": "franceinfo",
-    "date": "2026-11-18T22:36:41+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : Marine Tondelier se dit « prête » à bâtir une « coalition autour de la candidature » de Jean-Luc Mélenchon",
-    "source": "Le Monde",
-    "date": "2026-11-18T21:59:35+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-marine-tondelier-se-dit-prete-a-batir-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon_6813209_823448.html"
+    "titre": "Présidentielle : Marine Tondelier «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
+    "source": "Libération",
+    "date": "2026-11-18T20:24:07+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118_PUIXEKHEVNGODJR6DXZRPEQ5ZI/"
    }
   ],
   "philippe": [
    {
-    "titre": "Édito. Pour la présidentielle, Édouard Philippe peut-il convaincre les Français en misant sur le sérieux ?",
+    "titre": "ÉDITO. Édouard Philippe est-il trop sérieux pour gagner la présidentielle ?",
     "source": "franceinfo",
-    "date": "2026-11-19T08:10:02+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-pour-la-presidentielle-edouard-philippe-peut-il-convaincre-les-francais-en-misant-sur-le-serieux_8268629.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "A suivre Alban Mikoczy : Édouard Philippe, à droite toute ?",
-    "source": "franceinfo",
-    "date": "2026-11-19T06:38:34+01:00",
-    "lien": "https://www.franceinfo.fr/politique/a-suivre-alban-mikoczy-edouard-philippe-a-droite-toute_8289428.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-19T13:14:25+01:00",
+    "lien": "https://www.franceinfo.fr/elections/edito-edouard-philippe-est-il-trop-serieux-pour-gagner-la-presidentielle_8289995.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "retailleau": [
@@ -229,59 +223,65 @@
   ],
   "marine-tondelier": [
    {
+    "titre": "Yannick Jadot quitte Les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
+    "source": "franceinfo",
+    "date": "2026-11-19T23:16:18+01:00",
+    "lien": "https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon_8290748.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Marine Tondelier divise la gauche après sa déclaration sur Jean-Luc Mélenchon : l'Insoumis peut-il modifier son programme pour une alliance avec les Écologistes ?",
+    "source": "franceinfo",
+    "date": "2026-11-19T22:13:32+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-tondelier/marine-tondelier-divise-la-gauche-apres-sa-declaration-sur-jean-luc-melenchon-l-insoumis-peut-il-modifier-son-programme-pour-une-alliance-avec-les-ecologistes_8290712.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Présidentielle 2027 : l’alliance avec Marine Tondelier «devrait pouvoir se faire», estime Mélenchon",
+    "source": "Libération",
+    "date": "2026-11-19T20:58:23+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-lalliance-avec-marine-tondelier-devrait-pouvoir-se-faire-estime-melenchon-20261119_ER7TVKBPSZAYRLDDPPJDN2O52U/"
+   },
+   {
+    "titre": "Présidentielle : Le ralliement de Marine Tondelier à Jean-Luc  Mélenchon est une trahison estime Raphaël Glucksmann.",
+    "source": "franceinfo",
+    "date": "2026-11-19T13:32:35+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-le-ralliement-de-marine-tondelier-a-jean-luc-melenchon-est-une-trahison-estime-raphael-glucksmann_8290025.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
     "titre": "\"Un reniement existentiel\" : les écologistes divisés, les socialistes navrés après la main tendue de Marine Tondelier à LFI pour la présidentielle 2027",
     "source": "franceinfo",
     "date": "2026-11-19T11:33:07+01:00",
     "lien": "https://www.franceinfo.fr/elections/presidentielle/un-reniement-existentiel-les-ecologistes-divises-les-socialistes-navres-apres-la-main-tendue-de-marine-tondelier-a-lfi-pour-la-presidentielle-2027_8289569.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : Raphaël Glucksmann étrille Marine Tondelier, qui « tourne le dos » à la « tradition pro-européenne » des écologistes",
-    "source": "Le Monde",
-    "date": "2026-11-19T10:35:34+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-raphael-glucksmann-etrille-marine-tondelier-qui-tourne-le-dos-a-la-tradition-pro-europeenne-des-ecologistes_6813266_823448.html"
-   },
-   {
-    "titre": "À six mois de l'élection présidentielle, Marine Tondelier fait un pas vers Jean-Luc Mélenchon et se dit \"prête\" à travailler avec lui",
-    "source": "franceinfo",
-    "date": "2026-11-19T09:40:59+01:00",
-    "lien": "https://www.franceinfo.fr/elections/a-six-mois-de-l-election-presidentielle-marine-tondelier-fait-un-pas-vers-jean-luc-melenchon-et-se-dit-prete-a-travailler-avec-lui_8289617.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "\"Elle a choisi de tourner le dos à la tradition écologiste\", regrette Raphaël Glucksmann après le rapprochement de Marine Tondelier à la candidature de Jean-Luc Mélenchon",
-    "source": "franceinfo",
-    "date": "2026-11-19T09:01:48+01:00",
-    "lien": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : Marine Tondelier tente de forcer la main des Ecologistes en se disant prête à rallier Jean-Luc Mélenchon",
-    "source": "Le Monde",
-    "date": "2026-11-19T00:49:22+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-marine-tondelier-tente-de-forcer-la-main-des-ecologistes-en-se-disant-prete-a-rallier-jean-luc-melenchon_6813213_823448.html"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "VbUfHVCNwVE",
-    "titre": "Si vous aviez 20 ans, quelle serait votre plus grande inquiétude ?",
-    "date": "2026-11-19T10:00:29+00:00",
+    "id": "Br82KIYlz9k",
+    "titre": "Je propose une TVA à 0 % sur les produits de première nécessité !",
+    "date": "2026-11-19T21:30:28+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "EageFDe2-3o",
-    "titre": "Protection de l'enfance : le projet de Marine Le Pen | Au cœur de la campagne #4 avec M. Hamelet",
-    "date": "2026-11-19T09:48:43+00:00",
+    "id": "I5oziYTqoQQ",
+    "titre": "Les revendications des lycéens méritent d'être entendues, mais rien ne justifie la violence !",
+    "date": "2026-11-19T18:00:02+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "y0WaUgMZUA8",
-    "titre": "Très beau cadeau !",
-    "date": "2026-11-18T21:57:24+00:00",
+    "id": "XTDvuKtegqI",
+    "titre": "Libérer la construction ! | Marine Le Pen au Grand Oral de la Construction",
+    "date": "2026-11-19T17:35:15+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
+   {
+    "id": "abNC9fWHpyE",
+    "titre": "L'enfance au coeur de la Nouvelle France",
+    "date": "2026-11-19T19:25:27+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
    {
     "id": "nrzq89eQqYE",
     "titre": "Notre système économique a délibérément produit la pauvreté et la pénurie.",
@@ -293,15 +293,15 @@
     "titre": "La droite veut réinventer l'eau chaude et prépare la ruine collective.",
     "date": "2026-11-17T10:52:06+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "9koH2RsdL7Y",
-    "titre": "S'il y a trop de stocks alimentaires, on donne pour que d'autres en profitent !",
-    "date": "2026-11-17T07:37:56+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
+   {
+    "id": "pRH3R3mfP8o",
+    "titre": "EN DIRECT | Pour L’Heure de vérité, je réponds à Caroline Roux et son équipe.",
+    "date": "2026-11-19T21:36:56+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
    {
     "id": "taqqfnW40Sw",
     "titre": "Voler des voitures, c’est mal. #GTA6",
@@ -312,12 +312,6 @@
     "id": "qf7CK-nNf8s",
     "titre": "Je vais augmenter vos salaires.",
     "date": "2026-11-18T08:59:19+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "C7kbM8d_xBY",
-    "titre": "C'est vrai ça ! 👀️️️️️️",
-    "date": "2026-11-17T11:59:25+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -343,6 +337,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "jahu1xe1ZQ0",
+    "titre": "Moins de bureaucrates, plus de fonctionnaires sur le terrain ￼",
+    "date": "2026-11-19T13:35:17+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "jOLFmHnr3-c",
     "titre": "Sur les retraites, Marine Le Pen fait du \"en même temps\"",
     "date": "2026-11-19T10:11:54+00:00",
@@ -353,15 +353,15 @@
     "titre": "La politique ce crée pas de richesse",
     "date": "2026-11-18T15:41:18+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "f-VdTZu7oKs",
-    "titre": "« Je ne sais pas si la primaire aura lieu. Ce ne doit pas être un accord de gouvernement »",
-    "date": "2026-11-18T10:59:47+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "jZGYs9iNQYA",
+    "titre": "Les journalistes de France Info sont des militants.",
+    "date": "2026-11-19T14:53:53+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "nQTwwA2NRDg",
     "titre": "ERICZEMMOUR.FR",
@@ -372,12 +372,6 @@
     "id": "FhDUhCK1Dhw",
     "titre": "Si je suis dans cette primaire, ce sera une primaire de droite.",
     "date": "2026-11-18T22:34:14+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "PbjAH0X6WaU",
-    "titre": "💶 Je supprimerai la CSG d’activité : 10 % de salaire net en plus pour tous.",
-    "date": "2026-11-18T21:01:44+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -403,25 +397,31 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "kliyekX-lo8",
+    "titre": "J’ai signé le pacte citoyen contre la pédocriminalité.",
+    "date": "2026-11-19T21:11:48+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
+    "id": "pQAxBsq5qc8",
+    "titre": "Grand entretien avec Louis Fouché : \"Les laboratoires font-ils la loi ?\"",
+    "date": "2026-11-19T18:09:29+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "Zn0zySGB3Bc",
     "titre": "Aucune banque ne finance ma campagne, car je ne suis pas dans le petit marigot parisien.",
     "date": "2026-11-19T07:30:13+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "ahYk3z3aOhs",
-    "titre": "Contraint, le gouvernement finit par avouer qu'il y a des troupes françaises en Ukraine...",
-    "date": "2026-11-18T21:02:19+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "g2o8Al7DP48",
-    "titre": "Soldats français en Ukraine : Macron veut une guerre à la place de la présidentielle !",
-    "date": "2026-11-18T18:59:14+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "8LohLciZkq4",
+    "titre": "Il n'y a rien de plus efficace que les mobilisations pour défendre nos intérêts",
+    "date": "2026-11-19T17:07:42+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "77RMg5I3KoI",
     "titre": "Les réponses aux questions des jeunes se trouvent dans les idées communistes révolutionnaires",
@@ -433,15 +433,15 @@
     "titre": "Pas d'argent pour les salaires ? Et dans les caisses du patronat ? | Éditorial de Nathalie Arthaud",
     "date": "2026-11-16T18:42:07+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "qwPj0NCP1tQ",
-    "titre": "Contre le chômage, répartissons le travail entre tous sans perte de salaire #lecampdestravailleurs",
-    "date": "2026-11-15T14:00:37+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "IcKKhOIf_GE",
+    "titre": "Sommet USA-Russie-Chine : Macron pète un câble en direct !",
+    "date": "2026-11-19T14:00:49+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "7lnhLRFZPLI",
     "titre": "Macron vs Poutine : ce que j’ai découvert est incroyable !",
@@ -452,12 +452,6 @@
     "id": "4C_vh5buMOs",
     "titre": "Présidentielle : « l’impensable se produit ! » et ça change tout !",
     "date": "2026-11-17T14:00:37+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "TP1X-dgZw4M",
-    "titre": "Opération « Volia » : l’armée française débarque en Ukraine !",
-    "date": "2026-11-17T05:51:42+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]

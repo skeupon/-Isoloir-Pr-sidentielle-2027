@@ -384,10 +384,18 @@
    "candidat": "retailleau",
    "url": "https://www.avecretailleau.fr/projet/theme/retraites",
    "resume": null
+  },
+  {
+   "date": "2026-11-19T22:47+00:00",
+   "texte": "Changement détecté sur une page de programme suivie.",
+   "type": "programme",
+   "candidat": "retailleau",
+   "url": "https://www.avecretailleau.fr/projet/theme/retraites",
+   "resume": null
   }
  ],
  "empreintes": {
-  "https://www.avecretailleau.fr/projet/theme/retraites": "b839abd945e51da96115a51ffd1679f834f78564c041a91e8bf669a24f17c547",
+  "https://www.avecretailleau.fr/projet/theme/retraites": "72ce2cf05a5e58e99619fb5eadea90c6e1a4d0ec3561f8fa437a1e695ebf1eaa",
   "https://www.avecretailleau.fr/projet/theme/logement": "ec04dd514e43baa4040a57d66b9879098be9d6c2b3b4e4a8ca9a22d425cbb123",
   "https://www.avecretailleau.fr/projet/theme/electricite": "1e9f65f3f38d65b73c21de8774018be81a85acbceb5cb3f7fe585b04dc508803",
   "https://www.avecretailleau.fr/projet/theme/l-ia": "edf6b8432b413e4c26d3923c61e2def84efdea76973d3573233ffc1af6430346",
