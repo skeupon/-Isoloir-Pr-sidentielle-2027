@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T11:51+00:00",
+ "maj": "2026-11-21T21:15+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,6 +93,14 @@
   }
  ],
  "flux": {
+  "attal": [
+   {
+    "titre": "Nouvelle réunion jeudi prochain entre les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard pour une primaire de la droite et du centre",
+    "source": "franceinfo",
+    "date": "2026-11-21T19:03:26+01:00",
+    "lien": "https://www.franceinfo.fr/politique/nouvelle-reunion-jeudi-prochain-entre-les-directeurs-de-campagne-de-gabriel-attal-bruno-retailleau-et-david-lisnard-pour-une-primaire-de-la-droite-et-du-centre_8294057.html#xtor=RSS-3-%5Bpolitique%5D"
+   }
+  ],
   "glucksmann": [
    {
     "titre": "Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour convaincre, lui promet de «surprendre»",
@@ -108,6 +116,12 @@
    }
   ],
   "le-pen": [
+   {
+    "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
+    "source": "Le Monde",
+    "date": "2026-11-21T22:00:02+01:00",
+    "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html"
+   },
    {
     "titre": "\"Franc-Jeu\". Avec Marine Le Pen",
     "source": "franceinfo",
@@ -135,6 +149,12 @@
   ],
   "david-lisnard": [
    {
+    "titre": "Nouvelle réunion jeudi prochain entre les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard pour une primaire de la droite et du centre",
+    "source": "franceinfo",
+    "date": "2026-11-21T19:03:26+01:00",
+    "lien": "https://www.franceinfo.fr/politique/nouvelle-reunion-jeudi-prochain-entre-les-directeurs-de-campagne-de-gabriel-attal-bruno-retailleau-et-david-lisnard-pour-une-primaire-de-la-droite-et-du-centre_8294057.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
     "titre": "David Lisnard, dynamiteur populiste de la bataille à droite",
     "source": "Libération",
     "date": "2026-11-20T19:52:48+00:00",
@@ -157,12 +177,6 @@
     "source": "Libération",
     "date": "2026-11-20T06:00:00+00:00",
     "lien": "https://www.liberation.fr/politique/comment-david-lisnard-le-patron-des-maires-de-france-mene-une-double-campagne-presidentielle-et-pour-lamf-20261120_2ZVVCQSKEFGJZKOEMDV6QIQSCE/"
-   },
-   {
-    "titre": "David Lisnard doit dès aujourd’hui quitter la présidence de l’Association des maires de France",
-    "source": "Libération",
-    "date": "2026-11-19T13:59:48+00:00",
-    "lien": "https://www.liberation.fr/idees-et-debats/tribunes/david-lisnard-doit-des-aujourdhui-quitter-la-presidence-de-lassociation-des-maires-de-france-20261119_BHNDCMVXS5HNFHACPJ27RNGEPU/"
    }
   ],
   "melenchon": [
@@ -173,36 +187,44 @@
     "lien": "https://www.liberation.fr/politique/elections/presidentielle-depuis-lyon-marine-tondelier-attend-les-pas-de-jean-luc-melenchon-en-direction-des-ecologistes-20261120_RWMA5LDG25HUJCM5Q4RBDIC2S4/"
    },
    {
-    "titre": "Partie de LFI en 2024, Clémentine Autain appelle à son tour à se rallier à la candidature de Jean-Luc Mélenchon",
-    "source": "franceinfo",
-    "date": "2026-11-20T13:35:07+01:00",
-    "lien": "https://www.franceinfo.fr/elections/exclue-de-lfi-en-2024-clementine-autain-appelle-a-son-tour-a-se-rallier-a-la-candidature-de-jean-luc-melenchon_8292170.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle : Marine Tondelier «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
-    "source": "Libération",
-    "date": "2026-11-18T20:24:07+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118_PUIXEKHEVNGODJR6DXZRPEQ5ZI/"
-   },
-   {
-    "titre": "«C’était courtois, ils se sont bien marrés et c’était intéressant» : récit du dîner entre Jean-Luc Mélenchon et les grands patrons",
-    "source": "Libération",
-    "date": "2026-11-18T17:51:48+00:00",
-    "lien": "https://www.liberation.fr/politique/cetait-courtois-ils-se-sont-bien-marres-et-cetait-interessant-recit-du-diner-entre-jean-luc-melenchon-et-les-grands-patrons-20261118_DV4MCKQXPFB3ZLNZGPC4MJ3QUU/"
-   },
-   {
     "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
     "source": "Le Figaro",
     "date": "2026-11-18T10:28:37+01:00",
     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
+   },
+   {
+    "titre": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
+    "source": "Le Figaro",
+    "date": "2026-11-10T08:13:32+01:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109"
    }
   ],
   "retailleau": [
+   {
+    "titre": "Nouvelle réunion jeudi prochain entre les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard pour une primaire de la droite et du centre",
+    "source": "franceinfo",
+    "date": "2026-11-21T19:03:26+01:00",
+    "lien": "https://www.franceinfo.fr/politique/nouvelle-reunion-jeudi-prochain-entre-les-directeurs-de-campagne-de-gabriel-attal-bruno-retailleau-et-david-lisnard-pour-une-primaire-de-la-droite-et-du-centre_8294057.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
     "source": "Le Figaro",
     "date": "2026-11-11T17:39:58+01:00",
     "lien": "https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111"
+   }
+  ],
+  "francois-ruffin": [
+   {
+    "titre": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
+    "source": "Le Monde",
+    "date": "2026-11-21T18:13:30+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html"
+   },
+   {
+    "titre": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
+    "source": "Libération",
+    "date": "2026-11-21T17:13:19+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/"
    }
   ],
   "marine-tondelier": [
@@ -223,33 +245,27 @@
     "source": "Libération",
     "date": "2026-11-19T20:58:23+00:00",
     "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-lalliance-avec-marine-tondelier-devrait-pouvoir-se-faire-estime-melenchon-20261119_ER7TVKBPSZAYRLDDPPJDN2O52U/"
-   },
-   {
-    "titre": "Présidentielle : Marine Tondelier «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
-    "source": "Libération",
-    "date": "2026-11-18T20:24:07+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118_PUIXEKHEVNGODJR6DXZRPEQ5ZI/"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
+    "id": "VwHsNB8D2gE",
+    "titre": "La première des libertés, c'est la sécurité !",
+    "date": "2026-11-21T16:00:21+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
+    "id": "_t9QPAZG_xw",
+    "titre": "L'islam est compatible avec la République, le fondamentalisme islamiste ne l'est pas !",
+    "date": "2026-11-21T13:00:10+00:00",
+    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
+   },
+   {
     "id": "khX3ph-ZKPo",
     "titre": "Transformer les bureaux vides en logements étudiants !",
     "date": "2026-11-21T10:00:09+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "xUD-d6QoRrU",
-    "titre": "Un moratoire sur les normes ? Je vais faire mieux !",
-    "date": "2026-11-21T08:30:28+00:00",
-    "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
-   },
-   {
-    "id": "NBh6fGI7hWg",
-    "titre": "Reculer l'âge : la solution la plus fainéante qui soit !",
-    "date": "2026-11-21T06:30:36+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -335,21 +351,21 @@
   ],
   "eric-zemmour": [
    {
-    "id": "jZGYs9iNQYA",
-    "titre": "Les journalistes de France Info sont des militants.",
-    "date": "2026-11-19T14:53:53+00:00",
+    "id": "X51fsIp2wFw",
+    "titre": "Je rétablirai la grande loi de 1881 et j'abrogerai les lois liberticides",
+    "date": "2026-11-21T20:57:12+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "nQTwwA2NRDg",
-    "titre": "ERICZEMMOUR.FR",
-    "date": "2026-11-19T07:56:37+00:00",
+    "id": "DvPGcz-3NHY",
+    "titre": "Eric Zemmour : Grand meeting de lancement de campagne !",
+    "date": "2026-11-21T17:13:11+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "FhDUhCK1Dhw",
-    "titre": "Si je suis dans cette primaire, ce sera une primaire de droite.",
-    "date": "2026-11-18T22:34:14+00:00",
+    "id": "zG2Vf0x_qtw",
+    "titre": "Pas de spoil ! 👀",
+    "date": "2026-11-21T14:39:14+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -415,6 +431,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "HUUTCH6U5kM",
+    "titre": "« Vaccin obligatoire en France ! » : l’UE l’annonce !",
+    "date": "2026-11-21T14:00:19+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "-vaZJoojfEI",
     "titre": "Incroyable : Poutine fracasse Macron en plein direct !",
     "date": "2026-11-20T19:03:00+00:00",
@@ -424,12 +446,6 @@
     "id": "_hvqjpGORkg",
     "titre": "Florian Philippot 2027 : mon projet pour L’ÉNERGIE !",
     "date": "2026-11-20T17:04:00+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "uswaBu6YNVY",
-    "titre": "« Macron et Brigitte vont s’enfuir ! » : coup de tonnerre à l’Élysée !",
-    "date": "2026-11-20T08:46:01+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
