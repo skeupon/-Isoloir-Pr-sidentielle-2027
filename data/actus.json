@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T21:15+00:00",
+ "maj": "2026-11-22T12:03+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -101,6 +101,14 @@
     "lien": "https://www.franceinfo.fr/politique/nouvelle-reunion-jeudi-prochain-entre-les-directeurs-de-campagne-de-gabriel-attal-bruno-retailleau-et-david-lisnard-pour-une-primaire-de-la-droite-et-du-centre_8294057.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
+  "nicolas-dupont-aignan": [
+   {
+    "titre": "Guerre en Ukraine, crise sociale, sortie de l'UE... Le 8h30 franceinfo de Nicolas Dupont-Aignan",
+    "source": "franceinfo",
+    "date": "2026-11-22T11:17:46+01:00",
+    "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html#xtor=RSS-3-%5Bpolitique%5D"
+   }
+  ],
   "glucksmann": [
    {
     "titre": "Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour convaincre, lui promet de «surprendre»",
@@ -117,16 +125,10 @@
   ],
   "le-pen": [
    {
-    "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
-    "source": "Le Monde",
-    "date": "2026-11-21T22:00:02+01:00",
-    "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html"
-   },
-   {
-    "titre": "\"Franc-Jeu\". Avec Marine Le Pen",
-    "source": "franceinfo",
-    "date": "2026-11-20T17:27:43+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8266898.html#xtor=RSS-3-%5Bpolitique%5D"
+    "titre": "Fuites au ministère de l’Intérieur : un mail du service du préfet Moutouh découvert chez un proche de Marine Le Pen",
+    "source": "Libération",
+    "date": "2026-11-22T11:44:30+00:00",
+    "lien": "https://www.liberation.fr/societe/police-justice/fuites-au-ministere-de-linterieur-un-mail-du-service-du-prefet-moutouh-decouvert-chez-un-proche-de-marine-le-pen-20261122_35OXDYGGVRFFXGEIYX72YKYHGM/"
    },
    {
     "titre": "Des perquisitions au RN et au ministère de l’Intérieur après des fuites de documents sensibles vers des proches de Marine Le Pen",
@@ -149,6 +151,18 @@
   ],
   "david-lisnard": [
    {
+    "titre": "Pour David Lisnard, la primaire de la droite et du centre est un «moyen d’éliminer les macronistes»",
+    "source": "Libération",
+    "date": "2026-11-22T07:29:05+00:00",
+    "lien": "https://www.liberation.fr/politique/pour-david-lisnard-la-primaire-de-la-droite-et-du-centre-est-un-moyen-deliminer-les-macronistes-20261122_WJGV3ANEVZECXAV225UMW4JK4Q/"
+   },
+   {
+    "titre": "Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »",
+    "source": "Le Monde",
+    "date": "2026-11-21T23:46:30+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html"
+   },
+   {
     "titre": "Nouvelle réunion jeudi prochain entre les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard pour une primaire de la droite et du centre",
     "source": "franceinfo",
     "date": "2026-11-21T19:03:26+01:00",
@@ -165,21 +179,15 @@
     "source": "Libération",
     "date": "2026-11-20T19:14:48+00:00",
     "lien": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/"
-   },
-   {
-    "titre": "«Il parle vrai, il n’a pas fait l’ENA» : dans les Hauts-de-Seine, les partisans de David Lisnard savourent la dynamique",
-    "source": "Libération",
-    "date": "2026-11-20T09:00:00+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/il-parle-vrai-il-na-pas-fait-lena-dans-les-hauts-de-seine-les-partisans-de-david-lisnard-savourent-la-dynamique-20261120_CROXY6NPFFENTL24YZKE7OWH5A/"
-   },
-   {
-    "titre": "Comment David Lisnard, le patron des maires de France, mène une double campagne, présidentielle et pour l’AMF",
-    "source": "Libération",
-    "date": "2026-11-20T06:00:00+00:00",
-    "lien": "https://www.liberation.fr/politique/comment-david-lisnard-le-patron-des-maires-de-france-mene-une-double-campagne-presidentielle-et-pour-lamf-20261120_2ZVVCQSKEFGJZKOEMDV6QIQSCE/"
    }
   ],
   "melenchon": [
+   {
+    "titre": "Pour Jean-Luc Mélenchon, les limites du modèle brésilien Lula",
+    "source": "Libération",
+    "date": "2026-11-22T05:14:00+00:00",
+    "lien": "https://www.liberation.fr/idees-et-debats/tribunes/pour-jean-luc-melenchon-les-limites-du-modele-bresilien-lula-20261122_OW7T3RMFRJBCFBXKDFS5VMLKXY/"
+   },
    {
     "titre": "Présidentielle : depuis Lyon, Marine Tondelier attend «les pas» de Jean-Luc Mélenchon en direction des écologistes",
     "source": "Libération",
@@ -251,25 +259,31 @@
  "videos": {
   "le-pen": [
    {
-    "id": "VwHsNB8D2gE",
-    "titre": "La première des libertés, c'est la sécurité !",
-    "date": "2026-11-21T16:00:21+00:00",
+    "id": "xmCnnR2KWpc",
+    "titre": "Il faut protéger les maisons de famille !",
+    "date": "2026-11-22T10:00:39+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "_t9QPAZG_xw",
-    "titre": "L'islam est compatible avec la République, le fondamentalisme islamiste ne l'est pas !",
-    "date": "2026-11-21T13:00:10+00:00",
+    "id": "hXF4og3qLK4",
+    "titre": "Un étranger vient travailler ? À la fin du contrat, il rentre dans son pays !",
+    "date": "2026-11-22T08:30:00+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "khX3ph-ZKPo",
-    "titre": "Transformer les bureaux vides en logements étudiants !",
-    "date": "2026-11-21T10:00:09+00:00",
+    "id": "BuVgIU8PGM0",
+    "titre": "Désindexer les retraites et taxer les retraités : ce ne sera jamais mon projet !",
+    "date": "2026-11-22T06:30:03+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
+   {
+    "id": "okWBXbSg6t4",
+    "titre": "Il faut sauver le docteur palestinien Hussam Abu Safiya !",
+    "date": "2026-11-22T09:57:25+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
    {
     "id": "BWGz0_CCoe8",
     "titre": "Conférence de Jean-Luc Mélenchon à Sciences Po Paris",
@@ -280,12 +294,6 @@
     "id": "abNC9fWHpyE",
     "titre": "L'enfance au coeur de la Nouvelle France",
     "date": "2026-11-19T19:25:27+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "nrzq89eQqYE",
-    "titre": "Notre système économique a délibérément produit la pauvreté et la pénurie.",
-    "date": "2026-11-17T16:15:37+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -351,9 +359,9 @@
   ],
   "eric-zemmour": [
    {
-    "id": "X51fsIp2wFw",
-    "titre": "Je rétablirai la grande loi de 1881 et j'abrogerai les lois liberticides",
-    "date": "2026-11-21T20:57:12+00:00",
+    "id": "QnyTWHox1wg",
+    "titre": "L’universalisme et l’assimilation ?",
+    "date": "2026-11-21T21:44:20+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
@@ -431,6 +439,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "qYORyteqSl8",
+    "titre": "L’UE signe un accord fou avec l’Indonésie : la France sacrifiée !",
+    "date": "2026-11-22T07:21:51+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "HUUTCH6U5kM",
     "titre": "« Vaccin obligatoire en France ! » : l’UE l’annonce !",
     "date": "2026-11-21T14:00:19+00:00",
@@ -440,12 +454,6 @@
     "id": "-vaZJoojfEI",
     "titre": "Incroyable : Poutine fracasse Macron en plein direct !",
     "date": "2026-11-20T19:03:00+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "_hvqjpGORkg",
-    "titre": "Florian Philippot 2027 : mon projet pour L’ÉNERGIE !",
-    "date": "2026-11-20T17:04:00+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
