@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-22T12:03+00:00",
+ "maj": "2026-11-22T21:21+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -125,28 +125,34 @@
   ],
   "le-pen": [
    {
-    "titre": "Fuites au ministère de l’Intérieur : un mail du service du préfet Moutouh découvert chez un proche de Marine Le Pen",
-    "source": "Libération",
-    "date": "2026-11-22T11:44:30+00:00",
-    "lien": "https://www.liberation.fr/societe/police-justice/fuites-au-ministere-de-linterieur-un-mail-du-service-du-prefet-moutouh-decouvert-chez-un-proche-de-marine-le-pen-20261122_35OXDYGGVRFFXGEIYX72YKYHGM/"
+    "titre": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", lâche Raphaël Glucksman, candidat PS et Place publique",
+    "source": "franceinfo",
+    "date": "2026-11-22T20:19:45+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Des perquisitions au RN et au ministère de l’Intérieur après des fuites de documents sensibles vers des proches de Marine Le Pen",
-    "source": "Libération",
-    "date": "2026-11-19T21:17:16+00:00",
-    "lien": "https://www.liberation.fr/societe/police-justice/des-perquisitions-au-siege-du-rn-et-au-ministere-de-linterieur-pour-des-soupcons-de-violation-du-secret-de-linstruction-20261119_6GA46AAFMNBSTNRTK2JUTI7BKQ/"
+    "titre": "Un mail du service de Hugues Moutouh, soupçonné d'avoir renseigné le RN, découvert lors d'une perquisition chez un proche de Marine Le Pen",
+    "source": "franceinfo",
+    "date": "2026-11-22T15:45:37+01:00",
+    "lien": "https://www.franceinfo.fr/politique/front-national/un-mail-du-service-du-prefet-hugues-moutouh-soupconne-d-avoir-renseigne-le-rn-decouvert-lors-d-une-perquisition-chez-un-proche-de-marine-le-pen_8294915.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
-    "source": "Le Figaro",
-    "date": "2026-11-18T10:28:37+01:00",
-    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
+    "titre": "La candidate à l'élection présidentielle Marine Le Pen estime que couper les subventions aux associations \"politisées\" \"n'est pas du chantage\"",
+    "source": "franceinfo",
+    "date": "2026-11-22T15:06:55+01:00",
+    "lien": "https://www.franceinfo.fr/elections/la-candidate-a-l-election-presidentielle-marine-le-pen-estime-que-couper-les-subventions-aux-associations-politisees-n-est-pas-du-chantage_8294897.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Guillaume Tabard : «Marine Le Pen sous le totem des 62 ans, un tournant bienvenu»",
-    "source": "Le Figaro",
-    "date": "2026-11-18T10:04:43+01:00",
-    "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117"
+    "titre": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
+    "source": "Le Monde",
+    "date": "2026-11-22T15:01:15+01:00",
+    "lien": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html"
+   },
+   {
+    "titre": "\"Franc-Jeu\". Avec Marine Le Pen",
+    "source": "franceinfo",
+    "date": "2026-11-22T14:23:36+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8292911.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "david-lisnard": [
@@ -183,6 +189,12 @@
   ],
   "melenchon": [
    {
+    "titre": "Raquel Garrido : «Notre sujet, c’est comment élargir et je ne suis pas certaine que Jean-Luc Mélenchon soit une solution gagnante»",
+    "source": "Libération",
+    "date": "2026-11-22T17:09:00+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/raquel-garrido-notre-sujet-cest-comment-elargir-et-je-ne-suis-pas-certaine-que-jean-luc-melenchon-soit-une-solution-gagnante-20261123_5H4XIPXKZNHYZDL7CV2NPPZMCI/"
+   },
+   {
     "titre": "Pour Jean-Luc Mélenchon, les limites du modèle brésilien Lula",
     "source": "Libération",
     "date": "2026-11-22T05:14:00+00:00",
@@ -199,12 +211,6 @@
     "source": "Le Figaro",
     "date": "2026-11-18T10:28:37+01:00",
     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
-   },
-   {
-    "titre": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
-    "source": "Le Figaro",
-    "date": "2026-11-10T08:13:32+01:00",
-    "lien": "https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109"
    }
   ],
   "retailleau": [
@@ -223,25 +229,19 @@
   ],
   "francois-ruffin": [
    {
+    "titre": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
+    "source": "Libération",
+    "date": "2026-11-22T16:22:21+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/"
+   },
+   {
     "titre": "Présidentielle 2027 : François Ruffin renonce à sa candidature « face au risque » de l’arrivée de l’extrême droite au pouvoir",
     "source": "Le Monde",
     "date": "2026-11-21T18:13:30+01:00",
     "lien": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html"
-   },
-   {
-    "titre": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
-    "source": "Libération",
-    "date": "2026-11-21T17:13:19+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/"
    }
   ],
   "marine-tondelier": [
-   {
-    "titre": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes",
-    "source": "franceinfo",
-    "date": "2026-11-20T19:01:22+01:00",
-    "lien": "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
    {
     "titre": "Présidentielle : depuis Lyon, Marine Tondelier attend «les pas» de Jean-Luc Mélenchon en direction des écologistes",
     "source": "Libération",
@@ -259,21 +259,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "xmCnnR2KWpc",
-    "titre": "Il faut protéger les maisons de famille !",
-    "date": "2026-11-22T10:00:39+00:00",
+    "id": "mLdxDCwD8wE",
+    "titre": "On ne va pas demander aux Français leur déclaration d'impôts à la pompe !",
+    "date": "2026-11-22T16:42:48+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "hXF4og3qLK4",
-    "titre": "Un étranger vient travailler ? À la fin du contrat, il rentre dans son pays !",
-    "date": "2026-11-22T08:30:00+00:00",
+    "id": "WEH8SVgJyKE",
+    "titre": "Le permis gratuit pour les jeunes qui n'ont pas de casier judiciaire !",
+    "date": "2026-11-22T16:00:09+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "BuVgIU8PGM0",
-    "titre": "Désindexer les retraites et taxer les retraités : ce ne sera jamais mon projet !",
-    "date": "2026-11-22T06:30:03+00:00",
+    "id": "rbz45koL_oc",
+    "titre": "Marine Le Pen invitée de Franc-Jeu en intégralité (France 2 / France Inter)",
+    "date": "2026-11-22T14:39:54+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -339,6 +339,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "EkOxV4-LvEw",
+    "titre": "Ultra-libéral, David Lisnard ?",
+    "date": "2026-11-22T20:37:13+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "ALuLUfc40fM",
     "titre": "« Que l'Etat passe commande à nos entreprises, plutôt qu'il les subventionne »",
     "date": "2026-11-20T21:44:04+00:00",
@@ -349,31 +355,25 @@
     "titre": "20 novembre 2026",
     "date": "2026-11-20T16:57:27+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "77xiXQQy_1U",
-    "titre": "\"On ne pourra maîtriser la technologie que si on développe nos propres capacités cognitives\"",
-    "date": "2026-11-20T14:29:20+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
-    "id": "QnyTWHox1wg",
-    "titre": "L’universalisme et l’assimilation ?",
-    "date": "2026-11-21T21:44:20+00:00",
+    "id": "kFSqsuZutTo",
+    "titre": "La sélection n’est pas un gros mot ! 🇫🇷",
+    "date": "2026-11-22T20:55:33+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "DvPGcz-3NHY",
-    "titre": "Eric Zemmour : Grand meeting de lancement de campagne !",
-    "date": "2026-11-21T17:13:11+00:00",
+    "id": "oj2oa5Rq5p8",
+    "titre": "Impossible n’est pas français ! 🚀🇫🇷",
+    "date": "2026-11-22T16:51:03+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "zG2Vf0x_qtw",
-    "titre": "Pas de spoil ! 👀",
-    "date": "2026-11-21T14:39:14+00:00",
+    "id": "Es60U10CzQY",
+    "titre": "22 novembre 2026",
+    "date": "2026-11-22T15:25:49+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -399,6 +399,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "qApNo7nGVRE",
+    "titre": "\"On ne changera rien si on ne se libère pas de l'Union européenne !\" · France info, 22/11/2026",
+    "date": "2026-11-22T16:00:06+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "kliyekX-lo8",
     "titre": "J’ai signé le pacte citoyen contre la pédocriminalité.",
     "date": "2026-11-19T21:11:48+00:00",
@@ -408,12 +414,6 @@
     "id": "pQAxBsq5qc8",
     "titre": "Grand entretien avec Louis Fouché : \"Les laboratoires font-ils la loi ?\"",
     "date": "2026-11-19T18:09:29+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "Zn0zySGB3Bc",
-    "titre": "Aucune banque ne finance ma campagne, car je ne suis pas dans le petit marigot parisien.",
-    "date": "2026-11-19T07:30:13+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
@@ -439,6 +439,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "T9gLmFfsj_s",
+    "titre": "Présidentielle : une incroyable surprise ! Et ça change tout !",
+    "date": "2026-11-22T14:00:11+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "qYORyteqSl8",
     "titre": "L’UE signe un accord fou avec l’Indonésie : la France sacrifiée !",
     "date": "2026-11-22T07:21:51+00:00",
@@ -448,12 +454,6 @@
     "id": "HUUTCH6U5kM",
     "titre": "« Vaccin obligatoire en France ! » : l’UE l’annonce !",
     "date": "2026-11-21T14:00:19+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "-vaZJoojfEI",
-    "titre": "Incroyable : Poutine fracasse Macron en plein direct !",
-    "date": "2026-11-20T19:03:00+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
