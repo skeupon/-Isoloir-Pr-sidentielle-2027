@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-23T13:45+00:00",
+ "maj": "2026-11-24T02:38+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -99,21 +99,9 @@
     "source": "Libération",
     "date": "2026-11-20T18:12:01+00:00",
     "lien": "https://www.liberation.fr/politique/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqua-fevrier-pour-convaincre-lui-promet-de-surprendre-20261120_V6TAIK6H7NGWFCXCCZQ24HWBLA/"
-   },
-   {
-    "titre": "Tondelier se tourne vers Mélenchon : l’occasion pour Raphaël Glucksmann de réunir les «écolos-réalos»",
-    "source": "Libération",
-    "date": "2026-11-20T04:31:00+00:00",
-    "lien": "https://www.liberation.fr/politique/tondelier-se-tourne-vers-melenchon-loccasion-pour-raphael-glucksmann-de-reunir-les-ecolos-realos-20261120_SZ3FRFXXDBFCBEHORYMBLQ3HSE/"
    }
   ],
   "le-pen": [
-   {
-    "titre": "EDITO. Marine Le Pen veut couper les vivres aux \"associations politisées\" comme le Planning familial ou la Ligue des droits de l'homme",
-    "source": "franceinfo",
-    "date": "2026-11-23T08:22:35+01:00",
-    "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-marine-le-pen-veut-couper-les-vivres-aux-associations-politisees-comme-le-planning-familial-ou-la-ligue-des-droits-de-l-homme_8273873.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
    {
     "titre": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
     "source": "Le Monde",
@@ -121,25 +109,31 @@
     "lien": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html"
    },
    {
-    "titre": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", assure Raphaël Glucksman, candidat PS et Place publique",
-    "source": "franceinfo",
-    "date": "2026-11-22T22:57:57+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
-    "source": "Le Monde",
-    "date": "2026-11-22T15:01:15+01:00",
-    "lien": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html"
-   },
-   {
     "titre": "Fuites au ministère de l’Intérieur : un mail du service du préfet Moutouh découvert chez un proche de Marine Le Pen",
     "source": "Libération",
     "date": "2026-11-22T11:44:30+00:00",
     "lien": "https://www.liberation.fr/societe/police-justice/fuites-au-ministere-de-linterieur-un-mail-du-service-du-prefet-moutouh-decouvert-chez-un-proche-de-marine-le-pen-20261122_35OXDYGGVRFFXGEIYX72YKYHGM/"
+   },
+   {
+    "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
+    "source": "Le Figaro",
+    "date": "2026-11-18T10:28:37+01:00",
+    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
+   },
+   {
+    "titre": "Guillaume Tabard : «Marine Le Pen sous le totem des 62 ans, un tournant bienvenu»",
+    "source": "Le Figaro",
+    "date": "2026-11-18T10:04:43+01:00",
+    "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117"
    }
   ],
   "david-lisnard": [
+   {
+    "titre": "David Lisnard fait-il des \"appels du pied\" à l'extrême droite comme l'affirme Jean-François Copé ?",
+    "source": "franceinfo",
+    "date": "2026-11-23T20:50:50+01:00",
+    "lien": "https://www.franceinfo.fr/vrai-ou-fake/david-lisnard-fait-il-des-appels-du-pied-a-l-extreme-droite-comme-l-affirme-jean-francois-cope_8296674.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Pour David Lisnard, la primaire de la droite et du centre est un «moyen d’éliminer les macronistes»",
     "source": "Libération",
@@ -157,18 +151,6 @@
     "source": "Libération",
     "date": "2026-11-20T19:14:48+00:00",
     "lien": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/"
-   },
-   {
-    "titre": "«Il parle vrai, il n’a pas fait l’ENA» : dans les Hauts-de-Seine, les partisans de David Lisnard savourent la dynamique",
-    "source": "Libération",
-    "date": "2026-11-20T09:00:00+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/il-parle-vrai-il-na-pas-fait-lena-dans-les-hauts-de-seine-les-partisans-de-david-lisnard-savourent-la-dynamique-20261120_CROXY6NPFFENTL24YZKE7OWH5A/"
-   },
-   {
-    "titre": "Comment David Lisnard, le patron des maires de France, mène une double campagne, présidentielle et pour l’AMF",
-    "source": "Libération",
-    "date": "2026-11-20T06:00:00+00:00",
-    "lien": "https://www.liberation.fr/politique/comment-david-lisnard-le-patron-des-maires-de-france-mene-une-double-campagne-presidentielle-et-pour-lamf-20261120_2ZVVCQSKEFGJZKOEMDV6QIQSCE/"
    }
   ],
   "melenchon": [
@@ -203,14 +185,6 @@
     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
    }
   ],
-  "retailleau": [
-   {
-    "titre": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
-    "source": "Le Figaro",
-    "date": "2026-11-11T17:39:58+01:00",
-    "lien": "https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111"
-   }
-  ],
   "francois-ruffin": [
    {
     "titre": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
@@ -221,37 +195,43 @@
   ],
   "marine-tondelier": [
    {
+    "titre": "Yannick Jadot et Jérémie Iordanoff, en rupture avec Marine Tondelier, créent un nouveau parti écologiste",
+    "source": "Le Monde",
+    "date": "2026-11-23T18:43:27+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/23/yannick-jadot-et-jeremie-iordanoff-en-rupture-avec-marine-tondelier-creent-un-nouveau-parti-ecologiste_6814435_823448.html"
+   },
+   {
+    "titre": "Après leur rupture avec Marine Tondelier, Yannick Jadot et Jérémie Iordanoff lancent un nouveau parti écolo",
+    "source": "Libération",
+    "date": "2026-11-23T17:19:34+00:00",
+    "lien": "https://www.liberation.fr/politique/marine-tondelier-a-mene-les-ecologistes-dans-une-impasse-apres-leur-rupture-yannick-jadot-et-jeremie-iordanoff-annoncent-la-creation-dun-nouveau-parti-20261123_WAYO5QZHJ5DZJOGEXCTCM266LY/"
+   },
+   {
     "titre": "Présidentielle : depuis Lyon, Marine Tondelier attend «les pas» de Jean-Luc Mélenchon en direction des écologistes",
     "source": "Libération",
     "date": "2026-11-20T13:56:00+00:00",
     "lien": "https://www.liberation.fr/politique/elections/presidentielle-depuis-lyon-marine-tondelier-attend-les-pas-de-jean-luc-melenchon-en-direction-des-ecologistes-20261120_RWMA5LDG25HUJCM5Q4RBDIC2S4/"
-   },
-   {
-    "titre": "Présidentielle 2027 : l’alliance avec Marine Tondelier «devrait pouvoir se faire», estime Mélenchon",
-    "source": "Libération",
-    "date": "2026-11-19T20:58:23+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-lalliance-avec-marine-tondelier-devrait-pouvoir-se-faire-estime-melenchon-20261119_ER7TVKBPSZAYRLDDPPJDN2O52U/"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "wiVDKS6nWJU",
-    "titre": "Élue, je défendrai les intérêts de la France face aux États-Unis !",
-    "date": "2026-11-23T13:00:07+00:00",
+    "id": "q9_3aczUuXQ",
+    "titre": "C'est le bac qui doit décider de l'entrée à l'université",
+    "date": "2026-11-24T00:30:15+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "0u4Jh8DCDew",
-    "titre": "Il faut supprimer Parcoursup !",
-    "date": "2026-11-23T10:00:26+00:00",
+    "id": "Mr5pmVO-Osw",
+    "titre": "Échappons quelques minutes à la caricature, M. Attal, dont vous êtes coutumier !",
+    "date": "2026-11-23T21:30:30+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "56QjCAPqD48",
-    "titre": "Le travail illégal, c'est juste pas possible !",
-    "date": "2026-11-23T08:30:14+00:00",
+    "id": "FRU95Caoozk",
+    "titre": "Double nationalité : j'ai commis une erreur, je suis revenue sur cette proposition.",
+    "date": "2026-11-23T16:00:36+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -277,6 +257,12 @@
   ],
   "attal": [
    {
+    "id": "TTf8rDTBF_E",
+    "titre": "Le Grand Oral de Gabriel Attal sur le logement",
+    "date": "2026-11-23T14:51:00+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "pRH3R3mfP8o",
     "titre": "EN DIRECT | Pour L’Heure de vérité, je réponds à Caroline Roux et son équipe.",
     "date": "2026-11-19T21:36:56+00:00",
@@ -286,12 +272,6 @@
     "id": "taqqfnW40Sw",
     "titre": "Voler des voitures, c’est mal. #GTA6",
     "date": "2026-11-18T19:52:10+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "qf7CK-nNf8s",
-    "titre": "Je vais augmenter vos salaires.",
-    "date": "2026-11-18T08:59:19+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -317,6 +297,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "b_aVOYAaUP8",
+    "titre": "Ce qui apporte de la joie à @david en tant que maire de Cannes, c'est d'être utile #actualités",
+    "date": "2026-11-23T14:28:40+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "uLVt1zpia08",
     "titre": "￼Récompensé par le ministère de l’Environnement pour son projet énergétique, mais contraint par…",
     "date": "2026-11-23T12:36:52+00:00",
@@ -327,15 +313,15 @@
     "titre": "David Lisnard invité de \"Bonjour chez vous !\" sur Public Sénat !",
     "date": "2026-11-23T11:03:01+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "RVxV7ZjVZ2k",
-    "titre": "David Lisnard invité dans Le Grand Oral sur BMFTV avec Le Figaro",
-    "date": "2026-11-23T09:20:02+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
+   {
+    "id": "yZ_jXldVuT0",
+    "titre": "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste.",
+    "date": "2026-11-23T15:04:07+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
    {
     "id": "3rs5TuvuzSU",
     "titre": "Passer de Panot à Knafo, forcément, ça fait un choc !",
@@ -346,12 +332,6 @@
     "id": "48rd1om3N7U",
     "titre": "Je veux vous rendre vos libertés ! 🇫🇷",
     "date": "2026-11-23T10:38:58+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "kFSqsuZutTo",
-    "titre": "La sélection n’est pas un gros mot ! 🇫🇷",
-    "date": "2026-11-22T20:55:33+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -377,6 +357,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "xQhrdq9TNig",
+    "titre": "LE VOTE DE LA HONTE !",
+    "date": "2026-11-23T17:54:45+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "qApNo7nGVRE",
     "titre": "\"On ne changera rien si on ne se libère pas de l'Union européenne !\" · France info, 22/11/2026",
     "date": "2026-11-22T16:00:06+00:00",
@@ -387,15 +373,15 @@
     "titre": "J’ai signé le pacte citoyen contre la pédocriminalité.",
     "date": "2026-11-19T21:11:48+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "pQAxBsq5qc8",
-    "titre": "Grand entretien avec Louis Fouché : \"Les laboratoires font-ils la loi ?\"",
-    "date": "2026-11-19T18:09:29+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "WHK_NPcvGtA",
+    "titre": "L'ordre capitaliste mondial, c'est la guerre ! | Éditorial de Nathalie Arthaud",
+    "date": "2026-11-23T18:43:35+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "HwU2uCKGWas",
     "titre": "Alaa, poétesse venue de Gaza",
@@ -407,15 +393,15 @@
     "titre": "La casse peut-elle permettre de gagner ?",
     "date": "2026-11-20T17:01:04+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "8LohLciZkq4",
-    "titre": "Il n'y a rien de plus efficace que les mobilisations pour défendre nos intérêts",
-    "date": "2026-11-19T17:07:42+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "EEf_U4b_Xyw",
+    "titre": "Coup de tonnerre : Macron manipule la Constitution en pleine élection présidentielle !",
+    "date": "2026-11-23T14:00:01+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "T9gLmFfsj_s",
     "titre": "Présidentielle : une incroyable surprise ! Et ça change tout !",
@@ -426,12 +412,6 @@
     "id": "qYORyteqSl8",
     "titre": "L’UE signe un accord fou avec l’Indonésie : la France sacrifiée !",
     "date": "2026-11-22T07:21:51+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "HUUTCH6U5kM",
-    "titre": "« Vaccin obligatoire en France ! » : l’UE l’annonce !",
-    "date": "2026-11-21T14:00:19+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
