@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-24T02:38+00:00",
+ "maj": "2026-11-24T14:20+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,6 +95,12 @@
  "flux": {
   "glucksmann": [
    {
+    "titre": "Présidentielle 2027 : « Face au RN, beaucoup va se jouer sur la capacité d’Edouard Philippe ou de Raphaël Glucksmann à s’imposer au centre »",
+    "source": "Le Monde",
+    "date": "2026-11-24T06:00:24+01:00",
+    "lien": "https://www.lemonde.fr/idees/article/2026/11/24/presidentielle-2027-face-au-rn-beaucoup-va-se-jouer-sur-la-capacite-d-edouard-philippe-ou-de-raphael-glucksmann-a-s-imposer-au-centre_6814705_3232.html"
+   },
+   {
     "titre": "Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour convaincre, lui promet de «surprendre»",
     "source": "Libération",
     "date": "2026-11-20T18:12:01+00:00",
@@ -102,12 +108,6 @@
    }
   ],
   "le-pen": [
-   {
-    "titre": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
-    "source": "Le Monde",
-    "date": "2026-11-23T05:30:07+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html"
-   },
    {
     "titre": "Fuites au ministère de l’Intérieur : un mail du service du préfet Moutouh découvert chez un proche de Marine Le Pen",
     "source": "Libération",
@@ -129,36 +129,42 @@
   ],
   "david-lisnard": [
    {
-    "titre": "David Lisnard fait-il des \"appels du pied\" à l'extrême droite comme l'affirme Jean-François Copé ?",
+    "titre": "La maire de Fontenay-aux-Roses souhaite la \"mise en retrait\" de David Lisnard de la présidence de l'Association des maires de France",
     "source": "franceinfo",
-    "date": "2026-11-23T20:50:50+01:00",
-    "lien": "https://www.franceinfo.fr/vrai-ou-fake/david-lisnard-fait-il-des-appels-du-pied-a-l-extreme-droite-comme-l-affirme-jean-francois-cope_8296674.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-24T14:48:05+01:00",
+    "lien": "https://www.franceinfo.fr/politique/la-maire-de-fontenay-aux-roses-souhaite-la-mise-en-retrait-de-david-lisnard-de-la-presidence-de-l-association-des-maires-de-france_8297787.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Pour David Lisnard, la primaire de la droite et du centre est un «moyen d’éliminer les macronistes»",
-    "source": "Libération",
-    "date": "2026-11-22T07:29:05+00:00",
-    "lien": "https://www.liberation.fr/politique/pour-david-lisnard-la-primaire-de-la-droite-et-du-centre-est-un-moyen-deliminer-les-macronistes-20261122_WJGV3ANEVZECXAV225UMW4JK4Q/"
+    "titre": "ÉDITO. David Lisnard propose-t-il du neuf aux Français ?",
+    "source": "franceinfo",
+    "date": "2026-11-24T13:27:40+01:00",
+    "lien": "https://www.franceinfo.fr/elections/edito-david-lisnard-propose-t-il-du-neuf-aux-francais_8297697.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "David Lisnard, dynamiteur populiste de la bataille à droite",
-    "source": "Libération",
-    "date": "2026-11-20T19:52:48+00:00",
-    "lien": "https://www.liberation.fr/politique/lisnard-dynamiteur-populiste-de-la-bataille-a-droite-20261120_XBOH6GUQORBZPOVFP6T6TZRUFA/"
+    "titre": "François Bayrou fustige la posture de David Lisnard, qui souhaite une primaire de la droite et du centre",
+    "source": "Le Monde",
+    "date": "2026-11-24T12:11:36+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-francois-bayrou-fustige-la-posture-de-david-lisnard-qui-souhaite-une-primaire-de-la-droite-et-du-centre_6814751_823448.html"
    },
    {
-    "titre": "David Lisnard, le regard à l’extrême droite",
+    "titre": "Le libéralisme hémiplégique de David Lisnard",
     "source": "Libération",
-    "date": "2026-11-20T19:14:48+00:00",
-    "lien": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/"
+    "date": "2026-11-24T09:50:19+00:00",
+    "lien": "https://www.liberation.fr/idees-et-debats/tribunes/le-liberalisme-hemiplegique-de-david-lisnard-20261124_26ZVAVEKXFGD5DUFUM3A7IHXQM/"
+   },
+   {
+    "titre": "La double candidature de David Lisnard, pour la tête de l'Association des maires de France et la présidentielle, fait grincer des dents",
+    "source": "franceinfo",
+    "date": "2026-11-24T08:47:39+01:00",
+    "lien": "https://www.franceinfo.fr/politique/david-lisnard/la-double-candidature-de-david-lisnard-pour-la-tete-de-l-association-des-maires-de-france-et-la-presidentielle-fait-grincer-des-dents_8297235.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "melenchon": [
    {
-    "titre": "Présidentielle 2027 : le mouvement Génération.s s’engage dans la campagne de Jean-Luc Mélenchon",
+    "titre": "Jean-Luc Mélenchon tiendra un meeting le samedi 9 janvier à Montpellier",
     "source": "Le Monde",
-    "date": "2026-11-23T13:40:04+01:00",
-    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/23/presidentielle-2027-le-mouvement-generation-s-s-engage-dans-la-campagne-de-jean-luc-melenchon_6814385_6205049.html"
+    "date": "2026-11-24T13:43:41+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/24/jean-luc-melenchon-tiendra-un-meeting-le-samedi-9-janvier-a-montpellier_6814763_823448.html"
    },
    {
     "titre": "Raquel Garrido : «Notre sujet, c’est comment élargir et je ne suis pas certaine que Jean-Luc Mélenchon soit une solution gagnante»",
@@ -171,12 +177,6 @@
     "source": "Libération",
     "date": "2026-11-22T05:14:00+00:00",
     "lien": "https://www.liberation.fr/idees-et-debats/tribunes/pour-jean-luc-melenchon-les-limites-du-modele-bresilien-lula-20261122_OW7T3RMFRJBCFBXKDFS5VMLKXY/"
-   },
-   {
-    "titre": "Présidentielle : depuis Lyon, Marine Tondelier attend «les pas» de Jean-Luc Mélenchon en direction des écologistes",
-    "source": "Libération",
-    "date": "2026-11-20T13:56:00+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-depuis-lyon-marine-tondelier-attend-les-pas-de-jean-luc-melenchon-en-direction-des-ecologistes-20261120_RWMA5LDG25HUJCM5Q4RBDIC2S4/"
    },
    {
     "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
@@ -205,37 +205,37 @@
     "source": "Libération",
     "date": "2026-11-23T17:19:34+00:00",
     "lien": "https://www.liberation.fr/politique/marine-tondelier-a-mene-les-ecologistes-dans-une-impasse-apres-leur-rupture-yannick-jadot-et-jeremie-iordanoff-annoncent-la-creation-dun-nouveau-parti-20261123_WAYO5QZHJ5DZJOGEXCTCM266LY/"
-   },
-   {
-    "titre": "Présidentielle : depuis Lyon, Marine Tondelier attend «les pas» de Jean-Luc Mélenchon en direction des écologistes",
-    "source": "Libération",
-    "date": "2026-11-20T13:56:00+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-depuis-lyon-marine-tondelier-attend-les-pas-de-jean-luc-melenchon-en-direction-des-ecologistes-20261120_RWMA5LDG25HUJCM5Q4RBDIC2S4/"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "q9_3aczUuXQ",
-    "titre": "C'est le bac qui doit décider de l'entrée à l'université",
-    "date": "2026-11-24T00:30:15+00:00",
+    "id": "8i6xVF8U9Ko",
+    "titre": "Chaque pays a droit à son indépendance et à sa souveraineté !",
+    "date": "2026-11-24T13:00:24+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "Mr5pmVO-Osw",
-    "titre": "Échappons quelques minutes à la caricature, M. Attal, dont vous êtes coutumier !",
-    "date": "2026-11-23T21:30:30+00:00",
+    "id": "sq3vgIgDC4Q",
+    "titre": "Fin du contrôle continu : retour au bac anonyme !",
+    "date": "2026-11-24T10:00:09+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "FRU95Caoozk",
-    "titre": "Double nationalité : j'ai commis une erreur, je suis revenue sur cette proposition.",
-    "date": "2026-11-23T16:00:36+00:00",
+    "id": "-6QKzDUNMx8",
+    "titre": "Lisnard ? On ne peut pas passer le code du travail à la broyeuse !",
+    "date": "2026-11-24T09:00:02+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
+   {
+    "id": "Mdgt3VEbfEY",
+    "titre": "Conférence de Jean-Luc Mélenchon à Berlin",
+    "date": "2026-11-24T08:26:20+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
    {
     "id": "G_SLHQgnbGk",
     "titre": "Meeting de Jean-Luc Mélenchon au Havre",
@@ -246,12 +246,6 @@
     "id": "okWBXbSg6t4",
     "titre": "Il faut sauver le docteur palestinien Hussam Abu Safiya !",
     "date": "2026-11-22T09:57:25+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "BWGz0_CCoe8",
-    "titre": "Conférence de Jean-Luc Mélenchon à Sciences Po Paris",
-    "date": "2026-11-20T20:35:51+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -297,21 +291,21 @@
   ],
   "david-lisnard": [
    {
+    "id": "TTvjPHKIUrE",
+    "titre": "\"Le mandat municipal est très incarné et merveilleux.\"",
+    "date": "2026-11-24T11:12:53+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "GEPt0HNtTho",
+    "titre": "\"Ma proposition politique est un changement total de ceux qui nous gouvernent depuis dix ans\"",
+    "date": "2026-11-24T08:49:04+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "b_aVOYAaUP8",
     "titre": "Ce qui apporte de la joie à @david en tant que maire de Cannes, c'est d'être utile #actualités",
     "date": "2026-11-23T14:28:40+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "uLVt1zpia08",
-    "titre": "￼Récompensé par le ministère de l’Environnement pour son projet énergétique, mais contraint par…",
-    "date": "2026-11-23T12:36:52+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "Lq6hl0nBjK4",
-    "titre": "David Lisnard invité de \"Bonjour chez vous !\" sur Public Sénat !",
-    "date": "2026-11-23T11:03:01+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -357,6 +351,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "cAAcqkJC26E",
+    "titre": "Je propose de passer le SMIC à 1600 euros nets.",
+    "date": "2026-11-24T07:00:29+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "xQhrdq9TNig",
     "titre": "LE VOTE DE LA HONTE !",
     "date": "2026-11-23T17:54:45+00:00",
@@ -366,12 +366,6 @@
     "id": "qApNo7nGVRE",
     "titre": "\"On ne changera rien si on ne se libère pas de l'Union européenne !\" · France info, 22/11/2026",
     "date": "2026-11-22T16:00:06+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "kliyekX-lo8",
-    "titre": "J’ai signé le pacte citoyen contre la pédocriminalité.",
-    "date": "2026-11-19T21:11:48+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
