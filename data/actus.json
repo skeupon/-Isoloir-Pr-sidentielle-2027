@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-24T14:20+00:00",
+ "maj": "2026-11-25T00:11+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,21 +93,21 @@
   }
  ],
  "flux": {
-  "glucksmann": [
+  "attal": [
    {
-    "titre": "Présidentielle 2027 : « Face au RN, beaucoup va se jouer sur la capacité d’Edouard Philippe ou de Raphaël Glucksmann à s’imposer au centre »",
+    "titre": "Présidentielle 2027 : Gabriel Attal presse Edouard Philippe de « proposer une autre modalité de départage », face à son refus de la primaire",
     "source": "Le Monde",
-    "date": "2026-11-24T06:00:24+01:00",
-    "lien": "https://www.lemonde.fr/idees/article/2026/11/24/presidentielle-2027-face-au-rn-beaucoup-va-se-jouer-sur-la-capacite-d-edouard-philippe-ou-de-raphael-glucksmann-a-s-imposer-au-centre_6814705_3232.html"
-   },
-   {
-    "titre": "Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour convaincre, lui promet de «surprendre»",
-    "source": "Libération",
-    "date": "2026-11-20T18:12:01+00:00",
-    "lien": "https://www.liberation.fr/politique/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqua-fevrier-pour-convaincre-lui-promet-de-surprendre-20261120_V6TAIK6H7NGWFCXCCZQ24HWBLA/"
+    "date": "2026-11-24T20:56:50+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-gabriel-attal-presse-edouard-philippe-de-proposer-une-autre-modalite-de-departage-face-a-son-refus-de-la-primaire_6814848_823448.html"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Présidentielle 2027 : devant des maires, Marine Le Pen promet plus de « liberté » pour les communes et veut s’attaquer au « millefeuille territorial »",
+    "source": "Le Monde",
+    "date": "2026-11-24T19:33:49+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html"
+   },
    {
     "titre": "Fuites au ministère de l’Intérieur : un mail du service du préfet Moutouh découvert chez un proche de Marine Le Pen",
     "source": "Libération",
@@ -129,6 +129,24 @@
   ],
   "david-lisnard": [
    {
+    "titre": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite",
+    "source": "franceinfo",
+    "date": "2026-11-24T23:48:34+01:00",
+    "lien": "https://www.franceinfo.fr/elections/edouard-philippe-propose-un-debat-televise-avant-mi-decembre-a-david-lisnard-qu-il-soupconn-de-ne-pas-etre-etanche-avec-l-extreme-droite_8298417.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "« Il est déjà élu à l’applaudimètre »: dans les coulisses du match entre David Lisnard et Philippe Laurent pour la présidence de l’AMF",
+    "source": "Le Figaro",
+    "date": "2026-11-24T19:52:21+01:00",
+    "lien": "https://www.lefigaro.fr/elections/presidentielles/il-est-deja-elu-a-l-applaudimetre-dans-les-coulisses-du-match-entre-david-lisnard-et-philippe-laurent-pour-la-presidence-de-l-amf-20261124"
+   },
+   {
+    "titre": "Présidentielle 2027 : Edouard Philippe souhaite un débat télévisé avec David Lisnard, qu’il soupçonne de ne pas être « étanche » vis-à-vis de l’extrême droite",
+    "source": "Le Monde",
+    "date": "2026-11-24T18:43:11+01:00",
+    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html"
+   },
+   {
     "titre": "La maire de Fontenay-aux-Roses souhaite la \"mise en retrait\" de David Lisnard de la présidence de l'Association des maires de France",
     "source": "franceinfo",
     "date": "2026-11-24T14:48:05+01:00",
@@ -139,24 +157,6 @@
     "source": "franceinfo",
     "date": "2026-11-24T13:27:40+01:00",
     "lien": "https://www.franceinfo.fr/elections/edito-david-lisnard-propose-t-il-du-neuf-aux-francais_8297697.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "François Bayrou fustige la posture de David Lisnard, qui souhaite une primaire de la droite et du centre",
-    "source": "Le Monde",
-    "date": "2026-11-24T12:11:36+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-francois-bayrou-fustige-la-posture-de-david-lisnard-qui-souhaite-une-primaire-de-la-droite-et-du-centre_6814751_823448.html"
-   },
-   {
-    "titre": "Le libéralisme hémiplégique de David Lisnard",
-    "source": "Libération",
-    "date": "2026-11-24T09:50:19+00:00",
-    "lien": "https://www.liberation.fr/idees-et-debats/tribunes/le-liberalisme-hemiplegique-de-david-lisnard-20261124_26ZVAVEKXFGD5DUFUM3A7IHXQM/"
-   },
-   {
-    "titre": "La double candidature de David Lisnard, pour la tête de l'Association des maires de France et la présidentielle, fait grincer des dents",
-    "source": "franceinfo",
-    "date": "2026-11-24T08:47:39+01:00",
-    "lien": "https://www.franceinfo.fr/politique/david-lisnard/la-double-candidature-de-david-lisnard-pour-la-tete-de-l-association-des-maires-de-france-et-la-presidentielle-fait-grincer-des-dents_8297235.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "melenchon": [
@@ -195,12 +195,6 @@
   ],
   "marine-tondelier": [
    {
-    "titre": "Yannick Jadot et Jérémie Iordanoff, en rupture avec Marine Tondelier, créent un nouveau parti écologiste",
-    "source": "Le Monde",
-    "date": "2026-11-23T18:43:27+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/23/yannick-jadot-et-jeremie-iordanoff-en-rupture-avec-marine-tondelier-creent-un-nouveau-parti-ecologiste_6814435_823448.html"
-   },
-   {
     "titre": "Après leur rupture avec Marine Tondelier, Yannick Jadot et Jérémie Iordanoff lancent un nouveau parti écolo",
     "source": "Libération",
     "date": "2026-11-23T17:19:34+00:00",
@@ -211,21 +205,21 @@
  "videos": {
   "le-pen": [
    {
-    "id": "8i6xVF8U9Ko",
-    "titre": "Chaque pays a droit à son indépendance et à sa souveraineté !",
-    "date": "2026-11-24T13:00:24+00:00",
+    "id": "bb_ePEBKBXw",
+    "titre": "Jean-Luc Mélenchon s'intéresse à l'Outre-mer… pour larguer l'Outre-mer !",
+    "date": "2026-11-24T23:30:07+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "sq3vgIgDC4Q",
-    "titre": "Fin du contrôle continu : retour au bac anonyme !",
-    "date": "2026-11-24T10:00:09+00:00",
+    "id": "a7xoUP_Kkfo",
+    "titre": "🔴 EN DIRECT | Marine Le Pen face aux chefs d'entreprise (LCI)",
+    "date": "2026-11-24T22:56:14+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "-6QKzDUNMx8",
-    "titre": "Lisnard ? On ne peut pas passer le code du travail à la broyeuse !",
-    "date": "2026-11-24T09:00:02+00:00",
+    "id": "jrKzeZRj6Hc",
+    "titre": "L'année blanche sur les retraites, je trouve ça honteux : c'est du vol !",
+    "date": "2026-11-24T21:30:36+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -291,41 +285,41 @@
   ],
   "david-lisnard": [
    {
+    "id": "WI5sREW-NjY",
+    "titre": "\"Construire un poulailler demande plus de temps que rebâtir Notre-Dame\"",
+    "date": "2026-11-24T18:40:46+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
+    "id": "uv5Db6UYMyg",
+    "titre": "Emmanuel Macron propose une règle d'or mais n'a pas su gérer",
+    "date": "2026-11-24T16:29:43+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "TTvjPHKIUrE",
     "titre": "\"Le mandat municipal est très incarné et merveilleux.\"",
     "date": "2026-11-24T11:12:53+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "GEPt0HNtTho",
-    "titre": "\"Ma proposition politique est un changement total de ceux qui nous gouvernent depuis dix ans\"",
-    "date": "2026-11-24T08:49:04+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "b_aVOYAaUP8",
-    "titre": "Ce qui apporte de la joie à @david en tant que maire de Cannes, c'est d'être utile #actualités",
-    "date": "2026-11-23T14:28:40+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
-    "id": "yZ_jXldVuT0",
-    "titre": "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste.",
-    "date": "2026-11-23T15:04:07+00:00",
+    "id": "LLvxJnceUDI",
+    "titre": "Mon message aux maires de France ￼!",
+    "date": "2026-11-24T21:17:49+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "3rs5TuvuzSU",
-    "titre": "Passer de Panot à Knafo, forcément, ça fait un choc !",
-    "date": "2026-11-23T13:28:00+00:00",
+    "id": "WfuNLqEv0_Q",
+    "titre": "François Bayrou attaque ? Je lui réponds.",
+    "date": "2026-11-24T18:33:16+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "48rd1om3N7U",
-    "titre": "Je veux vous rendre vos libertés ! 🇫🇷",
-    "date": "2026-11-23T10:38:58+00:00",
+    "id": "2WqA_RU93ZI",
+    "titre": "À l'école, la mère des batailles est la fin du collège unique.",
+    "date": "2026-11-24T15:02:28+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -391,6 +385,12 @@
   ],
   "florian-philippot": [
    {
+    "id": "X7w4T6Jd2FI",
+    "titre": "« 1 sur 2 va mourir ! » : Ursula injecte un poison fou dans nos assiettes !",
+    "date": "2026-11-24T14:17:42+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "EEf_U4b_Xyw",
     "titre": "Coup de tonnerre : Macron manipule la Constitution en pleine élection présidentielle !",
     "date": "2026-11-23T14:00:01+00:00",
@@ -400,12 +400,6 @@
     "id": "T9gLmFfsj_s",
     "titre": "Présidentielle : une incroyable surprise ! Et ça change tout !",
     "date": "2026-11-22T14:00:11+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "qYORyteqSl8",
-    "titre": "L’UE signe un accord fou avec l’Indonésie : la France sacrifiée !",
-    "date": "2026-11-22T07:21:51+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
