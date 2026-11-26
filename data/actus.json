@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25T23:50+00:00",
+ "maj": "2026-11-26T13:16+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,13 +95,39 @@
  "flux": {
   "attal": [
    {
-    "titre": "EN DIRECT, congrès des maires 2026 : Gabriel Attal espère que la réunion des candidats de la droite et du centre autour de Gérard Larcher permettra « d’avancer » vers une méthode de départage",
-    "source": "Le Monde",
-    "date": "2026-11-25T16:53:02+01:00",
-    "lien": "https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-au-quotidien-on-constate-de-plus-en-plus-une-solitude-des-communes_6815062_823448.html"
+    "titre": "David Lisnard, Gabriel Attal, Raphaël Glucksmann... Journée de campagne au Salon des maires",
+    "source": "franceinfo",
+    "date": "2026-11-26T08:47:34+01:00",
+    "lien": "https://www.franceinfo.fr/elections/david-lisnard-gabriel-attal-raphael-glucksmann-journee-de-campagne-au-salon-des-maires_8300931.html#xtor=RSS-3-%5Bpolitique%5D"
+   }
+  ],
+  "glucksmann": [
+   {
+    "titre": "Benoît Payan appelle Raphaël Glucksmann \"à se dépasser\" et \"à rassembler le plus largement possible\"",
+    "source": "franceinfo",
+    "date": "2026-11-26T10:38:40+01:00",
+    "lien": "https://www.franceinfo.fr/elections/benoit-payan-appelle-raphael-glucksmann-a-se-depasser-et-a-rassembler-le-plus-largement-possible_8301006.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Présidentielle 2027 : depuis la Mayenne, Raphaël Glucksmann dévoile son projet de \"Conseil des territoires\" pour donner plus de pouvoir aux élus locaux",
+    "source": "franceinfo",
+    "date": "2026-11-26T09:31:17+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-depuis-la-mayenne-raphael-glucksmann-devoile-son-projet-de-conseil-des-territoires-pour-donner-plus-de-pouvoir-aux-elus-locaux_8300955.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "David Lisnard, Gabriel Attal, Raphaël Glucksmann... Journée de campagne au Salon des maires",
+    "source": "franceinfo",
+    "date": "2026-11-26T08:47:34+01:00",
+    "lien": "https://www.franceinfo.fr/elections/david-lisnard-gabriel-attal-raphael-glucksmann-journee-de-campagne-au-salon-des-maires_8300931.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "le-pen": [
+   {
+    "titre": "Nouvelles révélations sur des écrits antisémites attribués à Jordan Bardella : \"Une polémique parmi mille autres\", réagit Charles Alloncle, porte-parole UDR de Marine Le Pen",
+    "source": "franceinfo",
+    "date": "2026-11-26T08:52:14+01:00",
+    "lien": "https://www.franceinfo.fr/politique/nouvelles-revelations-sur-des-ecrits-antisemites-attribues-a-jordan-bardella-une-polemique-parmi-mille-autres-reagit-charles-alloncle-porte-parole-udr-de-marine-le-pen_8300934.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "Présidentielle 2027 : après François Bayrou, au tour de Jean-Noël Barrot de prôner le «ni-ni» entre Jean-Luc Mélenchon et Marine Le Pen",
     "source": "Libération",
@@ -123,48 +149,60 @@
   ],
   "david-lisnard": [
    {
-    "titre": "Présidentielle 2027 : \"Il faut une compétition, il faut une sélection\", défend le candidat David Lisnard, partisan d'une primaire",
+    "titre": "ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille \"du terrain\" contre les élites ?",
     "source": "franceinfo",
-    "date": "2026-11-25T23:53:33+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-il-faut-une-competition-il-faut-une-selection-defend-le-candidat-david-lisnard-partisan-d-une-primaire_8300388.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-26T14:10:16+01:00",
+    "lien": "https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Présidentielle 2027 : l'ascension de David Lisnard, réélu président de l'Association des maires de France",
-    "source": "franceinfo",
-    "date": "2026-11-25T23:51:49+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-l-ascension-de-david-lisnard-reelu-president-de-l-association-des-maires-de-france_8300370.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "VIDEO. \"La démocratie, c’est du vote\", déclare David Lisnard, qui refuse la proposition d’Edouard Philippe de débattre à la place d'une primaire",
-    "source": "franceinfo",
-    "date": "2026-11-25T21:24:57+01:00",
-    "lien": "https://www.franceinfo.fr/elections/video-la-democratie-c-est-du-vote-declare-david-lisnard-qui-refuse-la-proposition-d-edouard-philippe-de-debattre-a-la-place-d-une-primaire_8300295.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Comment le candidat David Lisnard séduit les déçus d’une partie de la droite : « Avec Retailleau et Philippe, on continue sans rien changer »",
+    "titre": "EN DIRECT, congrès des maires de France : David Lisnard est accusé de « compromission » avec l’extrême droite par Gérald Darmanin",
     "source": "Le Monde",
-    "date": "2026-11-25T20:25:00+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html"
+    "date": "2026-11-26T13:01:40+01:00",
+    "lien": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-david-lisnard-est-accuse-de-compromission-avec-l-extreme-droite-par-gerald-darmanin_6815062_823448.html"
    },
    {
-    "titre": "En campagne pour l’Elysée, David Lisnard réélu à la tête des maires de France",
+    "titre": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
+    "source": "Le Monde",
+    "date": "2026-11-26T13:00:11+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html"
+   },
+   {
+    "titre": "Le baiser de la mort de Jean-Philippe Tanguy à David Lisnard",
     "source": "Libération",
-    "date": "2026-11-25T14:43:21+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/en-campagne-pour-lelysee-david-lisnard-reelu-a-la-tete-des-maires-de-france-20261125_SGKQEG6H3FHHPMAGJUG2OU2I2Q/"
+    "date": "2026-11-26T10:34:36+00:00",
+    "lien": "https://www.liberation.fr/politique/le-baiser-de-la-mort-de-jean-philippe-tanguy-a-david-lisnard-20261126_P7H33BM7AFDERHQLOKX6DZR76A/"
+   },
+   {
+    "titre": "David Lisnard : sa candidature va-t-elle faire pschitt ? Nos journalistes répondent dans «Chez Pol, l’émission»",
+    "source": "Libération",
+    "date": "2026-11-26T09:35:22+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/david-lisnard-sa-candidature-va-t-elle-faire-pschitt-nos-journalistes-repondent-dans-chez-pol-lemission-20261126_J7SZR5TAZNG43BSZ3BXQ5MGEEE/"
    }
   ],
   "melenchon": [
+   {
+    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, en visite vendredi à Berlin, inquiète l’Allemagne avec sa rhétorique anti-allemande",
+    "source": "Le Monde",
+    "date": "2026-11-26T12:23:09+01:00",
+    "lien": "https://www.lemonde.fr/international/article/2026/11/26/l-allemagne-s-inquiete-de-la-rhetorique-anti-allemande-de-jean-luc-melenchon_6815524_3210.html"
+   },
+   {
+    "titre": "Après ses propos hostiles à l'Allemagne et ses projets de renforcement de son armée, Jean-Luc Mélenchon est à Berlin pour présenter son livre",
+    "source": "franceinfo",
+    "date": "2026-11-26T12:15:58+01:00",
+    "lien": "https://www.franceinfo.fr/politique/melenchon/les-relations-compliquees-de-jean-luc-melenchon-avec-l-allemagne_8301105.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Jean-Luc Mélenchon en Allemagne : pour Die Linke, l’allié français qu’on préfère cacher",
+    "source": "Libération",
+    "date": "2026-11-26T11:55:10+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/jean-luc-melenchon-en-allemagne-pour-die-linke-lallie-francais-quon-prefere-cacher-20261126_UDVDINBZPRCRDIN5S6WUHQGERQ/"
+   },
    {
     "titre": "Présidentielle 2027 : après François Bayrou, au tour de Jean-Noël Barrot de prôner le «ni-ni» entre Jean-Luc Mélenchon et Marine Le Pen",
     "source": "Libération",
     "date": "2026-11-25T08:39:10+00:00",
     "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-apres-francois-bayrou-au-tour-de-jean-noel-barrot-de-proner-le-ni-ni-entre-jean-luc-melenchon-et-marine-le-pen-20261125_YRWHOZLD4JFHND6FVZP5KEJU5M/"
-   },
-   {
-    "titre": "Raquel Garrido : «Notre sujet, c’est comment élargir et je ne suis pas certaine que Jean-Luc Mélenchon soit une solution gagnante»",
-    "source": "Libération",
-    "date": "2026-11-22T17:09:00+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/raquel-garrido-notre-sujet-cest-comment-elargir-et-je-ne-suis-pas-certaine-que-jean-luc-melenchon-soit-une-solution-gagnante-20261123_5H4XIPXKZNHYZDL7CV2NPPZMCI/"
    },
    {
     "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
@@ -175,18 +213,16 @@
   ],
   "philippe": [
    {
-    "titre": "\"Il n'y aura qu'un seul candidat de la droite et du centre sur la ligne de départ\", assure Maël de Calan, le porte-parole d’Édouard Philippe",
+    "titre": "ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille \"du terrain\" contre les élites ?",
     "source": "franceinfo",
-    "date": "2026-11-25T20:18:54+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/il-n-y-aura-qu-un-seul-candidat-de-la-droite-et-du-centre-sur-la-ligne-de-depart-promet-mael-de-calan-le-porte-parole-d-edouard-philippe_8300205.html#xtor=RSS-3-%5Bpolitique%5D"
-   }
-  ],
-  "francois-ruffin": [
+    "date": "2026-11-26T14:10:16+01:00",
+    "lien": "https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
-    "titre": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
-    "source": "Libération",
-    "date": "2026-11-22T16:22:21+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/"
+    "titre": "À suivre Loïc de la Mornais : la guerre des droites est-elle déclarée entre Édouard Philippe et David Lisnard ?",
+    "source": "franceinfo",
+    "date": "2026-11-26T07:48:42+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-la-guerre-des-droites-est-elle-declaree-entre-edouard-philippe-et-david-lisnard_8300895.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "marine-tondelier": [
@@ -201,25 +237,31 @@
  "videos": {
   "le-pen": [
    {
-    "id": "xEZh8WplKZA",
-    "titre": "Condamner, condamner, condamner… et une peine de prison que vous ne ferez jamais",
-    "date": "2026-11-25T23:30:30+00:00",
+    "id": "a1lFEcaD-4E",
+    "titre": "Ceux qui emploient des travailleurs clandestins doivent être condamnés par la justice.",
+    "date": "2026-11-26T11:38:12+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "OCSuSmwXUuI",
-    "titre": "TVA, retraites, normes : Marine Le Pen face aux petits patrons en intégralité (LCI)",
-    "date": "2026-11-25T23:00:02+00:00",
+    "id": "y-OE_H0_P9M",
+    "titre": "Des professeurs militants pendant les blocages : la neutralité",
+    "date": "2026-11-26T10:00:20+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "a7xoUP_Kkfo",
-    "titre": "🔴 EN DIRECT | Marine Le Pen face aux chefs d'entreprise (LCI)",
-    "date": "2026-11-25T22:02:35+00:00",
+    "id": "JiqOuePHGuc",
+    "titre": "Réparer notre système de retraites | Au cœur de la campagne #5 avec J.P Tanguy et J. Sanchez",
+    "date": "2026-11-26T09:14:25+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
+   {
+    "id": "2jkmpMb_a1Q",
+    "titre": "La mer : un territoire stratégique qu’il faut enfin gouverner !",
+    "date": "2026-11-26T07:50:26+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
    {
     "id": "I3PaiE_Ys74",
     "titre": "La mer est une infrastructure stratégique pour la France",
@@ -230,12 +272,6 @@
     "id": "Mdgt3VEbfEY",
     "titre": "Conférence de Jean-Luc Mélenchon à Berlin",
     "date": "2026-11-24T08:26:20+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "G_SLHQgnbGk",
-    "titre": "Meeting de Jean-Luc Mélenchon au Havre",
-    "date": "2026-11-23T12:33:40+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
@@ -281,21 +317,21 @@
   ],
   "david-lisnard": [
    {
-    "id": "HynuRYcxNX4",
-    "titre": "Nous allons régénérer les élites au mérite.",
-    "date": "2026-11-25T17:01:47+00:00",
+    "id": "shs20ss0JCI",
+    "titre": "David Lisnard invité du 20h sur France 2",
+    "date": "2026-11-26T11:11:30+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "LxrmvbmWrGQ",
-    "titre": "De nombreux fonctionnaires me rejoignent et me racontent les débilités qu'ils vivent tous les jours",
-    "date": "2026-11-25T14:18:33+00:00",
+    "id": "Id5Z6-c2cVA",
+    "titre": "« Si vous voulez moins de bureaucrates, il faut moins de bureaucratie »",
+    "date": "2026-11-26T10:23:45+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "YLrjteJwrzw",
-    "titre": "La sectorisation enferme à résidence les enfants les plus pauvres",
-    "date": "2026-11-25T09:09:30+00:00",
+    "id": "kThNMSIlAbk",
+    "titre": "« Le RN s'est positionné contre moi et ne cesse de me taper dessus. »",
+    "date": "2026-11-26T09:57:43+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
@@ -313,9 +349,9 @@
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "yZ_jXldVuT0",
-    "titre": "🤡 Pour la vice-présidente LFI de l’Assemblée nationale, on a le droit d’être islamiste.",
-    "date": "2026-11-23T15:04:07+00:00",
+    "id": "WfuNLqEv0_Q",
+    "titre": "François Bayrou attaque ? Je lui réponds.",
+    "date": "2026-11-24T18:33:16+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -341,21 +377,21 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "46eQN6IyJuw",
+    "titre": "Avec Gérard Gros, maire fidèle qui me parraine depuis 2012.",
+    "date": "2026-11-26T12:30:00+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
+    "id": "FHZBnU4Jg3I",
+    "titre": "Un maire sur deux serait réticent à parrainer.",
+    "date": "2026-11-26T10:25:33+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "NcHuQNnm2Ik",
     "titre": "Au Salon des maires, à la rencontre des entreprises qui innovent pour faciliter la vie des Français!",
     "date": "2026-11-25T13:33:30+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "cAAcqkJC26E",
-    "titre": "Je propose de passer le SMIC à 1600 euros nets.",
-    "date": "2026-11-24T07:00:29+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "xQhrdq9TNig",
-    "titre": "LE VOTE DE LA HONTE !",
-    "date": "2026-11-23T17:54:45+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
