@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-27T00:08+00:00",
+ "maj": "2026-11-27T13:13+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,7 +93,41 @@
   }
  ],
  "flux": {
+  "nicolas-dupont-aignan": [
+   {
+    "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan veut arrêter l’aide française à l’Ukraine, accusée d’« alimenter le conflit »",
+    "source": "Le Monde",
+    "date": "2026-11-27T11:00:31+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-nicolas-dupont-aignan-veut-arreter-l-aide-francaise-a-l-ukraine-accusee-d-alimenter-le-conflit_6815835_823448.html"
+   }
+  ],
+  "glucksmann": [
+   {
+    "titre": "Présidentielle 2027 : Raphaël Glucksmann cherche à tisser un réseau d’élus locaux",
+    "source": "Le Monde",
+    "date": "2026-11-27T08:43:17+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-raphael-glucksmann-cherche-a-tisser-un-reseau-d-elus-locaux_6815814_823448.html"
+   }
+  ],
   "le-pen": [
+   {
+    "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen renouvelle sa confiance au président du Rassemblement national",
+    "source": "Le Monde",
+    "date": "2026-11-27T13:25:05+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-de-jordan-bardella-marine-le-pen-renouvelle-sa-confiance-au-president-du-rassemblement-national_6815858_823448.html"
+   },
+   {
+    "titre": "DIRECT. Présidentielle 2027 : Marine Le Pen renouvelle sa confiance à Jordan Bardella et veut obliger les journalistes à respecter le secret de l'instruction",
+    "source": "franceinfo",
+    "date": "2026-11-27T13:01:49+00:00",
+    "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Marine Le Pen réitère sa confiance à Jordan Bardella, après de nouveaux éléments sur des écrits antisémites attribués au patron du RN",
+    "source": "franceinfo",
+    "date": "2026-11-27T12:50:47+01:00",
+    "lien": "https://www.franceinfo.fr/elections/marine-le-pen-reitere-sa-confiance-a-jordan-bardella-apres-de-nouveaux-elements-sur-des-ecrits-antisemites-attribues-au-patron-du-rn_8303001.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen",
     "source": "franceinfo",
@@ -101,68 +135,56 @@
     "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
+    "titre": "A Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant qu’« elle serait déjà en charge du destin de la France »",
     "source": "Le Monde",
     "date": "2026-11-26T22:31:24+01:00",
     "lien": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html"
-   },
-   {
-    "titre": "Présidentielle 2027 : après François Bayrou, au tour de Jean-Noël Barrot de prôner le «ni-ni» entre Jean-Luc Mélenchon et Marine Le Pen",
-    "source": "Libération",
-    "date": "2026-11-25T08:39:10+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-apres-francois-bayrou-au-tour-de-jean-noel-barrot-de-proner-le-ni-ni-entre-jean-luc-melenchon-et-marine-le-pen-20261125_YRWHOZLD4JFHND6FVZP5KEJU5M/"
-   },
-   {
-    "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
-    "source": "Le Figaro",
-    "date": "2026-11-18T10:28:37+01:00",
-    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
    }
   ],
   "david-lisnard": [
    {
-    "titre": "Présidentielle 2027 : l'expérience de David Lisnard dans le privé est-elle une réussite",
+    "titre": "Présidentielle : David Lisnard, c'est Zemmour 2022 ou Macron 2017 ? \"On/Off\", épisode 11",
     "source": "franceinfo",
-    "date": "2026-11-26T20:15:45+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-l-experience-de-david-lisnard-dans-le-prive-est-elle-une-reussite_8301930.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-27T12:43:49+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-david-lisnard-c-est-zemmour-2022-ou-macron-2017-on-off-episode-11_8301783.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Huit députés des Républicains annoncent leur soutien à David Lisnard plutôt que Bruno Retailleau pour la présidentielle 2027",
-    "source": "franceinfo",
-    "date": "2026-11-26T17:19:00+01:00",
-    "lien": "https://www.franceinfo.fr/elections/huit-deputes-des-republicains-annoncent-leur-soutien-a-david-lisnard-plutot-que-bruno-retailleau-pour-la-presidentielle-2027_8301579.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : David Lisnard réclame \"l'anonymat des parrainages\" pour \"enlever la pression sur les maires\"",
-    "source": "franceinfo",
-    "date": "2026-11-26T15:03:35+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-david-lisnard-reclame-l-anonymat-des-parrainages-pour-enlever-la-pression-sur-les-maires_8301468.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille \"du terrain\" contre les élites ?",
-    "source": "franceinfo",
-    "date": "2026-11-26T14:10:16+01:00",
-    "lien": "https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
+    "titre": "Les subtiles oscillations de David Lisnard, du vote Macron à la main tendue au RN",
     "source": "Le Monde",
-    "date": "2026-11-26T13:00:07+01:00",
-    "lien": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html"
+    "date": "2026-11-27T11:30:12+01:00",
+    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/27/les-subtiles-oscillations-de-david-lisnard-du-vote-macron-a-la-main-tendue-au-rn_6815839_4355770.html"
+   },
+   {
+    "titre": "\"David Lisnard pourrait embarquer avec nous, s'il veut se débarrasser du macronisme\", estime Sébastien Chenu, le vice-président RN de l'Assemblée",
+    "source": "franceinfo",
+    "date": "2026-11-27T08:42:12+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-vendredi-27-novembre-2026_8291366.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Le baiser de la mort de Jean-Philippe Tanguy à David Lisnard",
+    "source": "Libération",
+    "date": "2026-11-26T10:34:36+00:00",
+    "lien": "https://www.liberation.fr/politique/le-baiser-de-la-mort-de-jean-philippe-tanguy-a-david-lisnard-20261126_P7H33BM7AFDERHQLOKX6DZR76A/"
+   },
+   {
+    "titre": "David Lisnard : sa candidature va-t-elle faire pschitt ? Nos journalistes répondent dans «Chez Pol, l’émission»",
+    "source": "Libération",
+    "date": "2026-11-26T09:35:22+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/david-lisnard-sa-candidature-va-t-elle-faire-pschitt-nos-journalistes-repondent-dans-chez-pol-lemission-20261126_J7SZR5TAZNG43BSZ3BXQ5MGEEE/"
    }
   ],
   "melenchon": [
    {
-    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, en visite vendredi à Berlin, inquiète l’Allemagne avec sa rhétorique anti-allemande",
-    "source": "Le Monde",
-    "date": "2026-11-26T12:23:09+01:00",
-    "lien": "https://www.lemonde.fr/international/article/2026/11/26/l-allemagne-s-inquiete-de-la-rhetorique-anti-allemande-de-jean-luc-melenchon_6815524_3210.html"
+    "titre": "L’obsession antiallemande de Jean-Luc Mélenchon, en visite ce vendredi à Berlin",
+    "source": "Le Figaro",
+    "date": "2026-11-27T06:30:00+01:00",
+    "lien": "https://www.lefigaro.fr/politique/l-obsession-antiallemande-de-jean-luc-melenchon-en-visite-ce-vendredi-a-berlin-20261127"
    },
    {
-    "titre": "Après ses propos hostiles à l'Allemagne et ses projets de renforcement de son armée, Jean-Luc Mélenchon est à Berlin pour présenter son livre",
+    "titre": "Où en sont les rapprochements entre La France insoumise et les forces de gauche prêtes à soutenir Jean-Luc Mélenchon à la présidentielle ?",
     "source": "franceinfo",
-    "date": "2026-11-26T12:15:58+01:00",
-    "lien": "https://www.franceinfo.fr/politique/melenchon/les-relations-compliquees-de-jean-luc-melenchon-avec-l-allemagne_8301105.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-27T05:55:50+01:00",
+    "lien": "https://www.franceinfo.fr/elections/ou-en-sont-les-rapprochements-entre-la-france-insoumise-et-les-forces-de-gauche-pretes-a-soutenir-jean-luc-melenchon-a-la-presidentielle_8301066.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
     "titre": "Jean-Luc Mélenchon en Allemagne : pour Die Linke, l’allié français qu’on préfère cacher",
@@ -175,12 +197,6 @@
     "source": "Libération",
     "date": "2026-11-25T08:39:10+00:00",
     "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-apres-francois-bayrou-au-tour-de-jean-noel-barrot-de-proner-le-ni-ni-entre-jean-luc-melenchon-et-marine-le-pen-20261125_YRWHOZLD4JFHND6FVZP5KEJU5M/"
-   },
-   {
-    "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
-    "source": "Le Figaro",
-    "date": "2026-11-18T10:28:37+01:00",
-    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
    }
   ],
   "philippe": [
@@ -189,51 +205,37 @@
     "source": "Le Figaro",
     "date": "2026-11-26T21:15:00+01:00",
     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-veut-depenser-mieux-pour-la-sante-une-fierte-francaise-20261126"
-   },
-   {
-    "titre": "Propos antisémites attribués à Jordan Bardella : \"M. Bardella devrait aujourd'hui non seulement assumer, mais s'expliquer\", déclare Sylvain Berrios, député Horizons du Val-de-Marne et porte-parole d'Édouard Philippe.",
-    "source": "franceinfo",
-    "date": "2026-11-26T19:49:55+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/propos-antisemites-attribues-a-jordan-bardella-m-bardella-devrait-aujourd-hui-non-seulement-assumer-mais-s-expliquer-declare-sylvain-berrios-depute-horizons-du-val-de-marne-et-porte-parole-d-edouard-philippe_8301936.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille \"du terrain\" contre les élites ?",
-    "source": "franceinfo",
-    "date": "2026-11-26T14:10:16+01:00",
-    "lien": "https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Bpolitique%5D"
-   }
-  ],
-  "retailleau": [
-   {
-    "titre": "Huit députés des Républicains annoncent leur soutien à David Lisnard plutôt que Bruno Retailleau pour la présidentielle 2027",
-    "source": "franceinfo",
-    "date": "2026-11-26T17:19:00+01:00",
-    "lien": "https://www.franceinfo.fr/elections/huit-deputes-des-republicains-annoncent-leur-soutien-a-david-lisnard-plutot-que-bruno-retailleau-pour-la-presidentielle-2027_8301579.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "xIweNydemAo",
-    "titre": "500 000 personnes entrent légalement par an, 10 % travaillent : c'est pas tenable !",
-    "date": "2026-11-26T23:30:04+00:00",
+    "id": "0ZDTAZOvmqI",
+    "titre": "Pourquoi la France n'a-t-elle jamais eu de femme présidente ?",
+    "date": "2026-11-27T13:00:36+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "-p7snvITED8",
-    "titre": "Le permis gratuit pour tous les jeunes, sauf ceux qui ont un casier long comme le bras !",
-    "date": "2026-11-26T21:30:36+00:00",
+    "id": "7ioMrHabxuY",
+    "titre": "🔴 EN DIRECT | Conférence de presse : une vision pour l'outre-mer, la France au grand large",
+    "date": "2026-11-27T11:07:15+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "WRoZTcqd-J4",
-    "titre": "« Nous engagerons la libération de l'économie » | Marine Le Pen, à la rencontre d'un artisan boucher",
-    "date": "2026-11-26T18:00:08+00:00",
+    "id": "b1z9bkpBy4o",
+    "titre": "Agressions et intimidations : exclusion dès 16 ans !",
+    "date": "2026-11-27T10:00:18+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
   "melenchon": [
+   {
+    "id": "_S3Ew8eZHJU",
+    "titre": "Il y a besoin d'une grande remise à plat de la relation franco-allemande",
+    "date": "2026-11-27T11:28:28+00:00",
+    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
+   },
    {
     "id": "2jkmpMb_a1Q",
     "titre": "La mer : un territoire stratégique qu’il faut enfin gouverner !",
@@ -245,15 +247,15 @@
     "titre": "La mer est une infrastructure stratégique pour la France",
     "date": "2026-11-25T14:15:12+00:00",
     "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
-   },
-   {
-    "id": "Mdgt3VEbfEY",
-    "titre": "Conférence de Jean-Luc Mélenchon à Berlin",
-    "date": "2026-11-24T08:26:20+00:00",
-    "chaine": "UCk-_PEY3iC6DIGJKuoEe9bw"
    }
   ],
   "attal": [
+   {
+    "id": "72Rri8Xm_JU",
+    "titre": "Une peine prononcée doit être une peine exécutée.",
+    "date": "2026-11-27T13:09:16+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
    {
     "id": "E7qqt9xI_eU",
     "titre": "Gabriel Attal au Salon des Maires : partage du pouvoir, logement, Ukraine et appel à la primaire",
@@ -264,12 +266,6 @@
     "id": "StUB5RMggDU",
     "titre": "CE QUE PERSONNE NE VOUS DIT SUR LA JUSTICE EN FRANCE (ET CE QUE JE PROPOSE)",
     "date": "2026-11-25T07:00:29+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "TTf8rDTBF_E",
-    "titre": "Le Grand Oral de Gabriel Attal sur le logement",
-    "date": "2026-11-23T14:51:00+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -295,41 +291,41 @@
   ],
   "david-lisnard": [
    {
-    "id": "ZGYIBIaAg-Y",
-    "titre": "« Pour nos enfants, pas pour l’état boulimique. »",
-    "date": "2026-11-26T13:30:56+00:00",
+    "id": "Ce0opKL5GG4",
+    "titre": "\"L'Etat s'exonère souvent des règles qu'il impose aux autres\"",
+    "date": "2026-11-27T11:23:24+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "shs20ss0JCI",
-    "titre": "David Lisnard invité du 20h sur France 2",
-    "date": "2026-11-26T11:11:30+00:00",
+    "id": "S_W3du0Oo_c",
+    "titre": "David Lisnard invité de l'émission C À VOUS sur France 5",
+    "date": "2026-11-27T11:12:41+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    },
    {
-    "id": "Id5Z6-c2cVA",
-    "titre": "« Si vous voulez moins de bureaucrates, il faut moins de bureaucratie »",
-    "date": "2026-11-26T10:23:45+00:00",
+    "id": "zrtApxhb1BY",
+    "titre": "« Pour une droite indépendante et digne »",
+    "date": "2026-11-27T10:02:21+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
+    "id": "eChPv5BPwUw",
+    "titre": "Au premier tour, si on ne vote pas pour ses convictions, on ne le fera jamais.",
+    "date": "2026-11-27T12:38:37+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
+    "id": "0huY7QuoU9U",
+    "titre": "Je veux rétablir une liberté d’expression et d’opinion totale",
+    "date": "2026-11-27T10:15:16+00:00",
+    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
+   },
+   {
     "id": "nHA3sGaUowg",
     "titre": "Il n’y a aucune sélection jusqu’à l’université, et nos enfants le paient.",
     "date": "2026-11-26T23:44:50+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "IhXColNq9tE",
-    "titre": "Je n'ai ni les réflexes des autres, ni leurs lâchetés. Moi, je tiendrai bon.",
-    "date": "2026-11-26T22:58:27+00:00",
-    "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
-   },
-   {
-    "id": "zplSsiIX7mc",
-    "titre": "Éric Zemmour sur CNews : Je veux que mes enfants aient un avenir Français",
-    "date": "2026-11-26T21:28:03+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -355,6 +351,12 @@
   ],
   "nicolas-dupont-aignan": [
    {
+    "id": "x6TYlgGhHus",
+    "titre": "\"Toujours moins pour les Français, toujours plus pour les marchands d'armes !\" · BFM TV, 26/11/2026",
+    "date": "2026-11-27T07:00:24+00:00",
+    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
+   },
+   {
     "id": "46eQN6IyJuw",
     "titre": "Avec Gérard Gros, maire fidèle qui me parraine depuis 2012.",
     "date": "2026-11-26T12:30:00+00:00",
@@ -365,15 +367,15 @@
     "titre": "Un maire sur deux serait réticent à parrainer.",
     "date": "2026-11-26T10:25:33+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
-   },
-   {
-    "id": "NcHuQNnm2Ik",
-    "titre": "Au Salon des maires, à la rencontre des entreprises qui innovent pour faciliter la vie des Français!",
-    "date": "2026-11-25T13:33:30+00:00",
-    "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
   "nathalie-arthaud": [
+   {
+    "id": "4Qd2aAUOfso",
+    "titre": "À bas la répression contre les jeunes !",
+    "date": "2026-11-27T11:54:11+00:00",
+    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
+   },
    {
     "id": "WHK_NPcvGtA",
     "titre": "L'ordre capitaliste mondial, c'est la guerre ! | Éditorial de Nathalie Arthaud",
@@ -385,15 +387,15 @@
     "titre": "Alaa, poétesse venue de Gaza",
     "date": "2026-11-21T07:13:33+00:00",
     "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
-   },
-   {
-    "id": "Wsc6s-pD2uQ",
-    "titre": "La casse peut-elle permettre de gagner ?",
-    "date": "2026-11-20T17:01:04+00:00",
-    "chaine": "UCZsh-MrJftAOP_-ZgRgLScw"
    }
   ],
   "florian-philippot": [
+   {
+    "id": "-8LroFGaLNI",
+    "titre": "Coup de tonnerre : Macron et Zelensky c’est fini !",
+    "date": "2026-11-27T08:46:49+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
    {
     "id": "0h8pM_3tEO8",
     "titre": "Le patron de l’OTAN crache le morceau : c’est fou !",
@@ -404,12 +406,6 @@
     "id": "vjKBo3Yx6RU",
     "titre": "Roumanie : Macron chassé ! Une incroyable révolution anti-UE éclate !",
     "date": "2026-11-26T14:00:04+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "26UnP_Cut4I",
-    "titre": "« C’est la panique à Paris et Berlin ! » : la bombe qui va faire exploser l’Europe !",
-    "date": "2026-11-25T14:01:09+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
