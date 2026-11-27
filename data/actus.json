@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26T13:16+00:00",
+ "maj": "2026-11-27T00:08+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -93,40 +93,18 @@
   }
  ],
  "flux": {
-  "attal": [
-   {
-    "titre": "David Lisnard, Gabriel Attal, Raphaël Glucksmann... Journée de campagne au Salon des maires",
-    "source": "franceinfo",
-    "date": "2026-11-26T08:47:34+01:00",
-    "lien": "https://www.franceinfo.fr/elections/david-lisnard-gabriel-attal-raphael-glucksmann-journee-de-campagne-au-salon-des-maires_8300931.html#xtor=RSS-3-%5Bpolitique%5D"
-   }
-  ],
-  "glucksmann": [
-   {
-    "titre": "Benoît Payan appelle Raphaël Glucksmann \"à se dépasser\" et \"à rassembler le plus largement possible\"",
-    "source": "franceinfo",
-    "date": "2026-11-26T10:38:40+01:00",
-    "lien": "https://www.franceinfo.fr/elections/benoit-payan-appelle-raphael-glucksmann-a-se-depasser-et-a-rassembler-le-plus-largement-possible_8301006.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "Présidentielle 2027 : depuis la Mayenne, Raphaël Glucksmann dévoile son projet de \"Conseil des territoires\" pour donner plus de pouvoir aux élus locaux",
-    "source": "franceinfo",
-    "date": "2026-11-26T09:31:17+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-depuis-la-mayenne-raphael-glucksmann-devoile-son-projet-de-conseil-des-territoires-pour-donner-plus-de-pouvoir-aux-elus-locaux_8300955.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "David Lisnard, Gabriel Attal, Raphaël Glucksmann... Journée de campagne au Salon des maires",
-    "source": "franceinfo",
-    "date": "2026-11-26T08:47:34+01:00",
-    "lien": "https://www.franceinfo.fr/elections/david-lisnard-gabriel-attal-raphael-glucksmann-journee-de-campagne-au-salon-des-maires_8300931.html#xtor=RSS-3-%5Bpolitique%5D"
-   }
-  ],
   "le-pen": [
    {
-    "titre": "Nouvelles révélations sur des écrits antisémites attribués à Jordan Bardella : \"Une polémique parmi mille autres\", réagit Charles Alloncle, porte-parole UDR de Marine Le Pen",
+    "titre": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen",
     "source": "franceinfo",
-    "date": "2026-11-26T08:52:14+01:00",
-    "lien": "https://www.franceinfo.fr/politique/nouvelles-revelations-sur-des-ecrits-antisemites-attribues-a-jordan-bardella-une-polemique-parmi-mille-autres-reagit-charles-alloncle-porte-parole-udr-de-marine-le-pen_8300934.html#xtor=RSS-3-%5Bpolitique%5D"
+    "date": "2026-11-26T23:25:56+01:00",
+    "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
+    "source": "Le Monde",
+    "date": "2026-11-26T22:31:24+01:00",
+    "lien": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html"
    },
    {
     "titre": "Présidentielle 2027 : après François Bayrou, au tour de Jean-Noël Barrot de prôner le «ni-ni» entre Jean-Luc Mélenchon et Marine Le Pen",
@@ -139,15 +117,27 @@
     "source": "Le Figaro",
     "date": "2026-11-18T10:28:37+01:00",
     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118"
-   },
-   {
-    "titre": "Guillaume Tabard : «Marine Le Pen sous le totem des 62 ans, un tournant bienvenu»",
-    "source": "Le Figaro",
-    "date": "2026-11-18T10:04:43+01:00",
-    "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117"
    }
   ],
   "david-lisnard": [
+   {
+    "titre": "Présidentielle 2027 : l'expérience de David Lisnard dans le privé est-elle une réussite",
+    "source": "franceinfo",
+    "date": "2026-11-26T20:15:45+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-l-experience-de-david-lisnard-dans-le-prive-est-elle-une-reussite_8301930.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Huit députés des Républicains annoncent leur soutien à David Lisnard plutôt que Bruno Retailleau pour la présidentielle 2027",
+    "source": "franceinfo",
+    "date": "2026-11-26T17:19:00+01:00",
+    "lien": "https://www.franceinfo.fr/elections/huit-deputes-des-republicains-annoncent-leur-soutien-a-david-lisnard-plutot-que-bruno-retailleau-pour-la-presidentielle-2027_8301579.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "Présidentielle 2027 : David Lisnard réclame \"l'anonymat des parrainages\" pour \"enlever la pression sur les maires\"",
+    "source": "franceinfo",
+    "date": "2026-11-26T15:03:35+01:00",
+    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-david-lisnard-reclame-l-anonymat-des-parrainages-pour-enlever-la-pression-sur-les-maires_8301468.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
    {
     "titre": "ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille \"du terrain\" contre les élites ?",
     "source": "franceinfo",
@@ -155,28 +145,10 @@
     "lien": "https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "EN DIRECT, congrès des maires de France : David Lisnard est accusé de « compromission » avec l’extrême droite par Gérald Darmanin",
+    "titre": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
     "source": "Le Monde",
-    "date": "2026-11-26T13:01:40+01:00",
-    "lien": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-david-lisnard-est-accuse-de-compromission-avec-l-extreme-droite-par-gerald-darmanin_6815062_823448.html"
-   },
-   {
-    "titre": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
-    "source": "Le Monde",
-    "date": "2026-11-26T13:00:11+01:00",
+    "date": "2026-11-26T13:00:07+01:00",
     "lien": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html"
-   },
-   {
-    "titre": "Le baiser de la mort de Jean-Philippe Tanguy à David Lisnard",
-    "source": "Libération",
-    "date": "2026-11-26T10:34:36+00:00",
-    "lien": "https://www.liberation.fr/politique/le-baiser-de-la-mort-de-jean-philippe-tanguy-a-david-lisnard-20261126_P7H33BM7AFDERHQLOKX6DZR76A/"
-   },
-   {
-    "titre": "David Lisnard : sa candidature va-t-elle faire pschitt ? Nos journalistes répondent dans «Chez Pol, l’émission»",
-    "source": "Libération",
-    "date": "2026-11-26T09:35:22+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/david-lisnard-sa-candidature-va-t-elle-faire-pschitt-nos-journalistes-repondent-dans-chez-pol-lemission-20261126_J7SZR5TAZNG43BSZ3BXQ5MGEEE/"
    }
   ],
   "melenchon": [
@@ -213,45 +185,51 @@
   ],
   "philippe": [
    {
+    "titre": "Présidentielle 2027 : Édouard Philippe veut « dépenser mieux » pour la santé, une « fierté française »",
+    "source": "Le Figaro",
+    "date": "2026-11-26T21:15:00+01:00",
+    "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-veut-depenser-mieux-pour-la-sante-une-fierte-francaise-20261126"
+   },
+   {
+    "titre": "Propos antisémites attribués à Jordan Bardella : \"M. Bardella devrait aujourd'hui non seulement assumer, mais s'expliquer\", déclare Sylvain Berrios, député Horizons du Val-de-Marne et porte-parole d'Édouard Philippe.",
+    "source": "franceinfo",
+    "date": "2026-11-26T19:49:55+01:00",
+    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/propos-antisemites-attribues-a-jordan-bardella-m-bardella-devrait-aujourd-hui-non-seulement-assumer-mais-s-expliquer-declare-sylvain-berrios-depute-horizons-du-val-de-marne-et-porte-parole-d-edouard-philippe_8301936.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
     "titre": "ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille \"du terrain\" contre les élites ?",
     "source": "franceinfo",
     "date": "2026-11-26T14:10:16+01:00",
     "lien": "https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
-    "titre": "À suivre Loïc de la Mornais : la guerre des droites est-elle déclarée entre Édouard Philippe et David Lisnard ?",
-    "source": "franceinfo",
-    "date": "2026-11-26T07:48:42+01:00",
-    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-la-guerre-des-droites-est-elle-declaree-entre-edouard-philippe-et-david-lisnard_8300895.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
-  "marine-tondelier": [
+  "retailleau": [
    {
-    "titre": "Après leur rupture avec Marine Tondelier, Yannick Jadot et Jérémie Iordanoff lancent un nouveau parti écolo",
-    "source": "Libération",
-    "date": "2026-11-23T17:19:34+00:00",
-    "lien": "https://www.liberation.fr/politique/marine-tondelier-a-mene-les-ecologistes-dans-une-impasse-apres-leur-rupture-yannick-jadot-et-jeremie-iordanoff-annoncent-la-creation-dun-nouveau-parti-20261123_WAYO5QZHJ5DZJOGEXCTCM266LY/"
+    "titre": "Huit députés des Républicains annoncent leur soutien à David Lisnard plutôt que Bruno Retailleau pour la présidentielle 2027",
+    "source": "franceinfo",
+    "date": "2026-11-26T17:19:00+01:00",
+    "lien": "https://www.franceinfo.fr/elections/huit-deputes-des-republicains-annoncent-leur-soutien-a-david-lisnard-plutot-que-bruno-retailleau-pour-la-presidentielle-2027_8301579.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "a1lFEcaD-4E",
-    "titre": "Ceux qui emploient des travailleurs clandestins doivent être condamnés par la justice.",
-    "date": "2026-11-26T11:38:12+00:00",
+    "id": "xIweNydemAo",
+    "titre": "500 000 personnes entrent légalement par an, 10 % travaillent : c'est pas tenable !",
+    "date": "2026-11-26T23:30:04+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "y-OE_H0_P9M",
-    "titre": "Des professeurs militants pendant les blocages : la neutralité",
-    "date": "2026-11-26T10:00:20+00:00",
+    "id": "-p7snvITED8",
+    "titre": "Le permis gratuit pour tous les jeunes, sauf ceux qui ont un casier long comme le bras !",
+    "date": "2026-11-26T21:30:36+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "JiqOuePHGuc",
-    "titre": "Réparer notre système de retraites | Au cœur de la campagne #5 avec J.P Tanguy et J. Sanchez",
-    "date": "2026-11-26T09:14:25+00:00",
+    "id": "WRoZTcqd-J4",
+    "titre": "« Nous engagerons la libération de l'économie » | Marine Le Pen, à la rencontre d'un artisan boucher",
+    "date": "2026-11-26T18:00:08+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -317,6 +295,12 @@
   ],
   "david-lisnard": [
    {
+    "id": "ZGYIBIaAg-Y",
+    "titre": "« Pour nos enfants, pas pour l’état boulimique. »",
+    "date": "2026-11-26T13:30:56+00:00",
+    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
+   },
+   {
     "id": "shs20ss0JCI",
     "titre": "David Lisnard invité du 20h sur France 2",
     "date": "2026-11-26T11:11:30+00:00",
@@ -327,31 +311,25 @@
     "titre": "« Si vous voulez moins de bureaucrates, il faut moins de bureaucratie »",
     "date": "2026-11-26T10:23:45+00:00",
     "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
-   },
-   {
-    "id": "kThNMSIlAbk",
-    "titre": "« Le RN s'est positionné contre moi et ne cesse de me taper dessus. »",
-    "date": "2026-11-26T09:57:43+00:00",
-    "chaine": "UC2XZY-bjIEmyLZ9MPJQytZg"
    }
   ],
   "eric-zemmour": [
    {
-    "id": "yOyI5QN4MLY",
-    "titre": "Merci pour votre accueil si chaleureux à la 730e foire de la Sainte-Catherine à Vesoul !",
-    "date": "2026-11-25T17:43:43+00:00",
+    "id": "nHA3sGaUowg",
+    "titre": "Il n’y a aucune sélection jusqu’à l’université, et nos enfants le paient.",
+    "date": "2026-11-26T23:44:50+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "LLvxJnceUDI",
-    "titre": "Mon message aux maires de France ￼!",
-    "date": "2026-11-24T21:17:49+00:00",
+    "id": "IhXColNq9tE",
+    "titre": "Je n'ai ni les réflexes des autres, ni leurs lâchetés. Moi, je tiendrai bon.",
+    "date": "2026-11-26T22:58:27+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
-    "id": "WfuNLqEv0_Q",
-    "titre": "François Bayrou attaque ? Je lui réponds.",
-    "date": "2026-11-24T18:33:16+00:00",
+    "id": "zplSsiIX7mc",
+    "titre": "Éric Zemmour sur CNews : Je veux que mes enfants aient un avenir Français",
+    "date": "2026-11-26T21:28:03+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    }
   ],
@@ -417,21 +395,21 @@
   ],
   "florian-philippot": [
    {
+    "id": "0h8pM_3tEO8",
+    "titre": "Le patron de l’OTAN crache le morceau : c’est fou !",
+    "date": "2026-11-26T19:55:00+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
+    "id": "vjKBo3Yx6RU",
+    "titre": "Roumanie : Macron chassé ! Une incroyable révolution anti-UE éclate !",
+    "date": "2026-11-26T14:00:04+00:00",
+    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
+   },
+   {
     "id": "26UnP_Cut4I",
     "titre": "« C’est la panique à Paris et Berlin ! » : la bombe qui va faire exploser l’Europe !",
     "date": "2026-11-25T14:01:09+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "X7w4T6Jd2FI",
-    "titre": "« 1 sur 2 va mourir ! » : Ursula injecte un poison fou dans nos assiettes !",
-    "date": "2026-11-24T14:17:42+00:00",
-    "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
-   },
-   {
-    "id": "EEf_U4b_Xyw",
-    "titre": "Coup de tonnerre : Macron manipule la Constitution en pleine élection présidentielle !",
-    "date": "2026-11-23T14:00:01+00:00",
     "chaine": "UClaa_CwoQEmSo9Mb_M1f91g"
    }
   ]
