@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-27T23:46+00:00",
+ "maj": "2026-11-28T12:29+00:00",
  "sondages": {
   "d": "Mi-octobre 2026",
   "x": "Marine Le Pen en tête des intentions de vote au premier tour ; Édouard Philippe, Jean-Luc Mélenchon et Raphaël Glucksmann au coude-à-coude pour la deuxième place (Elabe, Ifop-Fiducial, YouGov).",
@@ -95,6 +95,12 @@
  "flux": {
   "le-pen": [
    {
+    "titre": "Est-il possible d'obliger les journalistes à \"respecter le secret de l'instruction\", comme le souhaite Marine Le Pen ?",
+    "source": "franceinfo",
+    "date": "2026-11-28T07:38:37+01:00",
+    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/est-il-possible-d-obliger-les-journalistes-a-respecter-le-secret-de-l-instruction-comme-le-souhaite-marine-le-pen_8303805.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
     "titre": "Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer",
     "source": "Le Monde",
     "date": "2026-11-27T21:49:07+01:00",
@@ -117,12 +123,6 @@
     "source": "Le Monde",
     "date": "2026-11-27T19:35:49+01:00",
     "lien": "https://www.lemonde.fr/societe/article/2026/11/27/ambroise-de-rancourt-le-responsable-du-programme-presidentiel-de-marine-le-pen-soupconne-d-etre-le-principal-destinataire-de-la-fuite-de-documents-de-beauvau-vers-le-rn_6815924_3224.html"
-   },
-   {
-    "titre": "Marine Le Pen promet une \"grande loi-programme\" pour l'outre-mer",
-    "source": "franceinfo",
-    "date": "2026-11-27T18:49:35+01:00",
-    "lien": "https://www.franceinfo.fr/france/outremer/marine-le-pen-promet-une-grande-loi-programme-pour-l-outre-mer_8303604.html#xtor=RSS-3-%5Bpolitique%5D"
    }
   ],
   "david-lisnard": [
@@ -139,12 +139,6 @@
     "lien": "https://www.franceinfo.fr/elections/david-lisnard-c-est-zemmour-2022-ou-macron-2017_8303160.html#xtor=RSS-3-%5Bpolitique%5D"
    },
    {
-    "titre": "Présidentielle : David Lisnard, c'est Zemmour 2022 ou Macron 2017 ? \"On/Off\", épisode 11",
-    "source": "franceinfo",
-    "date": "2026-11-27T12:43:49+01:00",
-    "lien": "https://www.franceinfo.fr/elections/presidentielle-david-lisnard-c-est-zemmour-2022-ou-macron-2017-on-off-episode-11_8301783.html#xtor=RSS-3-%5Bpolitique%5D"
-   },
-   {
     "titre": "Le baiser de la mort de Jean-Philippe Tanguy à David Lisnard",
     "source": "Libération",
     "date": "2026-11-26T10:34:36+00:00",
@@ -155,9 +149,33 @@
     "source": "Libération",
     "date": "2026-11-26T09:35:22+00:00",
     "lien": "https://www.liberation.fr/politique/elections/david-lisnard-sa-candidature-va-t-elle-faire-pschitt-nos-journalistes-repondent-dans-chez-pol-lemission-20261126_J7SZR5TAZNG43BSZ3BXQ5MGEEE/"
+   },
+   {
+    "titre": "En campagne pour l’Elysée, David Lisnard réélu à la tête des maires de France",
+    "source": "Libération",
+    "date": "2026-11-25T14:43:21+00:00",
+    "lien": "https://www.liberation.fr/politique/elections/en-campagne-pour-lelysee-david-lisnard-reelu-a-la-tete-des-maires-de-france-20261125_SGKQEG6H3FHHPMAGJUG2OU2I2Q/"
    }
   ],
   "melenchon": [
+   {
+    "titre": "À Berlin, Jean-Luc Mélenchon défend sa vision de la relation franco-allemande et répond aux accusations de germanophobie",
+    "source": "franceinfo",
+    "date": "2026-11-28T11:59:01+01:00",
+    "lien": "https://www.franceinfo.fr/politique/melenchon/a-berlin-jean-luc-melenchon-defend-sa-vision-de-la-relation-franco-allemande-et-repond-aux-accusations-de-germanophobie_8304450.html#xtor=RSS-3-%5Bpolitique%5D"
+   },
+   {
+    "titre": "A Berlin, Jean-Luc Mélenchon défend «une grande remise à plat de la relation franco-allemande»",
+    "source": "Libération",
+    "date": "2026-11-28T08:02:19+00:00",
+    "lien": "https://www.liberation.fr/politique/a-berlin-jean-luc-melenchon-defend-une-grande-remise-a-plat-de-la-relation-franco-allemande-20261128_RX3GFUQHEFHEJD5G6QP5VTXKIE/"
+   },
+   {
+    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, en visite à Berlin, se défend de germanophobie : « Souvent nous sommes jaloux, mais nous ne le disons pas »",
+    "source": "Le Monde",
+    "date": "2026-11-28T05:30:08+01:00",
+    "lien": "https://www.lemonde.fr/international/article/2026/11/28/a-berlin-jean-luc-melenchon-se-defend-de-germanophobie-souvent-nous-sommes-jaloux-mais-nous-ne-le-disons-pas_6816060_3210.html"
+   },
    {
     "titre": "Jean-Luc Mélenchon en Allemagne : pour Die Linke, l’allié français qu’on préfère cacher",
     "source": "Libération",
@@ -169,12 +187,6 @@
     "source": "Le Figaro",
     "date": "2026-11-27T06:30:00+01:00",
     "lien": "https://www.lefigaro.fr/politique/l-obsession-antiallemande-de-jean-luc-melenchon-en-visite-ce-vendredi-a-berlin-20261127"
-   },
-   {
-    "titre": "Présidentielle 2027 : après François Bayrou, au tour de Jean-Noël Barrot de prôner le «ni-ni» entre Jean-Luc Mélenchon et Marine Le Pen",
-    "source": "Libération",
-    "date": "2026-11-25T08:39:10+00:00",
-    "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-apres-francois-bayrou-au-tour-de-jean-noel-barrot-de-proner-le-ni-ni-entre-jean-luc-melenchon-et-marine-le-pen-20261125_YRWHOZLD4JFHND6FVZP5KEJU5M/"
    }
   ],
   "philippe": [
@@ -184,34 +196,26 @@
     "date": "2026-11-26T21:15:00+01:00",
     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-veut-depenser-mieux-pour-la-sante-une-fierte-francaise-20261126"
    }
-  ],
-  "retailleau": [
-   {
-    "titre": "Présidentielle 2027 : Bruno Retailleau dévoile son programme pour l’enseignement supérieur, en souhaitant la suppression de Parcoursup",
-    "source": "Le Monde",
-    "date": "2026-11-27T16:39:14+01:00",
-    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/27/presidentielle-2027-bruno-retailleau-devoile-son-programme-pour-l-enseignement-superieur-en-souhaitant-la-suppression-de-parcoursup_6815889_6205049.html"
-   }
   ]
  },
  "videos": {
   "le-pen": [
    {
-    "id": "evQKsxfy0vo",
-    "titre": "Dans l'aide au développement, on paye la Chine !",
-    "date": "2026-11-27T23:30:25+00:00",
+    "id": "AN46W1YvNmA",
+    "titre": "Il faut arrêter de nous prendre pour des poulets de l'année !",
+    "date": "2026-11-28T10:00:36+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "5d91n6TSMpY",
-    "titre": "Multiplier les enquêtes en pleine campagne présidentielle : c'est scandaleux !",
-    "date": "2026-11-27T22:30:20+00:00",
+    "id": "FQDcNjvFUS0",
+    "titre": "Facs dégradées : c'est une véritable honte !",
+    "date": "2026-11-28T10:00:28+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    },
    {
-    "id": "3_Da71Q8pq0",
-    "titre": "Que les Restos du Cœur livrent toujours plus de repas, c'est une honte pour nos dirigeants !",
-    "date": "2026-11-27T21:30:14+00:00",
+    "id": "ZbR4p4Pyjjg",
+    "titre": "Non, ce n'est pas fini : elle sera reconstruite, la maison, le plus vite possible !",
+    "date": "2026-11-28T07:00:31+00:00",
     "chaine": "UCU3z3px1_RCqYBwrs8LJVWg"
    }
   ],
@@ -237,6 +241,12 @@
   ],
   "attal": [
    {
+    "id": "IQ50exVP5rY",
+    "titre": "Les buralistes sont des commerçants d'utilité locale. Je veux qu'ils restent ouverts.",
+    "date": "2026-11-28T11:22:48+00:00",
+    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
+   },
+   {
     "id": "0ZFyrptWnJg",
     "titre": "Fier de notre drapeau français 🇫🇷",
     "date": "2026-11-27T19:47:24+00:00",
@@ -246,12 +256,6 @@
     "id": "jW8zp8BnN54",
     "titre": "🔴 Je révèle combien je paye de loyer.",
     "date": "2026-11-27T19:20:33+00:00",
-    "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
-   },
-   {
-    "id": "r3FoImjU9z4",
-    "titre": "La France, le plus beau pays du monde. 🇫🇷",
-    "date": "2026-11-27T18:58:26+00:00",
     "chaine": "UCOcDPuYTuxoRBtfmTBXtqBA"
    }
   ],
@@ -297,9 +301,9 @@
   ],
   "eric-zemmour": [
    {
-    "id": "GEvLcYzntAY",
-    "titre": "Beaucoup d’électeurs de droite s’apprêtent à voter pour Marine Le Pen. Ils vont à être déçus.",
-    "date": "2026-11-27T15:03:49+00:00",
+    "id": "5Xq4r0hm6-4",
+    "titre": "Mélenchon est mon ennemi politique.",
+    "date": "2026-11-28T10:35:50+00:00",
     "chaine": "UCjTbZBXEw-gplUAnMXLYHpg"
    },
    {
@@ -343,15 +347,15 @@
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    },
    {
-    "id": "x6TYlgGhHus",
-    "titre": "\"Toujours moins pour les Français, toujours plus pour les marchands d'armes !\" · BFM TV, 26/11/2026",
-    "date": "2026-11-27T07:00:24+00:00",
+    "id": "TWv6y-3jw6A",
+    "titre": "Présidentielle : « Je me présente car mon pays est en danger de mort !\" · RTL, 27/11/2026",
+    "date": "2026-11-27T09:32:10+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    },
    {
-    "id": "46eQN6IyJuw",
-    "titre": "Avec Gérard Gros, maire fidèle qui me parraine depuis 2012.",
-    "date": "2026-11-26T12:30:00+00:00",
+    "id": "x6TYlgGhHus",
+    "titre": "\"Toujours moins pour les Français, toujours plus pour les marchands d'armes !\" · BFM TV, 26/11/2026",
+    "date": "2026-11-27T07:00:24+00:00",
     "chaine": "UCfA5DnCDX3Ixy5QOAMGtBlA"
    }
   ],
